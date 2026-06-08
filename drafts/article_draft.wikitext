@@ -1,0 +1,32 @@
+{{subst:submit}}
+{{short description|American education technology analyst and town moderator}}
+{{Use mdy dates|date=June 2026}}
+
+'''Jeffrey Alderson''' is an American education technology analyst, former United States Air Force officer, and municipal official in Natick, Massachusetts. He has worked in education technology and interoperability, including as technical architect for the New York implementation of [[inBloom]], and was elected town moderator of Natick in 2025.
+
+== Education and military service ==
+
+Alderson graduated from [[Worcester Polytechnic Institute]] after attending on an Air Force scholarship and studying electrical and computer engineering. He joined the [[United States Air Force]] in 1998, was deployed twice to the Middle East to help build computer systems, and left the service in 2003 as a captain.<ref name="NatickVeterans">{{cite web |title=Jeff Alderson, Air Force veteran |url=https://natickveterans.com/2026/01/29/jeffrey-alderson/ |website=Natick Veterans Oral History Project |date=January 29, 2026 |access-date=June 8, 2026}}</ref>
+
+== Education technology career ==
+
+In a 2017 Data & Society Research Institute working paper on the legacy of inBloom, Alderson was identified as a former lead architect at Houghton Mifflin Harcourt, formerly Choice Solutions, and as the technical architect for the New York implementation of inBloom.<ref name="DataSociety">{{cite report |last1=Bulger |first1=Monica |last2=McCormick |first2=Patrick |last3=Pitcan |first3=Mikaela |title=The Legacy of inBloom |publisher=Data & Society Research Institute |date=February 2, 2017 |url=https://datasociety.net/pubs/ecl/InBloom_feb_2017.pdf |access-date=June 8, 2026}}</ref> The report's appendix listed his role during inBloom as chief solutions architect at ConnectEDU and lead architect at Houghton Mifflin Harcourt, and listed his then-current role as principal analyst of enterprise software at Eduventures.<ref name="DataSociety" />
+
+In 2016, ''Campus Technology'' reported on an Eduventures report about learning management systems and identified Alderson as the report's author and principal analyst.<ref name="CampusTechnology">{{cite web |last=Schaffhauser |first=Dian |title=Eduventures Publishes Report on Learning Management Systems |url=https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx |website=Campus Technology |date=January 28, 2016 |access-date=June 8, 2026}}</ref> PESC listed Jeffrey Alderson of ConnectEDU among its 2015 Board of Directors award recipients.<ref name="PESC">{{cite web |title=Awards - PESC Board of Directors Recipients |url=https://pesc.org/awards/ |website=PESC |access-date=June 8, 2026}}</ref>
+
+== Municipal service ==
+
+Alderson was listed as an uncontested candidate for a three-year term as Natick town moderator in the town's 2025 election.<ref name="ElectionGuide">{{cite web |last=Brown |first=Deborah |title=Natick 2025 town election guide: $7M override question; contested races; where to vote |url=https://www.natickreport.com/2025/03/natick-2025-town-election-guide-7mil-override-question-contested-races-where-to-vote/ |website=Natick Report |date=March 25, 2025 |access-date=June 8, 2026}}</ref> After the election, ''Natick Report'' described outgoing moderator Frank Foss handing the Town Meeting gavel to incoming moderator Jeff Alderson when newly elected officials were sworn in.<ref name="Gavel">{{cite web |last=Brown |first=Bob |title=Natick swears in newly elected officials, transfers the moderator's gavel |url=https://www.natickreport.com/2025/03/natick-swears-in-newly-elected-officials-transfers-the-moderators-gavel/ |website=Natick Report |date=March 27, 2025 |access-date=June 8, 2026}}</ref>
+
+In November 2025, ''Natick Report'' reported that Alderson, as town moderator, sought Town Meeting members to apply for a new Hybrid Town Meeting Committee, whose work would include studying a framework for hybrid town meetings in Natick.<ref name="Hybrid">{{cite web |last=Brown |first=Bob |title=Volunteers sought to join Natick Hybrid Town Meeting Committee |url=https://www.natickreport.com/2025/11/volunteers-sought-to-join-natick-hybrid-town-meeting-committee/ |website=Natick Report |date=November 20, 2025 |access-date=June 8, 2026}}</ref>
+
+== References ==
+
+{{reflist}}
+
+<!-- Categories should be added only after AfC review and acceptance. Possible categories may include:
+[[Category:Living people]]
+[[Category:Worcester Polytechnic Institute alumni]]
+[[Category:United States Air Force officers]]
+[[Category:People from Natick, Massachusetts]]
+-->
