@@ -23,6 +23,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `sources/pesc_sources.md` - dedicated review of PESC sources.
 - `sources/mydata_button_sources.md` - dedicated review of MyDataButton / White House initiative background sources.
 - `sources/legal_bankruptcy_sources.md` - dedicated review of legal/bankruptcy filing sources.
+- `sources/patent_sources.md` - dedicated review of patent and patent-index sources.
 - `sources/encoura_eduventures_sources.md` - dedicated review of Encoura / Eduventures author-profile and Wake-Up Call article links.
 - `sources/campaign_social_media_sources.md` - campaign and social-media sources that should not carry notability.
 - `sources/unverified_publication_leads.md` - source leads that should not be cited until reviewed.

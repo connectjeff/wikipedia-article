@@ -6,7 +6,7 @@ Review principle: use only verifiable sources in the article draft.
 
 ## Source Quality Summary
 
-The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. SXSW EDU, eSchool News/Reuters, and Education Week sources strengthen context for inBloom's SXSW EDU launch, national visibility, scale, and privacy controversy, but they do not name Alderson and should not be used for Alderson-specific claims. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The ProctorFree Eduventures Summit 2016 post verifies Alderson's Eduventures Summit keynote/presenter role and online-proctoring commentary, but it is a vendor promotional source and should not carry notability. The SlideShare Simmons College deck verifies an Eduventures-era presentation and professional bio facts, but it is platform-hosted and likely self/affiliated, so it should be used only for narrow presentation-history context. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The MathWorks video page MWV1 verifies the University of Illinois Urbana-Champaign M.Ed. item in a speaker bio, but it is affiliated and should not carry notability. The UIUC Digication portfolio is supporting education/coursework context only and does not replace MWV1 as the degree citation. Local private WPI and UIUC transcript PDFs are archived in `archive/private_records/` for internal corroboration only and should not be cited, uploaded, or submitted as AfC source evidence. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
+The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. SXSW EDU, eSchool News/Reuters, and Education Week sources strengthen context for inBloom's SXSW EDU launch, national visibility, scale, and privacy controversy, but they do not name Alderson and should not be used for Alderson-specific claims. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The ProctorFree Eduventures Summit 2016 post verifies Alderson's Eduventures Summit keynote/presenter role and online-proctoring commentary, but it is a vendor promotional source and should not carry notability. The SlideShare Simmons College deck verifies an Eduventures-era presentation and professional bio facts, but it is platform-hosted and likely self/affiliated, so it should be used only for narrow presentation-history context. The SlideServe slide-image set verifies another narrow ConnectEDU-era role signal, but it is a platform-hosted presentation and should remain supporting context only. The Google Scholar profile and Justia Patents lead are useful only as patent metadata/source discovery for ConnectEDU-related patent applications; they do not provide independent biographical coverage and underlying patent records should be preferred before article citation. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The MathWorks video page MWV1 verifies the University of Illinois Urbana-Champaign M.Ed. item in a speaker bio, but it is affiliated and should not carry notability. The UIUC Digication portfolio is supporting education/coursework context only and does not replace MWV1 as the degree citation. Local private WPI and UIUC transcript PDFs are archived in `archive/private_records/` for internal corroboration only and should not be cited, uploaded, or submitted as AfC source evidence. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, NCES MIS agenda, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The NCES MIS 2013 agenda now directly connects Alderson to a MyDataButton session and describes the initiative as involving the White House and U.S. Department of Education. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
 
 The notability case remains moderate-risk for AfC. The sources verify facts, but several are short mentions, organizational listings, or coverage of projects rather than in-depth biographical coverage.
 
@@ -16,7 +16,7 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 |---|---:|---|---|---|---|---|---|---|---|
 | S1, SXSW1, ESN1, EW1 | 2013-2020 | Data & Society / SXSW EDU / eSchool News-Reuters / Education Week | inBloom role and context sources | Research paper, event retrospective, and education journalism | Mixed | Verified; text extracted | Moderate for S1; contextual only for others | Medium to High for S1; contextual only for others | Alderson-specific inBloom role from S1; broader inBloom launch/controversy context from SXSW1/ESN1/EW1 |
 | GF1 | 2013 | Gates Foundation | ConnectEDU, Inc. / OPP1092353 | Primary grant database record | No / primary | Verified from downloaded HTML | Minor; does not name Alderson or inBloom | None | ConnectEDU / Gates Foundation funding context only |
-| SI1 | 2026 | Startup Intros | ConnectEdu: Funding, Team & Investors | Company directory/profile summary | Partial | Verified from downloaded HTML | Company background only; does not name Alderson | None to Low | ConnectEDU company-background context only |
+| SI1, SSV1, GSC1, JPT1 | 2009-2026 | Startup Intros / SlideServe / Google Scholar / Justia Patents | ConnectEDU company, presentation, and patent leads | Company directory/profile summary; platform-hosted presentation images; scholar profile/index; patent database listing | Partial | SI1 verified; SSV1 slide images downloaded and reviewed; GSC1 downloaded and reviewed; JPT1 local fetch blocked | Company background, narrow ConnectEDU-era role signal, and patent-metadata leads | None to Low | ConnectEDU background/context only; SSV1, GSC1, and JPT1 should not carry notability |
 | S2, CT2, PF1, SS1 | 2016 | Campus Technology / ProctorFree / SlideShare | Eduventures LMS, analytics, Summit, and presentation sources | Trade journalism, vendor blog/event coverage, and platform-hosted deck | Mixed | Verified | Minor to moderate | Low to Medium | Eduventures analyst role, professional context, Summit 2016 presenter evidence, and presentation-history context |
 | MOL1 | 2021 | MIT Open Learning | The Evolution of Engineering Education Post-COVID-19 | Event page / panelist bio | Partial | Verified from downloaded HTML | Short professional bio | Low to Medium | MathWorks and MATLAB Grader professional-context facts |
 | MWV1, UIUC1 | 2020-2026 | MathWorks / University of Illinois at Urbana-Champaign Digication | Education credential and graduate portfolio sources | Affiliated speaker bio and institution-hosted portfolio | No / partial | Verified from downloaded HTML | Minor | None to Low | M.Ed. item from MWV1; UIUC portfolio as supporting education/coursework context only; see `sources/education_sources.md` |
@@ -24,8 +24,8 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | N1-N25 | 2023-2026 | Natick Report | Full search result set for `Jeff Alderson` | Local news / opinion / primary statements | Mixed | Verified and reviewed | Minor to moderate | Low to Medium | Municipal-service facts; see `sources/natick_report_sources.md` |
 | M1-M3 | 2025 | MetroWest Daily News | Search result and related Natick election articles | Local news / letter | Mixed | Verified and reviewed | Minor | Low to Medium | Municipal election corroboration; see `sources/metrowest_daily_news_sources.md` |
 | S7 | 2026 | Natick Veterans Oral History Project | Jeff Alderson, Air Force veteran | Local archive/oral history | Partial | Verified | Short biographical entry | Low to Medium | Military service facts |
-| S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, ERUG1, PESC2016, ACEL1 | 2011-2017 | PESC / NCES | Awards, board listing, Data Summit programs, STATS-DC agenda, ERUG call notes, and implementation guide | Organizational award list, conference programs, government conference agenda, call notes, implementation guide | No or partial | Verified; PDFs/text extracted where applicable | Minor to moderate for narrow professional-context facts | Low to Medium | PESC board, ConnectEDU, data standards, MyDataButton, ERUG, Eduventures ePortfolio research, award, and contributor context if retained |
-| MDB2, MDB1 | 2012-2016 | Hack Education / ESP Solutions Group | MyDataButton background sources | Education-technology blog post and white paper / commentary | Partial; not about Alderson | Verified; HTML/PDF text extracted | MyDataButton and Houghton Mifflin Harcourt context only; do not name Alderson | Low for Alderson; Medium for MyDataButton context | Background only; not Alderson-specific |
+| S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, NCES2013, ERUG1, PESC2016, ACEL1 | 2011-2017 | PESC / NCES | Awards, board listing, Data Summit programs, STATS-DC and MIS agendas, ERUG call notes, and implementation guide | Organizational award list, conference programs, government conference agendas, call notes, implementation guide | No or partial | Verified; PDFs/text extracted where applicable | Minor to moderate for narrow professional-context facts | Low to Medium | PESC board, ConnectEDU, data standards, MyDataButton, ERUG, Eduventures ePortfolio research, award, and contributor context if retained |
+| NCES2013, MDB2, MDB1 | 2012-2016 | NCES / Hack Education / ESP Solutions Group | MyDataButton direct and background sources | Government conference agenda, education-technology blog post, and white paper / commentary | Partial; mostly not about Alderson | Verified; PDF/HTML text extracted | NCES2013 directly names Alderson in a MyDataButton session; other sources are MyDataButton and Houghton Mifflin Harcourt context only | Low for Alderson; Medium for MyDataButton context | Use NCES2013 only for narrow Alderson/MyDataButton involvement; use MDB1/MDB2 as background only |
 | CB1 | 2014 | PACERMonitor / U.S. Bankruptcy Court filing copy | ConnectEDU Bankruptcy Petition | Public docket page plus legal filing copy | No / primary | Verified from PACERMonitor docket page and rendered petition page image | Minor; primary filing only | None | Equity-security-holder fact only; not notability |
 | S9 | Unknown | ASEE PEER | Focus More on Teaching than Grading: Try MATLAB Grader | Conference paper/proceedings | Likely yes | Located but not verified; site returned heavy-load page | Unknown | TBD | Do not cite until reviewed |
 | S10, EA01-EA33 | 2015-2017 | Encoura / Eduventures | Encoura author profile and linked Wake-Up Call articles | Corporate profile / affiliated authored articles | No | Verified from author page and Builder content API | Sparse profile; authored article list only | None to Low | Do not use for notability; publication-history leads only |
@@ -125,6 +125,46 @@ Verified details:
 Assessment: useful company-background orientation. It is a directory/profile summary and should not be used for Alderson-specific facts or AfC notability. Prefer the cited underlying sources when adding article facts about ConnectEDU.
 
 See `sources/connectedu_company_sources.md` for the dedicated ConnectEDU company-background source list.
+
+### SSV1: SlideServe, A Standards-Based Data Exchange Network
+
+URL: https://www.slideserve.com/licia/a-standards-based-data-exchange-network
+
+Local files:
+
+- `data/slideserve_standards_based_data_exchange_network.html` (CloudFront 403 response)
+- `data/slideserve_standards_based_data_exchange_network_images/slide1-l.jpg` through `slide9-l.jpg`
+
+Verified details:
+
+- Slide 1 identifies the presentation as `A Standards Based Data Exchange Network` and includes ConnectEDU branding.
+- Slide 1 identifies `Jeff Alderson, Director of Pre-Sales Solutions`, gives a ConnectEDU email address, and dates the presentation April 8, 2009.
+
+Assessment: weak platform-hosted presentation evidence only. It supports a narrow ConnectEDU-era professional-context signal. Do not use as AfC notability support.
+
+### GSC1 and JPT1: Google Scholar and Justia Patent Leads
+
+Google Scholar URL: https://scholar.google.com/citations?hl=en&user=mhuGZ-EAAAAJ
+
+Justia URL: https://patents.justia.com/assignee/connectedu-inc
+
+Local files:
+
+- `data/google_scholar_jeff_alderson.html`
+- `data/justia_patents_connectedu_inc.html` (Cloudflare challenge page only)
+
+Verified details:
+
+- Google Scholar profile title: `Jeff Alderson - Google Scholar`
+- The Google Scholar profile describes Alderson as Education Product Marketing at MathWorks and lists education-technology, predictive-analytics, and social-sentiment labels.
+- The Google Scholar profile includes three patent-application rows for `Apparatus and Methods for an Application Process and Data Analysis` with C. Powell, J. Alderson, S. Mansfield, and H. Van Zile listed: US Patent App. 11/406,065 (2006), US Patent App. 13/618,015 (2013), and US Patent App. 13/618,249 (2013).
+- The Google Scholar profile also lists the ASEE MATLAB Grader paper.
+- Justia source title: `Patents Assigned to ConnectEDU, Inc.`
+- Direct local fetching of the Justia assignee page returned a Cloudflare challenge page, so exact Justia patent-page details should be browser-reviewed before any article citation.
+
+Assessment: useful only as patent metadata/source discovery. These sources do not provide independent biographical coverage and should not support AfC notability. Do not add to the article draft unless underlying patent records are reviewed and the claim remains limited to patent metadata.
+
+See `sources/patent_sources.md` for the dedicated patent source list.
 
 ### S2, CT2, PF1, and SS1: Eduventures Analyst, Summit, and Presentation Sources
 
@@ -338,7 +378,7 @@ Assessment: useful for non-contentious service facts, but likely primary-adjacen
 
 See `sources/natick_veterans_sources.md` for the dedicated Natick Veterans source list.
 
-### S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, ERUG1, PESC2016, and ACEL1: PESC sources
+### S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, NCES2013, ERUG1, PESC2016, and ACEL1: PESC sources
 
 URLs:
 
@@ -347,6 +387,7 @@ URLs:
 - https://pesc.org/wp-content/uploads/2024/07/Spring-2011-Program-Full-Boston.pdf
 - https://nces.ed.gov/whatsnew/conferences/PDF/STATSDC2011Agenda.pdf
 - https://nebula.wsimg.com/ab98b6bb89dd32b40efd76843c5817aa?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1
+- https://nces.ed.gov/whatsnew/conferences/pdf/MIS_2013_Agenda.pdf
 - https://cdn.cocodoc.com/cocodoc-form-pdf/pdf/44678435--2012-04-24-PESC-ERUG-Call-Notespdf-pesc-.pdf
 - https://nebula.wsimg.com/af9365ebe142935671ccd9d9f7258d0c?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1
 - https://cache.nebula.phx3.secureserver.net/78bacabe0c17ff11c6ee2e735abaa371?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1
@@ -362,6 +403,8 @@ Local files:
 - `data/nces_statsdc_2011_agenda.txt`
 - `data/pesc_2012_data_summit_program_my_data_button.pdf`
 - `data/pesc_2012_data_summit_program_my_data_button.txt`
+- `data/nces_mis_2013_agenda.pdf`
+- `data/nces_mis_2013_agenda.txt`
 - `data/pesc_2012_erug_call_notes.pdf`
 - `data/pesc_2012_erug_call_notes.txt`
 - `data/pesc_2016_data_summit_eportfolio_vendors.pdf`
@@ -379,6 +422,8 @@ Verified details:
 - The STATS-DC session description says PESC would present recent best practices using PESC-approved standards and technologies.
 - The PESC Spring 2012 Data Summit program lists `MyDataButton | Jeffrey Alderson, Senior Director of Product Innovation, ConnectEDU`.
 - The 2012 program says PESC Board Member Alderson would discuss the role he and ConnectEDU were playing in a joint White House/U.S. Department of Education initiative to ensure students had access to their data.
+- The NCES MIS 2013 agenda lists session `IX-F MyDataButton` with Michael Sessa of PESC, Jeffrey Alderson of ConnectEDU, Inc., and Shawn Bay of eScholar LLC.
+- The MIS 2013 session description says the White House and U.S. Department of Education had teamed up on MyDataButton and that PESC representatives had participated in the initiative.
 - The April 24, 2012 PESC Education Record User Group call notes list Alderson as Director of Development at ConnectEDU and a PESC Board of Directors member.
 - The ERUG call notes say Alderson had earlier suggested potential use of MyData in PESC XML work and briefed ERUG on the White House/U.S. Department of Education initiative.
 - The PESC Fall 2016 Data Symposium & Summit program lists Alderson as `Principal Analyst, Enterprise Software, Eduventures` and speaker in `Global Data Strategy Perspectives | State & PK12 and Evolving E-Portfolio`.
@@ -386,21 +431,24 @@ Verified details:
 - The same 2016 program lists `Jeffrey Alderson, Eduventures` under `Service Awards 2014-2015`.
 - The PESC Academic Credential & Experiential Learning Implementation Guide lists `Jeffrey Alderson, Eduventures` among contributors in the acknowledgments.
 
-Assessment: organizational/event evidence, weak for notability but acceptable for verifying narrow PESC, ConnectEDU, data-standards, MyDataButton, ERUG, Eduventures ePortfolio research, service-award, and implementation-guide contributor facts.
+Assessment: organizational/event evidence, weak for notability but acceptable for verifying narrow PESC, ConnectEDU, data-standards, MyDataButton, ERUG, Eduventures ePortfolio research, service-award, and implementation-guide contributor facts. NCES2013 is now the cleanest direct source connecting Alderson to a MyDataButton session in a government conference agenda, but it still remains event-program evidence rather than independent biographical coverage.
 
 See `sources/pesc_sources.md` for the dedicated PESC source list.
 
-### MDB2 and MDB1: MyDataButton Background Sources
+### NCES2013, MDB2, and MDB1: MyDataButton Sources
 
 URLs:
 
 - https://hackeducation.com/2012/04/11/download-all-your-education-data-with-the-click-of-one-button
+- https://nces.ed.gov/whatsnew/conferences/pdf/MIS_2013_Agenda.pdf
 - https://www.arniedocs.info/wp-content/uploads/2016/05/MyData-Button-Disappears-2016-05-03.pdf
 
 Local files:
 
 - `data/hack_education_mydata_button_2012.html`
 - `data/hack_education_mydata_button_2012.txt`
+- `data/nces_mis_2013_agenda.pdf`
+- `data/nces_mis_2013_agenda.txt`
 - `data/mydata_button_white_house_disappears_2016.pdf`
 - `data/mydata_button_white_house_disappears_2016.txt`
 
@@ -410,6 +458,10 @@ Verified details:
 - Hack Education author/date: Audrey Watters, April 11, 2012.
 - Hack Education describes the Department of Education's proposed `MyData` button, compares it to the VA Blue Button, and discusses data silos, data standards, and third-party education vendors.
 - Hack Education states that ETS, Pearson, Parchment, and Houghton Mifflin Harcourt were among key industry players on board with the MyData button initiative.
+- NCES MIS 2013 agenda title: `26th Annual Management Information Systems (MIS) Conference`
+- The agenda covers the U.S. Department of Education's National Center for Education Statistics 26th Annual MIS Conference, February 13-15, 2013.
+- The agenda lists session `IX-F MyDataButton` with Michael Sessa of PESC, Jeffrey Alderson of ConnectEDU, Inc., and Shawn Bay of eScholar LLC.
+- The session description says the White House and U.S. Department of Education teamed up on MyDataButton and that PESC representatives had participated in the initiative.
 - Title: `MyData Button: Button, Button, Who's Got the Button?`
 - Author: Glynn D. Ligon, Ph.D., ESP Solutions Group, Inc.
 - Date: May 3, 2016, based on file name; copyright 2016 ESP Solutions Group.
@@ -417,9 +469,9 @@ Verified details:
 - Describes education's MyDataButton as part of the Obama administration's open-access / smart-disclosure effort.
 - States that on January 19, 2012, the Executive Office of the President announced MyDataButton would appear on the U.S. Department of Education Federal Student Aid website.
 - Mentions five companies named in the announcement: ETS, StraighterLine, Houghton Mifflin Harcourt, Pearson, and Parchment.
-- Neither source mentions Alderson, ConnectEDU, or PESC.
+- MDB1 and MDB2 do not mention Alderson, ConnectEDU, or PESC.
 
-Assessment: useful background context for the MyDataButton initiative and the White House / U.S. Department of Education framing. Hack Education is especially useful as a contemporary independent source for Houghton Mifflin Harcourt's initiative context. These sources can help contextualize a carefully worded statement that Alderson's PESC/ERUG MyDataButton work took place in the same initiative environment that included Houghton Mifflin Harcourt, but they do not independently verify Alderson's HMH role or his personal involvement. Pair any Alderson-specific MyDataButton claim with PESC2012 and ERUG1; pair HMH role claims with Data & Society or another HMH-specific source.
+Assessment: NCES2013 is useful direct evidence for a narrow Alderson/MyDataButton session fact and for tying that session to the White House / U.S. Department of Education initiative description. MDB1 and MDB2 remain useful background context for the MyDataButton initiative and the White House / U.S. Department of Education framing. Hack Education is especially useful as a contemporary independent source for Houghton Mifflin Harcourt's initiative context. Pair HMH role claims with Data & Society or another HMH-specific source.
 
 See `sources/mydata_button_sources.md` for the dedicated MyDataButton source list.
 
@@ -488,6 +540,8 @@ These are the citation templates used or available for use in the draft.
 
 {{cite web |title=ConnectEdu: Funding, Team & Investors |url=https://startupintros.com/orgs/connectedu |website=Startup Intros |access-date=June 8, 2026}}
 
+{{cite web |title=A Standards-Based Data Exchange Network |url=https://www.slideserve.com/licia/a-standards-based-data-exchange-network |website=SlideServe |date=April 8, 2009 |access-date=June 8, 2026}}
+
 {{cite web |last=Schaffhauser |first=Dian |title=Eduventures Publishes Report on Learning Management Systems |url=https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx |website=Campus Technology |date=January 28, 2016 |access-date=June 8, 2026}}
 
 {{cite web |last=Raths |first=David |title=Laying the Groundwork for Big Data |url=https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1 |website=Campus Technology |date=February 25, 2016 |access-date=June 8, 2026}}
@@ -537,6 +591,8 @@ These are the citation templates used or available for use in the draft.
 {{cite conference |title=2011 STATS-DC Data Conference agenda |conference=STATS-DC Data Conference |publisher=National Center for Education Statistics |date=2011 |url=https://nces.ed.gov/whatsnew/conferences/PDF/STATSDC2011Agenda.pdf |access-date=June 8, 2026}}
 
 {{cite conference |title=PESC Spring 2012 Data Summit program |conference=PESC Spring 2012 Data Summit |publisher=Postsecondary Electronic Standards Council |date=2012 |url=https://nebula.wsimg.com/ab98b6bb89dd32b40efd76843c5817aa?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1 |access-date=June 8, 2026}}
+
+{{cite conference |title=26th Annual Management Information Systems (MIS) Conference agenda |conference=Management Information Systems Conference |publisher=National Center for Education Statistics |date=2013 |url=https://nces.ed.gov/whatsnew/conferences/pdf/MIS_2013_Agenda.pdf |access-date=June 8, 2026}}
 
 {{cite web |title=PESC ERUG Conference Call Notes for April 24, 2012 |url=https://cdn.cocodoc.com/cocodoc-form-pdf/pdf/44678435--2012-04-24-PESC-ERUG-Call-Notespdf-pesc-.pdf |website=PESC Education Record User Group |date=April 24, 2012 |access-date=June 8, 2026}}
 

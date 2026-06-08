@@ -1,0 +1,3006 @@
+
+
+--- Page 1 ---
+Contents
+Important Information ................................................................... 5
+Agenda At-a-Glance ......................................................................... 8
+Hotel Floor Plans .......................................................................... 10
+Agenda With Session Descriptions
+Wednesday, February 13 ........................................................ 15
+Thursday, February 14 ........................................................... 35
+Friday, February 15 ................................................................ 59
+Keynote Speakers’ Biographies ...................................................... 67
+Demonstration Descriptions ........................................................ 71
+Topical Index to Sessions ............................................................... 77
+Participant List (Alphabetical) ...................................................... 83
+Participant List (by State) ............................................................. 133
+Notes ............................................................................................ 141
+
+
+--- Page 2 ---
+
+
+--- Page 3 ---
+Important
+Information
+National Center for Education Statistics
+Institute of Education Sciences
+U.S. Department of Education
+
+
+--- Page 4 ---
+
+
+--- Page 5 ---
+Important Information
+5
+The U.S. Department of Education’s National Center for Education Statistics’ (NCES) 26th Annual 
+Management Information Systems (MIS) Conference, from February 13–15, 2013, at the Mayflower 
+Renaissance Hotel, offers 
+• discussions about best practices, innovative ideas, current issues, and practical how-to advice about 
+management information systems for K–12 education with the people who work with information 
+collection, management, transmittal, and reporting in school districts and state education agencies; 
+and
+• information sessions conducted by practitioners from K–12 information systems focusing on data 
+collection, data linking beyond K–12, data management, data privacy, data quality, data standards, 
+and data use (analytical and instructional).
+The following important information will help ensure the best possible experience at the 2013 MIS 
+Conference. If you have any questions or concerns, please contact Renée Rowland, NCES STATS-DC/MIS 
+Conference Manager, at the registration desk.
+Conference Venue
+All plenary and concurrent sessions will be held 
+on the Lower Level, Lobby Level (Promenade), and 
+Second Floor of the
+Mayflower Renaissance Hotel
+1127 Connecticut Avenue NW
+Washington, DC 20036
+Phone: 202-347-3000
+www.marriott.com/hotels/travel/wassh-the-
+mayflower-renaissance-washington-dc-hotel/ 
+Conference Materials and Registration
+Pre-registered attendees may pick up conference 
+materials at the registration desk in the 
+Promenade (Lobby Level).
+An on-site registration desk is open during the 
+following hours:
+• Wednesday, February 13 
+ 8:00 a.m.–5:15 p.m.
+• Thursday, February 14 
+ 8:00 a.m.–5:15 p.m.
+• Friday, February 15 
+ 8:00 a.m.–11:15 a.m.
+Staff is available to assist you throughout the 
+conference.
+Meeting Etiquette
+As a courtesy to presenters and conference 
+participants, please observe the following rules of 
+meeting etiquette:
+• Silence your electronic devices prior to 
+entering sessions.
+• Arrive a few minutes before session start 
+time.
+Concurrent Session Presenters
+Please use the laptop provided in your breakout 
+room and not your own laptop. Do not tamper 
+with or disconnect the computer or data projector 
+connections. 
+After the conference, Coffey Consulting will 
+e-mail presenters information about posting 
+presentation materials on the NCES website.
+Conference Evaluations
+Your feedback is welcomed; conference evaluation 
+forms are in your agenda programs. 
+
+--- Page 6 ---
+Important Information
+6
+Cyber Café 
+The Cyber Café (located in the East Room on 
+the Lobby Level) provides participants with 
+convenient, complimentary access to e-mail and 
+the Internet. The Cyber Café is open during the 
+following hours:
+• Wednesday, February 13 
+ 8:00 a.m.–5:00 p.m.
+• Thursday, February 14 
+ 8:00 a.m.–5:00 p.m.
+• Friday, February 15 
+ 8:00 a.m.–10:00 a.m. 
+Please note: this room will be closed during the 
+Opening Plenary Session.
+Complimentary Wi-Fi is available on the 
+Mezzanine Level.
+Contact Information
+If you need to make changes to your contact 
+information, please see staff at the registration 
+desk.  
+Lost and Found
+Please remember to take all your belongings from 
+the session rooms. If you find or lose an item, go 
+to the registration desk.
+Message Board
+The message board is located adjacent to the 
+registration desk on the Promenade (Lobby Level). 
+Please check for information or to post a message.
+Name Badges
+Please wear your badge at all times. At the end of 
+the conference, please recycle your badge holder 
+at the registration desk.
+Note—Important Change
+In compliance with recent federal policy changes, 
+no food and beverages will be provided.  
+Information regarding restaurants is available 
+at the conference registration desk or the 
+Mayflower’s concierge.
+
+--- Page 7 ---
+Agenda At-a-Glance
+and
+Hotel Floor Plans
+National Center for Education Statistics
+Institute of Education Sciences
+U.S. Department of Education
+
+
+--- Page 8 ---
+8
+26th Annual Management Information Systems (MIS) Conference 
+February 13–15, 2013 — Agenda At-a-Glance
+Room  
+Name Colonial Chinese State Promenade Ballroom Georgia
+Session A B C D E 
+Wednesday, February 13, 2013
+Opening Plenary Session, 9:00–10:00, Grand Ballroom
+Concurrent  
+Session I 
+10:15–11:15
+The SEA-Supported, CEDS-Aligned, 
+Blended, Personalized Learning, 
+Big Data Future . . . and YOU
+Rabbitt, Huennekens, Goodell Using a Research Center or 
+Consortium to Meet State 
+P–20W Research Needs
+Cratty, Gibson, Schmidt, 
+Tydeman, Boughton, Joyce
+Secondary School Course 
+Classification System: School Codes 
+for the Exchange of Data (SCED)
+Gosa, Dacey, Kruse
+Leveraging Leading-Edge 
+Technology in Modern Recruitments
+Micheals, Arguelles Data System Expansion:
+Moving Into Other Sectors
+Cochenour, Mauzy, Lambert, 
+Bunis, Parisi
+Concurrent  
+Session II 
+11:30–12:30
+Common Education Data Standards 
+(CEDS) 101: Tools and Use
+B. Young, Copa, Campbell
+Labor and Education 
+Data Sharing 101
+Rodriguez, Louton
+Texas Student Data System (TSDS) 
+StudentGPS Dashboards: Mapping 
+Success for the Whole Student
+Gaston
+Lunch (on Your Own)
+Concurrent  
+Session III 
+1:45–2:45
+Teacher-Student Linkages: 
+A Follow-Up on the New York State 
+Data Model Approach for 
+Teacher/Leader Evaluation and 
+Instructional Improvement
+Roche, Swanson, Redgate
+Federated and Centralized Models
+Sellers, Gibson, Parisi, 
+Schroeder, McGrew
+Virginia Longitudinal Data 
+System—Stakeholder Outreach, 
+Marketing, and Communications
+Bryant, Paik, Cummings
+The Next Era of 
+Data Use in Arkansas
+Decker, Glover
+Southeast Education Data Exchange 
+(SEED) Overview and Demonstration
+Holdren, Swiggum
+Concurrent  
+Session IV 
+3:00–4:00
+EDFacts Shared State 
+Solution (ES3)—An Update
+Ogle, Popp, Carlson, King
+Grappling With the Voracious 
+Demand for Education Data
+Domagala
+Disclosure Avoidance and the 
+U.S. Department of Education’s 
+School-Level Assessment 
+Data Release
+Hawes
+Education Standards Working 
+Together Towards Best Practices
+B. Young, Fruth, Abel, Sessa, 
+Fey, Redd
+Facilitating Researcher Access 
+to Statewide Longitudinal 
+Data System (SLDS)
+R. Collins, Gosa, Canada
+Concurrent  
+Session V 
+4:15–5:15
+The Strategic Data Project (SDP) 
+Toolkit for Effective Data Use: 
+A Resource Guide for Conducting 
+Analytics With Your Data
+Knowles, Kawakita, Wagner
+Tracking the Achievement of 
+Children Receiving Part C Early 
+Intervention Services (Birth to 
+Three) Into the Third Grade
+Carran, Hooks, Dammann, Nunn
+Connecting Common Education 
+Data Standards (CEDS) and 
+EDFacts Data Groups
+Santy, Huennekens, Williams
+Engaging P–20 Stakeholders
+Taylor, Parisi
+State Actions to Ensure 
+Effective Data Use
+Dabney, Swiggum
+Thursday, February 14, 2013
+Concurrent  
+Session VI 
+9:00–10:00
+Best Practice: 
+Nightly Data Collection
+McMahon, Kumar
+SLDS Session:
+Establishing, Documenting, and 
+Institutionalizing K–12 Data 
+Governance Policies and Processes
+(Limited to P–20W SLDS Staff from 
+grantee and non-grantee states)
+Chatis, Tydeman, Huennekens, Gosa
+Virginia Longitudinal Data 
+System—Accessing Multiple 
+Datasets and Merging Records
+Bryant, Goldschmidt, Adams, 
+Schroeder
+Ensuring Data Governance 
+Across the P–20W Spectrum
+K. Brown, Beard, Taquino
+Anywhere, Anytime, Over Time: 
+Longitudinal Data to the 
+Teacher Desktop
+Uhlig, Canada
+Concurrent  
+Session VII 
+10:15–11:15
+Innovative Data Collection 
+Techniques for Public 
+School Boundary Information
+Phan, Conver, Allegretti
+Apps4VA: Enlisting the Public in 
+Apps Creation for Data Analysis
+Canada, McGowan
+A Data-Driven Approach to 
+. . . Training, Deployment, and 
+Communication
+Rawson, Meador
+Incorporating Head Start Data 
+Into Your Statewide Longitudinal 
+Data System (SLDS)
+Cochenour, Murphy, Mauzy
+Concurrent  
+Session VIII 
+11:30–12:30
+Data Analysis Technical Assistance 
+(DATA) User Group Meeting
+(Limited to SEA/LEA Staff)
+Cratty, Knowles
+Data for Action: How Oklahoma Is 
+Efficiently Expanding Data Tools
+Kraman, Barfield, Fey
+Higher Education Longitudinal 
+Data System in New York State
+Swanson, Setzer, Redgate
+Using Name Change and 
+Non-Education Administrative Data 
+to Assist in Identity Matching
+Sabel, Jenner
+Training Local Stakeholders to Use 
+Longitudinal Data Systems (LDS)
+Taylor, Katahira, Swiggum, Garner
+Lunch (on Your Own)
+Concurrent  
+Session IX 
+1:45–2:45
+Data Analysis Technical Assistance 
+Community of Practice (DATA-COM)
+Cratty, Knowles
+Cross-Border Collaboration—Idaho 
+and Virginia Statewide Longitudinal 
+Data System (SLDS) Programs
+Bryant, Canada, Mehl, Sellers
+Engaging Internal Stakeholders/
+Program Offices as Clients 
+of a Statewide Longitudinal 
+Data System (SLDS)
+Taylor, Pennington, Mohr, Rinehart
+Maximizing Common 
+Education Data Standards (CEDS)—
+The Kansas Story
+Hall, Gosa
+National Assessment of Educational 
+Progress (NAEP) Observable Data 
+From Computer-Based Assessments
+Woods, Anderson
+Concurrent  
+Session X 
+3:00–4:00
+SLDS Eye Candy: How Utah Uses 
+Data to Visualize Transitions of 
+College Graduates Into Specific 
+Industry Sectors Using 
+Open-Source Software
+Mingl, Silva, Brandt
+District Tools for Understanding, 
+Calculating, and Managing Adjusted 
+Cohort Graduation Rates
+Erlichson, McGlynn
+Surfacing Data in Meaningful Ways: 
+South Carolina’s Approach to Data 
+for Parents, Teachers, 
+Policymakers, and the Public
+Butler-Nalin, L. Collins, Fey
+A Tool for Program Offices to 
+Evaluate Their Data Quality Review 
+Process: Early Lessons
+Worthington, Mann, Stettner-Eaton, 
+Davis, Marburger, Miceli
+Concurrent  
+Session XI 
+4:15–5:15
+Update on the Midwest Education 
+Information Consortium (MEIC) 
+Interstate ID Exchange Project
+Gosa, Ogle, Pennington
+Effective Project Planning and 
+Managing Change: How States 
+Handle Unexpected Changes
+Taylor, McDougall, Brownlee, Olson
+Common Education Data Standards 
+(CEDS) Supporting Assessment 
+Systems Development
+Fruth, Abbott, Abel
+Using Early Childhood Data From 
+a Statewide Longitudinal Data System 
+(SLDS): Moving Beyond Collection
+Cochenour, Wat
+Friday, February 15, 2013
+Concurrent  
+Session XII 
+9:00–10:00
+SLDS Workshop:
+Sustainability
+(Limited to P–20W SLDS Staff from 
+grantee and non-grantee states)
+Sellers
+9:00–12:00
+SLDS Workshop:
+Stakeholder Engagement
+(Limited to P–20W SLDS Staff from 
+grantee and non-grantee states)
+Taylor
+9:00–12:00
+Workshop: 
+Estimating Teacher Effects
+(Limited to SEA/LEA Staff)
+Cratty
+9:00–12:00
+SLDS Workshop:
+Data Use
+(Limited to P–20W SLDS Staff from 
+grantee and non-grantee states)
+Chatis
+9:00–12:00
+Data Literacy—Elusive Construct 
+and How to Improve Capacity
+Mandinach, Friedman, Gummer
+Concurrent  
+Session XIII 
+10:15–11:15
+State Higher Education Executive 
+Officers’ (SHEEO) Update on 
+Postsecondary Data Sharing 
+With K–12 and Labor
+Garcia, L’Orange
+
+--- Page 9 ---
+9
+Color Key 
+to Topics
+Data 
+Collection
+Data Linking 
+Beyond K-12
+Data 
+Management
+Data 
+Privacy
+Data 
+Quality
+Data 
+Standards
+Data Use 
+(Analytical)
+Data Use 
+(Instructional)
+SLDS 
+Workshop Other
+Massachusetts New York Pennsylvania Rhode Island South Carolina Room  
+Name
+F G H I J Session
+Wednesday, February 13, 2013
+Opening Plenary Session, 9:00–10:00, Grand Ballroom
+Instructional Improvement Systems
+Chatis, Conner, Kinaci, Popp, Ward
+Weight, Weight, Please Tell Me!
+Bell
+Shared Services: 
+Convergence Becoming Reality
+Fruth, Paredes, Jackl
+Restructuring P–12 Data Systems: 
+Tennessee’s Vision for the Future
+Charlesworth, Z. Young, Comer
+Ensuring Data Quality, Timely 
+Collections, and Effective Data Use 
+From Your Statewide Longitudinal Data 
+System (SLDS): The NJ SMART 
+User Support and Training Program
+Erlichson, McGlynn, Cummins
+Concurrent  
+Session I 
+10:15–11:15
+Teachers as Stakeholders 
+and Data Users
+Taylor, Koffink, Katahira, Holdren
+Use of Technical, Educators, and 
+Analytics Membership (TEAM) to 
+Improve Data Modeling in 
+K–12 Education
+Mulvenon, Khojasteh
+Using Statewide Longitudinal 
+Data System (SLDS) Data to Create 
+Workforce Outcome Reports
+Hurwitch
+Increasing Access to EDFacts 
+Through Public and 
+Restricted Access Data
+Seastrom, Santy
+The ABCs of Collecting 
+Early Childhood Data
+Wright
+Concurrent  
+Session II 
+11:30–12:30
+Lunch (on Your Own)
+Planning for “eNAEP” 
+Assessments—Potential 
+Implications for Management 
+Information System (MIS) 
+Directors and Schools
+Woods, Ferguson, Cole, Struense
+A Business Intelligence Approach 
+to Data Collection and Use
+Yan, Slagle
+Kansas’ Efforts in Developing the 
+New System for Education Enterprise 
+in Kansas (SEEK) Reporting Tool
+Baranski
+Transitioning From 
+PEPTrak to myTrak
+Scott, Craver, Bay
+Developing and Deploying an Early 
+Warning System With R and State 
+Longitudinal Data System (SLDS) Data
+Knowles
+Concurrent  
+Session III 
+1:45–2:45
+Memoranda of Understanding 
+(MOUs): Interstate and 
+Intrastate Agreements
+Rodriguez, Kiehne, Brooks
+The Texas Student Data System 
+& the Transition From the Person 
+Identification Database (PID) to 
+Unique ID—The Benefits & Reality
+Gaston, Hartman, Bilir
+Pathways Between K–12, Higher 
+Education, and Employment: 
+Patterns From Ohio 
+Administrative Data
+Hawley, Neilson
+Why Vendor Variety and 
+Standards Interoperability Are Key 
+to Successful Implementation
+Griffin, Beekman
+Data Unlimited: What a School 
+System Can Accomplish When It 
+Lets the Data Do the Talking
+Daniel
+Concurrent  
+Session IV 
+3:00–4:00
+Privacy Technical Assistance 
+Center’s (PTAC) Analysis of 
+State Public Reports
+Rodriguez, Bevier, Klein
+Leveraging Real-Time Data 
+Collection to Improve Achievement
+Peterson, Elia
+Labor and Education Data: 
+Success Stories
+Sellers, Jenner, Gibson, 
+Taquino, Stevens
+Kansas’ Data Audit Framework 
+Methodology: Improving Data 
+Quality in Educational 
+Longitudinal Data Systems
+Holder
+Learning From Others in South 
+Carolina: Development of A 
+Single-Source Analytics Model 
+for Use in K–12 Education
+Butler-Nalin, Mulvenon
+Concurrent  
+Session V 
+4:15–5:15
+Thursday, February 14, 2013
+Growth and Enhancement of 
+Montana Students (GEMS)—
+Montana’s Statewide Longitudinal 
+Education Data System
+Ereth, Mohr, Tonderum
+Approaches to Agency 
+Restructuring Toward 
+Common Goals
+Taylor, Kiefer, Nesmith, Noel
+Beyond Data Standards and 
+Cleansing: Steps to 
+Improve Information Quality
+Holleman
+A School Turnaround Model 
+With Unprecedented Results! 
+Use of New Technology to 
+Measure and Guide Progress
+Yeater, Rosete, Verdick
+Data Standards for Content: 
+Granular Learning Standards, 
+Learning Resources
+Culatta, Goodell, Levin, Jay
+Concurrent  
+Session VI 
+9:00–10:00
+Anatomy of Data Linking 
+in the P–20 World
+Ballard, Jackl
+Privacy Technical Assistance 
+Center (PTAC) Toolkit: 
+New Design! New Materials!
+Hawes, Rodriguez, Odom
+Data Linking for Analytics—K–12 to 
+Community College to University
+Watson, Ikenaga, Osumi
+Context Matters in Diné Education: 
+Factors Contributing to the 
+Academic Achievement 
+of Navajo Students
+White
+Use Open-Source Software to Collect 
+and Manage Data Easily and Cheaply
+Yan, Slagle
+Concurrent  
+Session VII 
+10:15–11:15
+Tennessee Connects the State 
+With Race to the Top 
+Longitudinal Data Systems
+Lemon, Jenkins, Rife, Ligon
+Automating State Reporting—A 
+Regional Service Agency 
+Success Story
+Fruth, Schmidt
+Exploring North Carolina 
+School Statistics: A Look at Our New 
+Online Statistical Profile and ARRA/
+RTTT Financial Reporting Application
+Cox, Cernik
+Preliminary, Provisional, and 
+Final Data—Establishing 
+a Data Release Life Cycle
+Santy
+Concurrent  
+Session VIII 
+11:30–12:30
+Lunch (on Your Own)
+MyDataButton
+Sessa, Alderson, Bay
+Including Course Records in 
+Statewide Longitudinal Data 
+Systems (SLDS): Benefits, 
+Challenges, and Progress Made
+J. Brown, Laird
+Starting From “Scratch” 
+With a District Data System
+Fruth, Yap
+How Good is Good Enough? 
+Matching Records 
+Across State Agencies
+Bunis, Clements
+Using a Social Network and an 
+Online Knowledge Base to Increase 
+Collaboration and Communication 
+Across Schools/Districts
+Koffink, Schwartz
+Concurrent  
+Session IX 
+1:45–2:45
+Designing and Implementing 
+Data-Driven Educational Solutions 
+for the District and State
+Kleinman, Jackl, Hurwitch, 
+Ballard, Tamayo
+Longitudinal Analyses Using Linked 
+Education and Workforce Data
+Jenner
+Closing the Gap—Effective Use of 
+Educational Data to 
+Strengthen Classroom Instruction
+Krueger, Holland
+Title I Allocation Inputs
+Taciak, Millett, Sonnenberg
+Agile Development Using Scrum
+Retzlaff
+Concurrent  
+Session X 
+3:00–4:00
+School Accountability Data 
+Integration in Practice
+Swarm, Moore
+Improving the SEA-LEA Data 
+Relationship, Data Quality, Data 
+Governance, and Support 
+for Data Use
+Kraman, Smith
+What’s New With the NCES School 
+District Demographics (SDDS) 
+and Web Mapping Tools
+Phan, Allegretti, Lippmann
+Effective Teaching—A New 
+Hampshire Model for 
+Educator Evaluations
+Koffink, Schwartz
+Concurrent  
+Session XI 
+4:15–5:15
+Friday, February 15, 2013
+Bridging Data to Nonprofit
+Organizations and Schools: 
+A Promise Neighborhood Story
+Mercado
+Student Non-Promotional Mobility: 
+Spatial-Temporal Analysis of 
+Student Mobility Patterns and 
+Outcomes Using a Statewide 
+Longitudinal Data System (SLDS)
+S. Doore
+District’s Implementation of 
+Cohort-Based Accountability: 
+Tracking Academic Performance and 
+Non-Academic Factors to Inform 
+Decisionmaking Among Stakeholders
+Mwavita, Race, Kitchens
+Benefitting Students, States, 
+and Schools With 
+Improved Transcript Services
+Sessa, Pittinsky, Torres, Wager
+Comprehensive Intervention Model 
+for Maine (CIMME): A Real-Time 
+Decision Support Information 
+System for Literacy Instruction 
+and Intervention
+B. Doore
+Concurrent  
+Session XII 
+9:00–10:00
+Drilling Down the Data: Analyzing 
+Enrollment Patterns of Females 
+in Advanced Placement (STEM) 
+Courses in North Carolina
+Lynch, Hinson Quick, 
+St. Claire Atkinson
+Concurrent  
+Session XIII 
+10:15–11:15
+
+--- Page 10 ---
+10
+Mayflower Renaissance Hotel
+
+
+--- Page 11 ---
+11
+Mayflower Renaissance Hotel
+
+
+--- Page 12 ---
+12
+Mayflower Renaissance Hotel
+
+
+--- Page 13 ---
+Agenda With Session
+Descriptions
+National Center for Education Statistics
+Institute of Education Sciences
+U.S. Department of Education
+This conference is intended to provide an opportunity for state and local educators, members of 
+associations and government agencies, and others to share information about developments and issues 
+in the collection, reporting, and use of education data. The information and opinions expressed in this 
+conference do not necessarily represent the policy or views of the U.S. Department of Education or the 
+National Center for Education Statistics.
+
+
+--- Page 14 ---
+
+
+--- Page 15 ---
+Wednesday, February 13, 2013
+15
+8:00–5:15	 Registration  .................................................................................................Promenade
+8:00–5:00		 Cyber	Café	and	Demonstrations	Open  .....................................................................East 
+ (This room will be closed during the Opening Plenary Session.)
+9:00–10:00		 Opening	Plenary	Session  ..............................Grand	Ballroom
+Welcome	and	Introductions
+  Jack Buckley, Commissioner
+	 	 	 National	Center	for	Education	Statistics
+Keynote	Speech
+  Putting	Data	to	Good	Use:	Applying	State	and	District	Data	to	Improvement	in	Education
+  Ruth Curran Neild, Commissioner
+	 	 National	Center	for	Education	Evaluation	and	Regional	Assistance	(NCEE)
+	 	 Institute	of	Education	Sciences	(IES),	U.S.	Department	of	Education
+Dr. Neild will describe efforts by the Institute of Education Sciences to encourage 
+education practitioners and researchers to use administrative data capably, carefully, 
+and imaginatively to obtain better evidence on problems and solutions in education.
+Announcements
+	 	 Renée	Rowland,	NCES	STATS-DC/MIS	Conference	Manager
+	 	 National	Center	for	Education	Statistics
+10:00–10:15					Break
+
+--- Page 16 ---
+Wednesday, February 13, 2013
+16
+10:15–11:15					Concurrent	Session	I	Presentations
+I-A	 The	SEA-Supported,	CEDS-Aligned,	Blended,	
+	 Personalized	Learning,	Big	Data	Future	.	.	.	and	YOU  ......................................................Colonial
+Lee	Rabbitt,	Rhode	Island	Department	of	Elementary	and	Secondary	Education
+Bill	Huennekens,	Washington	State	Office	of	Superintendent	of	Public	Instruction
+Jim	Goodell,	Quality	Information	Partners
+10:15–11:15
+Are you ready for the shift to state-education-agency-supported data use by teachers, parents, 
+and students for personalized learning? How about the shift from traditional models of instruction 
+to blended and virtual? How about the shift from seat-time-based course scheduling to mastery 
+learning? Are you ready for the shift to micro-standards and mining of big sets of micro-data? This 
+session will help you develop a vision for your future role supporting “data for action” at the state 
+or local level in this changing education landscape.
+I-B	 Using	a	Research	Center	or	Consortium	to	
+	 Meet	State	P–20W	Research	Needs  ................................................................................Chinese
+Dorothyjean	Cratty,	National	Center	for	Education	Statistics
+Neal	Gibson,	Arkansas	Research	Center
+Jim	Schmidt,	Washington	Education	Research	and	Data	Center
+Christina	Tydeman,	Hawaii	State	Department	of	Education
+Heather	Boughton,	Ohio	Department	of	Education
+Erin	Joyce,	Battelle	for	Kids
+10:15–12:30
+This session will present four states’ approaches to meeting the research demands of education 
+practitioners, policymakers, and the public. P–20W agency partners in many states are working 
+together through research centers or consortia to answer the most pressing questions with their 
+state longitudinal data. The four state presentations from Arkansas, Hawaii, Ohio, and Washington 
+will cover the development, function, and sustainability of their research centers. They will discuss 
+how different stakeholders inform the research agenda and how the findings are disseminated. 
+Presenters will also share some examples of the research conducted. The presentations will be 
+followed by a discussion period.
+
+--- Page 17 ---
+Wednesday, February 13, 2013
+17
+I-D	 Leveraging	Leading-Edge	Technology	in	Modern	Recruitments  ..................Promenade	Ballroom
+Joshua	Micheals	and	Johnny	Arguelles,	San	Joaquin	County	Office	of	Education	(California)
+10:15–11:15
+Most school districts treat their online recruitment efforts the same as they treat classified 
+recruitment ads in newspapers. This session will describe how districts can update their online 
+efforts by using modern database technology to collect, screen, and interpret results of online 
+recruitments. Through the partnership of the California County Superintendents Educational 
+Services Association and the San Joaquin County Office of Education, the Education Job 
+Opportunities Information Network (EDJOIN) has revolutionized the way school districts conduct 
+the recruitment process. By connecting with existing state databases, allowing for custom data 
+collection, and centralizing the process to make access simpler for applicants, districts have a 
+wealth of data at the click of a button.
+I-E	 Data	System	Expansion:	Moving	Into	Other	Sectors  ........................................................Georgia
+Missy	Cochenour,	AEM	Corporation
+Denise	Mauzy,	Opportunities	in	a	Professional	Education	Network	(OPEN)	Initiative	at	the	
+	 University	of	Missouri
+Jennifer	Lambert,	University	of	Utah
+Shara	Bunis,	Pennsylvania	Department	of	Education
+Domenico	Parisi,	National	Strategic	Planning	and	Analysis	Research	Center	(nSPARC)	at		 	 	
+	 Mississippi	State	University
+10:15–12:30
+This session will discuss the strategies states can use to expand their data systems beyond K–12. A 
+sector specialist will provide examples of challenges and solutions unique to each sector and also 
+present strategies common across all sectors.
+I-C	 Secondary	School	Course	Classification	System:	
+	 School	Codes	for	the	Exchange	of	Data	(SCED)  ....................................................................State
+Kathy	Gosa,	Kansas	State	Department	of	Education
+Bruce	Dacey,	Delaware	Department	of	Education
+Rachel	Kruse,	Iowa	Department	of	Education
+10:15–11:15
+The Secondary	School	Course	Classification	System:	School	Codes	for	the	Exchange	of	Data	(SCED) 
+was published in 2007 by the U.S. Department of Education, National Center for Education 
+Statistics. It provides a taxonomy and course descriptions for secondary education intended to 
+assist education agencies with maintaining longitudinal record systems. The National Forum on 
+Education Statistics has convened a working group to review the SCED codes and release a revised 
+version as an online resource. This session will provide information on proposed updates to the 
+SCED course codes and plans for a new, best-practices document.
+
+--- Page 18 ---
+Wednesday, February 13, 2013
+18
+I-H	 Shared	Services:	Convergence	Becoming	Reality  ....................................................Pennsylvania
+Larry	Fruth	and	Vince	Paredes,	SIF	Association
+Alex	Jackl,	Choice	Solutions,	Inc.
+10:15–11:15
+The devil in implementing standards, like so many things, is in the detail. IMS Global Learning 
+Consortium, Schools Interoperability Framework (SIF), Smarter Balanced Assessment Consortium 
+(SBAC), Partnership for Assessment of Readiness for College and Careers (PARCC), Shared Learning 
+Collaborative (SLC), and others are working together to create a set of service definitions, 
+choreographies, and possibly even service academic performance indicators (APIs) themselves 
+that can be shared across standards initiatives so that education stakeholders do not have to 
+write an API or adapter per initiative! Join a panel of the people working on this to hear about the 
+progress and how you can take advantage of what has been done.
+I-G	 Weight,	Weight,	Please	Tell	Me!  ..................................................................................New	York
+John	Bell,	The	University	of	Alabama
+10:15–11:15
+Weights are essential to the correct analysis of almost every NCES data file. This session will 
+explain a little of the “why” and a lot of the “how” with regard to the use of weights with publicly 
+available education data. Particular attention will be paid to the National Household Education 
+Survey (NHES), and examples will be presented using a variety of software, including both popular 
+commercial software and freeware.
+I-F	 Instructional	Improvement	Systems  ....................................................................Massachusetts
+Corey	Chatis,	SLDS	State	Support	Team
+Dede	Conner,	Kentucky	Department	of	Education
+Suzan	Kinaci,	Massachusetts	Department	of	Elementary	and	Secondary	Education
+Joyce	Popp,	Idaho	State	Department	of	Education
+Marsha	Ward,	Ohio	Department	of	Education
+10:15–11:15
+This panel will discuss how states have approached the scope and implementation of instructional 
+improvement systems, including their relationship with state longitudinal data systems (SLDS) and 
+strategies for supporting teacher data use. Massachusetts will discuss its initiatives with Race to 
+the Top and the Edwin Teaching and Learning program. Kentucky will discuss incorporating the 
+common core and the Assessment for Learning. Idaho will discuss standards and assessment, and 
+the integration with SLDS.
+
+--- Page 19 ---
+Wednesday, February 13, 2013
+19
+I-I	 Restructuring	P–12	Data	Systems:	Tennessee’s	Vision	for	the	Future  ......................Rhode	Island
+Richard	Charlesworth,	Tennessee	Department	of	Education
+Zeynep	Young	and	Ed	Comer,	Double	Line	Partners
+10:15–11:15
+This session will address how the Tennessee Department of Education (TDOE) is undertaking a 
+significant effort to host a new education data system in a secure cloud, offering to lower total-
+cost ownership and better achieve elasticity and scalability. In parallel, TDOE is standing up Ed-Fi-
+based student dashboards to deliver timely, actionable data to educators.
+I-J	 Ensuring	Data	Quality,	Timely	Collections,	and	Effective	
+	 Data	Use	From	Your	Statewide	Longitudinal	Data	System	
+	 (SLDS):	The	NJ	SMART	User	Support	and	Training	Program  ..................................South	Carolina
+Bari	Erlichson,	New	Jersey	Department	of	Education
+Jim	McGlynn	and	Kathleen	Cummins,	PCG	Education
+10:15–11:15
+The New Jersey Department of Education has created a statewide data culture where exceptionally 
+high local education agency participation and data quality is the norm for their statewide 
+longitudinal data system (SLDS), despite managing submissions from more than 675 districts and 
+charter schools. Participants in this session will learn about the effective strategies being applied 
+in New Jersey that foster the quality, capacity, and culture necessary to ensure reliable data; timely 
+federal, state and local reporting; and the effective use of data from the NJ SMART SLDS.
+11:15–11:30					Break
+11:30–12:30					Concurrent	Session	II	Presentations
+II-A	 Common	Education	Data	Standards	(CEDS)	101:	Tools	and	Use  ......................................Colonial
+Beth	Young,	Quality	Information	Partners
+Nancy	Copa	and	Jim	Campbell,	AEM	Corporation
+11:30–12:30
+This will be an introductory session meant to familiarize users with the Common Education Data 
+Standards (CEDS). This session will describe why CEDS is needed, what the parts of CEDS are, and 
+how CEDS can be used. The session also includes a demonstration of both CEDS Tools – Align and 
+Connect.
+
+--- Page 20 ---
+Wednesday, February 13, 2013
+20
+II-B	 Using	a	Research	Center	or	Consortium	to	
+	 Meet	State	P–20W	Research	Needs  ................................................................................Chinese
+Dorothyjean	Cratty,	National	Center	for	Education	Statistics
+Neal	Gibson,	Arkansas	Research	Center
+Jim	Schmidt,	Washington	Education	Research	and	Data	Center
+Christina	Tydeman,	Hawaii	State	Department	of	Education
+Heather	Boughton,	Ohio	Department	of	Education
+Erin	Joyce,	Battelle	for	Kids
+10:15–12:30
+This session will present four states’ approaches to meeting the research demands of education 
+practitioners, policymakers, and the public. P–20W agency partners in many states are working 
+together through research centers or consortia to answer the most pressing questions with their 
+state longitudinal data. The four state presentations from Arkansas, Hawaii, Ohio, and Washington 
+will cover the development, function, and sustainability of their research centers. They will discuss 
+how different stakeholders inform the research agenda and how the findings are disseminated. 
+Presenters will also share some examples of the research conducted. The presentations will be 
+followed by a discussion period.
+II-C	 Labor	and	Education	Data	Sharing	101  ...............................................................................State
+Baron	Rodriguez,	AEM	Corporation
+Kate	Louton,	U.S.	Department	of	Labor
+11:30–12:30
+This session will address some of the most common misconceptions and misunderstandings 
+around the sharing of data between education and labor agencies. The goal of this session is to 
+clarify what types of data can be shared and through what systems this may be accomplished.
+II-D	 Texas	Student	Data	System	(TSDS)	StudentGPS	Dashboards:	
+	 Mapping	Success	for	the	Whole	Student  ...................................................Promenade	Ballroom
+Sharon	Gaston,	Texas	Education	Agency
+11:30–12:30
+The Texas Student Data System’s (TSDS) vision is to reduce the data collection burden on the local 
+education agencies and provide timely, actionable data to every educator to improve student 
+achievement. This session will provide an overview of TSDS, including component architecture, 
+implementation timeline, expected benefits, and an in-depth demonstration of how the classroom, 
+campus, and district performance dashboards can be used to influence both instruction and 
+remediation strategies.
+
+--- Page 21 ---
+Wednesday, February 13, 2013
+21
+II-F	 Teachers	as	Stakeholders	and	Data	Users  ............................................................ Massachusetts
+Robin	Taylor,	SLDS	State	Support	Team
+Irene	Koffink,	New	Hampshire	Department	of	Education
+Justin	Katahira,	Hawaii	State	Department	of	Education
+Deb	Holdren,	Georgia	Department	of	Education
+11:30–12:30
+The long-term vision of many state longitudinal data systems is to provide important and relevant 
+data directly to classroom teachers. Panelists in this session will present how they have engaged 
+teachers in the planning, delivery, and training to make data from the state longitudinal data 
+systems useful and meaningful. Important lessons learned will be discussed, including how and 
+when to engage teachers and what training is necessary to support data use.
+II-E	 Data	System	Expansion:	Moving	Into	Other	Sectors  ........................................................Georgia
+Missy	Cochenour,	AEM	Corporation
+Denise	Mauzy,	Opportunities	in	a	Professional	Education	Network	(OPEN)	Initiative	at	the	
+	 University	of	Missouri
+Jennifer	Lambert,	University	of	Utah
+Shara	Bunis,	Pennsylvania	Department	of	Education
+Domenico	Parisi,	National	Strategic	Planning	and	Analysis	Research	Center	(nSPARC)	at		 	 	
+	 Mississippi	State	University
+10:15–12:30
+This session will discuss the strategies states can use to expand their data systems beyond K–12. A 
+sector specialist will provide examples of challenges and solutions unique to each sector and also 
+present strategies common across all sectors.
+II-G	 Use	of	Technical,	Educators,	and	Analytics	Membership	
+	 (TEAM)	to	Improve	Data	Modeling	in	K–12	Education .................................................. New	York
+Sean	Mulvenon	and	Jam	Khojasteh,	University	of	Arkansas
+11:30–12:30
+The Technical, Educators, and Analytics Membership  (TEAM) approach represents a new 
+educational collaboration that is being developed among several state educational agencies 
+(SEAs) and local educational agencies (LEAs) in partnership with postsecondary education. Many 
+schools have a difficult time finding the technical expertise they need in the areas of K-12 data 
+modeling, analytics, and report development. TEAM capitalizes on the expertise of educators to 
+outline important information, analytics, and reports for use by classroom teachers, principals, 
+curriculum experts, or others in the school systems. The educator component of TEAM represents 
+SEAs and LEAs working to develop single-source data systems, while the postsecondary faculty 
+members are providing the technical and analytics expertise in support of these K–12 systems. The 
+goal of this presentation is to provide an overview of the concept of TEAM and invite the active 
+participation of attendees on how to become more involved with this approach to improving K–12 
+data systems.
+
+--- Page 22 ---
+Wednesday, February 13, 2013
+22
+II-I	 Increasing	Access	to	ED Facts	Through	Public	and	Restricted	Access	Data ................Rhode	Island
+Marilyn	Seastrom,	National	Center	for	Education	Statistics
+Ross	Santy,	U.S.	Department	of	Education
+11:30–12:30
+Starting in November 2012, selected data collected through ED Facts were made available to 
+qualified researchers through the NCES restricted use data license program. This is only one way 
+in which the U.S. Department of Education is making data from ED Facts available to an audience 
+beyond internal program officers and state agency officials. This session will provide an overview 
+of the current NCES restricted use licensing process, timelines for publicly available data, and 
+plans for future releases.
+12:30–1:45					Lunch	(on	Your	Own)
+II-H	 Using	Statewide	Longitudinal	Data	System	(SLDS)	
+	 Data	to	Create	Workforce	Outcome	Reports  ...........................................................Pennsylvania
+William	Hurwitch,	Maine	Department	of	Education
+11:30–12:30
+The Maine Department of Education and the Department of Labor, Center for Workforce Research 
+and Information, are collaborating to produce outcome reports for high school, postsecondary, 
+and adult education graduates. This session will provide an overview of the data sources and show 
+examples of the wage and employment outcome reports. The reports are designed to inform the 
+public and enhance decisionmaking, strategic planning, and program evaluation.
+II-J	 The	ABCs	of	Collecting	Early	Childhood	Data  ....................................................... South	Carolina
+Kimberly	Wright,	Kansas	State	Department	of	Education
+11:30–12:30
+In 2011, the Kansas State Department of Education started the process of integrating early 
+childhood data with K–12 data. In this session, you will hear the ABCs of how Kansas approached 
+working with early childhood programs, such as 4-Year-Old At-Risk and Parents as Teachers. You 
+will hear the lessons learned from entering the realm of early childhood and the successes in 
+linking it with the K–12 world.
+
+--- Page 23 ---
+Wednesday, February 13, 2013
+23
+III-B	 Federated	and	Centralized	Models  .................................................................................Chinese
+Jeff	Sellers,	SLDS	State	Support	Team
+Neal	Gibson,	Arkansas	Research	Center
+Domenico	Parisi	and	Aaron	Schroeder,	
+	 National	Strategic	Planning	and	Analysis	Research	Center	(nSPARC)	at	
+	 Mississippi	State	University
+Charles	McGrew,	Kentucky	P–20	Data	Collaborative
+1:45–2:45
+In this session, panelists from Arkansas, Mississippi, Virginia, and Kentucky will discuss their 
+states’ use of a federated or centralized model of system architecture. Panelists will present their 
+rationale for choosing the model they did, the roles and responsibilities of participating agencies, 
+the matching process employed, data access and response time, and rules for data integrity.
+1:45–2:45					Concurrent	Session	III	Presentations
+III-A	 Teacher-Student	Linkages:	A	Follow-Up	on	the	
+	 New	York	State	Data	Model	Approach	for	Teacher/Leader	
+	 Evaluation	and	Instructional	Improvement  ....................................................................Colonial
+Patrick	Roche	and	Charlene	Swanson,	New	York	State	Education	Department
+Russ Redgate, eScholar LLC
+1:45–2:45
+At the NCES Summer Data Conference in July 2011, the New York State Education Department 
+(NYSED) and eScholar presented the data model to be implemented for Teacher/Leader Evaluation 
+and Instructional Improvement. In this session, the presenters will discuss lessons learned 
+and how NYSED’s thinking has evolved subsequent to July 2011, including policy and technical 
+considerations. Policy considerations include the complexities of relationships among students, 
+their teachers, and courses. Approaches to incorporating data about courses, assessments, 
+and academic standards were also involved. The audience will have an opportunity to share 
+experiences in these areas.
+
+--- Page 24 ---
+Wednesday, February 13, 2013
+24
+III-D	 The	Next	Era	of	Data	Use	in	Arkansas  ........................................................Promenade	Ballroom
+Cody	Decker	and	Holly	Glover,	Arkansas	Department	of	Education
+1:45–2:45
+The Arkansas Department of Education (ADE) has a long history of leading-edge data analysis 
+and reporting, including robust data systems and visualization tools. In this session, you will 
+learn how ADE is expanding its tools and the data horizon for all educators by leveraging existing 
+materials from the Ed-Fi Alliance and other states. Specifics on stakeholder engagement, road 
+maps, and pilot plans will be shared, along with useful resources ADE collected along the way.
+III-C	 Virginia	Longitudinal	Data	System—Stakeholder	Outreach,
+	 Marketing,	and	Communications  ........................................................................................State
+Matthew	Bryant,	Virginia	Department	of	Education
+Henry	Paik,	Center	for	Innovative	Technology
+Steve	Cummings,	The	Hodges	Partnership
+1:45–2:45
+Developing an effective communications and marketing strategy is a critical part of the Virginia 
+Longitudinal Data System (VLDS), helping ensure understanding of the system, ongoing support, 
+and effective use. It is particularly vital in bringing on new datasets and informing new stakeholders 
+of the purpose and function of the system. This presentation will cover the VLDS communication 
+and marketing strategy, planning, and results.
+III-E	 Southeast	Education	Data	Exchange	(SEED)	Overview	and	Demonstration  .....................Georgia
+Debra	Holdren	and	Bob	Swiggum,	Georgia	Department	of	Education
+1:45–2:45
+States from the Southeast are collaborating to create the SE Education Data Exchange (SEED) 
+to share K–12 student data for students who move across state lines. SEED helps states ensure 
+continuity of services for mobile students and at the same time improve accuracy of graduation/
+drop-out rates. During this session, you will see this tool in action.
+
+--- Page 25 ---
+Wednesday, February 13, 2013
+25
+III-H	 Kansas’	Efforts	in	Developing	the	New	System	for	
+	 Education	Enterprise	in	Kansas	(SEEK)	Reporting	Tool  .............................................Pennsylvania
+John	Baranski,	Kansas	State	Department	of	Education
+1:45–2:45
+The System for Education Enterprise in Kansas (SEEK) is one of the tools used by the Kansas 
+State Department of Education to present longitudinal data to education stakeholders. SEEK has 
+recently been rebuilt based on feedback from education data users and technical stakeholders. 
+This presentation will analyze lessons learned from the previous versions of SEEK and demonstrate 
+new enhancements to the application, including the High School Feedback and Data Audit reports.
+III-F	 Planning	for	“eNAEP”	Assessments—Potential	Implications	for	
+	 Management	Information	System	(MIS)	Directors	and	Schools  ............................Massachusetts
+Bobbi	Woods,	National	Center	for	Education	Statistics
+Scott	Ferguson	and	Jud	Cole,	Fulcrum	IT	Services	LLC
+Rich	Struense,	CITA-ATT
+1:45–2:45
+National Assessment of Educational Progress (NAEP) panelists will present in this session plans for 
+the transition to web-based assessments using school equipment and discuss how NAEP can help 
+states with their own transition to technology-delivered assessments. The panelists will discuss 
+outreach to NAEP states, districts, and schools; strategies for validating the readiness of school 
+equipment; technical considerations and challenges; modifications of pre-assessment visits; and 
+the administration of NAEP assessments. Participants will be asked to provide feedback that will 
+be used to refine NAEP’s approach in conducting web-based assessments.
+III-G	 A	Business	Intelligence	Approach	to	Data	Collection	and	Use  ......................................New	York
+Bo	Yan	and	Mike	Slagle,	Blue	Valley	School	District	(Kansas)
+1:45–2:45
+Applying the Business Intelligence approach, which combines data, technology, and statistical 
+analysis, the Blue Valley School District developed a data system for its gifted program, which 
+enables teachers to make better-informed decisions about the gifted eligibility of student candidates 
+while saving significant time. The system is innovative in four aspects: 1) it is intelligent; 2) its 
+development involved collaboration among three departments (education services, information 
+technology, and research and evaluation), which is rare in K–12; 3) it is low-cost; and 4) it is more 
+likely to be adopted.
+
+--- Page 26 ---
+Wednesday, February 13, 2013
+26
+III-I	 Transitioning	From	PEPTrak	to	myTrak  ....................................................................Rhode	Island
+Natasha	Scott	and	Lisa	Craver,	Cumberland	County	Schools	(North	Carolina)
+Shawn Bay, eScholar LLC
+1:45–2:45
+Cumberland County Schools is a large district in North Carolina that serves more than 53,000 
+students. Beginning in 2010, Cumberland County partnered with eScholar to develop a new 
+application to empower the educational team, including educators, parents, and students, to 
+create personalized education plans and set academic intervention and behavioral goals. Since 
+that time, the software has been fully developed and implemented across the district. Harnessing 
+the power of comprehensive longitudinal data from the district’s data warehouse has enabled the 
+district to measure the effectiveness of the process and to continue to improve student learning. 
+This presentation will provide an overview of the process, key features of the application, lessons 
+learned along the way, and future outlook.
+2:45–3:00					Break
+III-J	 Developing	and	Deploying	an	Early	Warning	System	With	R	
+	 and	State	Longitudinal	Data	System	(SLDS)	Data  ..................................................South	Carolina
+Jared	Knowles,	Wisconsin	Department	of	Public	Instruction
+1:45–2:45
+This session will explore Wisconsin’s work using data from the state longitudinal data system to 
+develop early warning models of dropout and late graduation for students currently in middle 
+school. Early work has shown that the system is able to accurately identify more than 60 percent 
+of such students in the state by the end of seventh grade. This system is built entirely using open-
+source analytics tools and data common to all states. This session will address the current status 
+of this work, challenges in building the system, plans for communicating the results to school 
+districts statewide, and future improvements and extensions of the system.
+
+--- Page 27 ---
+Wednesday, February 13, 2013
+27
+3:00–4:00					Concurrent	Session	IV	Presentations
+IV-A	 ED Facts	Shared	State	Solution	(ES3)—An	Update .......................................................... Colonial
+Tom	Ogle,	Missouri	Department	of	Elementary	and	Secondary	Education
+Joyce	Popp,	Idaho	State	Department	of	Education
+Kim	Carlson,	South	Dakota	Department	of	Education
+Steven	King,	ESP	Solutions	Group
+3:00–4:00
+The common components of ED Facts for all states have been standardized and shared across 
+Idaho, Missouri, South Dakota, and Tennessee—so far. The ED Facts Shared State Solution (ES3) 
+provides mechanisms for staging EDFacts data in a common way and sharing routines for creating 
+compliant submission files. With multiple states contributing to reports and maintenance, ES3 
+provides an open solution for other partner states to join. Best practices have been incorporated 
+into the architecture, processes, and documentation. In this session, each state’s presenter will 
+describe how ES3 benefits EDFacts data quality and reporting.
+IV-B	 Grappling	With	the	Voracious	Demand	for	Education	Data  .............................................Chinese
+Daniel	Domagala,	Colorado	Department	of	Education
+3:00–4:00 
+Colorado is utilizing a three-pronged approach to disseminating analytical data: 1) an information 
+“portal” center for browsing; 2) an engaging “showcase” display of emerging themes or data 
+stories; and 3) access to raw/bulk data. This presentation will demonstrate some of these delivery 
+mechanisms and discuss emerging trends and strategies in the area of effective data delivery.
+IV-C	 Disclosure	Avoidance	and	the	U.S.	Department	of	
+	 Educations’s	School-Level	Assessment	Data	Release  ...........................................................State
+Michael	Hawes,	U.S.	Department	of	Education
+3:00–4:00
+This presentation will address the disclosure avoidance methodology used for the U.S. Department 
+of Education’s release of the school-level assessment data by grade and subgroup. The session 
+also will discuss several resources that the Department of Education has recently developed to 
+assist states with data privacy and disclosure-avoidance issues.
+
+--- Page 28 ---
+Wednesday, February 13, 2013
+28
+IV-D	 Education	Standards	Working	Together	Towards	Best	Practices  .................Promenade	Ballroom
+Beth	Young,	Quality	Information	Partners
+Larry	Fruth,	SIF	Association
+Rob	Abel,	IMS	Global	Learning	Consortium
+Michael	Sessa,	Postsecondary	Electronic	Standards	Council	(PESC)
+Lori	Fey,	Michael	&	Susan	Dell	Foundation
+Brandt	Redd,	Bill	&	Melinda	Gates	Foundation
+3:00–4:00
+The education standards landscape is vibrant but can be confusing; this session will provide a 
+detailed road map for users. These standards support users by providing a P–20W education 
+data language, a method for exchanging this data, and data use implementations at the state, 
+district, school, and classroom level. Each of these standards play a different part in supporting the 
+education community, and this session will highlight several projects where these standards work 
+together to provide a solution for users.
+IV-E	 Facilitating	Researcher	Access	to	Statewide	Longitudinal	Data	System	(SLDS)  .................Georgia
+Rosemary	Collins,	National	Center	for	Education	Statistics
+Kathy	Gosa,	Kansas	State	Department	of	Education
+Bethann	Canada,	Virginia	Department	of	Education
+3:00–4:00 
+The Kansas State Department of Education and the Virginia Department of Education will present  
+in this session their different approaches to providing researcher access to their longitudinal data 
+systems, including information about their data access policies, restrictions on use of data, open/
+public records requests, responsibility for review/approval of a data request, levels of data access, 
+funding strategies for data access, and researcher training/preparation for use of data.
+IV-F	 Memoranda	of	Understanding	(MOUs):	
+	 Interstate	and	Intrastate	Agreements  ..................................................................Massachusetts
+Baron	Rodriguez,	AEM	Corporation
+Jan	Kiehne,	Connecticut	State	Colleges	and	Universities	(ConnSCU)
+Connie	Brooks,	Iowa	Department	of	Education
+3:00–4:00
+Want to see what a well-rounded Memorandum of Understanding (MOU) looks like and the 
+process some of your peer states have undertaken to create this very important document? 
+This session will provide an overview of the process involved in developing the key components 
+of Connecticut’s MOU and also discuss Midwest Education Information Consortium’s (MEIC’s) 
+approach and MOU for sharing of data for the purposes of fulfilling the American Recovery and 
+Reinvestment Act reporting requirements on graduates.
+
+--- Page 29 ---
+Wednesday, February 13, 2013
+29
+IV-G	 The	Texas	Student	Data	System	and	the	Transition	From	the	Person	
+	 Identification	Database	(PID)	to	Unique	ID—The	Benefits	and	Reality  ......................... New	York
+Sharon	Gaston,	Texas	Education	Agency
+Andrea	Hartman	and	Figen	Bilir,	eScholar	LLC
+3:00–4:00
+The Texas Student Data System (TSDS) is one of the largest district-facing data warehouses ever 
+created in the United States. One of the cornerstones of the TSDS is the implementation of Unique 
+ID, which provides a unique identifier for all staff and students in the state. During this session, 
+representatives from Texas Education Agency and eScholar will discuss the transition process and 
+the lessons learned from the statewide implementation, training, and deployment. Participants will 
+learn about the benefits of the Unique ID system as well as the risks associated with implementing 
+a new statewide identifier system for more than four million students and staff.
+IV-H	 Pathways	Between	K–12,	Higher	Education,	and	Employment:		
+	 Patterns	From	Ohio	Administrative	Data  ................................................................Pennsylvania
+Joshua	Hawley,	Ohio	Education	Research	Center,	Ohio	State	University
+Lisa	Neilson,	Center	for	Human	Resource	Research,	Ohio	State	University
+3:00–4:00 
+State governments and universities have developed new data systems to track individuals from 
+early childhood education to workforce. Ohio’s new P–20 system and Workforce Data Quality 
+Initiative are both building systems capable of tracking people across the lifespan. Using this new 
+data system, researchers have studied the progress higher education enrollees are making in the 
+workforce. How the higher education system is responding to business demands for skilled workers 
+is a major policy issue in Ohio and other states. This presentation will describe the employment 
+outcomes from higher education, showing the capabilities of the new linked data systems for state 
+policy analysts and the research community.
+IV-I	 Why	Vendor	Variety	and	Standards	Interoperability	
+	 Are	Key	to	Successful	Implementation  ....................................................................Rhode	Island
+Joe	Griffin,	Keller	Independent	School	District	(Texas)
+Tim	Beekman,	SAFARI	Montage
+3:00–4:00
+The importance of interoperability and adherence to standards in today’s educational environment 
+cannot be overstated. Keller Independent School District (KISD) in Texas has been recognized as 
+a leader in instructional technology. In this session, Joe Griffin, Chief Technology Officer at KISD, 
+will share his experiences and views on this timely topic, along with Tim Beekman, President and 
+Co-Founder of SAFARI Montage. Mr. Beekman serves on the Board of the IMS Global Learning 
+Consortium, which develops open interoperability standards for education.  The focus of the 
+
+--- Page 30 ---
+Wednesday, February 13, 2013
+30
+discussion will be on interoperability and the need for adherence to standards by a wide range of 
+information technology vendors.
+IV-J	 Data	Unlimited:	What	a	School	System	Can	
+	 Accomplish	When	It	Lets	the	Data	Do	the	Talking  ................................................South	Carolina
+Ashley	Daniel,	Rogers	Public	Schools	(Arkansas)
+3:00–4:00
+The steps one Arkansas school district took to guide and facilitate an educator movement toward 
+more data-informed instruction will be outlined and explained in this session.  The movement 
+began in 2005 with developing a districtwide strategic plan and hiring a district-level statistician.  
+The district has made significant academic gains through increasing data accessibility, facilitating 
+staff data trainings, and evaluating and monitoring program implementations in conjunction 
+with improving the alignment of curriculum, instruction, and assessment.  Other outcomes have 
+included closing achievement gaps, reducing dropout rates, and improving classroom instruction.  
+Educational decisions from the boardroom to the classroom are now based on data.
+4:00–4:15					Break
+4:15–5:15					Concurrent	Session	V	Presentations
+V-A	 The	Strategic	Data	Project	(SDP)	Toolkit	for	Effective	Data	Use:	
+	 A	Resource	Guide	for	Conducting	Analytics	With	Your	Data  ...........................................Colonial
+Jared	Knowles,	Wisconsin	Department	of	Public	Instruction
+Todd	Kawakita,	Harvard	Graduate	School	of	Education
+Nicole	Wagner,	Los	Angeles	Unified	School	District	(California)
+4:15–5:15
+Housed at the Center for Education Policy Research at Harvard University, the Strategic Data 
+Project (SDP) partners with school districts, charter school networks, and state education agencies 
+to bring high-quality research methods and data analysis to bear on strategic management and 
+policy decisions. Our mission is to transform the use of data in education to improve student 
+achievement. During this session, participants will understand how to conduct rigorous analytics 
+in the areas of college-going success and human capital with existing data. Participants will hear 
+from data strategists on the ground using the SDP Toolkit to perform rigorous analytics at the 
+district and state level.
+
+--- Page 31 ---
+Wednesday, February 13, 2013
+31
+V-B	 Tracking	the	Achievement	of	Children	Receiving	Part	C	Early	
+	 Intervention	Services	(Birth	to	Three)	Into	the	Third	Grade  ............................................Chinese
+Deborah	Carran	and	Sara	Hooks,	Johns	Hopkins	University,	School	of	Education
+Stacey	Dammann,	York	College	of	Pennsylvania
+Jacqueline	Nunn,	Johns	Hopkins	University,	Center	for	Technology	in	Education
+4:15–5:15
+Part C services provided under the Individuals with Disabilities Education Act (IDEA) for young 
+children with special needs are intended to prevent, reduce, or ameliorate the long-term impact 
+of developmental delays and disabilities. Only recently have states’ longitudinal data systems 
+permitted the linkage of data silos to track children across programs to determine the K–3 impact 
+of Part C services. A historical cohort study tracked 58,839 children from one mid-Atlantic state in 
+grade three during 2011–12, back to kindergarten (2008–09), and then back to Part C programs 
+(exited in 2006–07). This study was designed to examine who the children were who received 
+early intervening services for a cohort in 2006–07, what their educational placement was by grade 
+three (2010–11), and how the Part C cohort was performing on high-stakes assessments compared 
+to their peers. This session will discuss this study’s findings. 
+V-C	 Connecting	Common	Education	Data	
+	 Standards	(CEDS)	and	ED Facts	Data	Groups ........................................................................State
+Ross	Santy,	U.S.	Department	of	Education
+Bill	Huennekens,	Washington	State	Office	of	Superintendent	of	Public	Instruction
+Levette	Williams,	Georgia	Department	of	Education
+4:15–5:15
+The Common Education Data Standards (CEDS) Connect tool presents an opportunity for any state, 
+district, or other user of educational data to document the ways in which specific elements are 
+used for a specific use case. One potential use case is the reporting of aggregate statistics to the U.S. 
+Department of Education (ED) through ED Facts, which every state education agency is required 
+to do. This session will provide an overview of work currently being done within ED to document 
+each EDFacts Data Group as a connection within the CEDS Connect tool. These connections can 
+become the starting point for an improved national conversation and dialogue about how these 
+aggregate statistics are actually calculated and reported from existing data on students, teachers, 
+or schools. The session also will cover the work being started by several state education agencies 
+to map their source systems and reporting processes in order to take advantage of the ED Facts 
+Connections when published by ED.
+
+--- Page 32 ---
+Wednesday, February 13, 2013
+32
+V-D	 Engaging	P–20	Stakeholders  ......................................................................Promenade	Ballroom
+Robin	Taylor,	SLDS	State	Support	Team
+Domenico	Parisi,	National	Strategic	Planning	and	Analysis	Research	Center	(nSPARC)	at		 	 	
+	 Mississippi	State	University
+4:15–5:15
+Strategies for engaging P–20 stakeholders will be discussed in this session, including who is engaged 
+and why, how stakeholders with varying backgrounds are engaged, roles and responsibilities of 
+stakeholders, and lessons learned from engaging P–20 stakeholders. The session will include a 
+demonstration of Mississippi’s Longitudinal Data System (SLDS), more commonly known as 
+Mississippi LifeTracks, as an example of a P–20 data system. LifeTracks is an interoperable data 
+system that securely and efficiently facilitates research and analysis and provides linkages between 
+early childhood, K–12, postsecondary education, and the workforce.
+V-E	 State	Actions	to	Ensure	Effective	Data	Use  ......................................................................Georgia
+Elizabeth	Dabney,	Data	Quality	Campaign
+Bob	Swiggum,	Georgia	Department	of	Education
+4:15–5:15
+Are states able to use data effectively to improve student achievement? Data Quality Campaign 
+(DQC) annually surveys states to chart their progress toward implementing the DQC’s “10 State 
+Actions to Ensure Effective Data Use” and toward addressing other key policy issues. In this 
+session, DQC will present an overview of the 2012 survey results, and the Georgia Department of 
+Education will provide one state’s perspective on taking such steps as providing teachers access 
+to their students’ longitudinal data. DQC will also discuss both the movement from focusing on 
+building data systems to focusing on using data to meet stakeholders’ needs and the 2013 DQC 
+survey.
+V-F	 Privacy	Technical	Assistance	Center’s	(PTAC)	Analysis	of	State	Public	Reports  ......Massachusetts
+Baron	Rodriguez,	AEM	Corporation
+Marcus	Bevier,	South	Dakota	Department	of	Education
+Josh	Klein,	Oregon	Department	of	Education
+4:15–5:15
+Privacy Technical Assistance Center (PTAC) will share the work done to evaluate state education 
+agency public reports, suppression techniques, and general recommendations around data 
+disclosure avoidance methodologies. Each state will receive a sealed copy of the evaluation, and a 
+few peer states will provide their thoughts on the results they received.
+
+--- Page 33 ---
+Wednesday, February 13, 2013
+33
+V-G	 Leveraging	Real-Time	Data	Collection	to	Improve	Achievement ................................... New	York
+Jim	Peterson,	Bloomington	Public	Schools	District	87	(Illinois)
+Aziz	Elia,	CPSI,	Ltd.
+4:15–5:15
+IlliniCloud started as a grass-roots effort to build a shared, cloud-based technology infrastructure. 
+The Race to the Top component includes collaboration with the state, Illinois Interactive Report 
+Card (IIRC), and the Shared Learning Collaborative (SLC) to allow educators access to data, 
+resources, and tools that will enhance student performance. The pilot project incorporates 
+real-time district data extracts and validations that provide data to a cloud-based data store. In 
+this session, District 87 will discuss error reporting, data correction and analytical tools to allow 
+interoperability between student data, assessments, and other learning-related data. The impact 
+this project has on students and educators and future goals will also be discussed.
+V-I	 Kansas’	Data	Audit	Framework	Methodology:		
+	 Improving	Data	Quality	in	Educational	Longitudinal	Data	Systems  ..........................Rhode	Island
+Kelly	Holder,	Kansas	State	Department	of	Education
+4:15–5:15
+The Kansas State Department of Education (KSDE) has recently implemented a series of data 
+audits in an effort to continuously improve data quality. In this presentation, KSDE will discuss the 
+framework used in data auditing, the methodology used for data profiling, and the steps for the 
+validation of data as it arrives in source systems and is later staged to stars or cubes. Empirical 
+examples of how business logic has been implemented as a result of KSDE’s data audits will also 
+be provided.
+V-H	 Labor	and	Education	Data:	Success	Stories  .............................................................Pennsylvania
+Jeff	Sellers,	SLDS	State	Support	Team
+Carol	Jenner,	Washington	State	Education	Research	and	Data	Center
+Neal	Gibson,	Arkansas	Research	Center
+Michael	Taquino,	National	Strategic	Planning	and	Analysis	Research	Center	(nSPARC)	at	
+	 Mississippi	State	University
+David	Stevens,	The	Jacob	France	Institute,	University	of	Baltimore
+4:15–5:15
+This session will be facilitated by SLDS State Support Team member Jeff Sellers. This session will 
+cover types of workforce data, how workforce data can be linked to education data, the added 
+value workforce data brings to K–12 education data, limits to the use of workforce data, and 
+examples of workforce data use. Arkansas, Mississippi, and Washington will present success 
+stories around linking education and workforce data.
+
+--- Page 34 ---
+Wednesday, February 13, 2013
+34
+V-J	 Learning	From	Others	in	South	Carolina:	Development	of	
+	 A	Single-Source	Analytics	Model	for	Use	in	K–12	Education  .................................South	Carolina
+Paul	Butler-Nalin,	South	Carolina	Department	of	Education
+Sean	Mulvenon,	University	of	Arkansas
+4:15–5:15
+The South Carolina Department of Education has recently begun adopting a single-source model 
+approach to improve the use of educational data in its school systems in efforts to improve student 
+achievement. In the past, multiple data platforms have made it difficult or time consuming to 
+integrate data from different sources, vendors, or even school systems into one system for use 
+in completing the necessary analytics for reports. A presentation by the educational statisticians 
+from the University of Arkansas outlined a single-source approach, emphasizing how to “capture” 
+data from multiple sources in an improved data analytics and reporting system. The goal of this 
+presentation is to demonstrate how, with limited support and a commitment to the process, 
+this transition can be completed by any district or state while improving the cost efficiency and 
+effectiveness of their data systems.
+
+--- Page 35 ---
+Thursday, February 14, 2013
+35
+8:00–5:15	 Registration  .................................................................................................Promenade
+8:00–5:00		 Cyber	Café	and	Demonstrations	Open  .....................................................................East
+9:00–10:00					Concurrent	Session	VI	Presentations
+VI-A	 Best	Practice:	Nightly	Data	Collection  ............................................................................Colonial
+James McMahon, Louisiana Department of Education
+Kamal Kumar, Otis Educational Systems, Inc.
+9:00–10:00
+The Louisiana Department of Education found itself needing more data for analysis and reporting. 
+However, the department wanted to limit or reduce the burden placed on the districts and charter 
+schools to provide such data. This session will address how Louisiana, working with its statewide 
+longitudinal data system (SLDS) partner, implemented a process and system that collects and loads 
+data into the SLDS nightly in an automated manner. It is a simple, quick, non-intrusive solution that 
+has relieved a major headache for the state as well as its districts. The source systems providing 
+the data are hosted at various sites across the state and outside the state. Louisiana is now 
+considering expanding this solution to collect data statewide and completely removing the state 
+reporting requirement from its districts. Additionally, this may also be the solution to support the 
+Partnership for Assessment of Readiness for College and Careers (PARCC) requirement for nightly 
+data.
+VI-B	 SLDS	Session:	Establishing,	Documenting,	and	Institutionalizing	
+	 K–12	Data	Governance	Policies	and	Processes  ................................................................Chinese
+Corey Chatis, SLDS State Support Team
+Christina Tydeman, Hawaii State Department of Education
+Bill Huennekens, Washington State Office of Superintendent of Public Instruction
+Kathy Gosa, Kansas State Department of Education 
+This session is limited to P–20W SLDS Staff from grantee and non-grantee states.  This session 
+was originally scheduled for the SLDS Best Practices Conference.
+9:00–11:15
+This panel discussion will address the critical components of P–20 data governance, including 
+lessons learned and success stories from Washington, Kansas, and Hawaii. Hawaii will discuss 
+the governance structure and data resolution process. Washington will discuss roles and 
+decisionmaking authority and its data management committee. Kansas will walk through the 
+governance escalation process and the data steward board. This discussion will be followed by 
+small-group breakouts to discuss participants’ specific questions/challenges.
+
+--- Page 36 ---
+Thursday, February 14, 2013
+36
+VI-C	 Virginia	Longitudinal	Data	System—Accessing	
+	 Multiple	Datasets	and	Merging	Records  .............................................................................State
+Matthew Bryant, Virginia Department of Education
+Will Goldschmidt, Virginia Information Technologies Agency (VITA)
+Jeremy Adams, Virginia Tech University
+Aaron Schroeder, National Strategic Planning and Analysis Research Center (nSPARC) at    
+ Mississippi State University
+9:00–10:00
+The Virginia Longitudinal Data System (VLDS) provides researchers with access to data from 
+multiple datasets. These data are available only after cohort records from the datasets have 
+been matched, requiring either a common identifier or performing matching routines. This 
+presentation will provide a description and demonstration of the solution used by the VLDS and 
+will address some of the challenges presented with working with multiple, disparate datasets.
+VI-D	 Ensuring	Data	Governance	Across	the	P–20W	Spectrum  ............................Promenade	Ballroom
+Keith Brown, SLDS State Support Team
+Melissa Beard, Washington State Office of Financial Management
+Michael Taquino, National Strategic Planning and Analysis Research Center (nSPARC) at 
+ Mississippi State University
+9:00–10:00
+This session will be facilitated by Statewide Longitudinal Data System (SLDS) State Support 
+Team member Keith Brown. The session will cover transitioning from a single-sector data 
+governance structure to a P–20W data governance structure, strategies for engaging relevant 
+stakeholders, roles and responsibilities, decisionmaking processes, accountability, and mandated 
+or collaborative governance. Representatives from Washington and Mississippi will present 
+their P–20W governance best practices and lessons learned, with an opportunity for discussion.
+VI-E	 Anywhere,	Anytime,	Over	Time:	Longitudinal	Data	to	the	Teacher	Desktop  ....................Georgia
+David Uhlig, Charlottesville City Public Schools (Virginia)
+Bethann Canada, Virginia Department of Education
+9:00–10:00
+In Spring 2011, Charlottesville City Schools was awarded a Longitudinal Data Systems grant through 
+the Virginia Department of Education and the U.S. Department of Education. The district’s proposal 
+was to integrate Pearson Inform with its PowerSchool Student Information System (SIS) to bring 
+disparate assessment data together in one interface in a FERPA-compliant manner to allow teachers 
+and administrators to implement academic improvement plans for all students. This presentation 
+and demonstration will highlight the following aspects of the grant criteria: linking student data 
+
+--- Page 37 ---
+Thursday, February 14, 2013
+37
+with teachers responsible for their instruction, providing data on teacher and principal evaluation 
+systems, and providing teachers and principals with information on student growth and achievement.
+VI-F	 Growth	and	Enhancement	of	Montana	Students	(GEMS)—
+	 Montana’s	Statewide	Longitudinal	Education	Data	System  ..................................Massachusetts
+Jamey Ereth and Sue Mohr, Montana Office of Public Instruction
+Michael Tonderum, Aspect Software, Inc.
+9:00–10:00
+This presentation will give an overview and demonstration of Montana’s new statewide 
+longitudinal data system that provides access to multiple years of data and interactive reports 
+on student achievement, graduation rates, enrollment, program and course offerings, district 
+and school profiles, the National Assessment of Education Progress (NAEP), and financial 
+information reported by school district, to name a few.  Additionally, Growth and Enhancement 
+of Montana Students (GEMS) provides users the ability to compare Montana schools side by side.  
+GEMS is based on the Microsoft Business Intelligence offering. Montana also has added some 
+third-party components in the mix to help it efficiently manage metadata and business process 
+workflows inside the system.
+In this presentation, we will focus on the GEMS Web portal and demonstrate all of its 
+functionality and/or we could add on other areas of interest, such as how the project 
+developed by discussing our roadmap from the planning phase into our implementation 
+phase; we could also discuss our Data Governance process that we have developed along with 
+the GEMS project, or get technical about the framework and platform—or all of the above.  
+VI-G	 Approaches	to	Agency	Restructuring	Toward	Common	Goals  ......................................New	York
+Robin Taylor, SLDS State Support Team
+Kurt Kiefer, Wisconsin Department of Public Instruction
+Kim Nesmith, Louisiana Department of Education
+Jeff Noel, District of Columbia Office of the State Superintendent of Education
+9:00–10:00
+Each presenting state in this session will describe its plan for restructuring toward common goals 
+within its own agency or as a collaborative process involving other state agencies. Presenters will 
+detail reasons behind restructuring, lessons learned so far in the process, and their vision for the 
+finalized agency structure. States will also provide examples of establishing common goals, lessons 
+learned in agency restructuring, and ways they used the statewide longitudinal data system to 
+assist in agency restructuring.
+
+--- Page 38 ---
+Thursday, February 14, 2013
+38
+VI-H	 Beyond	Data	Standards	and	Cleansing:	Steps	to	Improve	Information	Quality  ........Pennsylvania
+Cyndi Holleman, Florida Department of Education
+9:00–10:00
+Florida has had an automated student and staff reporting system in place for more than 25 
+years and uses many data indicators for the state’s high-stakes accountability and funding 
+system. Full-time equivalent (FTE), class size initiatives, graduation and dropout rates, discipline 
+data, and highly qualified teacher data are a few of the high-profile data categories required by 
+state and federal legislation. This session will highlight the procedures and various data reports 
+used to ensure the accuracy and validity of electronically submitted student and staff data.
+VI-I	 A	School	Turnaround	Model	With	Unprecedented	Results!	
+	 Use	of	New	Technology	to	Measure	and	Guide	Progress  .........................................Rhode	Island
+Kari Yeater, North Monterey County Unified School District (California)
+Nina Rosete and Dawn Verdick, iResult, LLC
+9:00–10:00
+This session will describe how a district with three Turnaround Schools won a $16 million school 
+improvement grant, increased its academic performance index by an average of 40-plus points, 
+doubled the number of students who went on to attend college, and received federal monitoring’s 
+implementation rating of “flawless”—all through the use of impact management technology. The 
+secret was realizing that academic problems are often caused by a combination of social, learning, 
+and behavioral challenges. Using a model of community-centric education reform, educators and 
+non-profit organizations shared responsibility for addressing these challenges to improve academic 
+results. Using iResult’s Impact Management Solution, schools and non-profits shared student data, 
+identified real-time needs, and executed programs to fill the gaps and get students back on track.
+VI-J	 Data	Standards	for	Content:	Granular	
+	 Learning	Standards,	Learning	Resources  ..............................................................South	Carolina
+Richard Culatta, U.S. Department of Education
+Jim Goodell, Quality Information Partners
+Douglas Levin, State Educational Technology Directors Association (SETDA)
+Michael Jay, Educational Systemics
+9:00–10:00
+Since the 2012 Data Conference, there have been significant new developments related 
+to learning standards, education resources (including open educational resources and 
+assessment repositories), and corresponding data standards. This session will examine 
+key developments, including those related to the Common Core State Standards-Granular 
+Identifiers and Metadata (CCSS-GIM) project, the Common Education Data Standards (CEDS) 
+Version 3 release, the Learning Registry, and the Learning Resource Metadata Initiative (LRMI).
+
+--- Page 39 ---
+Thursday, February 14, 2013
+39
+10:00–10:15					Break
+10:15–11:15					Concurrent	Session	VII	Presentations
+VII-A	 Innovative	Data	Collection	Techniques	for	Public	School	Boundary	Information  ............ Colonial
+Tai Phan, National Center for Education Statistics
+Andrea Conver, Sanametrix
+Adrienne Allegretti, Blue Raster, LLC
+10:15–11:15
+As part of a project to obtain public school boundaries, NCES began work on a tool that allows school 
+districts to electronically draw or upload school boundaries through a new online application. Once 
+all boundaries have been drawn, the data is stored and provided to NCES for further geoprocessing 
+and analysis. This session will explain how the tool will allow users to export data for state and/or 
+district use in a variety of formats and will also support the upcoming 2013-2014 national school 
+boundary collection for the Public School Boundary Geodatabase (PSBG). Once processed, the 
+data will be distributed on the SDDS Map Viewer (http://nces.ed.gov/surveys/sdds).
+VII-B	 SLDS	Session:	Establishing,	Documenting,	and	Institutionalizing	
+	 K–12	Data	Governance	Policies	and	Processes  ................................................................Chinese
+Corey Chatis, SLDS State Support Team
+Christina Tydeman, Hawaii State Department of Education
+Bill Huennekens, Washington State Office of Superintendent of Public Instruction
+Kathy Gosa, Kansas State Department of Education 
+This session is limited to P–20W SLDS Staff from grantee and non-grantee states.  This session 
+was originally scheduled for the SLDS Best Practices Conference.
+9:00–11:15
+This panel discussion will address the critical components of P–20 data governance, including 
+lessons learned and success stories from Washington, Kansas, and Hawaii. Hawaii will discuss 
+the governance structure and data resolution process. Washington will discuss roles and 
+decisionmaking authority and its data management committee. Kansas will walk through the 
+governance escalation process and the data steward board. This discussion will be followed by 
+small-group breakouts to discuss participants’ specific questions/challenges.
+
+--- Page 40 ---
+Thursday, February 14, 2013
+40
+VII-C	 Apps4VA:	Enlisting	the	Public	in	Apps	Creation	for	Data	Analysis  ........................................State
+Bethann Canada, Virginia Department of Education
+Paul McGowan, Center for Innovative Technology
+10:15–11:15
+This session will describe how the Virginia Department of Education and the Center for Innovative 
+Technology co-launched a unique program known as Apps4VA. This program is the first of its 
+kind to sponsor multiple cutting-edge components that enlist the public’s ingenuity in creating 
+innovative software applications (apps) using K–12 education data. The four components include 
+two public apps development competitions (an open competition for the general public and a 
+competition for Virginia public high school students); a Startup Weekend; and a high-energy, 24-
+hour “hackathon” event that linked four simultaneous “hackathons” throughout the state—all to 
+benefit education. More information can be found at http://www.apps4va.org/.
+VII-D	 A	Data-Driven	Approach	to	.	.	.	Training,	
+	 Deployment,	and	Communication  .............................................................Promenade	Ballroom
+Brian Rawson, Texas Education Agency
+Melanie Meador, Deloitte Consulting LLP
+In 2013, the Texas Education Agency (TEA) will begin the statewide deployment of the Texas 
+Student Data System (TSDS) to more than 1,200 independent school districts that serve nearly 
+five million students. As part of its extensive preparation and planning, TEA conducted surveys 
+to assess the awareness, readiness, and capabilities of the districts and regional service centers 
+to adopt TSDS. In addition to allowing TEA to be very focused with its initial outreach activities, 
+the results of the surveys helped shape TEA’s communications across the state and its planning 
+for communications and deployment. This presentation will look at the survey objectives, how 
+the results informed strategy and planning, and how a data-driven approach optimizes the use of 
+resources while supporting high levels of adoption.
+10:15–11:15
+VII-E	 Incorporating	Head	Start	Data	Into	Your	Statewide	Longitudinal	Data	System	(SLDS)  ......Georgia
+Missy Cochenour, SLDS State Support Team
+Colleen Murphy, Utah Early Childhood Comprehensive Systems Initiative
+Denise Mauzy, Opportunities in a Professional Education Network (OPEN) Initiative at the   
+ University of Missouri
+10:15–11:15
+This session will be facilitated by Statewide Longitudinal Data System (SLDS) State Support Team 
+member Missy Cochenour. State panelists will share best practices and lessons learned from their 
+states’ work to incorporate Head Start data into their SLDSs. Additionally, panelists will discuss 
+possible elements to begin the exchange and how they can be used to further conversations in a 
+
+--- Page 41 ---
+Thursday, February 14, 2013
+41
+state and build buy-in and support, effective models for engagement, and needed processes and 
+policies.
+VII-F	 Anatomy	of	Data	Linking	in	the	P–20	World  ........................................................ Massachusetts
+Laurel Ballard, Wyoming Department of Enterprise Technology Services
+Alex Jackl, Choice Solutions, Inc.
+10:15–11:15
+Linking records through time and horizontally across agencies and institutions is not a trivial 
+problem. The effort involves attending to such issues as periodicity, source ownership, data grain, 
+PII-issues, data privacy laws (both local and federal), and the fact that there are more fiefdoms 
+and political boundaries than can be imagined, as well as having to deal with vendors vying for 
+position and placement. What is a state to do? This session will walk through the issues Wyoming 
+struggled with as it tackled this problem and explore how it dealt with the legislature, its higher 
+education partners and cross-agency politics. Bring your questions and thoughts as we have an 
+open dialogue about these issues starting with how the state of Wyoming began its struggle and 
+how we resolved these data-linkage issues.
+VII-G	 Privacy	Technical	Assistance	Center	(PTAC)	Toolkit:	New	Design!	New	Materials!  ........ New	York
+Michael Hawes, U.S. Department of Education
+Baron Rodriguez and Halima Odom, AEM Corporation
+10:15–11:15
+Privacy Technical Assistance Center (PTAC) has a variety of new publications, training videos, and 
+reference materials. Join us as we navigate PTAC’s new website and latest publications. PTAC will 
+also provide a preview of upcoming publications, trainings, and events for 2013.
+VII-H	 Data	Linking	for	Analytics—K–12	to	Community	College	to	University  ....................Pennsylvania
+John Watson, Institute for Evidence-Based Change
+Todd Ikenaga and Jean Osumi, University of Hawaii
+10:15–11:15
+With a focus on data use and an emphasis on cross-segment data tracking, we will present in this 
+session the techniques and outcomes of projects from multiple states that link education data 
+with labor data. Also included will be a discussion of the various analytics reports and output 
+prepared, including dynamic web-based reporting, various dashboards, and OLAP cubes and cube 
+browsers.
+
+--- Page 42 ---
+Thursday, February 14, 2013
+42
+VII-I	 Context	Matters	in	Diné	Education:	Factors	Contributing	to
+	 the	Academic	Achievement	of	Navajo	Students  ......................................................Rhode	Island
+Kalvin White, Navajo Nation Department of Diné Education
+10:15–11:15
+This presentation will address contextual factors that impact the academic achievement of Navajo 
+students attending schools on the Navajo Nation. The Navajo Nation has implemented a multi-
+level data analysis method to identify the nontraditional factors impacting student academic 
+achievement. Results of this study are based upon the data collection completed for 800 Navajo 
+students.
+11:15–11:30					Break
+VII-J	 Use	Open-Source	Software	to	Collect	and	Manage	Data	Easily	and	Cheaply  ........ South	Carolina
+Bo Yan and Mike Slagle, Blue Valley School District (Kansas)
+10:15–11:15
+Many districts have adopted a large data system, such as PowerSchool, to collect and manage 
+generic data, such as demographics and enrollment; however, such systems lack the flexibility to 
+collect and manage particular data, which is often needed for specific programs. In this session, the 
+presenters will demonstrate how Moodle and LimeSurvey, two pieces of open-source software, 
+have been employed to build online interfaces where data can be easily collected and managed. 
+This presentation will be particularly useful for districts that are trying to find a cheap and easy way 
+to collect and manage data that cannot be easily dealt with by their large, generic data system.
+
+--- Page 43 ---
+Thursday, February 14, 2013
+43
+11:30–12:30					Concurrent	Session	VIII	Presentations
+VIII-A	 Data	Analysis	Technical	Assistance	(DATA)	User	Group	Meeting  .....................................Colonial
+Dorothyjean Cratty, National Center for Education Statistics
+Jared Knowles, Wisconsin Department of Public Instruction
+This session is limited to SEA/LEA Staff.
+11:30–12:30
+This will be a group meeting of state and local education agency staff involved in conducting and/
+or vetting analysis, using their agencies’ administrative data to share information on statistical 
+methods and resources. The Data Analysis Technical Assistance (DATA) User Group is the core of 
+a broader data analysis community of practice (DATA-COM) where agency analysts can draw on 
+the expertise of each other and of researchers capable of helping education agencies increase 
+statistical capacity. 
+If you are not a state or local education agency analyst but are interested in participating in the 
+broader community of practice, you are welcome to attend the open DATA-COM session (IX-A at 
+1:45 p.m.).
+VIII-B	 Data	for	Action:	How	Oklahoma	Is	Efficiently	Expanding	Data	Tools  ................................Chinese
+John Kraman, Oklahoma State Department of Education
+Kathleen Barfield, Edvance Research, Inc.
+Lori Fey, Michael & Susan Dell Foundation
+11:30–12:30
+Across Oklahoma, educators are accessing new data tools while the data infrastructure is being 
+updated and improved. This session will offer a look into the Early Warning Indicator System and 
+the School Data Partner Tool, as well as plans to expand functionality to encompass powerful Ed-
+Fi-enabled dashboards and key training and intervention tracking components, PM Village, which 
+was originally developed by Edvance Research. Hear how stakeholders are reacting to, using, and 
+informing the development of these evolving tools.
+
+--- Page 44 ---
+Thursday, February 14, 2013
+44
+VIII-D	 Using	Name	Change	and	Non-Education	
+	 Administrative	Data	to	Assist	in	Identity	Matching  ....................................Promenade	Ballroom
+John Sabel, Washington State Education Research and Data Center
+Carol Jenner, Washington Office of Financial Management
+11:30–12:30
+Identity matching techniques often utilize name data to assist in linking data longitudinally and 
+across sectors. Though these techniques can handle some variations in names, they have difficulty 
+with significant name changes. In these cases, using outside sources of name changes becomes 
+essential. This session will describe those sources that are used by the Washington State Education 
+Research and Data Center (ERDC) to match seemingly disparate data. Though these sources are 
+specific to Washington State residents, analogous sources could potentially be available in other 
+states. This session will also describe how these sources are prepared and how they are used in 
+identity matching.
+VIII-E	 Training	Local	Stakeholders	to	Use	Longitudinal	Data	Systems	(LDS)  ...............................Georgia
+Robin Taylor, SLDS State Support Team 
+Justin Katahira, Hawaii State Department of Education
+Bob Swiggum, Georgia Department of Education
+Steve Garner, Delaware Department of Education
+11:30–12:30
+Panelists will give an overview of local stakeholder training for their state’s longitudinal data system, 
+including who is trained, who provides the training, what content is included in the training, and 
+how training occurs. Panelists will also discuss lessons learned regarding increasing stakeholder 
+participation and increasing training effectiveness.
+VIII-C	 Higher	Education	Longitudinal	Data	System	in	New	York	State  ...........................................State
+Charlene Swanson and Andrew Setzer, New York State Education Department
+Russ Redgate, eScholar LLC
+11:30–12:30
+The New York State Education Department (NYSED) with its P–20 statewide longitudinal data 
+system (SLDS) platform vendor, eScholar, will discuss in this session the goals and objectives driving 
+NYSED to expand its education SLDS data collection to include higher education information from 
+the State University of New York (SUNY) and the City University of New York (CUNY). Topics include 
+policy considerations, identification and enlistment of various stakeholders, current and future 
+scope of data collection efforts, and NYSED’s roadmap for using these data to improve curriculum 
+and policy decisions throughout the education continuum. Attendees of this session will be given 
+the opportunity to share their experiences implementing postsecondary data collection.
+
+--- Page 45 ---
+Thursday, February 14, 2013
+45
+VIII-G	 Automating	State	Reporting—A	Regional	Service	Agency	Success	Story  ...................... New	York
+Larry Fruth, SIF Association
+Jennifer Schmidt, Tri-Rivers Educational Computer Association (TRECA)
+11:30–12:30
+The regional agency focus on supporting its local school districts is continuing to expand in this age 
+of “doing more with less.” Add on top of that now the increased role of mandated state reporting, 
+and you have a recipe for increasing stress and time. This session will focus on the standardized 
+approach that Ohio has taken to automate state reporting to ease the “pain” on schools and 
+regional service agencies—the good and the bad!
+VIII-H	 Exploring	North	Carolina	School	Statistics:	A	Look	at	Our	New	Online	
+	 Statistical	Profile	and	ARRA/RTTT	Financial	Reporting	Application  .........................Pennsylvania
+Andrew Cox and Frank Cernik, North Carolina Department of Public Instruction
+11:30–12:30
+This session will explore the collection of, use of, and reporting of financial and student accounting 
+data that is published on the North Carolina Public Schools website in its new online Statistical 
+Profile (a compilation of statistical data at the state, local education agency, and charter school 
+levels) that is easily accessible for public use. In addition, the presenters will explore statistical 
+data published in North Carolina’s ARRA/RTTT Financial Reporting Application.
+VIII-F	 Tennessee	Connects	the	State	With	
+	 Race	to	the	Top	Longitudinal	Data	Systems  ..........................................................Massachusetts
+Tammy Lemon and Tom Jenkins, The University of Tennessee
+Jim Rife and Glynn Ligon, ESP Solutions Group
+11:30–12:30
+The University of Tennessee’s Center for Business and Economic Research (CBER) has consolidated 
+data from labor, higher education, and K–12 education agencies. This session will explore how 
+CBER has used the diverse data sources to create a true P–20 longitudinal data system (Measure 
+Tennessee) designed to answer any question the governor, legislatures, researchers, educators, 
+program administrators, parents, college applicants, or students could imagine.  We will share 
+insight on our journey through governance issues, security demands, metadata alignment 
+mappings, master person indexing, and ETL-ing while creating the Measure Tennessee data 
+system. Domains—you can only begin to count the domains.
+
+--- Page 46 ---
+Thursday, February 14, 2013
+46
+IX-A	 Data	Analysis	Technical	Assistance	Community	of	Practice	(DATA-COM)  ........................ Colonial
+Dorothyjean Cratty, National Center for Education Statistics
+Jared Knowles, Wisconsin Department of Public Instruction
+1:45–2:45
+This will be an open session for the broad data analysis community of practice supporting the 
+exchange of information and resources for state and district education agencies and their partners. 
+The focus of this exchange will be on statistical methods for analyzing administrative data. This is 
+not a policy or information technology discussion session, but an “in-the-weeds” methodological 
+knowledge utilization session. Some of the areas of interest to the core Data Analysis Technical 
+Assistance (DATA) User Group of state and local education agency analysts are growth models, 
+teacher effects, early warning indicators, student population projections, synthetic datasets, GIS 
+data, data visualizations, and powerful descriptive analysis.
+VIII-I	 Preliminary,	Provisional,	and	Final	Data—Establishing	a	Data	Release	Life	Cycle  .....Rhode	Island
+Ross Santy, U.S. Department of Education
+11:30–12:30
+Data collected for programmatic or policy purposes go through an annual life cycle that can make 
+it difficult to put out data in a timely fashion. Over the past year and a half, the U.S. Department of 
+Education (ED) has been organizing around a three-stage model for data release that should result 
+in shorter timelines between collection and publication. This session will cover how the three 
+stages will be applied to a subset of data collected through EDFacts. The session will also include 
+opportunities to provide feedback to ED on how the three-stage model could interact with state 
+and/or local models of data release.
+12:30–1:45					Lunch	(on	Your	Own)
+1:45–2:45						Concurrent	Session	IX	Presentations
+
+--- Page 47 ---
+Thursday, February 14, 2013
+47
+IX-B	 Cross-Border	Collaboration—Idaho	and	Virginia	
+	 Statewide	Longitudinal	Data	System	(SLDS)	Programs  ....................................................Chinese
+Matthew Bryant and Bethann Canada, Virginia Department of Education
+Andy Mehl, Idaho State Board of Education
+Jeff Sellers, SLDS State Support Team
+1:45–2:45
+The Idaho and Virginia Statewide Longitudinal Data System (SLDS) programs have embarked on an 
+innovative path to formally cooperate and share technology in building their respective systems. 
+Virginia is readying to launch the Virginia Longitudinal Data System, and Idaho is in the preliminary 
+stages of SLDS design. The two states are undertaking a formal cooperative agreement to share 
+technology and resources. This panel will discuss the plans and also the involvement of the State 
+Support Team.
+IX-D	 Maximizing	Common	Education	Data	
+	 Standards	(CEDS)—The	Kansas	Story  .........................................................Promenade	Ballroom
+Andrea Hall and Kathy Gosa, Kansas State Department of Education
+1:45–2:45
+Common Education Data Standards (CEDS) has created a means by which Kansas can more 
+efficiently collaborate and communicate with other organizations, program areas, researchers, data 
+analysts, and other education stakeholders. Having a central location to align, map, and compare 
+its data elements to national standards and other states provides Kansas with more information 
+to use in discussions with program areas and other organizations when defining and validating our 
+own data definitions. This centralizing effort has also given Kansas the means to implement and 
+IX-C	 Engaging	Internal	Stakeholders/Program	Offices	as	
+	 Clients	of	a	Statewide	Longitudinal	Data	System	(SLDS)  ......................................................State
+Robin Taylor, SLDS State Support Team 
+Jay Pennington, Iowa Department of Education
+Sue Mohr, Montana Office of Public Instruction
+Cathy Rinehart, Kansas State Department of Education
+1:45–2:45
+An important but often overlooked group of statewide longitudinal data system (SLDS) stakeholders 
+are those within the state education agency (SEA), program offices, SEA leadership, and other 
+internal staff. Panelists at this session will provide an overview of how they successfully engaged 
+SEA internal stakeholders and what they learned from doing so. Panelists will also provide some 
+strategies and tips for stakeholder participation.
+
+--- Page 48 ---
+Thursday, February 14, 2013
+48
+IX-F	 MyDataButton  .................................................................................................... Massachusetts
+Michael Sessa, Postsecondary Electronic Standards Council (PESC)
+Jeffrey Alderson, ConnectEDU, Inc.
+Shawn Bay, eScholar LLC
+1:45–2:45
+The White House and the U.S. Department of Education have teamed up to ensure the availability of 
+student data for students themselves through an initiative called MyDataButton. Representatives 
+from Postsecondary Electronic Standards Council (PESC) have been participating in this initiative 
+and at this session will provide an overview of the initiative, what systems are involved, and how 
+others can get involved.
+IX-E	 National	Assessment	of	Educational	Progress	(NAEP)	
+	 Observable	Data	From	Computer-Based	Assessments  ....................................................Georgia
+Bobbi Woods, National Center for Education Statistics
+Gregory Anderson, Fulcrum IT Services LLC
+1:45–2:45
+What did the National Assessment of Educational Progress (NAEP) learn from capturing student 
+observable data during 2011 and 2012 in writing and during 2011 in math computer-based 
+assessments? In this presentation, NAEP will share insights gleaned from an analysis of observable 
+data—how fourth, eighth, and twelfth graders interacted with the NAEP computer-based 
+assessment system. For example, what is the total number of times a student uses a particular 
+system feature and when is the action performed? Recording these actions provides for a greater 
+breadth of data, the potential for additional post-assessment analysis, and critical input for future 
+system enhancements. The presentation will also show how and when students used key test 
+customization and accommodation features.
+maintain its metadata, which, when accompanied by the availability of the common education 
+data standards, helps it meet its objective of easing the burden on Kansas schools by minimizing 
+the collection of redundant data. During this session, the presenters will discuss the benefits that 
+Kansas sees through data alignment and use of CEDS Align and Connect tools. The presenters will 
+describe Kansas’ process of identifying and defining data elements; aligning and mapping them 
+within CEDS; and making them useful by researchers, organizations, and other states. Finally, 
+the presenters will discuss how this entire process will enhance and make more meaningful the 
+information it is reporting back to its districts, schools, and other stakeholders.
+
+--- Page 49 ---
+Thursday, February 14, 2013
+49
+IX-G	 Including	Course	Records	in	Statewide	Longitudinal	
+	 Data	Systems	(SLDS):	Benefits,	Challenges,	and	Progress	Made  ...................................New	York
+Janis Brown, National Center for Education Statistics
+Jennifer Laird, MPR Associates, Inc.
+1:45–2:45
+Student transcripts and course records are universal sources of data across schools and districts. 
+An increasing number of states are incorporating these data into their longitudinal data systems. 
+This session describes the benefits and challenges of doing so. Results from a recent survey of 
+state representatives about the status of centralized course record databases in their state will be 
+presented. The respondents were asked about the types of course record data elements included 
+in these databases, their use of common course coding systems, and planned future developments 
+for those databases.
+IX-H	 Starting	From	“Scratch”	With	a	District	Data	System  ...............................................Pennsylvania
+Larry Fruth, SIF Association
+James Yap, Byram Hills Central School District (New York)
+1:45–2:45
+This interactive session will provide attendees with information on how to leverage lessons learned 
+in data management when moving from a highly developed interoperable data enterprise to a non-
+linked system in a new district and back up the other side. Information includes a customer needs 
+analysis, systems integration and usage of open standards, and automatic ETL usage, including 
+usage of the Common Education Standards work.
+IX-I	 How	Good	is	Good	Enough?	Matching	Records	Across	State	Agencies  ....................Rhode	Island
+Shara Bunis, Pennsylvania Department of Education
+Barbara Clements, ESP Solutions Group
+1:45–2:45
+Merging data from different agencies presents a number of policy, technical, and security/privacy 
+issues that need to be addressed. Solving the technical issues may actually be much easier than 
+solving the data matching and data governance issues. This session will explore the key drivers 
+affecting identity matching and the issues and possible solutions for data management and data 
+governance.
+
+--- Page 50 ---
+Thursday, February 14, 2013
+50
+Jim Campbell, SLDS State Support Team
+The Common Education Data Standards (CEDS) project is not just a standard and a set of powerful 
+tools. CEDS is a conversation starter and a path to effective P–20W data sharing and utilization.  
+This two-hour, hands-on CEDS session located in the Cyber Café will include two differentiated 
+“CEDS Lab” sessions, in which participants can confer with each other and with CEDS leads Jim 
+Campbell, Nancy Copa, and Beth Young as state teams Align and Connect their data systems’ 
+dictionaries to the CEDS.  The first hour-long session is intended for state and district users who 
+are less experienced with the CEDS toolkit (for example, states that have started mapping a data 
+system to CEDS but are experiencing challenges with the mapping process).  The second session is 
+aimed at more experienced state and district users (for example, states that have completed—or 
+are close to having completed—mapping and publishing one or more of their systems to CEDS and 
+may be expanding their work with CEDS to include data governance, data sharing based on the 
+CEDS model, and/or use of the CEDS Connect tools).  
+Because the Cyber Café will have 15 computers connected to the Internet, participation in the CEDS 
+Labs is limited for states that need to take advantage of hotel-provided Internet access.  Additional 
+space will be available (but still limited) for state and district teams that can bring their own “hot 
+spots.” 
+2:45–3:00					Break
+IX-J	 Using	a	Social	Network	and	an	Online	Knowledge	Base	to	Increase
+	 Collaboration	and	Communication	Across	Schools/Districts  ................................ South	Carolina
+Irene Koffink and Michael Schwartz, New Hampshire Department of Education
+1:45–2:45
+For the past four years, every school in New Hampshire has had access to a statewide data system 
+enabling schools to leverage data to inform instruction. Educators across the state use data to 
+personalize education, identify curricula changes, target groups of students, assist with special 
+education plans, and guide education in many other ways. After providing training and assistance 
+to schools in a myriad of ways, New Hampshire has now built a social network that combines an 
+online, targeted knowledge base with a virtual network. This network offers online tools, blogging, 
+and collaboration between schools and with content experts. Come learn more about this online 
+social network that New Hampshire has built with 2Revolutions and EduPlanet. Hear about the 
+lessons learned, initial successes, and ongoing plans.
+Common	Education	Data	Standards	(CEDS)	Workshop
+3:00–5:15 ............................................................................................East
+
+--- Page 51 ---
+Thursday, February 14, 2013
+51
+X-B	 Statewide	Longitudinal	Data	System	(SLDS)	Eye	Candy:	
+	 How	Utah	Uses	Data	to	Visualize	Transitions	of	College
+	 Graduates	Into	Specific	Industry	Sectors	Using	Open-Source	Software ............................Chinese
+Andrew Mingl and Ricardo Silva, Utah College of Applied Technology
+John Brandt, Utah State Office of Education
+3:00–4:00
+This session will provide conference attendees step-by-step instructions on using open-source 
+software tools to powerfully visualize postsecondary graduates by career cluster as they transition 
+into specific industry workforce sectors and subsectors. Transform your boring statewide 
+longitudinal data system (SLDS) Excel files into organic, eye-catching graphs for policymakers 
+and administrators within your state. Using free, open-source software designed to map the 
+relationship of chromosomes between species, the Utah Data Alliance is mapping the transition 
+of postsecondary graduates from career pathways and clusters into specific industry and industry 
+subsectors for better alignment of higher education and workforce.
+X-C	 District	Tools	for	Understanding,	Calculating,	and	
+	 Managing	Adjusted	Cohort	Graduation	Rates  .....................................................................State
+Bari Erlichson, New Jersey Department of Education
+Jim McGlynn, PCG Education
+3:00–4:00
+In this session, participants will learn about the pathways taken by the New Jersey Department of 
+Education to calculate four- and five-year-adjusted cohort graduation rates, manage and process 
+student-level graduation appeals from local education agencies, and report on that data through 
+NJ SMART, the statewide longitudinal data system. Participants will gain insight into the process 
+for calculating the performance measure, the trainings that were developed to support and inform 
+district personnel, and the reporting tools that have been deployed to help educators identify 
+students who are at risk.
+3:00–4:00					Concurrent	Session	X	Presentations
+
+--- Page 52 ---
+Thursday, February 14, 2013
+52
+X-E	 A	Tool	for	Program	Offices	to	Evaluate	Their	
+	 Data	Quality	Review	Process:	Early	Lessons  ....................................................................Georgia
+Kelly Worthington, Noah Mann, Bobbi Stettner-Eaton, Richelle Davis, Darla Marburger, and 
+Meredith Miceli, U.S. Department of Education
+3:00–4:00
+This session will describe current ED Facts Data Governance Board (EDGB) work around data 
+quality, including a newly developed tool for program offices to examine and build systems for 
+examining data quality. Presenters will discuss early program implementation of the EDGB tool. 
+Program representatives will discuss how the tool was used to strengthen data-review procedures 
+at the same time that the program’s data-review process transitioned from a grantee task to an 
+“in-house” responsibility in the fall of 2012.
+X-F	 Designing	and	Implementing	Data-Driven	
+	 Educational	Solutions	for	the	District	and	State  ...................................................Massachusetts
+Ron Kleinman, SIF Association
+Alex Jackl, Choice Solutions, Inc.
+William Hurwitch, Maine Department of Education
+Laurel Ballard, Wyoming Department of Enterprise Technology Services 
+Peter Tamayo, Washington State Office of Superintendent of Public Instruction
+3:00–4:00
+This session identifies the real-world challenges to successfully integrating a set of diverse 
+educational applications into a single, unified data solution, and provides attendees with the 
+necessary techniques to address them. Areas covered include 1) data management: ensuring 
+educational data collected by an application gets to where it needs to go in real time; 2) data 
+privacy: guaranteeing that organizational security policies are maintained and enforced (including 
+X-D	 Surfacing	Data	in	Meaningful	Ways:	South	Carolina’s	Approach	to
+	 Data	for	Parents,	Teachers,	Policymakers,	and	the	Public  ...........................Promenade	Ballroom
+Paul Butler-Nalin, South Carolina Department of Education
+Laurie Collins, UPD Consulting 
+Lori Fey, Michael & Susan Dell Foundation
+3:00–4:00
+By utilizing education data standards, the South Carolina Department of Education is providing 
+data for a wide range of stakeholders—without starting from scratch. In this session, you will 
+hear how existing data components and research are being revitalized to provide actionable 
+information to decisionmakers across the educational spectrum.
+
+--- Page 53 ---
+Thursday, February 14, 2013
+53
+restricting access to individual elements in student discipline and health records); and 3) data 
+standards: mandating the format of data both when stored in a database and when being 
+transmitted over the wire between applications.
+X-G	 Longitudinal	Analyses	Using	Linked	Education	and	Workforce	Data  .............................New	York
+Carol Jenner, Washington Office of Financial Management
+3:00–4:00
+Workforce information is multifaceted and includes individual-level employment and 
+unemployment data as well as characteristics of community or regional-level labor markets. This 
+session will describe the ways in which workforce data can be incorporated into an education-
+focused longitudinal data system. This presentation will also address the types of workforce 
+information available, what questions can be addressed by incorporating workforce data into the 
+longitudinal data system, sources of workforce data, how to acquire workforce data, and tips for 
+preparing workforce data for incorporation in a P–20W data system. A variety of examples using 
+workforce data in conjunction with K–12 and postsecondary data will be presented.
+X-H	 Closing	the	Gap—Effective	Use	of	Educational	
+	 Data	to	Strengthen	Classroom	Instruction  ..............................................................Pennsylvania
+Keith Krueger, Consortium for School Networking 
+Shawnte Holland, Gartner, Inc.
+3:00–4:00
+Similar to longitudinal data systems, student information systems (SIS) and learning management 
+systems (LMS) have the capacity to store large amounts of student data, but state and district 
+educators seeking to utilize these systems are confronted with a bewildering array of products 
+and features for next-generation management systems. Through the Closing the Gap—Turning 
+Data Into Action project, participants will gain an understanding of the current state of SIS/LMS 
+solutions and how they are being used by K–12 educators to strengthen classroom practice. 
+Session topics include SIS/LMS vendor product report, selection and implementation templates, 
+case studies, and practical professional development materials.
+
+--- Page 54 ---
+Thursday, February 14, 2013
+54
+X-I	 Title	I	Allocation	Inputs  ..........................................................................................Rhode	Island
+Jasen Taciak and Ian Millett, U.S. Census Bureau
+William Sonnenberg, National Center for Education Statistics
+3:00–4:00
+The annual production and use of school-age poverty estimates for the Title I Allocation process is 
+a multistep project undertaken by the U.S. Census Bureau and the National Center for Education 
+Statistics. This presentation will describe that process in some detail, including the biennial update 
+to school district boundaries that represents the functional start of the process and the model-
+based procedures used to create the estimates from multiple data sources.
+X-J	 Agile	Development	Using	Scrum  ..........................................................................South	Carolina
+Daniel Retzlaff, Wisconsin Department of Public Instruction
+3:00–4:00
+This presentation will demonstrate how the Wisconsin Department of Public Instruction uses 
+Scrum for applications development for its data collection and data management systems. The 
+presenter will provide an interactive tutorial of what Agile/Scrum is; how Wisconsin implemented 
+it; what benefits it has to offer for a development team or business and data analysts; and how it 
+helps Wisconsin’s local education agencies (LEAs).
+4:00–4:15					Break
+XI-B	 Update	on	the	Midwest	Education	Information	
+	 Consortium	(MEIC)	Interstate	ID	Exchange	Project  ..........................................................Chinese
+Kathy Gosa, Kansas State Department of Education
+Tom Ogle, Missouri Department of Elementary and Secondary Education
+Jay Pennington, Iowa Department of Education
+4:15–5:15
+The state education agencies of Iowa, Kansas, Missouri, and Nebraska in collaboration with 
+eScholar have been working together to build a foundation for data exchange among their states. 
+The eScholar Interstate ID eXchange project will enable state administrators to locate students 
+4:15–5:15					Concurrent	Session	XI	Presentations
+
+--- Page 55 ---
+Thursday, February 14, 2013
+55
+XI-C	 Effective	Project	Planning	and	Managing	Change:	
+	 How	States	Handle	Unexpected	Changes  ............................................................................State
+Robin Taylor, SLDS State Support Team
+Christina McDougall, Washington State Education Research and Data Center
+Matthew Brownlee, District of Columbia Office of the State Superintendent of Education
+Tom Olson, South Carolina Department of Education
+4:15–5:15
+Washington, Wisconsin, and the District of Columbia will share relevant tips, strategies used, 
+and the lessons they learned when faced with unexpected challenges to their original plan for 
+statewide longitudinal data system (SLDS) development and improvement.
+who may have continued school in a different state. This capability will aid these state education 
+agencies in identifying false drop-outs and more accurately report key education metrics. The 
+panel presenters in this session will discuss their progress, the technologies being used, and the 
+challenges they encountered for their state.
+XI-D	 Common	Education	Data	Standards	(CEDS)	
+	 Supporting	Assessment	Systems	Development  ..........................................Promenade	Ballroom
+Larry Fruth, SIF Association
+Jill Abbott, Abbott Advisor Group
+Rob Abel, IMS Global Learning Consortium
+4:15–5:15
+The Race to the Top Assessment (RTTA) Grant Program presents some grand challenges for 
+assessment systems. One of the critical components when building comprehensive assessment 
+systems involves the various technical considerations and the advantages of utilizing open technical 
+standards. The SIF Association and IMS Global Learning Consortium communities, in partnership 
+with the Smarter Balanced Assessment Consortium and the Partnership for Assessment of 
+Readiness for College and Careers consortia, have joined forces to develop a standards-based 
+technical solution in support of the RTTA Grant Program for deployment in states and schools. This
+session will explore the capacity of this technical solution to inform the continually maturing 
+Common Education Data Standards (CEDS) and the ways in which CEDS suggestions for Assessment
+Interoperability Framework (AIF) will be considered in all AIF deliverables.
+
+--- Page 56 ---
+Thursday, February 14, 2013
+56
+XI-G	 Improving	the	SEA-LEA	Data	Relationship,	Data	
+	 Quality,	Data	Governance,	and	Support	for	Data	Use  .................................................. New	York
+John Kraman, Oklahoma State Department of Education
+Nancy Smith, DataSmith Solutions
+4:15–5:15
+The Oklahoma State Department of Education (OSDE) and DataSmith Solutions surveyed all 530 
+districts in the state about the “Data Pipeline,” which encompasses the technology, people, and 
+processes required to move data from the classroom to the state and back again. Come hear about 
+the findings from this survey and how the OSDE will remain engaged with districts to develop and 
+implement the solutions to the most pressing data pipeline challenges.
+XI-F	 School	Accountability	Data	Integration	in	Practice  ...............................................Massachusetts
+Trev Swarm and Alan Moore, Laramie County School District #1 (Wyoming)
+4:15–5:15
+This presentation will explore the integration of a district-wide focus on school accountability with 
+an existing data warehouse platform. An overview of the accountability program will be followed 
+by discussion of the integration and automation of its critical standardized test score metrics 
+into the district data warehouse. Growth and status-based metrics will be the primary focus. 
+Demonstrations of reports and self-service tools built around that platform will also be given.
+XI-E	 Using	Early	Childhood	Data	From	a	Statewide	Longitudinal
+	 Data	System	(SLDS):	Moving	Beyond	Collection  ..............................................................Georgia
+Missy Cochenour, AEM Corporation 
+Albert Wat, National Governors Association
+4:15–5:15
+This session will address how states are using early childhood data from a statewide longitudinal 
+data system to inform decisions at the state and local levels and discuss the future from a national 
+perspective about what can be done.
+
+--- Page 57 ---
+Thursday, February 14, 2013
+57
+Come see the new features NCES is adding to its School District Demographics System (SDDS) 
+website! This session will present an overview of the latest features and data enhancements 
+(five-year American Community Survey [ACS] and Census Profile Data Percentages) for the SDDS 
+Interactive Map Viewer, including digitized school boundary files and locale code assignments. 
+The presenters will share the future vision of SDDS and how we are adapting to modern ways of 
+consuming data with mobile devices.
+XI-H	 What’s	New	With	the	NCES	School	District	
+	 Demographics	(SDDS)	and	Web	Mapping	Tools  ......................................................Pennsylvania
+Tai Phan, National Center for Education Statistics
+Adrienne Allegretti and Michael Lippmann, Blue Raster
+4:15–5:15
+XI-I	 Effective	Teaching—A	New	Hampshire	Model	for	Educator	Evaluations  ..................Rhode	Island
+Irene Koffink and Michael Schwartz, New Hampshire Department of Education
+4:15–5:15
+A New Hampshire Task Force for Effective Teaching was created and charged with designing a 
+New Hampshire approach to educator evaluation. New Hampshire now has a model for educator 
+evaluations that includes student outcome measures. With funding provided by the statewide 
+longitudinal data system (SLDS) grant, New Hampshire is operating a statewide model system. 
+Two primary components of this effort include 1) a statewide system that enables administrators 
+to run student outcome reports, including student growth measures as well as student and 
+parent surveys and other student learning objectives outcomes; and 2) an Educator Information 
+System that enables administrators to track and manage the evaluation process—from tracking 
+which educators are due for an evaluation to tracking the status of evaluation steps, including 
+recording of classroom observations. New Hampshire is building upon a statewide data reporting 
+package called PeformancePLUS and a statewide Educator Information System developed by Hupp 
+Technologies. This session will give you an opportunity to learn more about New Hampshire’s 
+efforts, challenges, and successes.
+
+--- Page 58 ---
+
+
+--- Page 59 ---
+Friday, February 15, 2013
+59
+8:00–11:15	 Registration  .................................................................................................Promenade
+8:00–10:00		 Cyber	Café	and	Demonstrations	Open  .....................................................................East
+SLDS	Workshop:	Sustainability
+9:00–12:00 ....................................................................................Colonial
+Jeff Sellers, SLDS State Support Team
+This session is limited to P–20W SLDS Staff from grantee and non-grantee states.  This session 
+was originally scheduled for the SLDS Best Practices Conference.
+As states have received grant funding to develop and implement statewide longitudinal data 
+systems (SLDS)—K–12 and P–20W—the issue of sustainability becomes a real concern. As many 
+grants are coming to a close, strategies for sustaining these systems must be addressed as soon 
+as possible. Other grants are just starting, and this is the ideal time to get sustainability “on the 
+radar” and keep those responsible for those decisions “in the loop” as SLDS progress is made. 
+Whether your grant is running out soon, you’re just starting, or you don’t even have a grant but 
+are working on your SLDS, you need a plan for sustainability.
+Join us for a workshop on strategies and plans for sustainability. The agenda will include an 
+evaluation of your current situation and a discussion of options, opportunities, and strategies for 
+sustainability. The session will close with a formulation of the components of a plan that you can 
+take back to your site to assist you in establishing ongoing sustainability for your SLDS.
+SLDS	Workshop:	Stakeholder	Engagement
+9:00–12:00 ....................................................................................Chinese
+Robin Taylor, SLDS State Support Team 
+This session is limited to P–20W SLDS Staff from grantee and non-grantee states.  This session 
+was originally scheduled for the SLDS Best Practices Conference.
+Engaging stakeholders in the longitudinal data system process is critical to the success and 
+purposeful use of such a system once it is implemented. Through the use of the Stakeholder 
+Engagement Template, a state agency can plan a strategy to bring key groups to the table to 
+provide input and feedback into the data system. However, states that have engaged stakeholders 
+in the design, development, and implementation of their longitudinal data system report that 
+building and executing a plan is not enough.
+Join us for a workshop on strategies and techniques for maximizing stakeholder engagement 
+across any sector—early childhood, K–12, or P–20W. The agenda will include a self-assessment to 
+determine where you are in the process of engaging stakeholders, an introduction of strategies to 
+increase the input and involvement you get from your stakeholders, the creation of a plan of action 
+
+--- Page 60 ---
+Friday, February 15, 2013
+60
+to move you to your desired state, and development of a personalized picture of what successful 
+stakeholder engagement will look like in your state. The workshop will be interactive and will 
+include several activities designed to assist states in increasing stakeholder engagement and the 
+quality of the engagement. Bring your current stakeholder engagement plan and your ideas. You 
+will leave with information designed specifically for your state and statewide longitudinal data 
+system (SLDS).
+Workshop:	Estimating	Teacher	Effects
+9:00–12:00 ........................................................................................ State
+Dorothyjean Cratty, National Center for Education Statistics
+This session is limited to SEA/LEA Staff.
+States and districts use a variety of statistical models to measure teacher effects—also referred 
+to as “teacher quality estimates” or “teacher value-added contributions to student achievement.” 
+These estimates may be used as a component of teacher evaluations, as an assessment of teacher 
+prep programs, or as a mechanism for targeting professional development. This workshop will 
+cover the challenges and implications of the different statistical specifications as well as some 
+guidance on interpreting the results for stakeholders. The technical level of the material covered 
+will be determined by the experience level of the attendees, although a range of resources for 
+learning more about the analytics will also be reviewed.
+This workshop will also focus on the data decisions involved in measuring teacher effects using 
+student achievement growth. Even if your state or district contracts out the measurement of 
+teacher effects, it is useful to understand as much as possible about the different specifications in 
+use and in development. The workshop will provide information that will aide in communicating 
+about these decisions with educators, policymakers, and the researchers designing and revising 
+the models. 
+SLDS	Workshop:	Data	Use
+9:00–12:00 ............................................................... Promenade	Ballroom
+Corey Chatis, SLDS State Support Team 
+This session is limited to P–20W SLDS Staff from grantee and non-grantee states.  This session 
+was originally scheduled for the SLDS Best Practices Conference.
+Creating a longitudinal data system provides almost endless possibilities for stakeholders—from 
+teachers to state policymakers to institutional researchers—to use data to inform their decisions 
+and influence their behaviors. However, many states have learned the hard way that “build it and 
+they will come” doesn’t hold true. Supporting use requires states to identify, prioritize, and engage 
+their user groups and define the intended uses of the system by role. It is also important to ensure 
+that users have the support and resources they need to understand the information provided 
+
+--- Page 61 ---
+Friday, February 15, 2013
+61
+by the statewide longitudinal data system (SLDS), as well as how to use the SLDS to inform their 
+work. Whether you are in the planning stage of your SLDS or reaching the end of your grant, it is 
+always the right time to develop a plan and implement strategies for ensuring the SLDS becomes 
+an essential information resource within your state.
+Join us for a workshop on strategies to support effective data use. The session will start off with a 
+self-evaluation of your state’s current status, followed by an interactive session that explores the 
+critical components of an effective, comprehensive data-use strategy, including how participants 
+have implemented various components. The session will conclude with the development of state-
+specific visions of what successful data use would entail and action steps to move toward the 
+desired end state.
+9:00–10:00					Concurrent	Session	XII	Presentations
+XII-E	 Data	Literacy—Elusive	Construct	and	How	to	Improve	Capacity  .....................................Georgia
+Ellen Mandinach and Jeremy Friedman, WestEd and REL—West
+Edith Gummer, National Science Foundation
+9:00–10:00
+This session will discuss a continued effort to develop a conceptual framework for data literacy, 
+identifying the skills and knowledge educators need to be considered data literate. It will also 
+discuss efforts to understand what institutions of higher education can do to improve data literacy 
+and address the systemic nature and complexities of achieving data literacy among educators.
+XII-F	 Bridging	Data	to	Nonprofit	Organizations	and	Schools:	
+	 A	Promise	Neighborhood	Story  ...........................................................................Massachusetts
+Micaela Mercado, Rockefeller Philanthropy Advisors, Zone 126 Promise Neighborhood
+9:00–10:00
+This session will address the process by which Zone 126, a federal Promise Neighborhood Planning 
+grantee, developed a data infrastructure and system. This system is currently being implemented 
+within a collaborative comprised of nonprofit organizations, Zone 126, and local public schools. 
+The session will also provide an overview of lessons learned and challenges associated with 
+implementing a data system within a Promise Neighborhood.
+
+--- Page 62 ---
+Friday, February 15, 2013
+62
+XII-G	 Student	Non-Promotional	Mobility:	Spatial-Temporal	
+	 Analysis	of	Student	Mobility	Patterns	and	Outcomes	
+	 Using	a	Statewide	Longitudinal	Data	System	(SLDS)  .....................................................New	York
+Stacy Doore, University of Maine, Center for Research and Evaluation
+9:00–10:00
+This session will present a study that examines patterns and changes in specific types of 
+student migration flows over space and time, providing an in-depth description of interdistrict 
+nonpromotional mobility. The analysis focuses on school districts in two specific periods: pre-
+consolidation period (2006–2007) and post-consolidation period (2010–2011). The study uses 
+exploratory spatial and network analysis methods to examine spatial dependencies and underlying 
+dynamics in the spatial distribution of mobility rates. A number of recommendations are offered to 
+improve the quality of enrollment data and enhance system structures to streamline educational 
+information management and knowledge sharing in longitudinal systems.
+XII-H	 District’s	Implementation	of	Cohort-Based	Accountability:	
+	 Tracking	Academic	Performance	and	Non-Academic	Factors	
+	 to	Inform	Decisionmaking	Among	Stakeholders  .....................................................Pennsylvania
+Mwarumba Mwavita, Oklahoma State University
+Kim Race and Joe Kitchens, Western Heights Public Schools (Oklahoma)
+9:00–10:00
+This presentation will focus on how one school district was able to define and establish its student 
+cohort by sharing business rules that govern this process and will provide examples of how the 
+district has been able to track student academic and nonacademic factors that influence student 
+success. A correlation of those factors that support on-track graduation and projected success to 
+post-high-school education will be presented. Further discussion will focus on how this cohort-
+based accountability provides information to students to help them engage in their learning; to 
+teachers to plan data-driven instructional strategies; to administrators to appropriately allocate 
+funds for specific instructional needs; and to parents to engage them in their students’ learning.
+XII-I	 Benefitting	Students,	States,	and	Schools	With	Improved	Transcript	Services  .........Rhode	Island
+Michael Sessa, Postsecondary Electronic Standards Council (PESC)
+Matthew Pittinsky, Parchment
+Ricardo Torres, National Student Clearinghouse
+J. James Wager, SCRIP-SAFE
+9:00–10:00
+With a majority of states and provinces now supporting Postsecondary Electronic Standards Council 
+(PESC) Approved Transcript standards, a number of leading service providers are correspondingly 
+improving their transcript processing services. Through the adoption of standards and EDexchange 
+
+--- Page 63 ---
+Friday, February 15, 2013
+63
+XII-J	 Comprehensive	Intervention	Model	for	Maine	(CIMME):	
+	 A	Real-Time	Decision	Support	Information	System	for	
+	 Literacy	Instruction	and	Intervention  ...................................................................South	Carolina
+Brian Doore, University of Maine, Center for Research and Evaluation
+9:00–10:00
+This presentation will outline the features of a decision support and analysis system that maximizes 
+the power of literacy instruction through continuous access to student data and intervention 
+outcomes. The Comprehensive Intervention Model for Maine (CIMME) system provides early 
+literacy instructors with real-time data about the progress of students, informing instructional 
+decisionmaking within a response to intervention (RTI) framework. This secure and valuable tool 
+provides fine-scale literacy assessment data in accessible formats, facilitating continuous progress 
+monitoring for educators, administrators, and researchers. The system is compatible with existing 
+student information system (SIS) platforms to promote the integrated use of multiple sources of 
+literacy assessment information.
+10:00–10:15					Break
+10:15–11:15					Concurrent	Session	XIII	Presentations
+XIII-E	 State	Higher	Education	Executive	Officers’	(SHEEO)	Update	
+	 on	Postsecondary	Data	Sharing	With	K–12	and	Labor  .....................................................Georgia
+Tanya Garcia and Hans L’Orange, State Higher Education Executive Officers
+10:15–11:15
+State Higher Education Executive Officers’ recent update to its Strong Foundations: The State 
+of State Postsecondary Data Systems  (2010) report focuses on the growing extent to which 
+postsecondary coordinating and governing boards share data, especially via their connections to 
+K–12 and workforce agencies. This session will explore the many ways that states are now sharing 
+data via P–20 data warehouses due to the infusion of statewide longitudinal data system grants to 
+the states. Nineteen states now have a state P–20 data warehouse or federated data model, and 
+20 more states are in the process of building such structures. Thirty-two postsecondary agencies/
+entities in 28 states have access to both K–12 and labor data elements via the state education 
+(K–12) and labor/workforce agencies.
+guiding principles originating from PESC’s Common Data Services (CDS) Task Force, schools, 
+students, states, and all users will be able to expect uniform service related to data exchange 
+of academic transcripts. This session will present a panel of providers who will highlight these 
+improved services and explain how standards help make services consistent.
+
+--- Page 64 ---
+Friday, February 15, 2013
+64
+XIII-F	 Drilling	Down	the	Data:	Analyzing	Enrollment	Patterns	of	
+	 Females	in	Advanced	Placement	(STEM)	Courses	in	North	Carolina  .....................Massachusetts
+Kathleen Lynch, Cambridge College and Walden University
+Angela Hinson Quick and June St. Claire Atkinson
+ North Carolina Department of Public Instruction
+10:15–11:15
+This presentation will report on a study exploring gender patterns within enrollment in Advanced 
+Placement (AP) science, technology, engineering, and math (STEM) courses in North Carolina. 
+Five years of data on students in grades 9–12 were collected from the North Carolina Windows 
+into Student Education (NCWISE) database, and an analysis of STEM and non-STEM enrollment 
+was performed. The analysis revealed patterns of gender differences in enrollment, showed the 
+impact of expanding opportunity through online AP courses, and revealed a cycle of developmental 
+support for learning opportunities leading up to STEM participation. Finally, the presentation will 
+report on the implications of the study for policymaking.
+
+--- Page 65 ---
+Keynote Speakers’
+Biographies
+National Center for Education Statistics
+Institute of Education Sciences
+U.S. Department of Education
+
+
+--- Page 66 ---
+
+
+--- Page 67 ---
+Keynote Speakers’ Biographies
+67
+Jack Buckley
+Commissioner, National Center for Education Statistics
+Institute of Education Statistics, U.S. Department of Education
+ 
+Sean P . “Jack” Buckley was confirmed December 2010 by the U.S. Senate as the Commissioner of the 
+National Center for Education Statistics, and his term runs through June 21, 2015. He brings a commitment 
+to enhancing the relevance, timeliness, and methodological rigor of NCES’s work in all areas of education.
+ 
+Commissioner Buckley is on leave from New York University, where he is an associate professor of 
+applied statistics. He served as Deputy Commissioner of NCES from 2006 to 2008 under former NCES 
+Commissioner Mark Schneider and is known for his research on school choice, particularly charter schools, 
+and on statistical methods for public policy. 
+ 
+Buckley was an affiliated researcher with the National Center for the Study of the Privatization in Education 
+at Teachers College, Columbia University, and in 2007 published a book with Mark Schneider entitled 
+Charter Schools: Hope or Hype?  He has taught statistics and education policy as an adjunct assistant 
+professor at Georgetown University, an assistant professor at Boston College, and an instructor at the 
+State University of New York at Stony Brook. Buckley spent five years in the U.S. Navy as a surface warfare 
+officer and nuclear reactor engineer, and he also worked in the intelligence community as an analytic 
+methodologist. He holds an A.B. in government from Harvard and an M.A. and Ph.D. in political science 
+from SUNY Stony Brook.
+Ruth Curran Neild
+Commissioner, National Center for Education Evaluation and Regional Assistance (NCEE)
+Institute of Education Sciences (IES), U.S. Department of Education
+Dr. Neild is Commissioner of the National Center for Education Evaluation and Regional Assistance (NCEE), 
+Institute of Education Sciences (IES), U.S. Department of Education (ED).  NCEE conducts implementation 
+and impact studies of ED programs and initiatives; supports locally prioritized research, evaluation, and 
+analytic technical assistance through the Regional Educational Laboratories; and disseminates research 
+reviews, references and sources through the What Works Clearinghouse, the Education Resources 
+Information Center (ERIC), and the National Library of Education. Her scholarly interests focus on the 
+transition to ninth grade; high school graduation and dropout; high school reform; high school choice; 
+and teacher quality. Much of her work has involved analyses of longitudinal administrative data sets 
+from school districts and data merged across agencies. Prior to joining IES, she was a Research Scientist 
+at the Center for Social Organization of Schools at Johns Hopkins University. There, she was the Co-
+Principal Investigator of a randomized trial of two curricula for helping high school freshmen who are 
+underprepared in mathematics to succeed in Algebra 1. Her publications have appeared in peer-reviewed 
+journals, in popular journals for practitioners, and as broadly disseminated research reports. She has a 
+Ph.D. in sociology from the University of Pennsylvania.
+
+--- Page 68 ---
+
+
+--- Page 69 ---
+Demonstration
+Descriptions
+National Center for Education Statistics
+Institute of Education Sciences
+U.S. Department of Education
+
+
+--- Page 70 ---
+
+
+--- Page 71 ---
+Demonstration Descriptions
+71
+Choice Solutions, Inc.
+Jennifer Lally and Zach Tussing
+Choice Solutions is an end-to-end global enterprise IT service and solutions provider with a proud tradition 
+of helping educational entities build better citizens for tomorrow. Founded with a vision of partnering 
+with state and local agencies, Choice Solutions brings a holistic approach to moving and delivering 
+education information and services to the proper stakeholders. With a portfolio of trusted and quality 
+solutions, Choice Solutions has the privilege of serving many government organizations including 15 state 
+departments of education and numerous school districts, regional education centers, and privately run 
+education agencies. By taking a partner-centric approach with customers and strategic business partners, 
+the Choice Team is able to bring the wealth of experience, knowledge, and passion that is essential to drive 
+innovation and success in today’s rapidly evolving education technology market.
+Clever, Inc.
+Matt Pasternack
+Student mobility in schools presents a challenge for online learning, since vendors are unable to keep up 
+with rapidly changing student roster data. Students wait days to get accounts. Teachers think that online 
+learning products “don’t work.” Districts spend months implementing methods to exchange enrollment 
+data with their vendors. Clever helps 3,000 schools and districts sync student accounts between their 
+student information systems and their online learning providers. Set-up takes less than five minutes and 
+is non-technical. Clever uses bank-level security and is Family Educational Rights and Privacy Act (FERPA) 
+compliant. Best of all, districts are not charged directly for this service.
+CPSI, Ltd.
+Aziz Elia, Michelle Elia, and Gay Sherman
+CPSI’s xDStudio delivers a highly scalable, extensible statewide longitudinal data system (SLDS) solution 
+that provides automated real-time data collections and reporting. We provide continuous data validation 
+and error reporting along with longitudinal data analysis processes to give all your stakeholders up-to-
+date quality data that are always available for review, analysis, and reporting. You can easily expand the 
+system to include a larger set of data pulled from additional data sources. The XML generator allows your 
+organization to use any pre-defined data standard, including Schools Interoperability Framework (SIF), 
+Shared Learning Collaborative (SLC), Ed-Fi, National Education Data Model (NEDM), Common Education 
+Data Standards (CEDS), Postsecondary Electronic Standards Council (PESC), or a combination of standards 
+for various purposes.
+
+--- Page 72 ---
+Demonstration Descriptions
+72
+Deloitte Consulting LLP
+Philip Benowitz and Alan Hartwig
+Deloitte Consulting provides a variety of education data system related services, including systems 
+integration, custom development, commercial off-the-shelf (COTS) software implementation, change 
+management, and training.
+eScholar LLC
+Shawn Bay, Wolf Boehme, and Nisa Torres
+Personalized education starts at eScholar. As the leading innovator in providing data and technology 
+solutions in education, eScholar creates products that provide clean, integrated data; drive effectiveness; 
+and improve education results. eScholar myTrack™ allows teachers, parents, and students to create and 
+manage various individual goals, including but not limited to, academic, behavior, career, and college-
+readiness goals. eScholar myTrack also recommends pathways with specific, data-based strategies to 
+help individuals reach success. Other award-winning products and services, such as eScholar Complete 
+Data Warehouse®, eScholar Uniq-ID®, eScholar Interstate ID eXchange™, and eScholar U™, continue to 
+drive state-of-the-art application of longitudinal data to improve education. Stop by for a demonstration 
+of eScholar myTrack and learn how eScholar can support personalized education in your organization. 
+eScholar provides comprehensive solutions that are relied on statewide by 13 state education agencies, 
+supporting nearly 5,000 districts with more than 20 million early childhood through postsecondary 
+students. www.escholar.com
+ESP Solutions Group
+Joshua Goodman, Steve King, Glynn Ligon, and Barbara Clements
+ESP Solutions Group is solely focused on improving the quality of education data. Its team of education 
+experts pioneered the concept of “data-driven decisionmaking” (D3M) and now partners to optimize 
+the management of data within education agencies. ESP Solutions Group has advised school districts, 
+all 52 state education agencies, and the U.S. Department of Education on the practice of P–20 data 
+management. ESP Solutions Group is comprised of nationally recognized experts in implementing the data 
+and technology requirements of state accountability systems, No Child Left Behind (NCLB), EDEN/EDFacts, 
+Schools Interoperability Framework (SIF), and the National Education Data Model (NEDM). Its collective 
+expertise is represented in the Optimal Reference Guides (downloads are available at www.espsg.com/
+resources.php). To learn more, visit www.espsolutionsgroup.com.
+Hupp Information Technologies
+Dean Hupp, Mike Penny, and Michelle Hupp
+Hupp Information Technologies is an education solutions company specializing in teacher certification/
+licensure, child nutrition, school accreditation, school report cards, and school staffing and salary systems. 
+Come by for a demonstration of our various software solutions.
+
+--- Page 73 ---
+Demonstration Descriptions
+73
+Infinite Campus
+Joe Fox
+Infinite Campus provides a statewide data collection solution that connects to and collects data from local 
+district student information systems. Infinite Campus delivers a proven, comprehensive state solution 
+including unique student and staff IDs, district-to-district data transfers, and teacher-student data linkage 
+that ensures on-time, on-budget implementations. Our five statewide initiatives give us unique insights 
+into the complexities and subtleties of planning and managing this important project.
+Pearson
+Gary Johnson, Diane Weaver, and Todd Perry
+Pearson is the industry leader in educational technology solutions, offering schools and districts access 
+to an unparalleled suite of technologies that address the challenges of achievement, reporting, growth, 
+system integration, and scalability. Pearson helps educators connect the dots between data, content, and 
+achievement, thus enabling true personalized learning and measurable student performance.
+Postsecondary Electronic Standards Council (PESC)
+Jennifer Kim and Michael Sessa
+Postsecondary Electronic Standards Council (PESC) envisions national and international interoperability 
+within the education domain, supported by a trustworthy, interconnected network called EdUnify.  
+EdUnify is built by and between communities of interest in which data flows seamlessly from one system 
+to another and throughout the entire ecosystem when and where needed without compatibility barriers 
+but in a safe, secure, reliable, and efficient manner.
+ProActive School Inc.
+Don Gauger, Ralph Winnicker, and Jerry Ulan
+Six Sigma quality processes help you manage dirty data. Most of us are impacted daily by the “garbage in; 
+garbage out” phenomena in data management and usage. There are proven techniques that can be used 
+to manage the “clean up” of critical data for decisionmakers, such as administrators, teachers, and other 
+education participants. This demonstration provides a blueprint for process improvement and effective 
+ways to measure performance using Six Sigma related to data quality.
+
+--- Page 74 ---
+Demonstration Descriptions
+74
+SAS
+Rob Harper, Shannon Lasater, Scott MacConnell, and Missi Poynter
+SAS provides solutions to the K–12 market, including curriculum resources, schooling-effectiveness 
+technologies, and administrative solutions. Using SAS, administrators can consolidate, report, and analyze 
+data to make proactive, data-driven decisions and determine probable future outcomes. Using a single 
+accurate picture of information drives reliable answers to serious questions and demonstrates success and 
+effectiveness of programs—not just at the end of the year but throughout the entire school year.
+U.S. Department of Education’s Privacy Technical Assistance Center (PTAC)
+Michael Hawes, U.S. Department of Education
+Baron Rodriguez and Halima Odom, AEM Corporation
+The Privacy Technical Assistance Center (PTAC) has a variety of new publications, training videos, and 
+reference materials. Join us as we navigate PTAC’s new website and latest publications. PTAC will also 
+provide a preview of upcoming publications, trainings, and events for 2013.
+
+--- Page 75 ---
+Topical Index to
+Sessions
+National Center for Education Statistics
+Institute of Education Sciences
+U.S. Department of Education
+
+
+--- Page 76 ---
+
+
+--- Page 77 ---
+Topical Index to Sessions
+77
+Data Collection
+I-D
+I-F
+I-I
+I-J
+II-D
+II-H
+II-J
+III-A
+III-B
+III-F
+III-G
+IV-B
+IV-G
+V-A
+V-C
+V-D
+V-G
+V-H
+V-I
+VI-A
+VI-C
+VI-E
+VI-I
+VII-A
+VII-D
+VII-G
+VII-H
+VII-I
+VII-J
+VIII-C
+VIII-E
+VIII-F
+VIII-G
+VIII-H
+IX-C
+IX-G
+X-C
+X-H
+X-I
+X-J
+XI-F
+XI-G
+XI-I
+XII-F
+XII-H
+XII-I
+XII-J
+XIII-E
+Data Collection (continued) 
+XIII-F
+Data Linking Beyond K–12
+I-C
+I-E/II-E
+I-J
+II-C
+II-D
+II-H
+II-J
+III-B
+III-C
+IV-D
+IV-H
+V-A
+V-B
+V-D
+V-E
+V-H
+VI-C
+VI-D
+VII-C
+VII-E
+VII-F
+VII-H
+VII-I
+VIII-C
+VIII-D
+VIII-F
+IX-B
+IX-F
+IX-I
+X-G
+XI-G
+XII-F
+XII-H
+XII-I
+XIII-E
+Data Management 
+I-A
+I-C
+I-D
+I-F
+I-I
+I-J
+III-B
+
+--- Page 78 ---
+Topical Index to Sessions
+78
+Data Management (continued) 
+III-C
+III-D
+III-E
+III-G
+IV-A
+IV-B
+IV-D
+IV-E
+IV-G
+IV-H
+V-A
+V-C
+V-D
+V-E
+V-G
+V-H
+V-I
+V-J
+VI-A
+VI-B/VII-B
+VI-C
+VI-D
+VI-E
+VI-G
+VI-I
+VII-A
+VII-C
+VII-E
+VII-I
+VII-J
+VIII-E
+VIII-F
+VIII-G
+VIII-H
+VIII-I
+IX-B
+IX-C
+IX-D
+IX-F
+IX-H
+IX-I
+X-C
+X-E
+X-F
+X-H
+X-J
+XI-B
+XII-F
+Data Management (continued) 
+XII-G
+XII-H
+XII-J
+XIII-F
+Data Privacy
+I-J
+IV-C
+IV-D
+IV-E
+IV-F
+IV-G
+V-F
+V-H
+VI-C
+VII-G
+VIII-E
+VIII-F
+X-F
+XI-B
+XI-I
+XII-F
+XII-J
+Data Quality 
+I-F
+I-I
+I-J
+II-F
+III-A
+IV-A
+IV-D
+V-D
+V-E
+V-G
+V-I
+VI-C
+VI-H
+VI-J
+VII-A
+VII-I
+VIII-E
+VIII-F
+VIII-G
+IX-C
+IX-D
+IX-E
+IX-G
+
+--- Page 79 ---
+Topical Index to Sessions
+79
+Data Quality (continued)
+IX-H
+IX-I
+X-C
+X-E
+X-I
+XI-B
+XI-D
+XI-G
+XII-F
+XII-G
+XII-H
+XIII-E
+Data Standards 
+I-C
+I-H
+I-I
+I-J
+II-A
+II-F
+II-G
+III-A
+IV-D
+IV-I
+V-C
+V-D
+V-G
+V-I
+V-J
+VI-J
+VIII-B
+VIII-F
+VIII-G
+IX-C
+IX-D
+IX-F
+IX-G
+IX-H
+X-C
+X-D
+X-E
+X-F
+XI-B
+XII-I
+XIII-E
+Data Use (Analytical)
+I-B/II-B
+I-D
+I-G
+I-H
+I-I
+I-J
+II-C
+II-D
+II-G
+II-H
+II-I
+III-A
+III-C
+III-G
+III-H
+III-J
+IV-B
+IV-E
+IV-H
+V-A
+V-E
+V-H
+V-I
+V-J
+VI-C
+VI-E
+VI-F
+VI-I
+VII-C
+VII-D
+VII-H
+VII-I
+VIII-A
+VIII-B
+VIII-C
+VIII-F
+VIII-I 
+IX-A
+IX-B
+IX-D
+IX-E
+IX-H
+X-B
+X-C
+X-D
+X-G
+XI-B
+XI-D
+
+--- Page 80 ---
+Topical Index to Sessions
+80
+Data Use (Analytical) (continued) 
+XI-E
+XI-F
+XI-H
+XI-I
+XII-C/XIII-C
+XII-E
+XII-F
+XII-G
+XII-H
+XIII-E
+XIII-F
+Data Use (Instructional)
+I-A
+I-D
+I-F
+I-H
+I-J
+II-D
+II-F
+II-G
+II-H
+III-A
+III-D
+III-E
+III-I
+IV-B 
+IV-D
+IV-J
+V-E
+VI-E
+VII-J
+VIII-B
+VIII-E
+VIII-H
+IX-H
+IX-J
+X-C
+X-D
+X-H
+X-I
+XI-D
+XI-G
+XII-E
+XII-H
+XII-J
+XIII-F
+Other 
+III-B
+III-E
+VI-G 
+VI-I
+VII-C 
+VII-D
+IX-B
+IX-F 
+X-D 
+X-F 
+X-J
+XI-C 
+XI-H 
