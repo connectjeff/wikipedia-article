@@ -6,7 +6,7 @@ Review principle: use only verifiable sources in the article draft.
 
 ## Source Quality Summary
 
-The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
+The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. SXSW EDU, eSchool News/Reuters, and Education Week sources strengthen context for inBloom's SXSW EDU launch, national visibility, scale, and privacy controversy, but they do not name Alderson and should not be used for Alderson-specific claims. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The ProctorFree Eduventures Summit 2016 post verifies Alderson's Eduventures Summit keynote/presenter role and online-proctoring commentary, but it is a vendor promotional source and should not carry notability. The SlideShare Simmons College deck verifies an Eduventures-era presentation and professional bio facts, but it is platform-hosted and likely self/affiliated, so it should be used only for narrow presentation-history context. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
 
 The notability case remains moderate-risk for AfC. The sources verify facts, but several are short mentions, organizational listings, or coverage of projects rather than in-depth biographical coverage.
 
@@ -14,10 +14,10 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 
 | ID | Year | Source | Title | Source type | Independent? | Status | Significant coverage? | Notability weight | Use in draft |
 |---|---:|---|---|---|---|---|---|---|---|
-| S1 | 2017 | Data & Society Research Institute | The Legacy of inBloom | Research working paper | Yes | Verified; PDF text extracted | Moderate | Medium to High | inBloom role and professional context |
+| S1, SXSW1, ESN1, EW1 | 2013-2020 | Data & Society / SXSW EDU / eSchool News-Reuters / Education Week | inBloom role and context sources | Research paper, event retrospective, and education journalism | Mixed | Verified; text extracted | Moderate for S1; contextual only for others | Medium to High for S1; contextual only for others | Alderson-specific inBloom role from S1; broader inBloom launch/controversy context from SXSW1/ESN1/EW1 |
 | GF1 | 2013 | Gates Foundation | ConnectEDU, Inc. / OPP1092353 | Primary grant database record | No / primary | Verified from downloaded HTML | Minor; does not name Alderson or inBloom | None | ConnectEDU / Gates Foundation funding context only |
 | SI1 | 2026 | Startup Intros | ConnectEdu: Funding, Team & Investors | Company directory/profile summary | Partial | Verified from downloaded HTML | Company background only; does not name Alderson | None to Low | ConnectEDU company-background context only |
-| S2, CT2 | 2016 | Campus Technology | Eduventures LMS and higher-ed analytics articles | Trade journalism | Yes | Verified | Minor to moderate | Low to Medium | Eduventures analyst role and professional context |
+| S2, CT2, PF1, SS1 | 2016 | Campus Technology / ProctorFree / SlideShare | Eduventures LMS, analytics, Summit, and presentation sources | Trade journalism, vendor blog/event coverage, and platform-hosted deck | Mixed | Verified | Minor to moderate | Low to Medium | Eduventures analyst role, professional context, Summit 2016 presenter evidence, and presentation-history context |
 | MOL1 | 2021 | MIT Open Learning | The Evolution of Engineering Education Post-COVID-19 | Event page / panelist bio | Partial | Verified from downloaded HTML | Short professional bio | Low to Medium | MathWorks and MATLAB Grader professional-context facts |
 | IEEE1, IN4OBE1, YT1, MWYT1, MWS1, RG1 | 2018-2026 | IEEE / IN4OBE / YouTube / MathWorks / ResearchGate | MATLAB Grader and publication-list source leads | Event pages, video pages, search pages, profile/publication list | Mixed; mostly primary/affiliated/platform sources | Mixed; verified where local page data was available, ResearchGate blocked by HTTP 403 | Minor or source-lead only | None to Low | Professional context and source discovery only; see `sources/mathworks_matlab_grader_sources.md` |
 | N1-N25 | 2023-2026 | Natick Report | Full search result set for `Jeff Alderson` | Local news / opinion / primary statements | Mixed | Verified and reviewed | Minor to moderate | Low to Medium | Municipal-service facts; see `sources/natick_report_sources.md` |
@@ -52,6 +52,35 @@ Verified details:
 - Appendix 1 lists Alderson's role during inBloom as Chief Solutions Architect at ConnectEDU and Lead Architect at Houghton Mifflin Harcourt, and his then-current role as Principal Analyst of Enterprise Software at Eduventures.
 
 Assessment: strong for professional-role verification and moderately strong for notability. It is not a profile, but it contains substantive attributed commentary.
+
+See `sources/data_society_inbloom_sources.md` for the dedicated Data & Society / inBloom source list.
+
+### SXSW1, ESN1, and EW1: inBloom Launch and Controversy Context
+
+URLs:
+
+- https://sxswedu.com/news/2020/10-things-you-probably-dont-know-about-sxsw-edu/
+- https://www.eschoolnews.com/district-management/2013/03/04/k-12-student-database-jazzes-tech-startups-spooks-parents/
+- https://www.edweek.org/technology/inbloom-sputters-amid-concerns-about-privacy-of-student-data/2014/01
+
+Local files:
+
+- `data/sxswedu_10_things_2020_inbloom.html`
+- `data/sxswedu_10_things_2020_inbloom.txt`
+- `data/eschoolnews_reuters_2013_inbloom_database.html`
+- `data/eschoolnews_reuters_2013_inbloom_database.txt`
+- `data/reuters_2013_inbloom_database_sxswedu.html` (blocked direct Reuters page)
+- `data/edweek_2014_inbloom_sputters_privacy.html`
+- `data/edweek_2014_inbloom_sputters_privacy.txt`
+
+Verified details:
+
+- SXSW EDU says the Shared Learning Collaborative was rebranded to launch InBloom at SXSW EDU in 2013, and that discussion shifted toward student-data security and privacy.
+- eSchool News carries a Reuters-syndicated article describing a $100 million K-12 student database and privacy objections from parents and civil-liberties groups around an Austin education-technology conference; the direct Reuters page was blocked locally by a JS/ad-blocker page.
+- Education Week says inBloom had $100 million in Gates Foundation and Carnegie Corporation backing, formed partnerships with nine states serving more than 11 million students, and lost support amid student-data privacy and third-party vendor concerns.
+- None of these sources mentions Alderson.
+
+Assessment: useful for explaining why inBloom was a nationally discussed education-technology initiative. Do not use these sources for Alderson-specific claims; use Data & Society for those.
 
 See `sources/data_society_inbloom_sources.md` for the dedicated Data & Society / inBloom source list.
 
@@ -96,17 +125,23 @@ Assessment: useful company-background orientation. It is a directory/profile sum
 
 See `sources/connectedu_company_sources.md` for the dedicated ConnectEDU company-background source list.
 
-### S2 and CT2: Campus Technology Articles
+### S2, CT2, PF1, and SS1: Eduventures Analyst, Summit, and Presentation Sources
 
 URLs:
 
 - https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx
 - https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1
+- https://www.proctorfree.com/news/rethink-student-lifecycle-online-proctoring-eduventures-summit-2016
+- https://www.slideshare.net/slideshow/eduventures-tapping-the-social-funnel-for-developmentjune-2016simmons-college/63257710
 
 Local files:
 
 - `data/campus_technology_lms.html`
 - `data/campus_technology_big_data_groundwork.html`
+- `data/proctorfree_eduventures_summit_2016.html`
+- `data/proctorfree_eduventures_summit_2016.txt`
+- `data/slideshare_eduventures_social_funnel_simmons_2016.html`
+- `data/slideshare_eduventures_social_funnel_simmons_2016.txt`
 
 Verified details:
 
@@ -120,10 +155,18 @@ Verified details:
 - Date on page: February 25, 2016
 - Author: David Raths
 - The article identifies Alderson as principal analyst for Eduventures and uses his comments on higher-education analytics vendors, data integration, and data governance as context for an article about institutional data leadership.
+- Title: `Ensure Student Success with ProctorFree at Eduventures Summit 2016`
+- Publication/source: ProctorFree
+- Date on page: October 21, 2016
+- The post says Alderson, Principal Analyst at Eduventures, would give the keynote presentation `Technology that Should be on Every Higher Education Leader's Radar` at Eduventures Summit 2016 on October 24, 2016.
+- The post also references Alderson's recent comments on ProctorFree's auditing of automated exam sessions.
+- SlideShare title: `EduVentures: Tapping the Social Funnel for Development_June 2016_Simmons College`
+- SlideShare metadata lists the deck as uploaded by `JeffTe`; page data shows `createdAt` June 20, 2016.
+- Extracted slide text identifies Alderson as `Principal Analyst, Eduventures` and `Principal Analyst, Enterprise Software`, and includes a presenter bio covering Houghton Mifflin Harcourt, ConnectEDU, PESC, A4L, Air Force service, and Worcester Polytechnic Institute.
 
-Assessment: independent trade-journalism sources. Useful for professional context, but the articles are about education-technology topics rather than Alderson as a biographical subject.
+Assessment: Campus Technology provides independent trade-journalism sources useful for professional context, though the articles are about education-technology topics rather than Alderson as a biographical subject. ProctorFree adds a third-party vendor source for Alderson's Eduventures Summit 2016 keynote/presenter role and online-proctoring commentary, but because it is promotional and vendor-interested it should be treated as low-weight professional context, not a notability anchor. The SlideShare deck is useful for presentation-history and deck-content verification only; it is platform-hosted and likely self/affiliated.
 
-See `sources/campus_technology_sources.md` for the dedicated Campus Technology source list.
+See `sources/campus_technology_sources.md` and `sources/encoura_eduventures_sources.md` for the dedicated source lists.
 
 ### MOL1: MIT Open Learning Event Page
 
@@ -430,6 +473,12 @@ These are the citation templates used or available for use in the draft.
 ```wikitext
 {{cite report |last1=Bulger |first1=Monica |last2=McCormick |first2=Patrick |last3=Pitcan |first3=Mikaela |title=The Legacy of inBloom |publisher=Data & Society Research Institute |date=February 2, 2017 |url=https://datasociety.net/pubs/ecl/InBloom_feb_2017.pdf |access-date=June 8, 2026}}
 
+{{cite web |last=Reed |first=Ron |title=10 Things You Probably Don't Know About SXSW EDU |url=https://sxswedu.com/news/2020/10-things-you-probably-dont-know-about-sxsw-edu/ |website=SXSW EDU |date=January 28, 2020 |access-date=June 8, 2026}}
+
+{{cite web |title=K-12 student database jazzes tech startups, spooks parents |url=https://www.eschoolnews.com/district-management/2013/03/04/k-12-student-database-jazzes-tech-startups-spooks-parents/ |website=eSchool News |date=March 4, 2013 |access-date=June 8, 2026}}
+
+{{cite web |last=Kamisar |first=Ben |title=InBloom Sputters Amid Concerns About Privacy of Student Data |url=https://www.edweek.org/technology/inbloom-sputters-amid-concerns-about-privacy-of-student-data/2014/01 |website=Education Week |date=January 7, 2014 |access-date=June 8, 2026}}
+
 {{cite web |title=ConnectEDU, Inc. |url=https://www.gatesfoundation.org/about/committed-grants/2013/07/opp1092353 |website=Gates Foundation |date=July 2013 |access-date=June 8, 2026}}
 
 {{cite web |title=ConnectEdu: Funding, Team & Investors |url=https://startupintros.com/orgs/connectedu |website=Startup Intros |access-date=June 8, 2026}}
@@ -437,6 +486,10 @@ These are the citation templates used or available for use in the draft.
 {{cite web |last=Schaffhauser |first=Dian |title=Eduventures Publishes Report on Learning Management Systems |url=https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx |website=Campus Technology |date=January 28, 2016 |access-date=June 8, 2026}}
 
 {{cite web |last=Raths |first=David |title=Laying the Groundwork for Big Data |url=https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1 |website=Campus Technology |date=February 25, 2016 |access-date=June 8, 2026}}
+
+{{cite web |title=Ensure Student Success with ProctorFree at Eduventures Summit 2016 |url=https://www.proctorfree.com/news/rethink-student-lifecycle-online-proctoring-eduventures-summit-2016 |website=ProctorFree |date=October 21, 2016 |access-date=June 8, 2026}}
+
+{{cite web |last=Alderson |first=Jeffrey |title=EduVentures: Tapping the Social Funnel for Development_June 2016_Simmons College |url=https://www.slideshare.net/slideshow/eduventures-tapping-the-social-funnel-for-developmentjune-2016simmons-college/63257710 |website=SlideShare |date=June 20, 2016 |access-date=June 8, 2026}}
 
 {{cite web |title=The Evolution of Engineering Education Post-COVID-19 |url=https://openlearning.mit.edu/events/evolution-engineering-education-post-covid-19 |website=MIT Open Learning |date=March 22, 2021 |access-date=June 8, 2026}}
 

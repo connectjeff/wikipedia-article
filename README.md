@@ -47,6 +47,22 @@ Use this checklist to improve the likelihood that the AfC request is accepted. T
 - [ ] Before AfC submission, prune the article draft to cite only the strongest sources and avoid adding weak facts merely because they are verified.
 - [ ] Re-run dossier validation after every source addition: CSV parses cleanly, source IDs are unique, `dossier/source_dossier.xlsx` is regenerated, and source-quality notes match the draft.
 
+## Draft Article Quality Summary
+
+Overall AfC readiness: moderate. The draft is short, neutral, and sourced, which is appropriate for a COI-disclosed AfC submission. The main weakness remains notability, not verifiability: the best sources document Alderson's role in larger education-technology projects rather than providing sustained biographical profile coverage. The draft should stay concise and avoid adding weak facts merely because the dossier can verify them.
+
+Lead: fair. The lead accurately summarizes the strongest supported roles: education technology, Air Force service, Eduventures, MATLAB Grader, inBloom, and Natick town moderator. It should not be expanded unless a stronger independent profile source is found.
+
+Education and military service: acceptable but source-limited. The section is concise and uses a local oral-history/archive source for noncontroversial facts. Because the source is primary-adjacent, this section should remain brief and should not be used to support notability.
+
+Education technology career: strongest section. Data & Society is the core Alderson-specific source because it identifies his technical role in the New York implementation of inBloom and includes attributed commentary. SXSW EDU and Education Week now provide stronger context for why inBloom mattered, but they do not mention Alderson. Campus Technology provides independent trade coverage of his Eduventures analyst work. MIT Open Learning supports the MathWorks/MATLAB Grader connection but is event-bio context rather than profile coverage. Keep PESC, SlideShare, ProctorFree, and similar sources mostly in the dossier unless a specific narrow fact is needed.
+
+Municipal service: verifiable but low notability weight. Natick Report supports the 2025 moderator transition and Hybrid Town Meeting Committee activity. These are useful local public-role facts, but routine election and meeting coverage is unlikely to carry a standalone biography by itself.
+
+References and source mix: good source hygiene, moderate notability risk. The draft now emphasizes the strongest independent sources and avoids most primary/affiliated source clutter. The reference list is appropriate for AfC review, but a reviewer may still ask for more independent significant coverage directly about Alderson.
+
+AfC proposal materials: good process posture. The submission note clearly discloses that the subject is submitting through AfC because of a conflict of interest, and the dossier gives reviewers a transparent source-quality trail. The proposal should be presented as a good-faith draft for independent review, not as a guaranteed notability case.
+
 ## Important Caveat
 
 The article draft is intentionally conservative. Some candidate sources could not be verified during this setup and were not used. The current source base supports a good-faith AfC request, but the notability case may still be challenged because several sources are short mentions or project-focused rather than full biographical profiles.

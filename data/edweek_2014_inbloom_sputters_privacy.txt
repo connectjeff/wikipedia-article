@@ -1,0 +1,344 @@
+InBloom Sputters Amid Concerns About Privacy of Student Data
+Leadership
+Back
+Leadership
+Budget & Finance
+Equity & Diversity
+Families & the Community
+Professional Development
+Recruitment & Retention
+School & District Management
+School Climate & Safety
+Student Absenteeism
+Student Achievement
+Student Well-Being & Movement
+Policy & Politics
+Back
+Policy & Politics
+Education Funding
+Every Student Succeeds Act
+Federal
+Law & Courts
+School Choice & Charters
+Standards & Accountability
+States
+Teaching & Learning
+Back
+Teaching & Learning
+Assessment
+College & Workforce Readiness
+Curriculum
+Early Childhood
+English Learners
+Mathematics
+Reading & Literacy
+Science
+Social Studies
+Special Education
+Teaching
+Teacher Preparation
+Teaching Profession
+Technology
+Back
+Technology
+Artificial Intelligence
+Classroom Technology
+Data Privacy & Cybersecurity
+Ed-Tech Policy
+IT Infrastructure & Management
+Personalized Learning
+All Topics
+Jobs
+Back
+Jobs
+Search for Jobs
+Sign up for Job Alerts
+Virtual Career Fairs
+Post a Job
+Job Hunting Tips & Advice
+Careers at EdWeek
+Opinion
+Back
+Opinion
+Opinion Blogs
+Submit an Essay
+Submit a Letter to the Editor
+About Us
+Advertising & Marketing Solutions
+Group Subscriptions
+Recruitment Advertising
+Events and Webinars
+The State of Teaching
+Leaders to Learn From
+Current Issue
+Special Reports
+Newsletters
+Resources
+Trackers
+Video
+EdWeek Research Center
+EdWeek Top School Jobs
+EdWeek Market Brief
+Menu
+Search
+Sign In
+Subscribe
+InBloom Sputters Amid Concerns About Privacy of Student Data
+Subscribe
+Reset
+Search
+Leadership
+Policy & Politics
+Teaching & Learning
+Technology
+Opinion
+Jobs
+Market Brief
+Data Privacy & Cybersecurity
+InBloom Sputters Amid Concerns About Privacy of Student Data
+By
+Ben Kamisar
+— January 07, 2014
+8 min read
+Share article
+Remove
+Save to favorites
+Save to favorites
+Print
+Email
+Facebook
+LinkedIn
+Twitter
+Copy URL
+The education nonprofit
+inBloom
+burst onto the scene last February, touting a program to synthesize student data to help target the needs of individual children and revolutionize personalized learning. Backed by $100 million in grants from the Bill & Melinda Gates Foundation and the Carnegie Corporation of New York, the company formed partnerships with nine states that together have more than 11 million students.
+But instead of leading a nationwide movement to improve the use of student data, inBloom has sputtered. Six states initially listed as partners with inBloom dissolved their relationships with the company, leaving only Illinois, Massachusetts, and New York—and those ties are now uncertain. The state school board in Illinois recently announced that districts’ use of inBloom was optional, plans to move forward in Massachusetts are unclear, and
+a lawsuit threatens inBloom’s plans in New York
+.
+Concerns about the security of student data housed online and the involvement of third-party vendors in storing the data have triggered most of the defections—even as the company and some observers say any risks are overstated.
+“The conversation [around inBloom] has gotten very polarized and divorced from facts,” said Douglas A. Levin, the executive director of the State Educational Technology Directors Association. “InBloom, in some respects, has become a lightning rod for these issues, but they didn’t create the issues, and these issues aren’t going to go away, even if inBloom goes away.”
+To Partner or Not
+InBloom provides school districts and states with a service that allows them to store data in an encrypted, cloud-based system. Educators can access that centralized system to pull together data that is usually stored in many different locations, often by third-party vendors. Though current clients are using its service for free, the company is phasing in a charge of $2 to $5 per student by 2015.
+Organizers of inBloom, which is based in Atlanta, say their aim is to ease the burden on districts and teachers that devote significant resources to integrating and managing data across various educational applications. The company set out to offer a hub for states, districts, and schools to more easily manage the student data they choose to collect, and to help educators use such data to provide more personalized instruction, according to inBloom officials.
+(The venture’s main philanthropic supporters, the Gates Foundation and the Carnegie Corporation, have also helped underwrite
+Education Week
+‘s coverage of the K-12 marketplace and innovation in education.)
+Privacy issues are not the only reason inBloom has gotten the brush-off.
+For the Chicago school system, one of inBloom’s largest potential district clients,
+the decision to opt out
+of a partnership was strictly practical: The 404,000-student district had enough resources to manage student data on its own.
+“For us, this isn’t about inBloom or any third party per se,” said Becky Carroll, the chief communications officer for the Chicago schools. “We have the means and resources to implement the program on our own, and therefore felt that there was no need for third-party involvement.”
+But parental concerns about the privacy of student data did prompt the 86,000-student Jefferson County, Colo., district
+to drop a pilot project
+with inBloom in November.
+Superintendent Cynthia M. Stevenson said that a number of parents felt anxious about the prospect of storing data outside the district. While the critics weren’t the majority, she said, the board of education decided to end its partnership with the company.
+Organized Opposition
+Criticism of inBloom brings together a group of allies across the ideological spectrum. Conservatives and libertarians who worry about students’ privacy rights have joined with liberals who share such concerns but who are also deeply skeptical of a private company playing a primary role in collecting data on public school students.
+Partnership Problems
+Six of the nine states that inBloom originally listed as partners have completely cut ties with the student data management company.
+Colorado:
+The state began a pilot program with inBloom in Jefferson County. But the district’s school board voted to cut ties with the company in early November.
+Delaware, Georgia, and Kentucky:
+Despite being listed as original partners with inBloom, the three states only participated as observers and had never made any concrete plans with the company.
+Illinois:
+After the state board of education decided that a partnership with inBloom would be optional, Chicago Public Schools decided to opt out. Without the largest district in the state participating, other districts must decide whether to stay with inBloom or follow suit.
+Louisiana:
+State Superintendent John White removed student data from inBloom in May and said that the department would continue internal discussions about data-storing best practices.
+Massachusetts:
+The state is considering whether it will move forward with inBloom now that the pilot program at the 6,700-student Everett Public Schools is complete, according to JC Considine, a spokesman for the state education department.
+New York:
+The Empire State is currently the only state with full involvement with inBloom. However, two lawsuits are pending that would halt the state’s partnership, and state Assembly Speaker Sheldon Silver and the chairwoman of the chamber’s education committee, Catherine Nolan, are among almost 50 Assembly members who backed a letter asking the state education department to put the plans on hold.
+North Carolina:
+While an inBloom pilot program was selected for the 74,000-student Guilford County schools, district officials have since dropped out.
+Source:
+Education Week
+In New York state, the fight against inBloom has an organized face: Class Size Matters. The education advocacy organization has become the rallying point for everything anti-inBloom. The group helped brief lawyers who filed legal action against the state education department, hoping to dissolve the state’s agreement with inBloom, and its website is filled with criticism of the online data program.
+“InBloom is only the tip of the iceberg,” Leonie Haimson, the executive director of
+Class Size Matters
+, said. “It may be the most egregious example, but it is not the only example of companies that have their eyes on personal student data and are going to be data-mining.”
+Storing private student data on the Internet, or in the hands of third-party companies that participate in the data-sharing process without specific parental consent to allow access to personal data, is a serious concern for Ms. Haimson. She contends that districts and state boards of education should not be the ones to decide whether to share sensitive personal data with anyone, especially considering Internet-privacy concerns.
+Ms. Haimson also fears that by aggregating a slew of student data, inBloom could become an attractive target for hackers. If the information falls into the wrong hands, hackers could release disciplinary records, disability information, or other pieces of data that could “severely damage a child’s future forever,” she warned. And even if that information remains secure, she said, she questions assurances by inBloom that the data will not be shared with other companies, outside of those authorized by schools.
+“You don’t build a $100 million company, which is what the Gates [and Carnegie foundations] put into it, not to share the data, just to collect it,” she said.
+InBloom spokesman Adam Gaber countered in an email that the company believes that technology can play an important part in education, and that the privacy and security of student data is a “top priority” for the company. He added that the company’s contract, as well as existing laws in certain states or districts, hold inBloom liable for privacy breaches.
+“If a security breach were to result from inBloom’s failure to comply with these requirements, inBloom would be liable to the state or school district in accordance with the terms of its contract,” he said in the email.
+District Decisions
+Sharren Bates, the chief product officer for inBloom, said in an interview that the company provides a safe way for schools to take ownership of the student data they choose to collect and to maximize the effectiveness of that data. By standardizing their data collection, she said, schools can cut down on individual program-integration costs and free up time for educators to use those tools to teach instead of worrying about uploading data.
+She said safeguards ensure that the company does not have independent access to student data or the ability to grant others permission to see or use that information. InBloom gives the customer—a state, a district, or a school—the ability to access the encrypted data and allows only the customer to approve additional users.
+“The school districts make all of the decisions about what users go in, what users have access, and what applications have access; inBloom makes none of those decisions and has none of that access,” Ms. Bates said. “We don’t use the data, we don’t do analysis on the data; [we] can’t even access the data unless we are directed to look at specific data by a customer while providing technical support.”
+But Ms. Haimson said that, in practice, the policy doesn’t amount to the freedom districts expect. InBloom turned down a request from the Pearl River, N.Y., superintendent to delete data for that district’s 2,700 students. Because the company entered into an agreement with New York state, inBloom contends that such decisions are reserved for the state to make.
+Many critiques of the company amount to a fundamental disagreement over the importance of data-driven education. While to some educators and advocates, inBloom’s approach could help fulfill the promise of personalized learning, to Ms. Haimson and others, there could be significant consequences in providing teachers with a data overload.
+“It’s a self-fulfilling prophecy,” Ms. Haimson said. “The teachers that know which kids have had discipline problems or academic problems treat those kids a different way, and it really can affect your child’s future in a lot of negative ways.”
+For Ms. Stevenson, the criticism brings up good points about the security and privacy of student data. But since the issue has become wrapped up in a national movement against inBloom, the Jefferson County superintendent said, some worries have evolved into a “mythology” that distorted her district’s true plans.
+“Of course, we wouldn’t sell children’s data,” she said. “A, it’s illegal, and B, unethical.”
+“Everything got connected that wasn’t connected,” she said of the opposition in her community. “And here we have these pure motives, that we want to give teachers good information and do a better job with kids, and it became something completely different than that.”
+Future Adjustments
+As states and districts have broken off from inBloom, questions have remained about their commitment to developing personalized learning programs, as most such plans rely on robust digital platforms. If districts are unwilling to use third-party companies like inBloom and unable to develop their own in-house alternatives, it is still to be seen how districts will manage digitized student data for dashboard-type programs, which aggregates student data for teachers to use to customize learning.
+While the Jefferson County school board voted to dump inBloom, it specifically instructed the Colorado district to continue implementing its classroom data dashboards. Forced to shift gears, Ms. Stevenson estimates it will take at least six months to develop a new plan.
+“The issue is, now we have to either build or do [a request for proposals] for ‘middleware'—"data-management tools similar to what inBloom provides—"because you need storage of data, and you need learning analytics that integrate the data and connect it to standards and grade-level expectations,” Ms. Stevenson said. “When you are going to do the work from scratch, it’s a whole different world.”
+Looking ahead, Mr. Levin of the state technology directors’ group said: “I think, in many respects, the vision that was being sold by inBloom is one that might come true down the road if lots of other things happen. Some people were attracted by it, and some people were scared by it and confused.”
+Ben Kamisar
+Ben Kamisar formerly wrote for Education Week.
+Related Tags:
+Student Privacy
+Data Privacy
+Student & District Data
+Data Systems
+Student Rights
+A version of this article appeared in the
+January 08, 2014
+edition of
+Education Week
+as
+InBloom Sputters as Data Privacy Hits the Spotlight
+Related
+Classroom Technology
+Startups See inBloom as Appealing Partner
+Benjamin Herold
+,
+November 5, 2013
+•
+1 min read
+Remove
+Save to favorites
+Sign Up for EdWeek Tech Leader
+Get the latest strategies and solutions for ed-tech leaders.
+Email
+*
+Sign up
+Thank you for subscribing.
+Events
+Jun
+09
+Tue., June 09, 2026, 2:00 p.m. - 3:00 p.m. ET
+Budget & Finance
+Webinar
+Creative Approaches to K-12 Budget Realities
+What are districts prioritizing in 2026? New survey data reveals emerging K-12 budgeting trends.
+Register
+Tue., June 09, 2026, 2:00 p.m. - 3:00 p.m. ET
+Remove
+Save to favorites
+Jun
+11
+Thu., June 11, 2026, 2:00 p.m. - 3:00 p.m. ET
+This content is provided by our sponsor. It is not written by and does not necessarily reflect the views of Education Week's editorial staff.
+Sponsor
+College & Workforce Readiness
+Webinar
+From Coursework to Careers: Expanding Work-Based Learning and Industry Credentials in CTE
+Expand work-based learning and industry credentials in CTE to connect classroom learning with real careers and prepare students for future success.
+Content provided by
+Project Lead The Way
+Register
+Thu., June 11, 2026, 2:00 p.m. - 3:00 p.m. ET
+Remove
+Save to favorites
+Jun
+16
+Tue., June 16, 2026, 12:00 p.m. - 12:30 p.m. ET
+College & Workforce Readiness
+Webinar
+Data-Driven and District-Ready: What EdWeek Research Tells Us About the CTE Market
+Discover how to sharpen your positioning in a fast-moving market of CTE with actionable strategies grounded in EdWeek Research Center data.
+Register
+Tue., June 16, 2026, 12:00 p.m. - 12:30 p.m. ET
+Remove
+Save to favorites
+See More Events
+EdWeek Top School Jobs
+Teacher Jobs
+Search over ten thousand teaching jobs nationwide — elementary, middle, high school and more.
+View Jobs
+Principal Jobs
+Find hundreds of jobs for principals, assistant principals, and other school leadership roles.
+View Jobs
+Administrator Jobs
+Over a thousand district-level jobs: superintendents, directors, more.
+View Jobs
+Support Staff Jobs
+Search thousands of jobs, from paraprofessionals to counselors and more.
+View Jobs
+Create Your Own Job Search
+Read Next
+This content is provided by our sponsor. It is not written by and does not necessarily reflect the views of Education Week's editorial staff.
+Sponsor
+Data Privacy & Cybersecurity
+Whitepaper
+Steady Foundation with Growing Opportunities
+Based on a survey of educators, this study highlights progress and remaining challenges in cybersecurity education for students in K-12 s...
+Content provided by
+Cyber.org
+Data Privacy & Cybersecurity
+Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform
+The hack of the popular learning platform highlighted the vulnerabilities of education companies.
+The Associated Press
+•
+2 min read
+Remove
+Save to favorites
+Open image caption
+Close image caption
+A picture of a notice sent by Georgia Tech's information technology department warning students, professors, and staff about the cybersecurity breach of the Canvas system it uses for assignments and grading is displayed on a phone on May 8, 2026, in Decatur, Ga. Canvas is also a popular learning platform for K-12 schools.
+Michael Warren/AP
+Data Privacy & Cybersecurity
+A Cyberattack on Canvas Could Cause Lasting Aftershocks for Schools
+Data from millions of students might have been compromised.
+Lauraine Langreo
+&
+Arianna Prothero
+•
+5 min read
+Remove
+Save to favorites
+Open image caption
+Close image caption
+Nicolas Herrbach/iStock/Getty
+Data Privacy & Cybersecurity
+A Potential Breach of an Anonymous Tip App Could Have Exposed Sensitive Student Data
+The breach may have exposed personal information of students attending more than 30,000 schools.
+Lauraine Langreo
+&
+Arianna Prothero
+•
+5 min read
+Remove
+Save to favorites
+Open image caption
+Close image caption
+Cybersecurity experts recommend that schools should take steps now to protect student data as they wait for confirmation of a potential hack of Navigate360’s P3 Global Intel platform, which features a safety tip line.
+Wilfredo Lee/AP
+Load More ▼
+Sign Up & Sign In
+Create a free account to save your favorite articles, follow important topics, sign up for email newsletters, and more.
+Create Account
+About Us
+Our Organization
+Our History
+Our People
+Our Supporters
+Careers at EdWeek
+Contact Us
+Letters to the Editor
+Help/FAQ
+Customer Service
+Contact the Newsroom
+Get EdWeek
+Subscriptions
+Newsletters & Alerts
+Group Subscriptions
+Content Licensing & Permissions
+Do Business With Us
+Advertising & Marketing Solutions
+Recruitment & Job Advertising
+K-12 Market Intelligence
+Custom Research
+High contrast
+©2026 Editorial Projects in Education, Inc.
+Terms of Use
+Privacy Policy
+twitter
+instagram
+youtube
+facebook
+linkedin

@@ -15,10 +15,11 @@ Short description: `American education technology analyst and town moderator`
    - U.S. Air Force service from 1998 to 2003, with rank at separation as captain.
 
 3. Education technology career
-   - ConnectEDU / Houghton Mifflin Harcourt role in the New York implementation of inBloom.
-   - Eduventures principal analyst role and 2016 LMS report coverage.
+   - Brief context for inBloom's SXSW EDU launch, scale, and privacy controversy, using sources that do not name Alderson but establish the significance of the initiative.
+   - ConnectEDU / Houghton Mifflin Harcourt role in the New York implementation of inBloom, using Data & Society for Alderson-specific facts.
+   - Eduventures principal analyst role and 2016 LMS / analytics trade-publication coverage.
    - MathWorks / MATLAB Grader role, supported by MIT Open Learning and narrow event-context sources from IEEE and IN4OBE if retained.
-   - PESC Board of Directors, MyDataButton, ERUG, and 2015 award references, if retained.
+   - PESC Board of Directors, MyDataButton, ERUG, and 2015 award references should generally remain dossier context unless a very compact, clearly relevant sentence is needed.
 
 4. Municipal service
    - Election/transition as Natick town moderator in 2025.
@@ -29,13 +30,13 @@ Short description: `American education technology analyst and town moderator`
 
 ## Summary Justification
 
-An article may be warranted because reviewed independent sources document Alderson's work across education technology and municipal governance. The strongest source is Data & Society's 2017 working paper, which identifies him as the technical architect for the New York implementation of inBloom and includes substantive attributed commentary on the project's communication and product-development challenges. Campus Technology independently identifies him as author and principal analyst for an Eduventures report on learning management systems. MIT Open Learning, IEEE, and IN4OBE verify his later connection to MathWorks and MATLAB Grader, though only as short event-bio or presenter context. Natick Report independently verifies his public-service role as Natick town moderator and subsequent activity in that office.
+An article may be warranted because reviewed sources document Alderson's work across education technology and municipal governance. The strongest Alderson-specific source is Data & Society's 2017 working paper, which identifies him as the technical architect for the New York implementation of inBloom and includes substantive attributed commentary on the project's communication and product-development challenges. SXSW EDU, eSchool News/Reuters, and Education Week provide independent or event-official context showing that inBloom was a nationally visible and disputed education-technology initiative, though those sources do not name Alderson. Campus Technology independently identifies him as author and principal analyst for an Eduventures report on learning management systems and quotes him in higher-education analytics coverage. MIT Open Learning verifies his later connection to MathWorks and MATLAB Grader, though only as short event-bio context. Natick Report independently verifies his public-service role as Natick town moderator and subsequent activity in that office.
 
-The best notability argument is that Alderson has verifiable participation in a nationally discussed education-technology initiative, a documented analyst role in higher-education technology, and independent local-news coverage of elected municipal office. The submitted draft should be framed as a good-faith request for review rather than as a guaranteed pass.
+The best notability argument is that Alderson has an independently documented technical role in a nationally discussed education-technology initiative, a documented analyst role in higher-education technology, and independent local-news coverage of elected municipal office. The submitted draft should be framed as a good-faith request for review rather than as a guaranteed pass.
 
 ## Notability Risk
 
-The AfC risk is real. Several available sources are short mentions, organizational listings, or coverage of projects rather than extended biographical profiles. Wikipedia's biography notability guideline generally expects significant coverage in reliable secondary sources independent of the subject. The current source set supports a short, neutral draft, but an AfC reviewer may still decide that the independent coverage is insufficient for a standalone biography.
+The AfC risk is real. Several available sources are short mentions, organizational listings, or coverage of projects rather than extended biographical profiles. Wikipedia's biography notability guideline generally expects significant coverage in reliable secondary sources independent of the subject. The current source set supports a short, neutral draft and a transparent AfC request, but an AfC reviewer may still decide that the independent coverage is insufficient for a standalone biography.
 
 To strengthen the request before submission, try to locate and review:
 

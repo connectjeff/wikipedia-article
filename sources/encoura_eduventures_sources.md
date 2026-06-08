@@ -1,10 +1,14 @@
 # Encoura / Eduventures Source Review for Jeffrey Alderson
 
-Scope: Encoura / Eduventures author-profile and Wake-Up Call article links reviewed for the Jeffrey Alderson AfC proposal.
+Scope: Encoura / Eduventures author-profile, Wake-Up Call article links, and related Eduventures event/source leads reviewed for the Jeffrey Alderson AfC proposal.
 
 ## Bottom Line
 
 The Encoura author page links 33 Wake-Up Call articles attributed to Jeffrey Alderson. These are affiliated or employer-published authored pieces, not independent secondary coverage. They can verify publication history and education-technology topic areas, and they may be useful leads for finding independent coverage, but they should not be used to carry the AfC notability argument.
+
+The ProctorFree Eduventures Summit 2016 post is external to Eduventures, but it is a vendor promotional blog post. It verifies Alderson's Eduventures Summit keynote/presenter role and online-proctoring commentary, but it should be treated as professional context rather than significant independent biographical coverage.
+
+The SlideShare Simmons College deck verifies an Eduventures-era presentation on social-media sentiment and advancement/development. It is platform-hosted and likely self- or employer-affiliated, so it should be treated as presentation/publication-history evidence rather than independent coverage.
 
 The live author page is a dynamic Encoura page. The article list was verified from the page's Builder content API for author ID `5b3fd53d4b2e41d5be32374b5a8f3c6b`; the query returned 33 Wake-Up Call articles and no webinar or Enrollminute items for the same author ID.
 
@@ -12,11 +16,17 @@ Local evidence:
 
 - `data/encoura_people_alderson.html`
 - `data/encoura_alderson_articles.json`
+- `data/proctorfree_eduventures_summit_2016.html`
+- `data/proctorfree_eduventures_summit_2016.txt`
+- `data/slideshare_eduventures_social_funnel_simmons_2016.html`
+- `data/slideshare_eduventures_social_funnel_simmons_2016.txt`
 
 ## Review Table
 
 | ID | Date | Category | Title | Coverage assessment | Notability weight | Recommendation | Local evidence |
 |---|---|---|---|---|---|---|---|
+| PF1 | October 21, 2016 | Vendor blog / Eduventures Summit coverage | [Ensure Student Success with ProctorFree at Eduventures Summit 2016](https://www.proctorfree.com/news/rethink-student-lifecycle-online-proctoring-eduventures-summit-2016) | Third-party vendor post about ProctorFree's Eduventures Summit presence. Identifies Jeff Alderson as Principal Analyst at Eduventures and says he would give the keynote presentation `Technology that Should be on Every Higher Education Leader's Radar` on October 24, 2016. Also references Alderson's online-proctoring comments about ProctorFree. | Low | Use only for Eduventures Summit / online-proctoring professional context. Do not use as a notability anchor because the source is promotional and vendor-interested. | `data/proctorfree_eduventures_summit_2016.html`; `data/proctorfree_eduventures_summit_2016.txt` |
+| SS1 | June 20, 2016 upload / June 2016 event | SlideShare / Eduventures presentation deck | [EduVentures: Tapping the Social Funnel for Development_June 2016_Simmons College](https://www.slideshare.net/slideshow/eduventures-tapping-the-social-funnel-for-developmentjune-2016simmons-college/63257710) | Platform-hosted 27-slide deck. SlideShare metadata says it was uploaded by `JeffTe`; page data shows `createdAt` June 20, 2016. Extracted slide text names `Jeffrey Alderson | Principal Analyst, Eduventures`, identifies him as `Principal Analyst, Enterprise Software`, and includes a short bio covering Houghton Mifflin Harcourt, ConnectEDU, PESC, A4L, Air Force service, and WPI. | Low | Use only for presentation/publication-history and narrow professional-context facts. Do not use as a notability anchor because it is platform-hosted and likely self/affiliated. | `data/slideshare_eduventures_social_funnel_simmons_2016.html`; `data/slideshare_eduventures_social_funnel_simmons_2016.txt` |
 | EA01 | March 7, 2017 | Wake-Up Call / Eduventures blog | [2017 Tech Landscape Part 2: Introducing the EdTech Services Maturity Model](https://www.encoura.org/resources/wake-up-call/2017-tech-landscape-part-2-introducing-the-edtech-services-maturity-model) | Affiliated authored article linked from the Encoura author page for Jeffrey Alderson. Verifies publication/authorship and topic area, but does not provide independent coverage of Alderson. | None to Low | Do not use for AfC notability. Retain as publication-history evidence and as leads for independent coverage. | `data/encoura_alderson_articles.json`; `data/encoura_people_alderson.html` |
 | EA02 | February 14, 2017 | Wake-Up Call / Eduventures blog | [Introducing the Higher Education Technology Landscape 2017](https://www.encoura.org/resources/wake-up-call/introducing-the-higher-education-technology-landscape-2017) | Affiliated authored article linked from the Encoura author page for Jeffrey Alderson. Verifies publication/authorship and topic area, but does not provide independent coverage of Alderson. | None to Low | Do not use for AfC notability. Retain as publication-history evidence and as leads for independent coverage. | `data/encoura_alderson_articles.json`; `data/encoura_people_alderson.html` |
 | EA03 | January 17, 2017 | Wake-Up Call / Eduventures blog | [Five Edtech Companies to Watch in 2017](https://www.encoura.org/resources/wake-up-call/five-edtech-companies-to-watch-in-2017) | Affiliated authored article linked from the Encoura author page for Jeffrey Alderson. Verifies publication/authorship and topic area, but does not provide independent coverage of Alderson. | None to Low | Do not use for AfC notability. Retain as publication-history evidence and as leads for independent coverage. | `data/encoura_alderson_articles.json`; `data/encoura_people_alderson.html` |
@@ -57,4 +67,8 @@ Use these only if a specific authored article is needed to verify publication hi
 
 ```wikitext
 {{cite web |last=Alderson |first=Jeffrey |title=ARTICLE TITLE |url=ARTICLE URL |website=Encoura |date=MONTH DAY, YEAR |access-date=June 8, 2026}}
+
+{{cite web |title=Ensure Student Success with ProctorFree at Eduventures Summit 2016 |url=https://www.proctorfree.com/news/rethink-student-lifecycle-online-proctoring-eduventures-summit-2016 |website=ProctorFree |date=October 21, 2016 |access-date=June 8, 2026}}
+
+{{cite web |last=Alderson |first=Jeffrey |title=EduVentures: Tapping the Social Funnel for Development_June 2016_Simmons College |url=https://www.slideshare.net/slideshow/eduventures-tapping-the-social-funnel-for-developmentjune-2016simmons-college/63257710 |website=SlideShare |date=June 20, 2016 |access-date=June 8, 2026}}
 ```
