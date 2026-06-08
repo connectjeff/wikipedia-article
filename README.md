@@ -20,6 +20,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `sources/town_of_natick_sources.md` - dedicated review of Town of Natick official website sources.
 - `sources/natick_veterans_sources.md` - dedicated review of Natick Veterans Oral History Project sources.
 - `sources/pesc_sources.md` - dedicated review of PESC sources.
+- `sources/mydata_button_sources.md` - dedicated review of MyDataButton / White House initiative background sources.
 - `sources/legal_bankruptcy_sources.md` - dedicated review of legal/bankruptcy filing sources.
 - `sources/encoura_eduventures_sources.md` - dedicated review of Encoura / Eduventures author-profile and Wake-Up Call article links.
 - `sources/campaign_social_media_sources.md` - campaign and social-media sources that should not carry notability.
@@ -36,13 +37,10 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 Use this checklist to improve the likelihood that the AfC request is accepted. The main goal remains finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC cluster improves verification of career continuity in education data standards, ConnectEDU, MyDataButton, ERUG, STATS-DC, Eduventures ePortfolio research, and PESC service/contributor roles, but those sources are mostly organizational or event records. They should support narrow facts, not carry the notability argument by themselves.
 
 - [ ] Review the requested ASME article at DOI `10.1115/1.2021-Sept2` when it is in hand. Prioritize it if it includes substantive interview/profile coverage of Alderson.
-- [ ] Review the ASEE PEER / MATLAB Grader source and add it only if the full record confirms authorship, publication context, and relevance.
-- [x] Build out the PESC source cluster. Current verified PESC-related sources include 2010-2011 Board of Directors evidence, Spring 2011 Data Summit participation with ConnectEDU/Jane Swift context, NCES STATS-DC 2011 data-standards participation, 2012 MyDataButton and ERUG records, 2016 Eduventures ePortfolio research presentation, PESC service-award evidence, and Academic Credential & Experiential Learning contributor evidence.
 - [ ] Search for independent coverage of the PESC/MyDataButton/education-data-standards work. Good targets include U.S. Department of Education, White House/MyData materials, NCES/STATS-DC proceedings, education-data interoperability coverage, and trade press that names Alderson or ConnectEDU in connection with MyData, PESC, ERUG, PESC-approved standards, ePortfolio vendors, or academic credentialing.
 - [ ] Decide whether the article draft should include a compact PESC/data-standards sentence. If included, cite only the strongest one or two PESC sources and avoid a long list of event roles that would read like a resume.
 - [ ] Review Startup Intros' underlying ConnectEDU source list. Prioritize independent sources such as EdSurge, Education Week, FTC, Graduation Alliance, and New Markets over the Startup Intros summary itself.
 - [ ] Replace any ConnectEDU company-background claims with citations to stronger underlying sources when possible.
-- [x] Add a PACERMonitor public docket source for the ConnectEDU bankruptcy case. The docket source verifies case and Doc. 1 metadata; the locally reviewed petition copy still verifies the page-10 equity-holder row.
 - [ ] Search for independent trade-press coverage that names Alderson in relation to ConnectEDU, Houghton Mifflin Harcourt, Eduventures, inBloom, interoperability, learning management systems, analytics, or MATLAB Grader.
 - [ ] Search for independent local or regional profile coverage tied to Alderson's Natick town moderator role, not just election listings, letters, or routine meeting coverage.
 - [ ] Keep Gates Foundation, Startup Intros, Encoura/Eduventures authored posts, Facebook, Town of Natick results, PESC organizational/event records, and the bankruptcy filing in clearly marked supporting/source-lead roles unless they are needed for narrow factual verification.

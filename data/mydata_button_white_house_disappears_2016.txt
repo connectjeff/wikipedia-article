@@ -1,0 +1,518 @@
+
+--- Page 1 ---
+
+  
+Copyright © 2016 ESP Solutions Group 
+1 
+ 
+  
+T H E  O P T I M A L  R E F E R E N CE  G U I D E 
+MyData Button: Button, Button, Who’s Got the Button? 
+Nobody!  Click one button and get all your education data!   
+Too good to be true?  Yes. 
+  
+Extraordinary insight™ into today’s education information topics  
+By Glynn D. Ligon, Ph.D., ESP Solutions Group, Inc. 
+  
+
+
+--- Page 2 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 3 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+ 
+ 
+Table of Contents 
+ 
+The Background ............................................................................................................................................ 1 
+ESP’s MyData Button Solution ..................................................................................................................... 4 
+What Should Everyone Do Now? ................................................................................................................. 5 
+Editorial......................................................................................................................................................... 5 
+History of MyData Button and the Quest to Find One ............................................................................... 6 
+ 
+
+--- Page 4 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 5 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 1 
+MyData Button: Button, Button, Who’s Got the 
+Button?  
+ 
+Nobody!  Click one button and get all your education data!  Too 
+good to be true?  Yes. 
+ 
+The Background 
+ 
+Where’s MyData Button for students?  Back in 2012, the White House, 
+the Secretary of Education, and several major companies promised to 
+give students a single button to click to download ALL of their education 
+data.  Their data would be in a common digital format to use themselves 
+in so many ways.  The students would be enlightened, informed, and 
+empowered.  Wow!  Now in 2016, no buttons can be found.   
+ 
+I asked the U.S. Department of Education (USED) where MyData Button 
+is—no button.  I asked each of those companies—no buttons.  
+Apparently no one else is asking why.   
+ 
+Education’s MyData Button was part of a bigger initiative by the Obama 
+administration to promote open access by government.  Remember 
+when transparency was a big deal and the Obama administration was 
+going to be the most transparent one ever?  Giving data back to the 
+consumer (termed “smart disclosure”) was a core component of its Open 
+Government Directive.  I’ve now sent two questions to the White House 
+through their website—one to staff, one to the President.  No response.   
+ 
+“Open access” of government data as a concept by the Obama 
+administration is naïve for the education industry.  “Smart disclosure” 
+assumes that the students can have personal access to their data on 
+demand—at the push of a button.  The local school district isn’t a branch 
+of Wells Fargo Bank.  In the education IT community, students don’t have 
+a few, directly connected accounts for which statements with a daily 
+activity record for each can be printed as .PDFs.   
+ 
+Students have demographic, enrollment, attendance, family, meals, 
+transportation, extra-curricular, behavior diagnostic, formative 
+assessment, art, physical fitness, remedial program, gifted program, 
+counseling, graduation plan, grades, transcript, daily lessons, discipline, 
+and multiple EdTech app records distributed across multitudinous 
+databases.   
+ 
+ 
+ 
+
+--- Page 6 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 2 
+Did the White House think a student might go to each of these websites 
+separately to gather data, then be able to concatenate them into a 
+manageable record because standard definitions and formatting had 
+been used by each of them?  
+ 
+With whom did they consult before issuing their press release?  Did the 
+companies who signed up not talk to their education agency clients first?   
+ 
+MyData Button is the quintessential representation of hopeful Occam’s 
+Razor optimism.  Translated, that means the White House must have 
+hoped that the simplest solution—a button to click—would meet the 
+requirements of a problem that anyone with rudimentary experience 
+and understanding of the education information ecosystem would have 
+easily seen as confounding.    
+ 
+Veteran’s Affairs and the Department of Energy have functioning data 
+buttons.  Why is MyData Button impossible for education data?  Is it our 
+complex data, aloof customers, resistant data managers (USED, SEAs, 
+LEAs, vendors)—or the opposition of self-appointed privacy watchdogs? 
+After months of wondering and researching, I think I know why.  Yet 
+again, the education enterprise has proven to behave differently from 
+other industries.   
+ 
+ Data governance is less precisely defined and policies less 
+publicized even though FERPA has been around since 1974.   
+ 
+ Data standards are, well, not very standard for exchanging data 
+among applications and agencies.  Oh, yes, there are several 
+exchange standards to choose from and multiple definition 
+standards to adopt.  The U.S. Department of Education even 
+developed a guide for MyData Button for the different standards.  
+All a student would need to do is learn all of them, and crosswalk 
+their data across them, and then begin to interpret any user-
+defined fields and rules allowed by the standards.  (Any student 
+capable of doing this should go to www.espsg.com and contact 
+me for a job application.)   
+ 
+ The White House never mentioned anywhere the need for a 
+common metadata dictionary or a crosswalk among the data 
+sources.  The USED and its National Center for Education 
+Statistics have historically developed metadata dictionaries (e.g., 
+Student and Staff Data Handbooks, and Common Education Data 
+Standards), then stopped short of any official designation of 
+them to ensure universal adoption by vendors and education 
+agencies.  
+ 
+
+--- Page 7 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 3 
+ This one is a question.  Did the demise of inBloom scare away the 
+developers and supporters of MyData Buttons?     
+ 
+ Oh, yes, then there are those multitudinous data sources spread 
+out across the education agency.  
+ 
+ 
+MyData Button is a classic example of encountering the intertwined 
+obstacles erected by this data milieu.   
+ 
+Because there are solutions to each of these issues, it’s worth the effort 
+to document the MyData Button saga.   
+ 
+MyData Button is an idea that seems to work for the VA and the 
+Department of Energy when an individual has an account—a secure 
+account.  That’s when an account, or a record, holds an individual’s data.  
+Those data may be extensive.  There may even be more than one 
+account for an individual.  However, if we think about our multiple 
+financial accounts in our bank, they are all very similar in terms of their 
+data elements and formats.  They share your exact personal data such 
+that they can be considered either already federated or even a single 
+account with various transactions—checking, savings, loans, IRAs, etc.  
+That’s an account like the VA or the Department of Energy could create.    
+ 
+The bottom line is that the USED’s MyData Button should be working 
+today on the FSA website—no excuses—just like similar buttons are 
+working for the VA and the Department of Energy.  Students using FSA’s 
+website have an account—a clearly defined set of data about a single 
+individual, in a single location.  FSA was announced in 2012 as the site of 
+MyData Button’s first appearance.  Renamed to Mystudentdata 
+Download, it never appeared.  Links to it and directions how to use it are 
+still live on the Internet.   
+ 
+On the other hand, MyData Button was a bad idea from the beginning as 
+a universal notion for all education entities and EdTech companies.  As 
+un-American as it may sound at first, students shouldn’t expect to get 
+their personal data directly from all companies and applications off the 
+Web with whom they are interacting.  One of the biggest problems for a 
+data button in the education industry is that the vendors, when they are 
+holders of student data, don’t own the student data.  They don’t make 
+the decision to release the data when a student clicks the button.  The 
+education agency in which they are enrolled controls ownership and 
+usage of their data and has to decide how to respond to requests for 
+access—see FERPA.   
+ 
+There’s another factor to consider.  An education agency’s data are not 
+simply stored in a single location readily accessible for download with the 
+click of a button.  Creating a federated system for accessing all of a 
+
+--- Page 8 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 4 
+student’s data on demand is impractical.  As an agency’s disparate data 
+sources evolve, are updated, are added, and change their technology, 
+maintaining a federated system that can pull together a student’s data in 
+near real time or even within a reasonable time simply is not going to 
+work.  For an agency to provide access for a student or parent directly to 
+all of the EdTech applications that contain a student’s data is a security 
+and confidentiality nightmare for the EdTech vendor, the agency, and the 
+student/parent.   
+ 
+Agencies have built data warehouses that periodically capture student 
+data from authoritative data sources.  A typical data warehouse may 
+hold a lot of data, but not nearly the majority of an agency’s data.  In 
+addition, these data may have a degree of de-identification imposed 
+depending upon their intended audiences and the agency’s data 
+governance policy.  A truly de-identified database would be useless for 
+MyData Button.  A well-secured database behind an institutional firewall 
+would be impractical for MyData Button.  Open access and smart 
+disclosure are not compatible with the concepts of de-identification and 
+firewalls that protect the privacy of student data under FERPA.      
+ 
+Each agency must design the creative solution for access to personally 
+identifiable data by students that works within a data governance plan 
+adopted for their overall system.  A simple button seems, well, simplistic 
+given the complexities of the data, the data systems, and the data 
+policies.   
+ 
+ESP’s MyData Button Solution 
+ 
+ESP’s goal for our clients is to provide students and parents of minor 
+students transparency to the education data collected and stored about 
+the student.   Alternatively where appropriate, desirable, or practical, an 
+education agency should provide access to the data themselves.   
+ESP solves this in two ways. 
+ 
+1. Data Governance Policy  
+ 
+ ESP provides expert services to guide an education 
+agency in developing their Data Governance Policy 
+that provides the process for accessing the students’ 
+data. 
+ The Data Governance Policy describes how students 
+and parents discover what data are collected, stored, 
+and reported. 
+ 
+ 
+ 
+
+--- Page 9 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 5 
+2. DataSpecs®  
+ 
+ ESP provides this metadata dictionary describing the 
+data collected, stored, and reported about a student.  
+www.DataSpecsCentral.com  
+ Students and parents can see reports describing 
+these data. 
+ 
+So, there’s no ESP MyData Button.  There’s an actual governance solution 
+built upon the realities of how education data are collected, stored, and 
+managed to protect the privacy of the student while serving the public 
+mandates that required the collection of the data.  Within this solution is 
+the foundational tool, DataSpecs®, that manages the metadata and data 
+governance processes. 
+What Should Everyone Do Now? 
+ 
+First, FSA should launch their Mystudentdata Download button as 
+advertised.   
+ 
+Next, USED should abandon MyData Button for all other USED activities.  
+Instead, their focus should be on supporting data governance policy 
+development.  Each policy should have a foundation of a metadata 
+dictionary for the education agency to manage and publish their data 
+collections, databases, and outputs where information can be accessed.    
+ 
+Companies should work with their client education agencies to 
+understand the data governance policies under which they operate and 
+must comply.  A student data download process may or may not work for 
+their product dependent upon each context and contract.   
+ 
+The Data Quality Campaign has provided useful general guidance in their 
+recent publication “Time to Act: Making Data Work for Students.”  
+http://dataqualitycampaign.org/resource/time-to-act/  
+ 
+Editorial 
+ 
+Not every idea is going to be great.  MyData Button works for VA and 
+Energy, ought to work for FSA, but the grand vision the White House had 
+in 2012 was naïve.  There’s considerable complexity, design, and policy 
+required for a solution to a problem like giving students access to all their 
+education data.  The timeline published for launching MyData Button 
+was unrealistic from the start.  Let’s get the puns out of the way.  Did the 
+White House think this button would be a snap done on a shoe string?    
+
+--- Page 10 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 6 
+History of MyData Button and the Quest to Find One  
+ 
+The Obama Administration promoted open access to data for the 
+consumer (termed “smart disclosure”) as a core component of its Open 
+Government Directive.  The principals (sic) behind smart disclosure were 
+summarized in a September 8, 2011 memorandum titled “Informing 
+Consumers through Smart Disclosure.” 
+https://www.whitehouse.gov/sites/default/files/omb/inforeg/for-
+agencies/informing-consumers-through-smart-disclosure.pdf  
+ 
+Smart disclosure was led by the U.S. Department of Veterans Affairs’ (VA) 
+Blue Button (http://www.va.gov/bluebutton/) and US Department of 
+Energy’s (DOE) Green Button (http://energy.gov/data/green-button) 
+initiatives.  The Blue Button allows veterans to view and download their 
+personal health records in a plain text format.  A number of companies 
+offers derivative solutions that utilize these data.  Data may be viewed 
+on mobile devices and jobs may be applied for using military service 
+data.  The Green Button allows consumers to download their home 
+energy usage data from their electricity utility provider. 
+ 
+January 19, 2012, the Executive Office of the President announced 
+MyData Button would appear on USED’s FSA website.  Five companies 
+were named in the announcement as committing to launch “MyData 
+Button” features, ETS, StraighterLine, Houghton Mifflin Harcourt, 
+Pearson, and Parchment.   
+ 
+Hack Education’s blog by Audrey Waters on April 11, 2012, examined the 
+challenges of MyData Button.  
+http://hackeducation.com/2012/04/11/download-all-your-education-
+data-with-the-click-of-one-button  
+ 
+Then on May 22, 2012, “MyData Open Data Specification” was published 
+for education.  USED called upon education entities (schools, universities, 
+test preparation companies, etc.) and service providers to offer an easy-
+to-use data download button for their customers.  The goal of this 
+initiative was to create a simple-to-use mechanism for consumers to 
+download their education data in a machine-readable format on a 
+provider’s website and to define an open-data format for a provider to 
+offer this functionality with minimal implementation burden by 
+leveraging data standards already in use.  The specification even included 
+detail file formats for the data downloads. 
+ 
+On August 16, 2012, Pamela Eliadis, Service Director, System Operations 
+and Aid Delivery Management, Federal Student Aid, announced that 
+MyData Button would be available on the NSLDS Student Access website.  
+https://www.nslds.ed.gov/npas/index.htm  Specific details were 
+
+--- Page 11 ---
+
+  
+Copyright 2016 ESP Solutions Group 
+Page 7 
+provided along with detailed descriptions of MyData Button’s purpose 
+and contents.  Those are still live on FSA’s website. 
+That was a virtual flurry of activity, wasn’t it. 
+ 
+On May 30, 2014, I emailed Kathleen Styles, the designated U.S. 
+Department of Education contact for MyData Button.  She replied the 
+same day, “Let me ask around and see if I can direct you to contact.”  
+That was her only communication.  On March 22, 2016, I sent another 
+email to Kathleen Stiles asking what the status was.  To date, no 
+response has been received.   
+ 
+During the week of April 11, 2016, I sent queries to ETS, Pearson, and 
+Houghton Mifflin Harcourt through their websites or the emails provided 
+on them.  As of the writing of this paper, each replied with an automated 
+message that they would get back to me within 24 to 48 hours.  None 
+has responded to provide an update on the absence of their MyData 
+Button.  Parchment’s email, sent at the same time elicited a personal 
+response from a cell phone saying, “I'm not familiar with the feature you 
+are describing. Could you provide more detail?”  I did.   
+ 
+On April 14, 2016, I entered a question on the White House website 
+asking the status of MyData Button.  No response has been received.   
+ 
+At some point, MyData Button was renamed by FSA to Mystudentdata 
+Download.  https://studentaid.ed.gov/sa/resources/mystudentdata-
+download  Detailed definitions and instructions of how to access it and 
+what it does are on the FSA website.  However, Mystudentdata 
+Download does not exist—and never did.  After an exhaustive search of 
+the FSA website to find MyStudentData Download following every link 
+provided, I finally called the 1-800-433-3243 help line on April 19, 2016.  
+The recording of the call is available at https://youtu.be/nthaTVuHGhk   
+The person I spoke with confirmed that MyStudentData Download was 
+never on the FSA website. 
+ 
+On April 21, 2016, I entered a question on the President’s website.  To 
+date, no response has been received.  (Yes, I check my junk email.)   
+ 
+On April 27, 2016, Parchment, a transcript exchange vendor, emailed that they had 
+implemented a MyData Button for about 18 months.  Based upon “nearly no usage,” 
+they removed the button and have no plans to re-implement it.   
+ 
+As of April 28, 2016, there was no evidence on the Internet that any 
+education entity had MyData Button in service.  The only one I ever 
+found was The Department of Defense Education Activity’s (DODEA) 
+MyData Button on their MyData Parent Portal through 2014.     
+http://www.dodea.edu/mydata/
+
+--- Page 12 ---
+
+  
+ 
+ 
+ 
+ 
+ 
+About ESP Solutions Group 
+ESP Solutions Group provides its clients with 
+Extraordinary Insight™ into P20W education 
+data systems and psychometrics.  Our team 
+is comprised of industry experts who 
+pioneered the concept of “data-driven 
+decision making” and now help optimize the 
+management of our clients’ state and local 
+education agencies’ information systems. 
+ 
+ESP personnel have advised school districts, 
+all state education agencies, and the U.S. 
+Department of Education on the practice of 
+P20W data management.  We are regarded 
+as leading experts in understanding the data 
+and technology implications of ESSA, SIF, 
+EDFacts, CEDS, state reporting, metadata 
+standards, data governance, data 
+visualizations, and emerging issues. 
+ 
+Dozens of education agencies have hired ESP 
+to design and build their longitudinal data 
+systems, state and federal reporting systems, 
+metadata dictionaries, 
+evaluation/assessment programs, and data 
+management/analysis and visualization 
+systems. 
+ 
+To learn how ESP can give your agency 
+Extraordinary Insight into your P20W 
+education data, contact us at (512) 879-5300 
+or info@espsg.com. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document is part of The Optimal 
+Reference Guide Series, designed to help 
+decision makers analyze, manage, and share 
+data in the 21st Century. 
+ 
+ 
+ 
+My Data Button: Button, Button, Who’s Got 
+the Button? © 2016 by ESP Solutions Group, 
+Inc.  All rights reserved.  No part of this 
+paper shall be reproduced, stored in a 
+retrieval system, or transmitted by any 
+means, electronic, mechanical, 
+photocopying, recording, or otherwise, 
+without written permission from the 
+publisher. 
+ 
+ 
+Follow and respond to tweets investigating 
+MyData Button at https://twitter.com/espsg 
+or http://www.p20wforum.info/. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

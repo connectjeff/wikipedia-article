@@ -1,0 +1,255 @@
+(function(w,d,s,l,i){w.GAMeasurementID='G-BSNS5BCL60';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','cpDataLayerGA4','GTM-K73C5PS');
+var enableTelemetry = 'false' var aiConfig = { instrumentationKey: '1cde048e-3185-4906-aa46-c92a7312b60f' } var appInsights = window.appInsights || function (a) { function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement('script'); b.src = a.url || 'https://js.monitor.azure.com/scripts/a/ai.0.js', d.getElementsByTagName('script')[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ['Event', 'Exception', 'Metric', 'PageView', 'Trace', 'Dependency']; f.length;)b('track' + f.pop()); if (b('setAuthenticatedUserContext'), b('clearAuthenticatedUserContext'), b('startTrackEvent'), b('stopTrackEvent'), b('startTrackPage'), b('stopTrackPage'), b('flush'), !a.disableExceptionTracking) { f = 'onerror', b('_' + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c['_' + f](a, b, d, e, h), i } } return c }(aiConfig); window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length; // Add telemetry initializer appInsights.queue.push(function() { appInsights.context.addTelemetryInitializer(function(envelope) { var telemetryItem = envelope.data.baseData; // To check the telemetry item’s type: if (!false) { //If the telemetry is not enabled, we still want to capture Google map custom event, so only allow that if (envelope.name.indexOf('.Event') == -1) return false; } }); }); appInsights.trackPageView();
+function populateAntiForgery(token) { var input = document.createElement("input"); input.name = "__RequestVerificationToken"; input.type = "hidden"; input.value = token; var absPat = /^https?:\/\/|^\/\//i; var forms = document.getElementsByTagName("form"); for (var i = 0; i < forms.length; i++) { if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) { forms[i].appendChild(input.cloneNode()); } } } function getAntiForgeryToken(callback, error) { var xhr = new XMLHttpRequest(); xhr.open("GET", "/antiforgery"); xhr.addEventListener("load", function() { try { if (this.status !== 200) { throw Error("Invalid status. Could not retrieve antiforgery token."); } var obj = JSON.parse(this.responseText); callback(obj.token); } catch (e) { typeof error === "function" && error(e); } }); xhr.send(); } getAntiForgeryToken(function(token) { if (document.readyState === "complete" || document.readyState === "loaded" || document.readyState === "interactive") { populateAntiForgery(token); return; } document.addEventListener("DOMContentLoaded", function() { populateAntiForgery(token); }, false); }, console.error);
+window.departmentHeader = {}; window.pageSectionTracker = {}; window.isResponsiveEnabled = true; window.isRemoveSetHeights= true; if (window.isRemoveSetHeights) { document.documentElement.className += ' removeSetHeights'; } window.mainMenuMediaQuery = 'screen and (max-width: 40em)'; window.isMobileBrowserIncludingTablets = false; window.fixedResponsiveMenu = false; window.fullWidthResponsiveMenu = false; window.responsiveMenuHeight = ''; window.responsiveMenuFontSize = ''; window.isContentAdvisor = false; (function () { window.setSizeCookie = function () { document.cookie = "dpi=" + window.devicePixelRatio + "; path=/"; document.cookie = "viewportWidth=" + window.innerWidth + "; path=/"; document.cookie = "viewportHeight=" + window.innerHeight + "; path=/"; if (screen && screen.width && screen.height) { document.cookie = "screenWidth=" + screen.width + "; path=/"; document.cookie = "screenHeight=" + screen.height + "; path=/"; } document.cookie = "responsiveGhost=1; path=/"; }; setSizeCookie(); }());
+Hybrid Town Meeting Committee | Natick, MA - Official Website
+<!-- var intCountryCode = 840; var order = ''; //-->
+window.Pages = window.Pages || {}; // FrontEnd RWD initialization window.Pages.rwdReady = $.Deferred(); window.Pages.toolBarDeferred = $.Deferred(); window.Pages.rwdSetupComplete = $.Deferred(); window.Pages.megaMenuLoaded = $.Deferred(); window.Pages.angularToolbarComplete = $.Deferred(); window.Pages.frontEndToolbarComplete = $.Deferred();
+setEditorVariables(false, 840); function getPrintPreviewType() { return 0; } function printPreview() {pPreview(getPrintPreviewType()); }
+jQuery(document).click(function (event) { var target = jQuery(event.target); if (target.attr('src') && target.parents('.image').length && target.parents('.widget').length) { var text = target.attr('title'); if (!text.length) { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'Image', eventAction: 'Image - ' + text, eventLabel: window.location.href }); } if (target.is('button') || target.hasClass('button') || target.parents().hasClass('button')) { var text = ""; if (target.parents('.button')[0]) { text = target.parents('.button').first().text(); } else if (target.text().length) { text = target.text(); } else if (target.attr('title').length) { text = target.attr('title'); } if (!text.length) { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'Button', eventAction: 'Button - ' + text, eventLabel: window.location.href }); } if (target.parents('.widgetCustomHtml').length) { ga('send', { hitType: 'event', eventCategory: 'Custom Html', eventAction: 'Custom Html Clicked', eventLabel: window.location.href }); } if (target.parents('.editor').length) { ga('send', { hitType: 'event', eventCategory: 'Editor', eventAction: 'Editor Link Clicked', eventLabel: window.location.href }); } if (target.parents('.GraphicLinks').length) { var text = ""; var targetGraphicLink = target; if (target.hasClass('widgetGraphicLinksLink')) { targetGraphicLink = jQuery(target.children()[0]); } if (targetGraphicLink.hasClass('text')) { text = targetGraphicLink.text(); } else if (targetGraphicLink.attr('src').length) { if (targetGraphicLink.attr('alt').length) { text = targetGraphicLink.attr('alt'); } else { text = targetGraphicLink.attr('src'); } } else { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'Graphic Links', eventAction: 'Graphic Link - ' + text, eventLabel: window.location.href }); } if (target.parents('.InfoAdvanced').length) { ga('send', { hitType: 'event', eventCategory: 'Info Advanced', eventAction: 'Info Advanced Clicked', eventLabel: window.location.href }); } if (target.parents('.list').length) { ga('send', { hitType: 'event', eventCategory: 'List', eventAction: 'List Clicked', eventLabel: window.location.href }); } if (target.parents('.megaMenuItem').length || target.parents('.topMenuItem').length) { var megaMenuText = jQuery('.topMenuItem.mouseover').find('span').text(); var breadCrumbs = []; jQuery('.breadCrumbs > li').each(function () { breadCrumbs.push(this.textContent); }); var pageTitle = breadCrumbs.join('>'); var subTitleText = target.parents('.megaMenuItem').children('.widgetTitle').children().text(); var text = ""; if (pageTitle) { text += pageTitle + " | "; } else { text += document.title + ' - '; } if (target.text() == "" && megaMenuText == "") { text += "N/A"; } else if (target.text().length && megaMenuText.length) { if (megaMenuText == target.text()) { text += megaMenuText; } else { text += megaMenuText + " - " + subTitleText + " - " + target.text(); } } else if (target.text() == "") { text += megaMenuText; } else { text += target.text(); } if (!text.length) { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'Mega Menu', eventAction: 'Mega Menu : ' + text, eventLabel: window.location.href }); } if (target.parents('.widgetNewsFlash').length && target.parents('.widgetItem').length) { var text = jQuery(target.parents('.widgetItem')[0]).find('.widgetTitle').children().text(); if (!text.length) { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'News Flash', eventAction: 'News Flash - ' + text, eventLabel: window.location.href }); } if (target.hasClass('widgetQuickLinksLink') || target.find('.widgetQuickLinksLink').length) { var text = target.text(); if (!text.length) { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'Quick Links', eventAction: 'Quick Links - ' + text, eventLabel: window.location.href }); } if (target.attr('src') && target.parents('.cpSlideshow').length) { var text = target.attr('title'); if (!text.length) { text = "N/A"; } ga('send', { hitType: 'event', eventCategory: 'Slideshow', eventAction: 'Slideshow - ' + text, eventLabel: window.location.href }); } if (target.parents('.widgetText').length) { ga('send', { hitType: 'event', eventCategory: 'Text', eventAction: 'Text Link Clicked', eventLabel: window.location.href }); } });
+Skip to Main Content
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700); .alertText .customAlert { color: #EAEAEA; display: inline-block; font-family: 'Open Sans Condensed', sans-serif; text-transform: uppercase; font-weight: bold; height: 27px; left: 57px; line-height: 27px; overflow: hidden; position: absolute; top: 15px; white-space: nowrap; width: 268px; }
+ALERT:
+Mandatory Ban On ALL Nonessential Outdoor Water Uses
+Info on critical drought...
+Create a Website Account
+- Manage notification subscriptions, save form progress and more.
+Website Sign In
+$(document).ready(function () { $('#signedOutToolbarCreateProfileButton').click(function (event) { event.preventDefault(); window.location.href = '/MyAccount/ProfileCreate?from=url&url=/&dn=' + window.location.origin; }); $('#loggedOutToolbarSignInButton').click(function (event) { event.preventDefault(); window.location.href = '/MyAccount/?from=url&url=' + encodeURIComponent(window.location.href.replace(window.location.origin, '')) + '&dn=' + window.location.host; }); if ('False' == 'True') { $('#loggedOutToolbarSignInButton').hide(); } })
+table.gsc-search-box td, .pageStyles td.gsc-search-button, .pageStyles table.gsc-input, .pageStyles td.gsc-input, .pageStyles td.gsib_a, .pageStyles td.gsib_b, .pageStyles th.gsc-search-button { background-color: transparent; padding: 0; } .gsc-input .gsst_a .gscb_a { color: #ffffff; } .gsc-input input::-webkit-input-placeholder { font-size: 16px; } .gsc-input input::-moz-placeholder { font-size: 16px; } .gsc-input input:-ms-input-placeholder { font-size: 16px; } .gsc-input input::-ms-input-placeholder { font-size: 16px; } input.gsc-input { color: rgba(255, 255, 255, 1); height: 70px !important; padding: 0 0 0 32px !important; font-family: Montserrat; font-weight: 500; background: none !important; } input.gsc-input::placeholder { color: #ffffff; } form.gsc-search-box { margin-top: 0; margin-right: 0; margin-bottom: 0px; margin-left: 0px; width: 100%; background-color: rgba(255,255,255,1); } table.gsc-search-box { background: rgba(35, 64, 147, 1); border: none; border-radius: 12px; } td#gs_tti50 { padding-left: 0px; } table.gsc-search-box td.gsc-input { padding-right: 0; } table.gsc-search-box td, .gsc-input-box { border: none; background: none; } .gsst_a .gscb_a { color: #656565; } table.gsc-search-box td.gsc-search-button { padding: 10px; } button.gsc-search-button-v2 { height: 50px; width: 50px; background: url("/ImageRepository/Document?documentID=15426") center no-repeat; border: none; } button.gsc-search-button-v2:is(:hover, :focus, :active) { background: url("/ImageRepository/Document?documentID=15427") center no-repeat; } button.gsc-search-button-v2 svg { display: none; } td.gsc-input { padding: 0px; height:60px }
+const observer = new MutationObserver(function(mutations, me) { var inputElement = document.getElementById('gsc-i-id1'); if (inputElement) { inputElement.placeholder = 'Search...'; me.disconnect(); // Stop observing return; } }); observer.observe(document, { childList: true, subtree: true });
+Government
+Departments
+Community
+I Want To...
+(function () { function setupMenu() { const menuID = 'mainNavMenu'; const menuType = MAIN_MENU; //setup menu manager properties for main menu if (!menuManager.mobileMainNav && true) menuManager.adjustMainItemsWidth('#' + menuID); menuManager.isMainMenuEditable = false; menuManager.mainMenuMaxSubMenuLevels = 4; menuManager.setMOMMode(2, menuType); //Init main menu const setupDraggable = menuManager.isMainMenuEditable; const urlToGetHiddenMenus = '/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=17&menuContainerID=mainNav'; menuManager.setupMenu(menuID, 'mainNav', menuType, setupDraggable, urlToGetHiddenMenus); menuManager.mainMenuInit = true; menuManager.mainMenuTextResizer = true; if (1.00 > 0) menuManager.mainMenuTextResizerRatio = 1.00; if (window.isResponsiveEnabled) menuManager.mainMenuReady.resolve(); } if (document.readyState === "complete" || document.readyState === "loaded" || document.readyState === "interactive") { setupMenu(); return; } document.addEventListener("DOMContentLoaded", setupMenu); })();
+$(window).on("load", function () { $.when(window.Pages.rwdSetupComplete) .done(function () { renderExternalBannerSlideshow('banner1', {"BannerOptionID":55,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":"5","SlideshowTransition":0,"SlideShowTransitionTiming":"1","ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"DisplayVideoPauseButton":false,"VideoPauseButtonAlignment":1,"VideoPauseButtonControlsAlignment":0,"VideoPauseButtonStyle":"#FFFFFF","VideoPauseButtonBackgroundStyle":"#000000","VideoPauseButtonAlignmentClass":"alignRight viewport","DisplaySlideshowPauseButton":true,"SlideshowControlsColor":"#FFFFFF","SlideshowControlsBackgroundColor":"#000000","SlideshowPauseButtonClass":"isHidden","BannerImages":[{"BannerImageID":91,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15422","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":92,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15421","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":93,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15420","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":94,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15419","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":4,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":95,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15418","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":5,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[{"BannerVideoID":2,"BannerOptionID":55,"VideoFileName":"","ImageFileName":"EmptyBannerBkg202306201112421672.png","IsLink":false,"LinkAddress":null,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","VideoFileID":"00000000-0000-0000-0000-000000000000","ImageFileID":"00000000-0000-0000-0000-000000000000","VideoWidth":0,"VideoHeight":0,"ImageWidth":0,"ImageHeight":0,"LinkedVideoUrl":"","RecordStatus":0,"AltText":null}],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"}, '/App_Themes/2023 - Interior/Images/', 'Rotating'); }); });
+Home
+Government
+Boards & Committees
+Board & Committee Listings
+Hybrid Town Meeting Committee
+Hybrid Town Meeting Committee
+--> Take a live hybrid Town Meeting survey (thru 3/15/26):
+https://bit.ly/natick-hybrid-town-meeting
+$(document).ready(function (e) { renderSlideshowIfApplicable($('#divEditor' + '2f3db1f5-c11f-43c1-953f-0f07518ec3da')); });
+Affordable Housing Trust Fund Board
+Agenda/Minutes
+Learn more at the NAHT website
+Natick 2030+ Master Plan
+Audit Advisory Committee
+Agenda/Minutes
+Audit Materials & Financial Statements
+Board of Assessors
+Agenda/Minutes
+Board of Health
+Agenda/Minutes
+Agenda Feb. 23, 2015
+BOH Regulations
+Health Department
+Annual Report
+Racism as a Public Health Crisis
+Cable Advisory Board
+Agenda/Minutes
+Charter & By-Law Review
+Agenda/Minutes
+CRBC 2025 Spring Report
+CRBC 2024 Fall Report
+CRBC 2024 Spring Report
+CBRC 2023 Fall Report
+CBRC 2023 Spring Report
+Commission on Disability
+Agendas
+ADA Coordinator
+ADA Transition Plan
+Who We Are
+Resource Center (NCOD)
+Community Preservation Committee
+Conservation Commission
+Welcome & Announcements
+Agendas & Minutes
+Meeting Schedule
+Obtaining a Wetland Permit
+Obtaining a Stormwater Permit
+Frequently Asked Questions (FAQs)
+Open Space & Trails
+Charles River Watershed Flood Model
+Invasive Species
+Invasive Species
+Autumn Olive
+Climbing Euonymus
+Common Barberry
+Common Buckthorn
+Cork Tree
+European Beech
+Forsythia
+Garlic Mustard
+Glossy Buckthorn
+Japanese Angelica Tree
+Japanese Barberry
+Japanese Knotweed
+Lily of the Valley
+Linden Tree
+Mugwort
+Multiflora Rose
+Norway Maple
+Oriental Bittersweet
+Porcelain Berry
+Privet
+Purple Loosestrife
+Sapphire Berry
+Shrub Honeysuckle
+Tree of Heaven
+White Poplar Tree
+Wineberry
+Winged Euonymus
+Bylaws & Regulations
+Minutes For 2007 - 2013
+Constables
+Council on Aging
+Agendas
+Cultural Council
+Agendas
+Grant Information
+Design Review Board
+Agendas
+Economic Development Committee
+Agendas
+Economic Development Department
+Plans, Studies and Policy Reports
+Elderly & Disabled Taxation Fund Committee
+Agendas
+Overview: Elderly & Disabled Taxation Fund
+Finance Committee
+Agendas
+Minutes
+2021 Minutes
+2022 Minutes
+Town Finances
+Finance Committee Meetings (Videos on Demand)
+Citizen Petitions & Warrants Information
+Finance Committee's Town Meeting Website
+Golf Course Oversight Committee
+Agendas
+Historic District Commission
+Agendas
+Application & Other Documents
+Natick's Historic Districts
+Historical Commission
+Agendas
+Housing Authority
+Agendas
+Hybrid Town Meeting Committee
+Information Systems Advisory Board
+Agendas
+Keefe Tech School Committee
+Leonard Morse Grants Panel
+Local Emergency Planning Committee
+Agendas & Minutes
+Flood Preparedness Checklist
+Mathworks Scholarship Committee
+Agendas
+Memorial School Building Committee
+Morse Institute Library Board of Trustees
+Agendas
+Natural and Synthetic Turf Field Study Group
+Net Zero Natick Committee
+Open Space Advisory Committee
+Agendas & Minutes
+Open Space & Trails
+Personnel Board
+Agendas
+Planning Board
+Agendas & Minutes
+Fee Schedule
+Zoning Bylaws
+Rules & Regulations
+Recreation & Parks Commission
+Agendas
+Open Space & Recreation Plan
+Registrars of Voters
+Agendas
+Rink Oversight Committee
+Safety Committee
+Agendas
+Sawin House Advisory Committee
+Agendas & Minutes
+School Committee
+Agendas
+Minutes
+Select Board
+Trails and Forest Stewardship Committee
+Agendas & Minutes
+Land Stewardship
+Trail Blazing & Signage Project
+Natick Trails Day
+Beavers!
+Open Space & Trails
+Transportation Advisory Committee
+Agendas & Minutes
+Zoning Board of Appeals
+Agendas
+Meeting Schedule
+ARCHIVE (Past Boards & Committees)
+(function () { function setupSecondaryMenuProperties() { //setup menu manager properties for secondary menu menuManager.isSideMenuEditable = false; menuManager.sideMenuMaxSubMenuLevels = 4; menuManager.sideMenuHasCustomLinks = false; } if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", setupSecondaryMenuProperties, { once: true }); return; } setupSecondaryMenuProperties(); })();
+(function () { function setupAccordionSecondaryNav() { var $menuContainer = $('#secondaryNav'); $menuContainer.find('*[id^="SideItem"]').each(function () { var ids = $('[id="' + this.id + '"]'); if (ids.length > 1) $.each(ids, function (index, value) { value.id = value.id + '_' + index; }); }); $menuContainer.find('.hasAccordionChildren .openAccordionNav').off('click.secondaryNav').on('click.secondaryNav', function (e) { e.preventDefault(); showHideAccordionMenuForSecondaryNav($(this)); }); $menuContainer.find(".grippy").each(function () { menuManager.setupDraggableElement($(this), SIDE_MENU, '#secondaryNav'); }); $menuContainer.find("li").each(function () { menuManager.setupDroppableAccordionElement($(this), SIDE_MENU); }); } if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", setupAccordionSecondaryNav, { once: true }); return; } setupAccordionSecondaryNav(); })();
+Online Payments
+.fancyButton311.fancyButton:link,.fancyButton311.fancyButton:visited, .fancyButton311div.fancyButton{ background-image: url('/ImageRepository/Document?documentID=17142'); background-repeat: no-repeat; background-position: center 8px ; transition:all .3s ease-in-out;} .fancyButton311.fancyButton:hover,.fancyButton311.fancyButton:focus,.fancyButton311.fancyButton:active,.fancyButton311.fancyButton.hover{ background-image: url('/ImageRepository/Document?documentID=17141'); background-repeat: no-repeat; background-position: center top; } .fancyButton311.fancyButton:link > span,.fancyButton311.fancyButton:visited > span, .fancyButton311div.fancyButton > span{ } .fancyButton311.fancyButton:hover > span,.fancyButton311.fancyButton:focus > span,.fancyButton311.fancyButton:active > span,.fancyButton311.fancyButton.hover > span{ } .fancyButton311.fancyButton .text{ color: #ffffff; font-size: 1.25em; font-family: "Montserrat"; padding-top: 130px; font-weight: 600; text-decoration: none; padding-top: 130px; background-image: url('/ImageRepository/Document?documentID=15436'); background-repeat: no-repeat; background-position: center 35px ; transition:all .3s ease-in-out;transition:all .3s ease-in-out;} .fancyButton311.fancyButton:hover .text,.fancyButton311.fancyButton:focus .text,.fancyButton311.fancyButton:active .text,.fancyButton311.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 27px ; }
+Alerts & Notifications
+.fancyButton312.fancyButton:link,.fancyButton312.fancyButton:visited, .fancyButton312div.fancyButton{ background-image: url('/ImageRepository/Document?documentID=15430'); background-repeat: no-repeat; background-position: center 8px ; transition:all .3s ease-in-out;} .fancyButton312.fancyButton:hover,.fancyButton312.fancyButton:focus,.fancyButton312.fancyButton:active,.fancyButton312.fancyButton.hover{ background-image: url('/ImageRepository/Document?documentID=15431'); background-repeat: no-repeat; background-position: center top; } .fancyButton312.fancyButton:link > span,.fancyButton312.fancyButton:visited > span, .fancyButton312div.fancyButton > span{ } .fancyButton312.fancyButton:hover > span,.fancyButton312.fancyButton:focus > span,.fancyButton312.fancyButton:active > span,.fancyButton312.fancyButton.hover > span{ } .fancyButton312.fancyButton .text{ color: #ffffff; font-size: 1.25em; font-family: "Montserrat"; padding-top: 130px; font-weight: 600; text-decoration: none; padding-top: 130px; background-image: url('/ImageRepository/Document?documentID=15435'); background-repeat: no-repeat; background-position: center 35px ; transition:all .3s ease-in-out;transition:all .3s ease-in-out;} .fancyButton312.fancyButton:hover .text,.fancyButton312.fancyButton:focus .text,.fancyButton312.fancyButton:active .text,.fancyButton312.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 27px ; }
+Report a Concern
+.fancyButton313.fancyButton:link,.fancyButton313.fancyButton:visited, .fancyButton313div.fancyButton{ background-image: url('/ImageRepository/Document?documentID=15432'); background-repeat: no-repeat; background-position: center 8px ; transition:all .3s ease-in-out;} .fancyButton313.fancyButton:hover,.fancyButton313.fancyButton:focus,.fancyButton313.fancyButton:active,.fancyButton313.fancyButton.hover{ background-image: url('/ImageRepository/Document?documentID=15433'); background-repeat: no-repeat; background-position: center top; } .fancyButton313.fancyButton:link > span,.fancyButton313.fancyButton:visited > span, .fancyButton313div.fancyButton > span{ } .fancyButton313.fancyButton:hover > span,.fancyButton313.fancyButton:focus > span,.fancyButton313.fancyButton:active > span,.fancyButton313.fancyButton.hover > span{ } .fancyButton313.fancyButton .text{ color: #ffffff; font-size: 1.25em; font-family: "Montserrat"; padding-top: 130px; font-weight: 600; text-decoration: none; padding-top: 130px; background-image: url('/ImageRepository/Document?documentID=15438'); background-repeat: no-repeat; background-position: center 35px ; transition:all .3s ease-in-out;transition:all .3s ease-in-out;} .fancyButton313.fancyButton:hover .text,.fancyButton313.fancyButton:focus .text,.fancyButton313.fancyButton:active .text,.fancyButton313.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 27px ; }
+Property Values
+.fancyButton314.fancyButton:link,.fancyButton314.fancyButton:visited, .fancyButton314div.fancyButton{ background-image: url('/ImageRepository/Document?documentID=17142'); background-repeat: no-repeat; background-position: center 8px ; transition:all .3s ease-in-out;} .fancyButton314.fancyButton:hover,.fancyButton314.fancyButton:focus,.fancyButton314.fancyButton:active,.fancyButton314.fancyButton.hover{ background-image: url('/ImageRepository/Document?documentID=17141'); background-repeat: no-repeat; background-position: center top; } .fancyButton314.fancyButton:link > span,.fancyButton314.fancyButton:visited > span, .fancyButton314div.fancyButton > span{ } .fancyButton314.fancyButton:hover > span,.fancyButton314.fancyButton:focus > span,.fancyButton314.fancyButton:active > span,.fancyButton314.fancyButton.hover > span{ } .fancyButton314.fancyButton .text{ color: #ffffff; font-size: 1.25em; font-family: "Montserrat"; padding-top: 130px; font-weight: 600; text-decoration: none; padding-top: 130px; background-image: url('/ImageRepository/Document?documentID=15437'); background-repeat: no-repeat; background-position: center 35px ; transition:all .3s ease-in-out;transition:all .3s ease-in-out;} .fancyButton314.fancyButton:hover .text,.fancyButton314.fancyButton:focus .text,.fancyButton314.fancyButton:active .text,.fancyButton314.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 27px ; }
+Trash & Recycling
+.fancyButton315.fancyButton:link,.fancyButton315.fancyButton:visited, .fancyButton315div.fancyButton{ background-image: url('/ImageRepository/Document?documentID=15430'); background-repeat: no-repeat; background-position: center 8px ; transition:all .3s ease-in-out;} .fancyButton315.fancyButton:hover,.fancyButton315.fancyButton:focus,.fancyButton315.fancyButton:active,.fancyButton315.fancyButton.hover{ background-image: url('/ImageRepository/Document?documentID=15431'); background-repeat: no-repeat; background-position: center top; } .fancyButton315.fancyButton:link > span,.fancyButton315.fancyButton:visited > span, .fancyButton315div.fancyButton > span{ } .fancyButton315.fancyButton:hover > span,.fancyButton315.fancyButton:focus > span,.fancyButton315.fancyButton:active > span,.fancyButton315.fancyButton.hover > span{ } .fancyButton315.fancyButton .text{ color: #ffffff; font-size: 1.25em; font-family: "Montserrat"; padding-top: 130px; font-weight: 600; text-decoration: none; padding-top: 130px; background-image: url('/ImageRepository/Document?documentID=15439'); background-repeat: no-repeat; background-position: center 35px ; transition:all .3s ease-in-out;transition:all .3s ease-in-out;} .fancyButton315.fancyButton:hover .text,.fancyButton315.fancyButton:focus .text,.fancyButton315.fancyButton:active .text,.fancyButton315.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 27px ; }
+Employment
+.fancyButton316.fancyButton:link,.fancyButton316.fancyButton:visited, .fancyButton316div.fancyButton{ background-image: url('/ImageRepository/Document?documentID=15432'); background-repeat: no-repeat; background-position: center 8px ; transition:all .3s ease-in-out;} .fancyButton316.fancyButton:hover,.fancyButton316.fancyButton:focus,.fancyButton316.fancyButton:active,.fancyButton316.fancyButton.hover{ background-image: url('/ImageRepository/Document?documentID=15433'); background-repeat: no-repeat; background-position: center top; } .fancyButton316.fancyButton:link > span,.fancyButton316.fancyButton:visited > span, .fancyButton316div.fancyButton > span{ } .fancyButton316.fancyButton:hover > span,.fancyButton316.fancyButton:focus > span,.fancyButton316.fancyButton:active > span,.fancyButton316.fancyButton.hover > span{ } .fancyButton316.fancyButton .text{ color: #ffffff; font-size: 1.25em; font-family: "Montserrat"; padding-top: 130px; font-weight: 600; text-decoration: none; padding-top: 130px; background-image: url('/ImageRepository/Document?documentID=15434'); background-repeat: no-repeat; background-position: center 35px ; transition:all .3s ease-in-out;transition:all .3s ease-in-out;} .fancyButton316.fancyButton:hover .text,.fancyButton316.fancyButton:focus .text,.fancyButton316.fancyButton:active .text,.fancyButton316.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 27px ; }
+Alerts
+.fancyButton317.fancyButton:link,.fancyButton317.fancyButton:visited, .fancyButton317div.fancyButton{ background-color: rgba(35, 64, 147, 0.85); background-repeat: no-repeat; background-position: left top; width:90px; border-radius: 0px 10px 10px 0px; transition:all .2s ease-in-out; min-height:96px; display:flex; align-items:center; justify-content:center; } @media(max-width:63em){ .fancyButton317{ margin:0 auto; width:100% !important; }} .fancyButton317.fancyButton:hover,.fancyButton317.fancyButton:focus,.fancyButton317.fancyButton:active,.fancyButton317.fancyButton.hover{ background-color: rgb(35, 64, 147); background-repeat: no-repeat; background-position: left top; width:100px; } .fancyButton317.fancyButton:link > span,.fancyButton317.fancyButton:visited > span, .fancyButton317div.fancyButton > span{ } .fancyButton317.fancyButton:hover > span,.fancyButton317.fancyButton:focus > span,.fancyButton317.fancyButton:active > span,.fancyButton317.fancyButton.hover > span{ } .fancyButton317.fancyButton .text{ color: #ffffff; font-size: .75em; font-family: "Montserrat"; padding-top: 52px; padding-bottom: 8px; font-weight: 500; text-decoration: none; padding-top: 52px; padding-bottom: 8px; background-image: url('/ImageRepository/Document?documentID=15442'); background-repeat: no-repeat; background-position: center 8px ; flex-grow:1; } @media(max-width:63em){ .fancyButton317{ border-radius:10px !important; } } .fancyButton317.fancyButton:hover .text,.fancyButton317.fancyButton:focus .text,.fancyButton317.fancyButton:active .text,.fancyButton317.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 8px ; }
+Permits & Licenses
+.fancyButton334.fancyButton:link,.fancyButton334.fancyButton:visited, .fancyButton334div.fancyButton{ background-color: rgba(35, 64, 147, 0.85); background-repeat: no-repeat; background-position: left top; width:90px; border-radius: 0px 10px 10px 0px; transition:all .2s ease-in-out; min-height:96px; display:flex; align-items:center; justify-content:center; } @media(max-width:63em){ .fancyButton334{ margin:0 auto; width:100% !important; }} .fancyButton334.fancyButton:hover,.fancyButton334.fancyButton:focus,.fancyButton334.fancyButton:active,.fancyButton334.fancyButton.hover{ background-color: rgb(35, 64, 147); background-repeat: no-repeat; background-position: left top; width:100px; } .fancyButton334.fancyButton:link > span,.fancyButton334.fancyButton:visited > span, .fancyButton334div.fancyButton > span{ } .fancyButton334.fancyButton:hover > span,.fancyButton334.fancyButton:focus > span,.fancyButton334.fancyButton:active > span,.fancyButton334.fancyButton.hover > span{ } .fancyButton334.fancyButton .text{ color: #ffffff; font-size: .75em; font-family: "Montserrat"; padding-top: 52px; padding-bottom: 8px; font-weight: 500; text-decoration: none; padding-top: 52px; padding-bottom: 8px; background-image: url('/ImageRepository/Document?documentID=15816'); background-repeat: no-repeat; background-position: center 8px ; } @media(max-width:63em){ .fancyButton334{ border-radius:10px !important; } } .fancyButton334.fancyButton:hover .text,.fancyButton334.fancyButton:focus .text,.fancyButton334.fancyButton:active .text,.fancyButton334.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 8px ; }
+Natick Public Schools
+.fancyButton333.fancyButton:link,.fancyButton333.fancyButton:visited, .fancyButton333div.fancyButton{ background-color: rgba(35, 64, 147, 0.85); background-repeat: no-repeat; background-position: left top; width:90px; border-radius: 0px 10px 10px 0px; transition:all .2s ease-in-out; min-height:96px; display:flex; align-items:center; justify-content:center; } @media(max-width:63em){ .fancyButton333{ margin:0 auto; width:100% !important;}} .fancyButton333.fancyButton:hover,.fancyButton333.fancyButton:focus,.fancyButton333.fancyButton:active,.fancyButton333.fancyButton.hover{ background-color: rgb(35, 64, 147); background-repeat: no-repeat; background-position: left top; width:100px; } .fancyButton333.fancyButton:link > span,.fancyButton333.fancyButton:visited > span, .fancyButton333div.fancyButton > span{ } .fancyButton333.fancyButton:hover > span,.fancyButton333.fancyButton:focus > span,.fancyButton333.fancyButton:active > span,.fancyButton333.fancyButton.hover > span{ } .fancyButton333.fancyButton .text{ color: #ffffff; font-size: .75em; font-family: "Montserrat"; padding-top: 52px; padding-bottom: 8px; font-weight: 500; text-decoration: none; padding-top: 52px; padding-bottom: 8px; background-image: url('/ImageRepository/Document?documentID=15441'); background-repeat: no-repeat; background-position: center 8px ; flex-grow:1; } @media(max-width:63em){ .fancyButton333{ border-radius:10px !important; } } .fancyButton333.fancyButton:hover .text,.fancyButton333.fancyButton:focus .text,.fancyButton333.fancyButton:active .text,.fancyButton333.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 8px ; }
+Contact Us
+.fancyButton335.fancyButton:link,.fancyButton335.fancyButton:visited, .fancyButton335div.fancyButton{ background-color: rgba(35, 64, 147, 0.85); background-repeat: no-repeat; background-position: left top; width:90px; border-radius: 0px 10px 10px 0px; transition:all .2s ease-in-out; min-height:96px; display:flex; align-items:center; justify-content:center; } @media(max-width:63em){ .fancyButton335{ margin:0 auto; width:100% !important; }} .fancyButton335.fancyButton:hover,.fancyButton335.fancyButton:focus,.fancyButton335.fancyButton:active,.fancyButton335.fancyButton.hover{ background-color: rgb(35, 64, 147); background-repeat: no-repeat; background-position: left top; width:100px; } .fancyButton335.fancyButton:link > span,.fancyButton335.fancyButton:visited > span, .fancyButton335div.fancyButton > span{ } .fancyButton335.fancyButton:hover > span,.fancyButton335.fancyButton:focus > span,.fancyButton335.fancyButton:active > span,.fancyButton335.fancyButton.hover > span{ } .fancyButton335.fancyButton .text{ color: #ffffff; font-size: .75em; font-family: "Montserrat"; padding-top: 52px; padding-bottom: 8px; font-weight: 500; text-decoration: none; padding-top: 52px; padding-bottom: 8px; background-image: url('/ImageRepository/Document?documentID=15440'); background-repeat: no-repeat; background-position: center 8px ; } @media(max-width:63em){ .fancyButton335{ border-radius:10px !important; } } .fancyButton335.fancyButton:hover .text,.fancyButton335.fancyButton:focus .text,.fancyButton335.fancyButton:active .text,.fancyButton335.fancyButton.hover .text{ text-decoration: underline; background-repeat: no-repeat; background-position: center 8px ; }
+Natick Town Offices
+13 E. Central Street
+Natick, MA 01760
+Phone:
+508-647-6400
+//Render slideshow if info advacned items contain one. $(document).ready(function (e) { $('#divInfoAdv63d8b68f-187c-4955-8223-8e7cb1dd86cd .InfoAdvanced.widgetItem').each(function () { renderSlideshowIfApplicable($(this)); }); });
+Bids / RFPs
+Volunteer
+Jobs / Employment
+Quick Links
+News
+Calendar
+Notify Me®
+Online Payments
+FAQs
+/QuickLinks.aspx
+/* CP icon */ .cpBylineIconTS { color: #fff; } /* CP Text */ .cpBylineTextTS, .cpBylineTextTS a:link { color: #fff; } .cpBylineTS { text-align: center; } .cpBylineIconTS { fill: currentColor; width: 39px; height: 26px; display: inline; vertical-align: middle; }
+Government Websites by
+CivicPlus®
+Loading
+Loading
+Do Not Show Again
+Close
+$(document).ready(function () { var filter = { targetId: '2301', targetType: 1 } new SplashModalRender().triggerRender(filter); });
+#google-translate-container { float: right; padding: 3px 5px 0px 0px; position: fixed; bottom: 8px; right: 100px; z-index: 1000; } .goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * { font-family: arial; font-size: 10pt; background-image: url("https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"); background-position: 5px 5px; background-size: 18px; background-repeat: no-repeat; text-indent: 16px; background-color: #fff; color: #000 !important; } .goog-logo-link { display: none !important; } .goog-te-gadget { color: transparent !important; } .goog-te-gadget .goog-te-combo { margin: 2px 0 !important; border-radius: 15px !important; } .goog-te-combo{ border: 1px solid !important; border-color: #bcc9d7 #96a3b1 #96a3b1 #bcc9d7 !important; border-radius: 50px !important; height:31px !important; padding: 0 1px 0 .25rem !important; width: 156px; } #launcher-wrapper { bottom: 50px !important; } .skiptranslate > span { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden; }
+function googleTranslateElementInit() { var el = document.getElementById("google_translate_element"); if (el && el.innerHTML.trim() !== "") { return; } new google.translate.TranslateElement({ pageLanguage: "en" }, "google_translate_element"); // begin accessibility compliance $('img.goog-te-gadget-icon').attr('alt','Google Translate'); $('div#goog-gt-tt div.logo img').attr('alt','translate'); $('div#goog-gt-tt .original-text').css('text-align','left'); $('.goog-te-gadget-simple .goog-te-menu-value span').css('color','#000000'); $('.goog-te-combo').attr('aria-label','google translate languages'); $('svg.goog-te-spinner').attr('title','Google Translate Spinner'); $('.goog-te-gadget-simple .goog-te-menu-value span').css('color','#000000'); } $(function() { $.getScript("//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"); });
+function getValueTS(elem, attr) { const val = elem.css(attr); if (val === undefined) return undefined; const num = parseInt(val, 10); if (num === NaN) return undefined; return num; } function clampTS(number, min, max) { return Math.min(Math.max(number, min), max); } function isPageEditingTS() { return ( $("#doneEditing").length > 0 || // In live edit typeof DesignCenter !== "undefined" // In theme manager ); } const bgColorRegexTS = /rgba\((\d+), (\d+), (\d+), (\d*\.?\d*)\)/; function isTransparentTS(elem) { const bg = elem.css('background-color'); if (typeof bg !== "string" || !bg.startsWith('rgba(')) return false; const matchState = bg.match(bgColorRegexTS); if (!matchState || matchState.length !== 5) return false; const alpha = parseFloat(matchState[4], 10); if (!(alpha >= 0 && alpha < 1)) return false; return true; } function iterateLeftpads(cb) { const containersTS = $("[class^='siteWrap'],[class*=' siteWrap']"); for (let i = 0; i < containersTS.length; i++) { const containerTS = containersTS[i]; // Skip the body container and anything with data-skip-leftpad if ( containerTS.id !== "bodyContainerTS" && containerTS.getAttribute('data-skip-leftpad') === null ) { cb(containerTS); } } } const anchor = $("#divToolbars"); const anchor2 = $("#headerContainerTS") // Outer banner padding (push banner down) const outerSizingTS = $("#bannerContainerTS"); // Inner banner padding (push banner content down) - Transparent header OR on attaching headers const innerSizingTS = $("#bannerSizingTS"); const bodyContainerTS = $("#bodyContainerTS"); const forceUnfixClassTS = "forceUnfixTS"; const fixedTopTS = $(".fixedTopTS"); const fixedBottomTS = $(".fixedBottomTS"); const fixedLeftTS = $(".fixedLeftTS"); var initialTopTS; var topAttachTS; if (fixedTopTS && fixedTopTS.length === 1) { initialTopTS = getValueTS(fixedTopTS, 'top'); const attachment = fixedTopTS.attr('data-attach'); if (attachment) topAttachTS = $("#" + attachment); if (!topAttachTS || topAttachTS.length !== 1) topAttachTS = undefined; } function resizeAdjustmentTS() { const editing = isPageEditingTS(); // Fixed top script (function () { if (!fixedTopTS || fixedTopTS.length !== 1 || initialTopTS === undefined) return; if (editing) { fixedTopTS[0].classList.add(forceUnfixClassTS); } else { fixedTopTS[0].classList.remove(forceUnfixClassTS); } const topPosition = fixedTopTS.css('position'); if (topPosition === 'fixed') { if (topAttachTS) { scrollAdjustmentTS(); } else { const anchorHeight = anchor.outerHeight() - 1; fixedTopTS.css('top', anchorHeight + initialTopTS); } } else { fixedTopTS.css('top', initialTopTS); } if (topPosition === 'fixed' || topPosition === 'absolute') { // Bump the banner content down if (isTransparentTS(fixedTopTS)) { innerSizingTS.css('padding-top', initialTopTS + fixedTopTS.outerHeight() - 1); outerSizingTS.css('padding-top', ''); try { window.Pages.onResizeHandlersExecute(); } catch (e) { } } else { outerSizingTS.css('padding-top', fixedTopTS.outerHeight() - 1); innerSizingTS.css('padding-top', ''); } } else { innerSizingTS.css('padding-top', ''); outerSizingTS.css('padding-top', ''); } })(); // Fixed bottom script (function () { if (!fixedBottomTS || fixedBottomTS.length === 0) return; // If the widget has gone narrow, force unfix if (editing || fixedBottomTS.outerHeight() > 200) { fixedBottomTS[0].classList.add(forceUnfixClassTS); } else { fixedBottomTS[0].classList.remove(forceUnfixClassTS); } if (fixedBottomTS.css('position') === 'fixed') { bodyContainerTS.css('padding-bottom', fixedBottomTS.outerHeight()); } else { bodyContainerTS.css('padding-bottom', ''); } })(); // Fixed left script (function () { if (!fixedLeftTS || fixedLeftTS.length === 0) return; if (editing) { fixedLeftTS[0].classList.add(forceUnfixClassTS); } else { fixedLeftTS[0].classList.remove(forceUnfixClassTS); } if (fixedLeftTS.css('position') === 'fixed') { const anchorHeight = anchor.outerHeight() - 1; fixedLeftTS.css('top', anchorHeight); const leftBoundingTS = fixedLeftTS[0].getBoundingClientRect(); iterateLeftpads(function (containerTS) { const containerBoundingTS = containerTS.getBoundingClientRect(); if (containerBoundingTS.left <= leftBoundingTS.right) { $(containerTS).css('padding-left', leftBoundingTS.width + 16); } }); } else { fixedLeftTS.css('top', ''); iterateLeftpads(function (containerTS) { $(containerTS).css('padding-left', ''); }); } })(); } function scrollAdjustmentTS() { if (!fixedTopTS || fixedTopTS.length !== 1 || !topAttachTS || topAttachTS.length !== 1) return; const topPosition = fixedTopTS.css('position'); if (topPosition === 'fixed' || topPosition === 'absolute') { const anchorBounding = anchor[0].getBoundingClientRect(); const attachBounding = topAttachTS[0].getBoundingClientRect(); const scrollTop = $(window).scrollTop(); fixedTopTS.css('top', Math.max(anchorBounding.bottom - 1, attachBounding.bottom)); } else { fixedTopTS.css('top', initialTopTS); } } $(window).load(function () { setTimeout(function () { resizeAdjustmentTS(); }, 350); $(window).scroll(function () { scrollAdjustmentTS(); }); var adjustTimeoutTS; $(window).resize(function () { clearTimeout(adjustTimeoutTS); adjustTimeoutTS = setTimeout(function () { resizeAdjustmentTS(); }, 350); }); $.when(window.Pages.angularToolbarComplete).done(function () { resizeAdjustmentTS(); }); });
+function moveBannerToOuterWrap() { if ($(".fixedBannerTS").length) { if ($("#bannerDivbanner2").length) { $("#bannerDivbanner2").appendTo("#outer-wrap"); } else { setTimeout(function () { moveBannerToOuterWrap(); }, 500); } } } moveBannerToOuterWrap();
+!function () { var b = function () { window.__AudioEyeSiteHash = "5ecd6f9f03ef53f9841075bd5dd55bf0"; var a = document.createElement("script"); a.src = "https://wsmcdn.audioeye.com/aem.js"; a.type = "text/javascript"; a.setAttribute("async", ""); document.getElementsByTagName("body")[0].appendChild(a) }; "complete" !== document.readyState ? window.addEventListener ? window.addEventListener("load", b) : window.attachEvent && window.attachEvent("onload", b) : b() }();
+@media only screen and (max-width: 768px) { #survicate-box .sv__survey.sv__micro-theme.sv__minimized { align-items: flex-start!important; flex-direction: column!important; z-index: 99; padding-bottom: 24px; } } @media only screen and (min-width: 768px) and (max-width: 1181px) and (orientation: portrait) { #survicate-box .sv-box-child:not(.sv-desktop) .sv__survey.sv__micro-theme { padding-bottom: 80px; z-index: 99; } }
+(function (w) { var s = document.createElement('script'); s.src = 'https://survey.survicate.com/workspaces/e9791589ce88e23175780e69db526ba4/web_surveys.js'; s.async = true; var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e); })(window);
+.row.wide > .col:has(.widgetSpacer) .widgetSpacer { min-height: 15px; }
+$(function () { document.cookie = "responsiveGhost=0; path=/"; }); $(window).on("load", function () { $('body').addClass('doneLoading').removeClass('hideContent'); if ($('#404Content').length > 0) $('div#bodyWrapper').css('padding', '0px'); });
+body.hideContent { opacity: 1 !important; }
+Arrow Left
+Arrow Right
+loadCSS('//fonts.googleapis.com/css?family=Lato:700,italic,regular|Libre+Baskerville:700,italic,regular|Montserrat:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Oxygen:300,700,regular|');
+[]
+Slideshow Left Arrow
+Slideshow Right Arrow

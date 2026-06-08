@@ -1,0 +1,3250 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<!-- Google Tag Manager for GA4 -->
+				<script>(function(w,d,s,l,i){w.GAMeasurementID='G-BSNS5BCL60';w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','cpDataLayerGA4','GTM-K73C5PS');</script>
+				<!-- End Google Tag Manager for GA4 -->
+				<script type='text/javascript'>
+					var enableTelemetry = 'false'
+					var aiConfig = {
+					instrumentationKey: '1cde048e-3185-4906-aa46-c92a7312b60f'						
+					}
+					var appInsights = window.appInsights || function (a) { function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement('script'); b.src = a.url || 'https://js.monitor.azure.com/scripts/a/ai.0.js', d.getElementsByTagName('script')[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ['Event', 'Exception', 'Metric', 'PageView', 'Trace', 'Dependency']; f.length;)b('track' + f.pop()); if (b('setAuthenticatedUserContext'), b('clearAuthenticatedUserContext'), b('startTrackEvent'), b('stopTrackEvent'), b('startTrackPage'), b('stopTrackPage'), b('flush'), !a.disableExceptionTracking) { f = 'onerror', b('_' + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c['_' + f](a, b, d, e, h), i } } return c }(aiConfig);
+					window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length;
+					// Add telemetry initializer
+					appInsights.queue.push(function() {
+						appInsights.context.addTelemetryInitializer(function(envelope) {
+							var telemetryItem = envelope.data.baseData;
+							// To check the telemetry item’s type:
+							if (!false)
+							{
+								//If the telemetry is not enabled, we still want to capture Google map custom event, so only allow that
+								if (envelope.name.indexOf('.Event') == -1)
+									return false;
+							}
+						});
+					});						
+					appInsights.trackPageView();
+				</script>
+	<script>
+		function populateAntiForgery(token) {
+			var input = document.createElement("input");
+			input.name = "__RequestVerificationToken";
+			input.type = "hidden";
+			input.value = token;
+			var absPat = /^https?:\/\/|^\/\//i;
+			var forms = document.getElementsByTagName("form");
+			for (var i = 0; i < forms.length; i++) {
+				if (forms[i].method == "post" &&
+					!forms[i].querySelector('[name="__RequestVerificationToken"]') &&
+					!absPat.test(forms[i].getAttribute("action"))) {
+					forms[i].appendChild(input.cloneNode());
+				}
+			}
+		}
+
+		function getAntiForgeryToken(callback, error) {
+			var xhr = new XMLHttpRequest();
+			xhr.open("GET", "/antiforgery");
+			xhr.addEventListener("load", function() {
+				try {
+					if (this.status !== 200) {
+						throw Error("Invalid status. Could not retrieve antiforgery token.");
+		}
+					var obj = JSON.parse(this.responseText);
+					callback(obj.token);
+				} catch (e) {
+					typeof error === "function" && error(e);
+				}
+			});
+			xhr.send();
+		}
+
+		getAntiForgeryToken(function(token) {
+			if (document.readyState === "complete"
+				|| document.readyState === "loaded" 
+				|| document.readyState === "interactive") {
+				populateAntiForgery(token);
+				return;
+			}
+			document.addEventListener("DOMContentLoaded", function() {
+				populateAntiForgery(token);
+			}, false);
+		}, console.error);
+			</script>
+			
+
+	<script type="text/javascript">
+		window.departmentHeader = {};
+		window.pageSectionTracker = {};
+		window.isResponsiveEnabled = true;
+		window.isRemoveSetHeights= true;
+		if (window.isRemoveSetHeights) {
+			document.documentElement.className += ' removeSetHeights';
+		}
+		window.mainMenuMediaQuery = 'screen and (max-width: 40em)';
+		window.isMobileBrowserIncludingTablets = false;
+		window.fixedResponsiveMenu = false;
+		window.fullWidthResponsiveMenu = false;
+		window.responsiveMenuHeight = '';
+		window.responsiveMenuFontSize = '';
+		window.isContentAdvisor = false;
+		(function () {
+			window.setSizeCookie = function () {
+				document.cookie = "dpi=" + window.devicePixelRatio + "; path=/";
+				document.cookie = "viewportWidth=" + window.innerWidth + "; path=/";
+				document.cookie = "viewportHeight=" + window.innerHeight + "; path=/";
+				if (screen && screen.width && screen.height) {
+					document.cookie = "screenWidth=" + screen.width + "; path=/";
+					document.cookie = "screenHeight=" + screen.height + "; path=/";
+				}
+				document.cookie = "responsiveGhost=1; path=/";
+			};
+
+			setSizeCookie();
+		}());
+	</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script async src="https://docaccess.com/docbox.js"></script>
+	
+	<meta name="category0" content="Home" />
+<meta name="category1" content="Government" />
+<meta name="category2" content="Boards &amp; Committees" />
+<meta name="category3" content="Board &amp; Committee Listings" />
+<meta name="category4" content="Hybrid Town Meeting Committee" />
+
+	
+	<meta name="theme-color" content="rgb(35, 64, 147)">
+	<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+		<title>Hybrid Town Meeting Committee | Natick, MA - Official Website</title>
+
+		<meta name="description" content="The Hybrid Town Meeting Committee is charged with the responsibility of studying and recommending a comprehensive framework for the conduct of hybrid town meetings in Natick">
+		<meta name="keywords" content="Hybrid Town Meeting Committee">
+			<script src="/Assets/Scripts/jQuery/jquery-3.7.1.min.js"></script>
+	<script src="/Assets/Scripts/jQuery/jquery-migrate-3.5.2.min.js" type="text/javascript"></script>
+	
+
+	<!--[if IE 6]><script language="JavaScript" type="text/javascript"> var isie6 = true; </script><![endif]-->
+	<!--[if IE 7]><script language="JavaScript" type="text/javascript"> var isie7 = true; </script><![endif]-->
+	<!--[if IE 8]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<!--[if IE 9]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<script type="text/javascript"><!--
+	var intCountryCode = 840;
+	var order = '';
+//--></script>
+	
+<link href="/-681783051.css" rel="stylesheet" type="text/css" />	<link href="/-1465647691.css" rel="stylesheet" type="text/css" />	<link href="/252455398.css" rel="stylesheet" type="text/css" />
+
+	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
+	<script type="text/javascript">
+		window.Pages = window.Pages || {};
+		// FrontEnd RWD initialization
+		window.Pages.rwdReady = $.Deferred();
+		window.Pages.toolBarDeferred = $.Deferred();
+		window.Pages.rwdSetupComplete = $.Deferred();
+		window.Pages.megaMenuLoaded = $.Deferred();
+		window.Pages.angularToolbarComplete = $.Deferred();
+		window.Pages.frontEndToolbarComplete = $.Deferred();
+	</script>
+	<!--CPHeadContent-->
+	<script src="/739942322.js" type="text/javascript"></script>
+	
+	
+	
+	
+
+
+
+
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/App_Themes/ie6.css"><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="/Scripts/html5.js"></script><![endif]-->
+
+	<script type="text/javascript">
+		setEditorVariables(false, 840);
+		function getPrintPreviewType() { return 0; } function printPreview() {pPreview(getPrintPreviewType()); }
+	</script>
+	<script src="/Assets/Scripts/AlpineJS/3.14.1/alpine.min.js" type="text/javascript" defer="defer"></script>
+</head>
+<body class="wide " >
+
+    <script>jQuery(document).click(function (event) {
+	var target = jQuery(event.target);
+	if (target.attr('src') && target.parents('.image').length && target.parents('.widget').length) {
+		var text = target.attr('title');
+		
+		if (!text.length) {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Image',
+				eventAction: 'Image - ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.is('button') || target.hasClass('button') || target.parents().hasClass('button')) {
+		var text = "";
+		if (target.parents('.button')[0]) {
+			text = target.parents('.button').first().text();
+		} else if (target.text().length) {
+			text = target.text();
+		} else if (target.attr('title').length) {
+			text = target.attr('title');
+		}
+		if (!text.length) {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Button',
+				eventAction: 'Button - ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.widgetCustomHtml').length) {
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Custom Html',
+				eventAction: 'Custom Html Clicked',
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.editor').length) {
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Editor',
+				eventAction: 'Editor Link Clicked',
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.GraphicLinks').length) {
+		var text = "";
+		var targetGraphicLink = target;
+		if (target.hasClass('widgetGraphicLinksLink')) {
+			targetGraphicLink = jQuery(target.children()[0]);
+		}
+		if (targetGraphicLink.hasClass('text')) {
+			text = targetGraphicLink.text();
+		} else if (targetGraphicLink.attr('src').length) {
+			if (targetGraphicLink.attr('alt').length) {
+				text = targetGraphicLink.attr('alt');
+			} else {
+				text = targetGraphicLink.attr('src');
+			}
+		} else {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Graphic Links',
+				eventAction: 'Graphic Link - ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.InfoAdvanced').length) {
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Info Advanced',
+				eventAction: 'Info Advanced Clicked',
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.list').length) {
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'List',
+				eventAction: 'List Clicked',
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.megaMenuItem').length || target.parents('.topMenuItem').length) {
+		var megaMenuText = jQuery('.topMenuItem.mouseover').find('span').text();
+		var breadCrumbs = [];
+		jQuery('.breadCrumbs > li').each(function () {
+			 breadCrumbs.push(this.textContent);
+		});
+		var pageTitle = breadCrumbs.join('>');
+		var subTitleText = target.parents('.megaMenuItem').children('.widgetTitle').children().text();
+		var text = "";
+		if (pageTitle) {
+			text += pageTitle + " | ";
+		} else {
+			text += document.title + ' - ';
+		}
+		if (target.text() == "" && megaMenuText == "") {
+			text += "N/A";
+		} else if (target.text().length && megaMenuText.length) {
+			if (megaMenuText == target.text()) {
+				text += megaMenuText;
+			} else {
+				text += megaMenuText + " - " + subTitleText + " - " + target.text();
+			}
+		} else if (target.text() == "") {
+			text += megaMenuText;
+		} else {
+			text += target.text();
+		}
+		if (!text.length) {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Mega Menu',
+				eventAction: 'Mega Menu : ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.widgetNewsFlash').length && target.parents('.widgetItem').length) {
+		var text = jQuery(target.parents('.widgetItem')[0]).find('.widgetTitle').children().text();
+		if (!text.length) {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'News Flash',
+				eventAction: 'News Flash - ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.hasClass('widgetQuickLinksLink') || target.find('.widgetQuickLinksLink').length) {
+		var text = target.text();
+		if (!text.length) {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Quick Links',
+				eventAction: 'Quick Links - ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.attr('src') && target.parents('.cpSlideshow').length) {
+		var text = target.attr('title');
+		if (!text.length) {
+			text = "N/A";
+		}
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Slideshow',
+				eventAction: 'Slideshow - ' + text,
+				eventLabel: window.location.href
+			});
+	}
+	if (target.parents('.widgetText').length) {
+		ga('send',
+			{
+				hitType: 'event',
+				eventCategory: 'Text',
+				eventAction: 'Text Link Clicked',
+				eventLabel: window.location.href
+			});
+	}
+});</script>
+	<div id="popoverModal" class="cp-PopOver cp-PopOver--modal cp-AdminWrap" style="position: fixed; display: none;">
+	<div class="cp-PopOver-header">
+		<h3 class="cp-PopOver-title"></h3>
+		<button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
+			<svg class="cp-Icon--close" alt="close" title="close">
+				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconClose"></use>
+			</svg>
+		</button>
+	</div>
+	<div id="cpPopOverBody" class="cp-PopOver-body">
+		<form id="cpPopOverForm" name="cpPopOverForm" novalidate></form>
+	</div>
+	<div id="cpPopOverFooter" class="cp-PopOver-footer">
+		<div class="cp-BtnGroup" id="actionButtons">
+			<!-- Action buttons will be dynamically added here -->
+		</div>
+	</div>
+</div>
+    <div id="fb-root"></div>
+<div id=skipToContentLinks>
+<a href="#cc100e3904-d9c6-4764-8e8f-552320f22288" target="_self" class="skipToContentLink">Skip to Main Content</a>
+</div>
+    <form id="frmReferenceFormForTelerikEditorDialogs"></form>
+
+        <input type="hidden" id="GoogleMapsKey" value="AIzaSyDWUuE-ifkbhxblF920N8MjpBdTg1Wt784" />
+
+
+
+    <input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
+    <input type="hidden" id="hdnStructureID" value="6" />
+    <input type="hidden" id="hdnContentCollectionID" value="d1be315a-fbb8-438d-a761-d618559c6e0f" />
+    <input type="hidden" id="hdnWorkingCopyID" value="00000000-0000-0000-0000-000000000000" />
+    <input type="hidden" id="hdnThemeID" value="17" />
+    <input type="hidden" id="pageIsFrontEnd" value="true" />
+    <input type="hidden" id="pageModuleID" />
+    <input type="hidden" id="pagePageID" value="2301" />
+
+    <div id="stickyPlaceholder"></div>
+    <div id="outer-wrap" class="outer-wrap">
+        <div id="inner-wrap" class="inner-wrap">
+                <div id="divToolbars" class="cpToolbars newCP mui-fixed" style="">
+                    
+<style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700); 
+.alertText .customAlert {
+    color: #EAEAEA;
+    display: inline-block;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 27px;
+    left: 57px;
+    line-height: 27px;
+    overflow: hidden;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+    width: 268px;
+}
+</style>
+  <div id="1_divAlertBar" class="alertToolbar cpToolbar" style="background: #222222;">
+    <div id="1_divAlertToolbarInner" class="alertToolbarInner" style="font-size: 16px;">
+        <a href="/AlertCenter.aspx" id="1_lnkAlertText" class="alertText" style="border-right: 1px solid #000000;">
+            <img src="/Common/Images/AlertCenter/alertBarBlink.svg" id="1_imgDot" alt="Emergency Alert" class="redDot" />
+            <span id="1_customAlert" class="customAlert">ALERT:</span>
+        </a>
+        <span id="1_spnAlertContainer" class="alertContainer"><a href="/2241/Water-Use-Restrictions" target="_self" class="alert" style="border-left: 1px solid #635e65; border-right: 1px solid #000000;background: #030303 url(/Common/images/AlertCenter/alertBarBlackTextBckg.png) repeat-x; color: #FFFFFF;">
+	Mandatory Ban On ALL Nonessential Outdoor Water Uses
+	<span style="color: #FC4C2F;">Info on critical drought...</span>
+</a>
+</span>
+    </div>
+  </div>
+  <div id="1_divAlertBarEmpty" class="alertBarEmpty"></div>
+  
+
+
+
+<!-- Begin Signed Out Bar -->
+<div class="cpToolbar user public">
+    <div class="inner selfClear">
+        <p class="dropdown"><a href="/MyAccount/ProfileCreate" class="myConnections" id="signedOutToolbarCreateProfileButton">Create a Website Account</a> <span class="welcomeMessage">- Manage notification subscriptions, save form progress and more. &nbsp;&nbsp;</span></p>
+        <ul class="nav secondary">
+	        <li><a href="/MyAccount" class="button" id="loggedOutToolbarSignInButton">Website Sign In</a></li>
+        </ul>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#signedOutToolbarCreateProfileButton').click(function (event) {
+            event.preventDefault();
+            window.location.href = '/MyAccount/ProfileCreate?from=url&url=/&dn=' + window.location.origin;
+        });
+
+			
+				$('#loggedOutToolbarSignInButton').click(function (event) {
+					event.preventDefault();
+					window.location.href = '/MyAccount/?from=url&url=' + encodeURIComponent(window.location.href.replace(window.location.origin, '')) + '&dn=' + window.location.host;
+				});
+			
+
+		if ('False' == 'True') {
+            $('#loggedOutToolbarSignInButton').hide();
+		}
+    })
+</script>
+<!-- End Signed Out Bar -->
+
+                </div>
+            <div id="bodyWrapper">
+                <div id="mainNavHolderMobile" class="mainNavHolderMobile"></div>
+                
+<div data-cpRole="structuralContainer" id="bodyContainerTS">
+<!-- Header Container --><header data-cpRole="structuralContainer" id="headerContainerTS" class="fixedTopTS">
+<div class="siteWrap7" data-skip-leftpad=""><div data-cpRole="banner" id="bannerLogoTS" class="bannerLogoTS empty">
+
+
+
+
+				<a id="bannerLogoTS-54" style="			display: block; text-align: center;
+" class="bannerObject" href="/" target="_self"><img alt="Town of Natick Massachusetts" class="bannerObject" height="66" src="/ImageRepository/Document?documentID=17073" width="212" /></a>
+</div><div data-cpRole="contentContainer" id="searchTS">	<div id="cc656f120d-805e-4e8e-b097-51c32ac0fc56" data-containerid="656f120d-805e-4e8e-b097-51c32ac0fc56" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="bc589a1c-f15d-4174-9a31-43c43ddad6a2">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last idc7d43243-ee3f-4608-967d-0d14ba482833" style="" data-widgetcontainerid="c7d43243-ee3f-4608-967d-0d14ba482833">	
+ 
+	<div data-widget-id='769b37af-c350-4844-8a37-4e445522e6e6' data-moduleName="customHtml" id='widgetCustomHtml769b37af-c350-4844-8a37-4e445522e6e6' class="widget widgetCustomHtml skin63 narrow" >
+	<div class="widgetBody pageStyles" id="widgetBody769b37af-c350-4844-8a37-4e445522e6e6">
+		<div id="customHtml769b37af-c350-4844-8a37-4e445522e6e6"><div><style>
+ table.gsc-search-box td,
+.pageStyles td.gsc-search-button,
+.pageStyles table.gsc-input,
+.pageStyles td.gsc-input, 
+.pageStyles td.gsib_a, 
+.pageStyles td.gsib_b, 
+.pageStyles th.gsc-search-button {
+background-color: transparent;
+padding: 0;
+}
+
+.gsc-input .gsst_a .gscb_a {
+    color: #ffffff;
+}
+
+.gsc-input input::-webkit-input-placeholder {
+  font-size: 16px;
+}
+
+.gsc-input input::-moz-placeholder {
+  font-size: 16px;
+}
+
+.gsc-input input:-ms-input-placeholder {
+  font-size: 16px;
+}
+
+.gsc-input input::-ms-input-placeholder {
+  font-size: 16px;
+}
+
+input.gsc-input {
+color: rgba(255, 255, 255, 1);
+height: 70px !important;
+padding: 0 0 0 32px !important;
+font-family: Montserrat;
+font-weight: 500;
+background: none !important;
+}
+
+input.gsc-input::placeholder {
+color: #ffffff;
+}
+
+
+
+form.gsc-search-box {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 100%;
+background-color: rgba(255,255,255,1);
+}
+
+table.gsc-search-box {
+    background: rgba(35, 64, 147, 1);
+    border: none;
+    border-radius: 12px;
+}
+
+td#gs_tti50 {
+    padding-left: 0px;
+}
+
+table.gsc-search-box td.gsc-input {
+padding-right: 0;
+}
+
+table.gsc-search-box td,
+.gsc-input-box {
+    border: none;
+    background: none;
+}
+
+.gsst_a .gscb_a {
+    color: #656565;
+}
+
+table.gsc-search-box td.gsc-search-button {
+    padding: 10px;
+}
+
+button.gsc-search-button-v2 {
+height: 50px;
+width: 50px;
+background: url("/ImageRepository/Document?documentID=15426") center no-repeat;
+border: none;
+}
+
+button.gsc-search-button-v2:is(:hover, :focus, :active) {
+background: url("/ImageRepository/Document?documentID=15427") center no-repeat;
+}
+
+button.gsc-search-button-v2 svg {
+display: none;
+}
+
+td.gsc-input {
+    padding: 0px;
+    height:60px
+}
+</style>
+
+<script async="" src="https://cse.google.com/cse.js?cx=a33b835bec8184969"></script>
+<div class="gcse-searchbox-only" data-resultsurl="https://www.natickma.gov/2184/Search-Results"></div>
+
+<script>
+const observer = new MutationObserver(function(mutations, me) {
+    var inputElement = document.getElementById('gsc-i-id1');
+    if (inputElement) {
+        inputElement.placeholder = 'Search...';
+        me.disconnect(); // Stop observing
+        return;
+    }
+});
+
+observer.observe(document, {
+    childList: true,
+    subtree: true
+});
+
+</script></div></div>
+	</div>
+	</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div><nav data-cpRole="nav" id="mainNav" class="siteNav mainNav" role="navigation">
+<ol id="mainNavMenu" data-parent="1" class="rootNavMenu" role="menu"><!--
+--><li id="MainItem27" class="topMenuItem" role="none" data-pageid="27" data-displaymegamenu="True"><!--
+			--><!--
+			--> <a role = "menuitem"  aria-haspopup=true aria-expanded='false' aria-controls="mainNavMegaMenu27" id = "mainNavGovernment" class="navMainItem mainNavItem mainNavItem1 " href="/27/Government" target = "_self" >   Government  </a>			<!--
+			--><!--
+			--></li><!----><li id="MainItem1940" class="topMenuItem" role="none" data-pageid="1940" data-displaymegamenu="True"><!--
+			--><!--
+			--> <a role = "menuitem"  aria-haspopup=true aria-expanded='false' aria-controls="mainNavMegaMenu1940" id = "mainNavDepartments" class="navMainItem mainNavItem mainNavItem2 " href="/1940/Departments" target = "_self" >   Departments  </a>			<!--
+			--><!--
+			--></li><!----><li id="MainItem31" class="topMenuItem" role="none" data-pageid="31" data-displaymegamenu="True"><!--
+			--><!--
+			--> <a role = "menuitem"  aria-haspopup=true aria-expanded='false' aria-controls="mainNavMegaMenu31" id = "mainNavCommunity" class="navMainItem mainNavItem mainNavItem3 " href="/31/Community" target = "_self" >   Community  </a>			<!--
+			--><!--
+			--></li><!----><li id="MainItem9" class="topMenuItem" role="none" data-pageid="9" data-displaymegamenu="True"><!--
+			--><!--
+			--> <a role = "menuitem"  aria-haspopup=true aria-expanded='false' aria-controls="mainNavMegaMenu9" id = "mainNavIWantTo" class="navMainItem mainNavItem mainNavItem4 " href="/9/I-Want-To" target = "_self" >   I Want To...  </a>			<!--
+			--><!--
+			--></li><!---->
+</ol>
+
+
+	<script type="text/javascript">
+		(function () {
+			function setupMenu() {
+				const menuID = 'mainNavMenu';
+				const menuType = MAIN_MENU;
+
+				//setup menu manager properties for main menu
+				if (!menuManager.mobileMainNav && true)
+					menuManager.adjustMainItemsWidth('#' + menuID);
+				menuManager.isMainMenuEditable = false;
+				menuManager.mainMenuMaxSubMenuLevels = 4;
+				menuManager.setMOMMode(2, menuType);
+
+				//Init main menu
+				const setupDraggable = menuManager.isMainMenuEditable;
+				const urlToGetHiddenMenus = '/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=17&menuContainerID=mainNav';
+
+				menuManager.setupMenu(menuID, 'mainNav', menuType, setupDraggable, urlToGetHiddenMenus);
+				menuManager.mainMenuInit = true;
+				menuManager.mainMenuTextResizer = true;
+				if (1.00 > 0)
+					menuManager.mainMenuTextResizerRatio = 1.00;
+				if (window.isResponsiveEnabled)
+					menuManager.mainMenuReady.resolve();
+
+			}
+
+			if (document.readyState === "complete"
+				|| document.readyState === "loaded"
+				|| document.readyState === "interactive") {
+				setupMenu();
+				return;
+			}
+
+			document.addEventListener("DOMContentLoaded", setupMenu);
+		})();
+	</script>
+
+
+<aside data-cpRole="megaMenu" id="megaMenu" class="megaMenu" style="display: none;"><input type="hidden" id="megaMenuPopupDirection" value="0"><input type="hidden" id="megaMenuWidthReference" value="1"><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu27" class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-orientation="horizontal">	<div id="cc29c99ec9-d31f-45f3-aa2d-95e42d40ee07" data-containerid="29c99ec9-d31f-45f3-aa2d-95e42d40ee07" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu1940" class="contentTop mainNavMegaMenu megaMenuContainer pageID_1940 hidden" data-orientation="horizontal">	<div id="cce3adb9f1-ef90-481f-8cf8-f3ec0f22c073" data-containerid="e3adb9f1-ef90-481f-8cf8-f3ec0f22c073" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu31" class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-orientation="horizontal">	<div id="cc8c337577-7893-49df-b5d6-40a9cd87e3ba" data-containerid="8c337577-7893-49df-b5d6-40a9cd87e3ba" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside role="menu" data-cpRole="contentContainer" id="mainNavMegaMenu9" class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-orientation="horizontal">	<div id="ccda004790-6a59-44ad-80b6-90952f934d1c" data-containerid="da004790-6a59-44ad-80b6-90952f934d1c" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside></aside></nav></div>
+</header><!-- Banner --><div data-cpRole="structuralContainer" id="bannerContainerTS" class="noOverflowTS">
+<div data-cpRole="banner" id="banner1"><div data-cpRole="structuralContainer" id="bannerSizingTS">
+<div data-cpRole="structuralContainer" id="bannerSearchTS">
+<div class="siteWrap9" data-skip-leftpad=""></div>
+</div>
+</div>
+
+
+
+
+		<div id="bannerImagesJSON55" class="hidden"></div>
+		<div id="bannerSlideshowControls_banner1" class="bannerSlideshowControlsNew none " style="display:none">
+			<a id="arrowPrev_banner1" tabindex="0" class="arrowNew prev" aria-label="Banner Arrow Previous"><svg style=" " class=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowLeft"></use></svg></a>
+			<a id="arrowNext_banner1" tabindex="0" class="arrowNew next" aria-label="Banner Arrow Next"><svg style=" " class=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowRight"></use></svg></a>
+		</div>
+			<script type="text/javascript">
+				$(window).on("load", function () {
+					$.when(window.Pages.rwdSetupComplete)
+						.done(function () {
+							renderExternalBannerSlideshow('banner1',
+								{"BannerOptionID":55,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":"5","SlideshowTransition":0,"SlideShowTransitionTiming":"1","ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"DisplayVideoPauseButton":false,"VideoPauseButtonAlignment":1,"VideoPauseButtonControlsAlignment":0,"VideoPauseButtonStyle":"#FFFFFF","VideoPauseButtonBackgroundStyle":"#000000","VideoPauseButtonAlignmentClass":"alignRight viewport","DisplaySlideshowPauseButton":true,"SlideshowControlsColor":"#FFFFFF","SlideshowControlsBackgroundColor":"#000000","SlideshowPauseButtonClass":"isHidden","BannerImages":[{"BannerImageID":91,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15422","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":92,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15421","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":93,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15420","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":94,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15419","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":4,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":95,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=15418","Height":350,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":5,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[{"BannerVideoID":2,"BannerOptionID":55,"VideoFileName":"","ImageFileName":"EmptyBannerBkg202306201112421672.png","IsLink":false,"LinkAddress":null,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","VideoFileID":"00000000-0000-0000-0000-000000000000","ImageFileID":"00000000-0000-0000-0000-000000000000","VideoWidth":0,"VideoHeight":0,"ImageWidth":0,"ImageHeight":0,"LinkedVideoUrl":"","RecordStatus":0,"AltText":null}],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
+								'/App_Themes/2023 - Interior/Images/',
+								'Rotating');
+						});
+				});
+			</script>
+
+</div>
+</div><!-- Content container --><div data-cpRole="structuralContainer" id="mainContainerTS">
+<div class="siteWrap3"><div data-cpRole="structuralContainer" id="mainWrapTS" class="mainWrap" role="main">
+<div data-cpRole="structuralContainer" id="outerContentWrapTS" class="outerContentWrap">
+<div data-cpRole="structuralContainer" id="contentWrapTS" class="contentWrap">
+<div data-cpRole="breadCrumbs" id="breadCrumbs" class="breadCrumbContainer">		<ol class="semanticList breadCrumbs">
+			<li><a class="breadCrumb" href="/">Home</a></li><li><a class="breadCrumb" href="/27/Government">Government</a></li><li><a class="breadCrumb" href="/409/Boards-Committees">Boards & Committees</a></li><li><a class="breadCrumb" href="/1939/Board-Committee-Listings">Board & Committee Listings</a></li><li id="currentBCPage" data-pageid="2301"><a href class="breadCrumb" aria-current="page">Hybrid Town Meeting Committee</a></li>
+		</ol>
+
+	   
+    
+</div><div data-cpRole="mainContentContainer" id="moduleContent">
+	
+	<div id="page" class="moduleContentNew">
+		
+
+	<input id="hdnPageID" name="hdnPageID" type="hidden" value="2301" />
+	<input id="hdnParentID" name="hdnParentID" type="hidden" value="1939" />
+	<input id="hdnVersionID" name="hdnVersionID" type="hidden" value="23804" />
+	<input id="pageMenuTitle" name="pageMenuTitle" type="hidden" value="Hybrid Town Meeting Committee" />
+	<input id="pageShowFeatureColumn" name="pageShowFeatureColumn" type="hidden" value="False" />
+	<input id="hdnIsLayoutPage" name="hdnIsLayoutPage" type="hidden" value="False" />
+	<input id="hdnPageStatus" name="hdnPageStatus" type="hidden" value="Published" />
+
+				<h1 id="versionHeadLine" class="headline">
+
+Hybrid Town Meeting Committee		</h1>
+	
+		<div id="cc100e3904-d9c6-4764-8e8f-552320f22288" data-containerid="100e3904-d9c6-4764-8e8f-552320f22288" class="pageContent cpGrid cpGrid24"  >
+			
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="f068dea1-fc84-4515-a6ac-af28433cb1c6">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id4d5f97db-e2d2-4d76-841a-dd65ecb75f8f" style="" data-widgetcontainerid="4d5f97db-e2d2-4d76-841a-dd65ecb75f8f">	
+<div class="widget editor pageStyles narrow" id="divEditor2f3db1f5-c11f-43c1-953f-0f07518ec3da" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}'>
+	    <div class="fr-view">
+
+
+        <p><strong>--&gt; Take a live hybrid Town Meeting survey (thru 3/15/26): </strong>&nbsp;<a data-fr-linked="true" href="https://bit.ly/natick-hybrid-town-meeting" data-pasted="true">https://bit.ly/natick-hybrid-town-meeting</a></p>
+    </div>
+
+<script type="text/javascript">
+	$(document).ready(function (e) {		
+	    renderSlideshowIfApplicable($('#divEditor' + '2f3db1f5-c11f-43c1-953f-0f07518ec3da'));
+	});
+</script>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="8387b02c-c64e-4177-aa31-c6400b201b85">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last idbf38ee15-d4ac-4baf-9f73-e53e341bb34a" style="" data-widgetcontainerid="bf38ee15-d4ac-4baf-9f73-e53e341bb34a">	
+ 
+	<div data-widget-id='3fdceaeb-a25e-4bfe-b96a-d5a990f4088e' data-moduleName="customHtml" id='widgetCustomHtml3fdceaeb-a25e-4bfe-b96a-d5a990f4088e' class="widget widgetCustomHtml skin63 narrow" >
+	<div class="widgetBody pageStyles" id="widgetBody3fdceaeb-a25e-4bfe-b96a-d5a990f4088e">
+		<div id="customHtml3fdceaeb-a25e-4bfe-b96a-d5a990f4088e"><div><iframe src='https://natickma.granicus.com/boards/w/84f675b0093402a1' width='100%' height='1400px' style='border:none;'></iframe></div></div>
+	</div>
+	</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+		</div>
+
+	</div>
+
+	
+	<div class="newCP">
+
+	</div>
+</div>
+</div><aside data-cpRole="contentContainer" id="featureColumn" class="secondaryContent">	<div id="ccda043386-30d1-4eb9-9774-aa8f3c58f216" data-containerid="da043386-30d1-4eb9-9774-aa8f3c58f216" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+
+
+	</div>
+</aside>
+</div><div data-cpRole="structuralContainer" id="siteSidebarTS" class="siteSidebar">
+<aside data-cpRole="contentContainer" id="sidebarContainer1TS">	<div id="cccf8c233c-9838-442c-8f31-962f4faaf1e9" data-containerid="cf8c233c-9838-442c-8f31-962f4faaf1e9" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+
+
+	</div>
+</aside><nav data-cpRole="nav" id="secondaryNav" class="siteNav secondaryNav">
+
+
+
+
+
+	<ol role="menu" id="secondaryMenusecondaryNav" data-parent="1939" class="rootNavMenu accordionNav">
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem382" data-pageid="382">
+		<div class="accordionNavItem">
+			<a href="/382/Affordable-Housing-Trust-Fund-Board" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Affordable Housing Trust Fund Board</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Affordable Housing Trust Fund Board Submenu" aria-expanded="false" aria-controls="submenu-lvl1-382"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-382" style="display: none;" data-parent="382">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem785" data-pageid="785">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Affordable-Housing-Trust-Fund-Board-of-T-2" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda/Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2136" data-pageid="2136">
+			<div class="accordionNavItem">
+				<a href="https://natickaffordablehousingtrust.org/" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Learn more at the NAHT website</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2139" data-pageid="2139">
+			<div class="accordionNavItem">
+				<a href="/1614/Natick-2030-Master-Plan" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Natick 2030+ Master Plan</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem386" data-pageid="386">
+		<div class="accordionNavItem">
+			<a href="/386/Audit-Advisory-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Audit Advisory Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Audit Advisory Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-386"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-386" style="display: none;" data-parent="386">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem804" data-pageid="804">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Audit-Advisory-Committee-3/?#04232014-7" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda/Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem977" data-pageid="977">
+			<div class="accordionNavItem">
+				<a href="/171/Financial-Statements-Audit-Related-Docum" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Audit Materials &amp; Financial Statements</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem389" data-pageid="389">
+		<div class="accordionNavItem">
+			<a href="/389/Board-of-Assessors" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Board of Assessors</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Board of Assessors Submenu" aria-expanded="false" aria-controls="submenu-lvl1-389"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-389" style="display: none;" data-parent="389">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem811" data-pageid="811">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Board-of-Assessors-6" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda/Minutes</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem392" data-pageid="392">
+		<div class="accordionNavItem">
+			<a href="/392/Board-of-Health" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Board of Health</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Board of Health Submenu" aria-expanded="false" aria-controls="submenu-lvl1-392"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-392" style="display: none;" data-parent="392">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem809" data-pageid="809">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Board-of-Health-7" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda/Minutes</span></a>
+					<a href="#" role="button" class="openAccordionNav accordionNavMenuItem" aria-label="Agenda/Minutes Submenu" aria-expanded="false" aria-controls="submenu-lvl2-809"></a>
+			</div>
+							<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" id="submenu-lvl2-809" style="display: none;" data-parent="809">
+							<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1019" data-pageid="1019">
+			<div class="accordionNavItem">
+				<a href="/1019/Agenda-Feb-23-2015" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda Feb. 23, 2015</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem395" data-pageid="395">
+			<div class="accordionNavItem">
+				<a href="/395/BOH-Regulations" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">BOH Regulations</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem810" data-pageid="810">
+			<div class="accordionNavItem">
+				<a href="/218/Health-Department" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Health Department</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1190" data-pageid="1190">
+			<div class="accordionNavItem">
+				<a href="/1190/Annual-Report" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Annual Report</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1732" data-pageid="1732">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/10271/Racism-as-a-Public-Health-Crisis-Natick-Board-of-Health" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Racism as a Public Health Crisis</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem393" data-pageid="393">
+		<div class="accordionNavItem">
+			<a href="/393/Cable-Advisory-Board" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Cable Advisory Board</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Cable Advisory Board Submenu" aria-expanded="false" aria-controls="submenu-lvl1-393"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-393" style="display: none;" data-parent="393">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem812" data-pageid="812">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Cable-Advisory-Committee-10" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda/Minutes</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1419" data-pageid="1419">
+		<div class="accordionNavItem">
+			<a href="/1419/Charter-By-Law-Review" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Charter &amp; By-Law Review</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Charter &amp; By-Law Review Submenu" aria-expanded="false" aria-controls="submenu-lvl1-1419"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-1419" style="display: none;" data-parent="1419">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1565" data-pageid="1565">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Charter-and-Bylaw-Review-Committee-64" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agenda/Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2298" data-pageid="2298">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/19614/CRBC-2025-Spring-Report" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">CRBC 2025 Spring Report</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2252" data-pageid="2252">
+			<div class="accordionNavItem">
+				<a href="/2252/CRBC-2024-Fall-Report" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">CRBC 2024 Fall Report</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2105" data-pageid="2105">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/17410/Final-CBRC-Committee-report-April-2024-Special-Town-Meeting-42324" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">CRBC 2024 Spring Report</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2024" data-pageid="2024">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/16330/CBRC-FATM-Report-October-2023" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">CBRC 2023 Fall Report</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1911" data-pageid="1911">
+			<div class="accordionNavItem">
+				<a href="https://www.natickma.gov/DocumentCenter/View/15164/CBRC-Report-to-SATM-2023" target="_blank" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">CBRC 2023 Spring Report</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem396" data-pageid="396">
+		<div class="accordionNavItem">
+			<a href="/396/Commission-on-Disability" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Commission on Disability</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Commission on Disability Submenu" aria-expanded="false" aria-controls="submenu-lvl1-396"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-396" style="display: none;" data-parent="396">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem814" data-pageid="814">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Commission-on-Disability-11" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1609" data-pageid="1609">
+			<div class="accordionNavItem">
+				<a href="/1609/ADA-Coordinator" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">ADA Coordinator</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2094" data-pageid="2094">
+			<div class="accordionNavItem">
+				<a href="/2094/ADA-Transition-Plan" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">ADA Transition Plan</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1407" data-pageid="1407">
+			<div class="accordionNavItem">
+				<a href="/1407/Who-We-Are" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Who We Are</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2180" data-pageid="2180">
+			<div class="accordionNavItem">
+				<a href="/2180/Resource-Center-NCOD" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Resource Center (NCOD)</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1925" data-pageid="1925">
+		<div class="accordionNavItem">
+			<a href="/1925/Community-Preservation-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Community Preservation Committee</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem426" data-pageid="426">
+		<div class="accordionNavItem">
+			<a href="/426/Conservation-Commission" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Conservation Commission</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Conservation Commission Submenu" aria-expanded="false" aria-controls="submenu-lvl1-426"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-426" style="display: none;" data-parent="426">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1669" data-pageid="1669">
+			<div class="accordionNavItem">
+				<a href="/1669/Welcome-Announcements" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Welcome &amp; Announcements</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem818" data-pageid="818">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Conservation-Commission-18" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1505" data-pageid="1505">
+			<div class="accordionNavItem">
+				<a href="/1505/Meeting-Schedule" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Meeting Schedule</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem979" data-pageid="979">
+			<div class="accordionNavItem">
+				<a href="/979/Obtaining-a-Wetland-Permit" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Obtaining a Wetland Permit</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1728" data-pageid="1728">
+			<div class="accordionNavItem">
+				<a href="/1728/Obtaining-a-Stormwater-Permit" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Obtaining a Stormwater Permit</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1283" data-pageid="1283">
+			<div class="accordionNavItem">
+				<a href="/FAQ.aspx?TID=28" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Frequently Asked Questions (FAQs)</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1668" data-pageid="1668">
+			<div class="accordionNavItem">
+				<a href="https://www.natickma.gov/1666/Open-Space-Trails" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Open Space &amp; Trails</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1798" data-pageid="1798">
+			<div class="accordionNavItem">
+				<a href="/1798/Charles-River-Watershed-Flood-Model" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Charles River Watershed Flood Model</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1829" data-pageid="1829">
+			<div class="accordionNavItem">
+				<a href="/1829/Invasive-Species" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Invasive Species</span></a>
+					<a href="#" role="button" class="openAccordionNav accordionNavMenuItem" aria-label="Invasive Species Submenu" aria-expanded="false" aria-controls="submenu-lvl2-1829"></a>
+			</div>
+							<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" id="submenu-lvl2-1829" style="display: none;" data-parent="1829">
+							<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1869" data-pageid="1869">
+			<div class="accordionNavItem">
+				<a href="/1829/Invasive-Species" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Invasive Species</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1852" data-pageid="1852">
+			<div class="accordionNavItem">
+				<a href="/1852/Autumn-Olive" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Autumn Olive</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1853" data-pageid="1853">
+			<div class="accordionNavItem">
+				<a href="/1853/Climbing-Euonymus" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Climbing Euonymus</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1836" data-pageid="1836">
+			<div class="accordionNavItem">
+				<a href="/1836/Common-Barberry" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Common Barberry</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1834" data-pageid="1834">
+			<div class="accordionNavItem">
+				<a href="/1834/Common-Buckthorn" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Common Buckthorn</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1854" data-pageid="1854">
+			<div class="accordionNavItem">
+				<a href="/1854/Cork-Tree" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Cork Tree</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1855" data-pageid="1855">
+			<div class="accordionNavItem">
+				<a href="/1855/European-Beech" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">European Beech</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1856" data-pageid="1856">
+			<div class="accordionNavItem">
+				<a href="/1856/Forsythia" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Forsythia</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1830" data-pageid="1830">
+			<div class="accordionNavItem">
+				<a href="/1830/Garlic-Mustard" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Garlic Mustard</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1837" data-pageid="1837">
+			<div class="accordionNavItem">
+				<a href="/1837/Glossy-Buckthorn" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Glossy Buckthorn</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1857" data-pageid="1857">
+			<div class="accordionNavItem">
+				<a href="/1857/Japanese-Angelica-Tree" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Japanese Angelica Tree</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1858" data-pageid="1858">
+			<div class="accordionNavItem">
+				<a href="/1858/Japanese-Barberry" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Japanese Barberry</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1831" data-pageid="1831">
+			<div class="accordionNavItem">
+				<a href="/1831/Japanese-Knotweed" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Japanese Knotweed</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1859" data-pageid="1859">
+			<div class="accordionNavItem">
+				<a href="/1859/Lily-of-the-Valley" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Lily of the Valley</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1860" data-pageid="1860">
+			<div class="accordionNavItem">
+				<a href="/1860/Linden-Tree" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Linden Tree</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1861" data-pageid="1861">
+			<div class="accordionNavItem">
+				<a href="/1861/Mugwort" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Mugwort</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1835" data-pageid="1835">
+			<div class="accordionNavItem">
+				<a href="/1835/Multiflora-Rose" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Multiflora Rose</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1838" data-pageid="1838">
+			<div class="accordionNavItem">
+				<a href="/1838/Norway-Maple" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Norway Maple</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1832" data-pageid="1832">
+			<div class="accordionNavItem">
+				<a href="/1832/Oriental-Bittersweet" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Oriental Bittersweet</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1841" data-pageid="1841">
+			<div class="accordionNavItem">
+				<a href="/1841/Porcelain-Berry" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Porcelain Berry</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1862" data-pageid="1862">
+			<div class="accordionNavItem">
+				<a href="/1862/Privet" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Privet</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1839" data-pageid="1839">
+			<div class="accordionNavItem">
+				<a href="/1839/Purple-Loosestrife" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Purple Loosestrife</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1863" data-pageid="1863">
+			<div class="accordionNavItem">
+				<a href="/1863/Sapphire-Berry" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Sapphire Berry</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1864" data-pageid="1864">
+			<div class="accordionNavItem">
+				<a href="/1864/Shrub-Honeysuckle" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Shrub Honeysuckle</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1840" data-pageid="1840">
+			<div class="accordionNavItem">
+				<a href="/1840/Tree-of-Heaven" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Tree of Heaven</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1865" data-pageid="1865">
+			<div class="accordionNavItem">
+				<a href="/1865/White-Poplar-Tree" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">White Poplar Tree</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1866" data-pageid="1866">
+			<div class="accordionNavItem">
+				<a href="/1866/Wineberry" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Wineberry</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1833" data-pageid="1833">
+			<div class="accordionNavItem">
+				<a href="/1833/Winged-Euonymus" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Winged Euonymus</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem443" data-pageid="443">
+			<div class="accordionNavItem">
+				<a href="/443/Bylaws-Regulations" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Bylaws &amp; Regulations</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1683" data-pageid="1683">
+			<div class="accordionNavItem">
+				<a href="/1683/Minutes-For-2007---2013" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Minutes For 2007 - 2013</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem461" data-pageid="461">
+		<div class="accordionNavItem">
+			<a href="/461/Constables" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Constables</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem469" data-pageid="469">
+		<div class="accordionNavItem">
+			<a href="/469/Council-on-Aging" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Council on Aging</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Council on Aging Submenu" aria-expanded="false" aria-controls="submenu-lvl1-469"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-469" style="display: none;" data-parent="469">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem819" data-pageid="819">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Council-on-Aging-21" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem663" data-pageid="663">
+		<div class="accordionNavItem">
+			<a href="/663/Cultural-Council" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Cultural Council</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Cultural Council Submenu" aria-expanded="false" aria-controls="submenu-lvl1-663"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-663" style="display: none;" data-parent="663">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem857" data-pageid="857">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Natick-Cultural-Council-43" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1733" data-pageid="1733">
+			<div class="accordionNavItem">
+				<a href="https://www.mass-culture.org/Natick" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Grant Information</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem483" data-pageid="483">
+		<div class="accordionNavItem">
+			<a href="/483/Design-Review-Board" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Design Review Board</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Design Review Board Submenu" aria-expanded="false" aria-controls="submenu-lvl1-483"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-483" style="display: none;" data-parent="483">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem820" data-pageid="820">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Design-Review-Board-22" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem484" data-pageid="484">
+		<div class="accordionNavItem">
+			<a href="/484/Economic-Development-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Economic Development Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Economic Development Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-484"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-484" style="display: none;" data-parent="484">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem858" data-pageid="858">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Economic-Development-Committee-23" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem486" data-pageid="486">
+			<div class="accordionNavItem">
+				<a href="/173/Economic-Development" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Economic Development Department</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1433" data-pageid="1433">
+			<div class="accordionNavItem">
+				<a href="https://www.natickma.gov/2145/Plans-and-Studies" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Plans, Studies and Policy Reports</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem493" data-pageid="493">
+		<div class="accordionNavItem">
+			<a href="/493/Elderly-Disabled-Taxation-Fund-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Elderly &amp; Disabled Taxation Fund Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Elderly &amp; Disabled Taxation Fund Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-493"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-493" style="display: none;" data-parent="493">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem859" data-pageid="859">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Elderly-Disabled-Taxation-Fund-Committee-49" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1914" data-pageid="1914">
+			<div class="accordionNavItem">
+				<a href="/1914/Overview-Elderly-Disabled-Taxation-Fund" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Overview: Elderly &amp; Disabled Taxation Fund</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem516" data-pageid="516">
+		<div class="accordionNavItem">
+			<a href="/516/Finance-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Finance Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Finance Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-516"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-516" style="display: none;" data-parent="516">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem862" data-pageid="862">
+			<div class="accordionNavItem">
+				<a href="https://natickma.gov/AgendaCenter/Finance-Committee-54" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem995" data-pageid="995">
+			<div class="accordionNavItem">
+				<a href="/995/Minutes" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Minutes</span></a>
+					<a href="#" role="button" class="openAccordionNav accordionNavMenuItem" aria-label="Minutes Submenu" aria-expanded="false" aria-controls="submenu-lvl2-995"></a>
+			</div>
+							<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" id="submenu-lvl2-995" style="display: none;" data-parent="995">
+							<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1827" data-pageid="1827">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/Index/1032" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">2021 Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1826" data-pageid="1826">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/Index/1036" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">2022 Minutes</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem576" data-pageid="576">
+			<div class="accordionNavItem">
+				<a href="/380/Town-Finances" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Town Finances</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1376" data-pageid="1376">
+			<div class="accordionNavItem">
+				<a href="http://www.natickpegasus.org/vod.html" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Finance Committee Meetings (Videos on Demand)</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1424" data-pageid="1424">
+			<div class="accordionNavItem">
+				<a href="/1424/Citizen-Petitions-Warrants-Information" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Citizen Petitions &amp; Warrants Information</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1759" data-pageid="1759">
+			<div class="accordionNavItem">
+				<a href="https://sites.google.com/natickma.org/fincom" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Finance Committee&#39;s Town Meeting Website</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem532" data-pageid="532">
+		<div class="accordionNavItem">
+			<a href="/532/Golf-Course-Oversight-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Golf Course Oversight Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Golf Course Oversight Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-532"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-532" style="display: none;" data-parent="532">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem864" data-pageid="864">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Golf-Course-Oversight-Committee-33" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem578" data-pageid="578">
+		<div class="accordionNavItem">
+			<a href="/578/Historic-District-Commission" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Historic District Commission</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Historic District Commission Submenu" aria-expanded="false" aria-controls="submenu-lvl1-578"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-578" style="display: none;" data-parent="578">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem866" data-pageid="866">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Historic-District-Commission-35" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2172" data-pageid="2172">
+			<div class="accordionNavItem">
+				<a href="/2172/Application-Other-Documents" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Application &amp; Other Documents </span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2173" data-pageid="2173">
+			<div class="accordionNavItem">
+				<a href="/2173/Naticks-Historic-Districts" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Natick&#39;s Historic Districts </span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem592" data-pageid="592">
+		<div class="accordionNavItem">
+			<a href="/592/Historical-Commission" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Historical Commission</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Historical Commission Submenu" aria-expanded="false" aria-controls="submenu-lvl1-592"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-592" style="display: none;" data-parent="592">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem865" data-pageid="865">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Historical-Commission-50" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem593" data-pageid="593">
+		<div class="accordionNavItem">
+			<a href="/593/Housing-Authority" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Housing Authority</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Housing Authority Submenu" aria-expanded="false" aria-controls="submenu-lvl1-593"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-593" style="display: none;" data-parent="593">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem867" data-pageid="867">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Housing-Authority-36" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2301" data-pageid="2301">
+		<div class="accordionNavItem">
+			<a href="/2301/Hybrid-Town-Meeting-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Hybrid Town Meeting Committee</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem619" data-pageid="619">
+		<div class="accordionNavItem">
+			<a href="/619/Information-Systems-Advisory-Board" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Information Systems Advisory Board</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Information Systems Advisory Board Submenu" aria-expanded="false" aria-controls="submenu-lvl1-619"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-619" style="display: none;" data-parent="619">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem868" data-pageid="868">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Information-Systems-Advisory-Board-38" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2006" data-pageid="2006">
+		<div class="accordionNavItem">
+			<a href="/2006/Keefe-Tech-School-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Keefe Tech School Committee</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2253" data-pageid="2253">
+		<div class="accordionNavItem">
+			<a href="/2253/Leonard-Morse-Grants-Panel" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Leonard Morse Grants Panel</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem589" data-pageid="589">
+		<div class="accordionNavItem">
+			<a href="/589/Local-Emergency-Planning-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Local Emergency Planning Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Local Emergency Planning Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-589"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-589" style="display: none;" data-parent="589">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1143" data-pageid="1143">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Local-Emergency-Planning-Committee-56" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1208" data-pageid="1208">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/2271" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Flood Preparedness Checklist</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem594" data-pageid="594">
+		<div class="accordionNavItem">
+			<a href="/594/Mathworks-Scholarship-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Mathworks Scholarship Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Mathworks Scholarship Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-594"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-594" style="display: none;" data-parent="594">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem869" data-pageid="869">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Mathworks-Scholarship-Committee-37" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2257" data-pageid="2257">
+		<div class="accordionNavItem">
+			<a href="/2257/Memorial-School-Building-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Memorial School Building Committee</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem646" data-pageid="646">
+		<div class="accordionNavItem">
+			<a href="/646/Morse-Institute-Library-Board-of-Trustee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Morse Institute Library Board of Trustees</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Morse Institute Library Board of Trustees Submenu" aria-expanded="false" aria-controls="submenu-lvl1-646"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-646" style="display: none;" data-parent="646">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem879" data-pageid="879">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Morse-Institute-Library-Board-of-Trustee-42" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2358" data-pageid="2358">
+		<div class="accordionNavItem">
+			<a href="/2358/Natural-and-Synthetic-Turf-Field-Study-G" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Natural and Synthetic Turf Field Study Group</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2017" data-pageid="2017">
+		<div class="accordionNavItem">
+			<a href="/2017/Net-Zero-Natick-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Net Zero Natick Committee</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem673" data-pageid="673">
+		<div class="accordionNavItem">
+			<a href="/673/Open-Space-Advisory-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Open Space Advisory Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Open Space Advisory Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-673"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-673" style="display: none;" data-parent="673">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem881" data-pageid="881">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Open-Space-Advisory-Committee-44" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1446" data-pageid="1446">
+			<div class="accordionNavItem">
+				<a href="https://www.natickma.gov/1666/Open-Space-Trails" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Open Space &amp; Trails</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem525" data-pageid="525">
+		<div class="accordionNavItem">
+			<a href="/525/Personnel-Board" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Personnel Board</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Personnel Board Submenu" aria-expanded="false" aria-controls="submenu-lvl1-525"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-525" style="display: none;" data-parent="525">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem883" data-pageid="883">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Personnel-Board-29" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem515" data-pageid="515">
+		<div class="accordionNavItem">
+			<a href="/515/Planning-Board" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Planning Board</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Planning Board Submenu" aria-expanded="false" aria-controls="submenu-lvl1-515"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-515" style="display: none;" data-parent="515">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem884" data-pageid="884">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Planning-Board-28" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem519" data-pageid="519">
+			<div class="accordionNavItem">
+				<a href="/519/Fee-Schedule" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Fee Schedule</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1072" data-pageid="1072">
+			<div class="accordionNavItem">
+				<a href="/701/Zoning-Regulations" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Zoning Bylaws</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1280" data-pageid="1280">
+			<div class="accordionNavItem">
+				<a href="/1280/Rules-Regulations" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Rules &amp; Regulations</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem467" data-pageid="467">
+		<div class="accordionNavItem">
+			<a href="/467/Recreation-Parks-Commission" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Recreation &amp; Parks Commission</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Recreation &amp; Parks Commission Submenu" aria-expanded="false" aria-controls="submenu-lvl1-467"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-467" style="display: none;" data-parent="467">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem886" data-pageid="886">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Recreation-Parks-Commission-24" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1447" data-pageid="1447">
+			<div class="accordionNavItem">
+				<a href="/DocumentCenter/View/1258" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Open Space &amp; Recreation Plan</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem437" data-pageid="437">
+		<div class="accordionNavItem">
+			<a href="/437/Registrars-of-Voters" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Registrars of Voters</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Registrars of Voters Submenu" aria-expanded="false" aria-controls="submenu-lvl1-437"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-437" style="display: none;" data-parent="437">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem888" data-pageid="888">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Registrars-of-Voters-19" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1216" data-pageid="1216">
+		<div class="accordionNavItem">
+			<a href="/1216/Rink-Oversight-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Rink Oversight Committee</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem425" data-pageid="425">
+		<div class="accordionNavItem">
+			<a href="/425/Safety-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Safety Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Safety Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-425"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-425" style="display: none;" data-parent="425">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem895" data-pageid="895">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Safety-Committee-17" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1270" data-pageid="1270">
+		<div class="accordionNavItem">
+			<a href="/1270/Sawin-House-Advisory-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Sawin House Advisory Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Sawin House Advisory Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-1270"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-1270" style="display: none;" data-parent="1270">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1378" data-pageid="1378">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Sawin-House-Advisory-Committee-53" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem369" data-pageid="369">
+		<div class="accordionNavItem">
+			<a href="https://www.natickps.org/about/natick_school_committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">School Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="School Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-369"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-369" style="display: none;" data-parent="369">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem2251" data-pageid="2251">
+			<div class="accordionNavItem">
+				<a href="/2251/Agendas" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem987" data-pageid="987">
+			<div class="accordionNavItem">
+				<a href="/987/Minutes" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Minutes</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem721" data-pageid="721">
+		<div class="accordionNavItem">
+			<a href="/378" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Select Board</a>
+		</div>
+			</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1716" data-pageid="1716">
+		<div class="accordionNavItem">
+			<a href="/1716/Trails-and-Forest-Stewardship-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Trails and Forest Stewardship Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Trails and Forest Stewardship Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-1716"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-1716" style="display: none;" data-parent="1716">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1768" data-pageid="1768">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Trails-Forest-Stewardship-71" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1788" data-pageid="1788">
+			<div class="accordionNavItem">
+				<a href="/1788/Land-Stewardship" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Land Stewardship</span></a>
+					<a href="#" role="button" class="openAccordionNav accordionNavMenuItem" aria-label="Land Stewardship Submenu" aria-expanded="false" aria-controls="submenu-lvl2-1788"></a>
+			</div>
+							<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" id="submenu-lvl2-1788" style="display: none;" data-parent="1788">
+							<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1792" data-pageid="1792">
+			<div class="accordionNavItem">
+				<a href="/1792/Trail-Blazing-Signage-Project" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Trail Blazing &amp; Signage Project</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1793" data-pageid="1793">
+			<div class="accordionNavItem">
+				<a href="/1793/Natick-Trails-Day" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Natick Trails Day</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1794" data-pageid="1794">
+			<div class="accordionNavItem">
+				<a href="/1794/Beavers" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Beavers!</span></a>
+			</div>
+					</li>
+
+				</ol>
+		</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1766" data-pageid="1766">
+			<div class="accordionNavItem">
+				<a href="https://www.natickma.gov/1666/Open-Space-Trails" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Open Space &amp; Trails</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem1303" data-pageid="1303">
+		<div class="accordionNavItem">
+			<a href="/1303/Transportation-Advisory-Committee" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Transportation Advisory Committee</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Transportation Advisory Committee Submenu" aria-expanded="false" aria-controls="submenu-lvl1-1303"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-1303" style="display: none;" data-parent="1303">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1393" data-pageid="1393">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Transportation-Advisory-Committee-58" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas &amp; Minutes</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem401" data-pageid="401">
+		<div class="accordionNavItem">
+			<a href="/401/Zoning-Board-of-Appeals" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">Zoning Board of Appeals</a>
+				<a href="#" role="button" class="openAccordionNav accordionSecondaryNavItem" aria-label="Zoning Board of Appeals Submenu" aria-expanded="false" aria-controls="submenu-lvl1-401"></a>
+		</div>
+					<ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" id="submenu-lvl1-401" style="display: none;" data-parent="401">
+						<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem901" data-pageid="901">
+			<div class="accordionNavItem">
+				<a href="/AgendaCenter/Zoning-Board-of-Appeals-8" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Agendas</span></a>
+			</div>
+					</li>
+		<li class="sideNavLi subMenuItem hasAccordionChildren" id="SideItem1504" data-pageid="1504">
+			<div class="accordionNavItem">
+				<a href="/1504/Meeting-Schedule" target="_self" class="navMenuItem cpComponent" data-type="SecondaryMenuItem"><span lang="en">Meeting Schedule</span></a>
+			</div>
+					</li>
+
+			</ol>
+	</li>
+	<li class="topMenuItem sideNavLi hasAccordionChildren" id="SideItem2027" data-pageid="2027">
+		<div class="accordionNavItem">
+			<a href="/2026/17644/Archive-past-boardscommittees" target="_self" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem">ARCHIVE (Past Boards &amp; Committees)</a>
+		</div>
+			</li>
+
+	</ol>
+
+
+	<script type="text/javascript">
+		(function () {
+			function setupSecondaryMenuProperties() {
+				//setup menu manager properties for secondary menu
+				menuManager.isSideMenuEditable = false;
+				menuManager.sideMenuMaxSubMenuLevels = 4;
+				menuManager.sideMenuHasCustomLinks = false;
+			}
+
+			if (document.readyState === "loading") {
+				document.addEventListener("DOMContentLoaded", setupSecondaryMenuProperties, { once: true });
+				return;
+			}
+
+			setupSecondaryMenuProperties();
+		})();
+	</script>
+
+	<script type="text/javascript">
+		(function () {
+			function setupAccordionSecondaryNav() {
+				var $menuContainer = $('#secondaryNav');
+
+				$menuContainer.find('*[id^="SideItem"]').each(function () {
+					var ids = $('[id="' + this.id + '"]');
+					if (ids.length > 1)
+						$.each(ids, function (index, value) {
+							value.id = value.id + '_' + index;
+						});
+				});
+
+				$menuContainer.find('.hasAccordionChildren .openAccordionNav').off('click.secondaryNav').on('click.secondaryNav', function (e) {
+					e.preventDefault();
+					showHideAccordionMenuForSecondaryNav($(this));
+				});
+
+				$menuContainer.find(".grippy").each(function () {
+					menuManager.setupDraggableElement($(this), SIDE_MENU, '#secondaryNav');
+				});
+
+				$menuContainer.find("li").each(function () {
+					menuManager.setupDroppableAccordionElement($(this), SIDE_MENU);
+				});
+			}
+
+			if (document.readyState === "loading") {
+				document.addEventListener("DOMContentLoaded", setupAccordionSecondaryNav, { once: true });
+				return;
+			}
+
+			setupAccordionSecondaryNav();
+		})();
+	</script>
+
+
+
+</nav><aside data-cpRole="contentContainer" id="sidebarContainer2TS">	<div id="ccecea25ee-d5ed-4748-80d8-a563fe051d23" data-containerid="ecea25ee-d5ed-4748-80d8-a563fe051d23" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+
+
+	</div>
+</aside>
+</div>
+</div></div>
+</div><!-- GBs --><div data-cpRole="structuralContainer" id="gbsContainerTS">
+<div class="siteWrap3"><div data-cpRole="contentContainer" id="gbsTS">	<div id="cc0b155a8f-bc5c-49dc-bee1-6119c6cef4ec" data-containerid="0b155a8f-bc5c-49dc-bee1-6119c6cef4ec" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile" data-contentcontainerbreakpoint="35">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col8 first" style="" data-widgetcontainerid="deb4a1a1-2e6c-44a4-94c2-2dc14ff5d0c7">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last id8dd0e71c-a809-48c6-b02e-cde609bb2f88" style="" data-widgetcontainerid="8dd0e71c-a809-48c6-b02e-cde609bb2f88">	
+<div data-widget-id="7edd100f-eff1-4f7b-9a14-b75671f56aab" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidget7edd100f-eff1-4f7b-9a14-b75671f56aab" class="widget widgetGraphicLinks skin65 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:21em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid2 ">
+		<nav class="widgetGraphicLinksNav" aria-labelledby="GraphicLinkHeaderText">
+				<div class="row   wide">
+					<!--
+--><div class="col col1 first "><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/366/Online-Payments" target="_self" class="fancyButton fancyButton311 " >
+		<span>
+			<span><span class="text">Online Payments</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton311.fancyButton:link,.fancyButton311.fancyButton:visited, .fancyButton311div.fancyButton{
+	background-image: url('/ImageRepository/Document?documentID=17142');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+transition:all .3s ease-in-out;}
+.fancyButton311.fancyButton:hover,.fancyButton311.fancyButton:focus,.fancyButton311.fancyButton:active,.fancyButton311.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=17141');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton311.fancyButton:link > span,.fancyButton311.fancyButton:visited > span, .fancyButton311div.fancyButton > span{
+}
+.fancyButton311.fancyButton:hover > span,.fancyButton311.fancyButton:focus > span,.fancyButton311.fancyButton:active > span,.fancyButton311.fancyButton.hover > span{
+}
+.fancyButton311.fancyButton .text{
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: "Montserrat";
+	padding-top: 130px;
+	font-weight: 600;
+	text-decoration: none;
+	padding-top: 130px;
+	background-image: url('/ImageRepository/Document?documentID=15436');
+	background-repeat: no-repeat;
+	background-position: center 35px ;
+transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
+.fancyButton311.fancyButton:hover .text,.fancyButton311.fancyButton:focus .text,.fancyButton311.fancyButton:active .text,.fancyButton311.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 27px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!----><div class="col col1  last"><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/list.aspx" target="_self" class="fancyButton fancyButton312 " >
+		<span>
+			<span><span class="text">Alerts &amp; Notifications</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton312.fancyButton:link,.fancyButton312.fancyButton:visited, .fancyButton312div.fancyButton{
+	background-image: url('/ImageRepository/Document?documentID=15430');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+transition:all .3s ease-in-out;}
+.fancyButton312.fancyButton:hover,.fancyButton312.fancyButton:focus,.fancyButton312.fancyButton:active,.fancyButton312.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=15431');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton312.fancyButton:link > span,.fancyButton312.fancyButton:visited > span, .fancyButton312div.fancyButton > span{
+}
+.fancyButton312.fancyButton:hover > span,.fancyButton312.fancyButton:focus > span,.fancyButton312.fancyButton:active > span,.fancyButton312.fancyButton.hover > span{
+}
+.fancyButton312.fancyButton .text{
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: "Montserrat";
+	padding-top: 130px;
+	font-weight: 600;
+	text-decoration: none;
+	padding-top: 130px;
+	background-image: url('/ImageRepository/Document?documentID=15435');
+	background-repeat: no-repeat;
+	background-position: center 35px ;
+transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
+.fancyButton312.fancyButton:hover .text,.fancyButton312.fancyButton:focus .text,.fancyButton312.fancyButton:active .text,.fancyButton312.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 27px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!--				-->
+				</div>
+			</nav>
+		</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col8" style="" data-widgetcontainerid="c098a7dd-416c-46d8-8ba0-f55d2c0ffeee">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last id01c73a75-9e52-4999-beba-962f4dc24213" style="" data-widgetcontainerid="01c73a75-9e52-4999-beba-962f4dc24213">	
+<div data-widget-id="3b875189-754e-4547-a100-d6bd32497c85" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidget3b875189-754e-4547-a100-d6bd32497c85" class="widget widgetGraphicLinks skin65 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:21em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid2 ">
+		<nav class="widgetGraphicLinksNav" aria-labelledby="GraphicLinkHeaderText">
+				<div class="row   wide">
+					<!--
+--><div class="col col1 first "><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/1188/Report-a-Concern" target="_self" class="fancyButton fancyButton313 " >
+		<span>
+			<span><span class="text">Report a Concern</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton313.fancyButton:link,.fancyButton313.fancyButton:visited, .fancyButton313div.fancyButton{
+	background-image: url('/ImageRepository/Document?documentID=15432');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+transition:all .3s ease-in-out;}
+.fancyButton313.fancyButton:hover,.fancyButton313.fancyButton:focus,.fancyButton313.fancyButton:active,.fancyButton313.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=15433');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton313.fancyButton:link > span,.fancyButton313.fancyButton:visited > span, .fancyButton313div.fancyButton > span{
+}
+.fancyButton313.fancyButton:hover > span,.fancyButton313.fancyButton:focus > span,.fancyButton313.fancyButton:active > span,.fancyButton313.fancyButton.hover > span{
+}
+.fancyButton313.fancyButton .text{
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: "Montserrat";
+	padding-top: 130px;
+	font-weight: 600;
+	text-decoration: none;
+	padding-top: 130px;
+	background-image: url('/ImageRepository/Document?documentID=15438');
+	background-repeat: no-repeat;
+	background-position: center 35px ;
+transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
+.fancyButton313.fancyButton:hover .text,.fancyButton313.fancyButton:focus .text,.fancyButton313.fancyButton:active .text,.fancyButton313.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 27px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!----><div class="col col1  last"><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/1581/Property-Assessment-Information" target="_self" class="fancyButton fancyButton314 " >
+		<span>
+			<span><span class="text">Property Values</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton314.fancyButton:link,.fancyButton314.fancyButton:visited, .fancyButton314div.fancyButton{
+	background-image: url('/ImageRepository/Document?documentID=17142');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+transition:all .3s ease-in-out;}
+.fancyButton314.fancyButton:hover,.fancyButton314.fancyButton:focus,.fancyButton314.fancyButton:active,.fancyButton314.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=17141');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton314.fancyButton:link > span,.fancyButton314.fancyButton:visited > span, .fancyButton314div.fancyButton > span{
+}
+.fancyButton314.fancyButton:hover > span,.fancyButton314.fancyButton:focus > span,.fancyButton314.fancyButton:active > span,.fancyButton314.fancyButton.hover > span{
+}
+.fancyButton314.fancyButton .text{
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: "Montserrat";
+	padding-top: 130px;
+	font-weight: 600;
+	text-decoration: none;
+	padding-top: 130px;
+	background-image: url('/ImageRepository/Document?documentID=15437');
+	background-repeat: no-repeat;
+	background-position: center 35px ;
+transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
+.fancyButton314.fancyButton:hover .text,.fancyButton314.fancyButton:focus .text,.fancyButton314.fancyButton:active .text,.fancyButton314.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 27px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!--				-->
+				</div>
+			</nav>
+		</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col8 last" style="" data-widgetcontainerid="fbeccf94-ded0-49df-88bb-d63bc8d8b6c3">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last idf27c77ca-0bce-4063-9006-7fec7f2a53d5" style="" data-widgetcontainerid="f27c77ca-0bce-4063-9006-7fec7f2a53d5">	
+<div data-widget-id="c2fc8109-7b12-47da-9338-76e253f62af1" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidgetc2fc8109-7b12-47da-9338-76e253f62af1" class="widget widgetGraphicLinks skin65 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:21em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid2 ">
+		<nav class="widgetGraphicLinksNav" aria-labelledby="GraphicLinkHeaderText">
+				<div class="row   wide">
+					<!--
+--><div class="col col1 first "><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/902/trash-recycling-collection" target="_self" class="fancyButton fancyButton315 " >
+		<span>
+			<span><span class="text">Trash &amp; Recycling</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton315.fancyButton:link,.fancyButton315.fancyButton:visited, .fancyButton315div.fancyButton{
+	background-image: url('/ImageRepository/Document?documentID=15430');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+transition:all .3s ease-in-out;}
+.fancyButton315.fancyButton:hover,.fancyButton315.fancyButton:focus,.fancyButton315.fancyButton:active,.fancyButton315.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=15431');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton315.fancyButton:link > span,.fancyButton315.fancyButton:visited > span, .fancyButton315div.fancyButton > span{
+}
+.fancyButton315.fancyButton:hover > span,.fancyButton315.fancyButton:focus > span,.fancyButton315.fancyButton:active > span,.fancyButton315.fancyButton.hover > span{
+}
+.fancyButton315.fancyButton .text{
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: "Montserrat";
+	padding-top: 130px;
+	font-weight: 600;
+	text-decoration: none;
+	padding-top: 130px;
+	background-image: url('/ImageRepository/Document?documentID=15439');
+	background-repeat: no-repeat;
+	background-position: center 35px ;
+transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
+.fancyButton315.fancyButton:hover .text,.fancyButton315.fancyButton:focus .text,.fancyButton315.fancyButton:active .text,.fancyButton315.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 27px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!----><div class="col col1  last"><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/jobs.aspx" target="_self" class="fancyButton fancyButton316 " >
+		<span>
+			<span><span class="text">Employment</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton316.fancyButton:link,.fancyButton316.fancyButton:visited, .fancyButton316div.fancyButton{
+	background-image: url('/ImageRepository/Document?documentID=15432');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+transition:all .3s ease-in-out;}
+.fancyButton316.fancyButton:hover,.fancyButton316.fancyButton:focus,.fancyButton316.fancyButton:active,.fancyButton316.fancyButton.hover{
+	background-image: url('/ImageRepository/Document?documentID=15433');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fancyButton316.fancyButton:link > span,.fancyButton316.fancyButton:visited > span, .fancyButton316div.fancyButton > span{
+}
+.fancyButton316.fancyButton:hover > span,.fancyButton316.fancyButton:focus > span,.fancyButton316.fancyButton:active > span,.fancyButton316.fancyButton.hover > span{
+}
+.fancyButton316.fancyButton .text{
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: "Montserrat";
+	padding-top: 130px;
+	font-weight: 600;
+	text-decoration: none;
+	padding-top: 130px;
+	background-image: url('/ImageRepository/Document?documentID=15434');
+	background-repeat: no-repeat;
+	background-position: center 35px ;
+transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
+.fancyButton316.fancyButton:hover .text,.fancyButton316.fancyButton:focus .text,.fancyButton316.fancyButton:active .text,.fancyButton316.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 27px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!--				-->
+				</div>
+			</nav>
+		</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div>
+</div><!-- Calendar/Carousel --><!-- <div data-cpRole="structuralContainer" id="homeContainer1">
+    <div class="siteWrap2">
+      <div data-cpRole="contentContainer" id="homeContent1a"></div>
+    </div>
+  </div> --><!-- Fixed GBs --><div data-cpRole="structuralContainer" id="fixedGbsContainerTS" class="fixedLeftTS">
+<div class="siteWrap3" data-skip-leftpad=""><div data-cpRole="contentContainer" id="fixedGbsTS">	<div id="cc1997f86f-0af4-456c-9869-17982fecbdc8" data-containerid="1997f86f-0af4-456c-9869-17982fecbdc8" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="1bfa4c55-3843-48cd-bcd1-ef6a671a49a0">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last idd46f1b55-d47a-4835-ad7b-c0a7b36d6090" style="" data-widgetcontainerid="d46f1b55-d47a-4835-ad7b-c0a7b36d6090">	
+<div data-widget-id="15293505-86dd-4e0e-b175-a2a06867b25b" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidget15293505-86dd-4e0e-b175-a2a06867b25b" class="widget widgetGraphicLinks skin67 widgetOptionSet4 wide" data-elementqueryclasses='{"wide-narrow":"min-width:10em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid4 ">
+		<nav class="widgetGraphicLinksNav" aria-labelledby="GraphicLinkHeaderText">
+				<div class="row   wide">
+					<!--
+--><div class="col col1 first "><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/list.aspx" target="_self" class="fancyButton fancyButton317 " >
+		<span>
+			<span><span class="text">Alerts</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton317.fancyButton:link,.fancyButton317.fancyButton:visited, .fancyButton317div.fancyButton{
+	background-color: rgba(35, 64, 147, 0.85);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:90px;
+border-radius: 0px 10px 10px 0px;
+transition:all .2s ease-in-out;
+min-height:96px;
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+@media(max-width:63em){
+.fancyButton317{
+margin:0 auto;
+width:100% !important;
+}}
+.fancyButton317.fancyButton:hover,.fancyButton317.fancyButton:focus,.fancyButton317.fancyButton:active,.fancyButton317.fancyButton.hover{
+	background-color: rgb(35, 64, 147);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:100px;
+}
+.fancyButton317.fancyButton:link > span,.fancyButton317.fancyButton:visited > span, .fancyButton317div.fancyButton > span{
+}
+.fancyButton317.fancyButton:hover > span,.fancyButton317.fancyButton:focus > span,.fancyButton317.fancyButton:active > span,.fancyButton317.fancyButton.hover > span{
+}
+.fancyButton317.fancyButton .text{
+	color: #ffffff;
+	font-size: .75em;
+	font-family: "Montserrat";
+	padding-top: 52px;
+	padding-bottom: 8px;
+	font-weight: 500;
+	text-decoration: none;
+	padding-top: 52px;
+	padding-bottom: 8px;
+	background-image: url('/ImageRepository/Document?documentID=15442');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+flex-grow:1;
+}
+@media(max-width:63em){
+.fancyButton317{
+border-radius:10px !important;
+}
+
+}
+.fancyButton317.fancyButton:hover .text,.fancyButton317.fancyButton:focus .text,.fancyButton317.fancyButton:active .text,.fancyButton317.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!----><div class="col col1  "><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="https://natickma.portal.opengov.com/" target="_self" class="fancyButton fancyButton334 " >
+		<span>
+			<span><span class="text">Permits &amp; Licenses</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton334.fancyButton:link,.fancyButton334.fancyButton:visited, .fancyButton334div.fancyButton{
+	background-color: rgba(35, 64, 147, 0.85);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:90px;
+
+border-radius: 0px 10px 10px 0px;
+transition:all .2s ease-in-out;
+min-height:96px;
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+@media(max-width:63em){
+.fancyButton334{
+margin:0 auto;
+width:100% !important;
+}}
+.fancyButton334.fancyButton:hover,.fancyButton334.fancyButton:focus,.fancyButton334.fancyButton:active,.fancyButton334.fancyButton.hover{
+	background-color: rgb(35, 64, 147);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:100px;
+}
+.fancyButton334.fancyButton:link > span,.fancyButton334.fancyButton:visited > span, .fancyButton334div.fancyButton > span{
+}
+.fancyButton334.fancyButton:hover > span,.fancyButton334.fancyButton:focus > span,.fancyButton334.fancyButton:active > span,.fancyButton334.fancyButton.hover > span{
+}
+.fancyButton334.fancyButton .text{
+	color: #ffffff;
+	font-size: .75em;
+	font-family: "Montserrat";
+	padding-top: 52px;
+	padding-bottom: 8px;
+	font-weight: 500;
+	text-decoration: none;
+	padding-top: 52px;
+	padding-bottom: 8px;
+	background-image: url('/ImageRepository/Document?documentID=15816');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+
+}
+@media(max-width:63em){
+.fancyButton334{
+border-radius:10px !important;
+}
+
+}
+.fancyButton334.fancyButton:hover .text,.fancyButton334.fancyButton:focus .text,.fancyButton334.fancyButton:active .text,.fancyButton334.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!----><div class="col col1  "><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="https://www.natickps.org/" target="_self" class="fancyButton fancyButton333 " >
+		<span>
+			<span><span class="text">Natick Public Schools</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton333.fancyButton:link,.fancyButton333.fancyButton:visited, .fancyButton333div.fancyButton{
+	background-color: rgba(35, 64, 147, 0.85);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:90px;
+border-radius: 0px 10px 10px 0px;
+transition:all .2s ease-in-out;
+min-height:96px;
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+@media(max-width:63em){
+.fancyButton333{
+margin:0 auto;
+width:100% !important;}}
+.fancyButton333.fancyButton:hover,.fancyButton333.fancyButton:focus,.fancyButton333.fancyButton:active,.fancyButton333.fancyButton.hover{
+	background-color: rgb(35, 64, 147);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:100px;
+}
+.fancyButton333.fancyButton:link > span,.fancyButton333.fancyButton:visited > span, .fancyButton333div.fancyButton > span{
+}
+.fancyButton333.fancyButton:hover > span,.fancyButton333.fancyButton:focus > span,.fancyButton333.fancyButton:active > span,.fancyButton333.fancyButton.hover > span{
+}
+.fancyButton333.fancyButton .text{
+	color: #ffffff;
+	font-size: .75em;
+	font-family: "Montserrat";
+	padding-top: 52px;
+	padding-bottom: 8px;
+	font-weight: 500;
+	text-decoration: none;
+	padding-top: 52px;
+	padding-bottom: 8px;
+	background-image: url('/ImageRepository/Document?documentID=15441');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+flex-grow:1;
+}
+@media(max-width:63em){
+.fancyButton333{
+border-radius:10px !important;
+}
+
+}
+.fancyButton333.fancyButton:hover .text,.fancyButton333.fancyButton:focus .text,.fancyButton333.fancyButton:active .text,.fancyButton333.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!----><div class="col col1  last"><ul class="semanticList"><!--
+
+	    --><li class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/FormCenter/General-Contact-Forms-3/General-Contact-Form-43" target="_self" class="fancyButton fancyButton335 " >
+		<span>
+			<span><span class="text">Contact Us</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton335.fancyButton:link,.fancyButton335.fancyButton:visited, .fancyButton335div.fancyButton{
+	background-color: rgba(35, 64, 147, 0.85);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:90px;
+border-radius: 0px 10px 10px 0px;
+transition:all .2s ease-in-out;
+min-height:96px;
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+@media(max-width:63em){
+.fancyButton335{
+margin:0 auto;
+width:100% !important;
+}}
+.fancyButton335.fancyButton:hover,.fancyButton335.fancyButton:focus,.fancyButton335.fancyButton:active,.fancyButton335.fancyButton.hover{
+	background-color: rgb(35, 64, 147);
+	background-repeat: no-repeat;
+	background-position: left top;
+width:100px;
+}
+.fancyButton335.fancyButton:link > span,.fancyButton335.fancyButton:visited > span, .fancyButton335div.fancyButton > span{
+}
+.fancyButton335.fancyButton:hover > span,.fancyButton335.fancyButton:focus > span,.fancyButton335.fancyButton:active > span,.fancyButton335.fancyButton.hover > span{
+}
+.fancyButton335.fancyButton .text{
+	color: #ffffff;
+	font-size: .75em;
+	font-family: "Montserrat";
+	padding-top: 52px;
+	padding-bottom: 8px;
+	font-weight: 500;
+	text-decoration: none;
+	padding-top: 52px;
+	padding-bottom: 8px;
+	background-image: url('/ImageRepository/Document?documentID=15440');
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+
+}
+@media(max-width:63em){
+.fancyButton335{
+border-radius:10px !important;
+}
+
+}
+.fancyButton335.fancyButton:hover .text,.fancyButton335.fancyButton:focus .text,.fancyButton335.fancyButton:active .text,.fancyButton335.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 8px ;
+
+
+}
+</style>
+
+ </li><!--
+--></ul></div><!--				-->
+				</div>
+			</nav>
+		</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div>
+</div><!-- Footer --><footer data-cpRole="structuralContainer" id="footerContainerTS">
+<div class="siteWrap3"><div data-cpRole="contentContainer" id="footerTS">	<div id="ccadd8aef2-023e-4a6b-a8cf-0b6be1289ab6" data-containerid="add8aef2-023e-4a6b-a8cf-0b6be1289ab6" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile" data-contentcontainerbreakpoint="63">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col5 first" style="" data-widgetcontainerid="39f84ed1-2398-4051-b2f6-ca550fe5cdb8">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col5 first last ida9e3846e-5112-4aa9-92e4-6ff99fd86d38" style="" data-widgetcontainerid="a9e3846e-5112-4aa9-92e4-6ff99fd86d38">	
+    <div data-widget-id="63d8b68f-187c-4955-8223-8e7cb1dd86cd" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+
+
+
+	<section id="divInfoAdv63d8b68f-187c-4955-8223-8e7cb1dd86cd" class="widget widgetInfoAdvanced skin68 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header63d8b68f-187c-4955-8223-8e7cb1dd86cd">
+		<div class="">
+								</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">
+		<div class="row  wide">
+					<div class="col col1 first last">
+						<ol class="pageStyles semanticList">
+
+<li class="InfoAdvanced widgetItem fr-view">
+	<p><img src="/ImageRepository/Document?documentId=15445" class="fr-dib" alt="Natick Massachusetts home page"></p>
+</li>
+<li class="InfoAdvanced widgetItem fr-view">
+	<p>Natick Town Offices<br>13 E. Central Street<br>Natick, MA 01760<br>Phone: <a href="tel:5086476400">508-647-6400</a></p>
+</li>						</ol>
+					</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+
+	</div>
+
+	</section>
+
+
+
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('#divInfoAdv63d8b68f-187c-4955-8223-8e7cb1dd86cd .InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));		
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col2" style="" data-widgetcontainerid="f1cb8472-ee3b-4267-ac1e-a9b3065946da">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col2 first last ide16b17f5-da66-4cca-ba1d-88e25585af61" style="" data-widgetcontainerid="e16b17f5-da66-4cca-ba1d-88e25585af61">	
+
+<div class="widget widgetSpacer" id="05af33ff-5698-4ffc-81f1-22315634f438"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col17 last" style="" data-widgetcontainerid="787c9680-692e-43d7-b37c-f3b614ed6af8">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col17 first last id654f5498-b34e-413c-af63-a9d2363e9d8f" style="" data-widgetcontainerid="654f5498-b34e-413c-af63-a9d2363e9d8f">	
+	<div data-widget-id="1de2410b-5432-49d6-820b-3ae544390333" data-widget-controller-path="/QuickLinks/Widget">
+
+
+
+
+
+
+
+
+	<section id="widgetQuicklink1de2410b-5432-49d6-820b-3ae544390333" class="widget widgetQuickLinks skin61 widgetOptionSet36 narrow" data-modulewidgettype="quickLinks" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Quick Links">
+			<header class="widgetHeader" id="quickLinksHeader1de2410b-5432-49d6-820b-3ae544390333">
+		<div class="">
+						</div>
+	</header>
+	<div class="widgetBody cpGrid cpGrid3 ">
+        <div class="row  narrow">
+				<div class="col col1 first ">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/bids.aspx" target="_self" >Bids / RFPs</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="https://www.natickma.gov/487/Board-Committee-Volunteer-Information" target="_self" >Volunteer</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/jobs.aspx" target="_self" >Jobs / Employment</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  ">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/quicklinks.aspx" target="_self" >Quick Links</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/CivicAlerts.aspx" target="_self" >News</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/calendar.aspx" target="_self" >Calendar</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  last">
+					<ol class="semanticList">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/list.aspx" target="_self" >Notify Me®</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/366/Online-Payments" target="_self" >Online Payments</a>
+        <div class="widgetMeta"></div>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/faq.aspx" target="_self" >FAQs</a>
+        <div class="widgetMeta"></div>
+    </li>
+					</ol>
+				</div>
+		</div>
+        
+	</div>
+	<div class="widgetFooter">
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/QuickLinks.aspx</div>
+	</div>
+
+	</section>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div>
+</footer><!-- Powered By --><div data-cpRole="structuralContainer" id="poweredByContainerTS">
+<div class="siteWrap3"><div data-cpRole="contentContainer" id="poweredByTS">	<div id="cc1d6e6958-33ef-4034-a8f0-833ec450cdfe" data-containerid="1d6e6958-33ef-4034-a8f0-833ec450cdfe" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="b7be57d4-af06-4abb-bcb4-d79d37879dd3">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id27da1e0b-2e36-4b04-ad72-57d6d9c9feb2" style="" data-widgetcontainerid="27da1e0b-2e36-4b04-ad72-57d6d9c9feb2">	
+ 
+	<div data-widget-id='8a7c4f3e-f7db-4edf-9ade-448b8e54c6ed' data-moduleName="customHtml" id='widgetCustomHtml8a7c4f3e-f7db-4edf-9ade-448b8e54c6ed' class="widget widgetCustomHtml skin66 narrow" >
+	<div class="widgetBody pageStyles" id="widgetBody8a7c4f3e-f7db-4edf-9ade-448b8e54c6ed">
+		<div id="customHtml8a7c4f3e-f7db-4edf-9ade-448b8e54c6ed"><div><style>
+  /* CP icon */
+  .cpBylineIconTS {
+    color: #fff;
+  }
+  /* CP Text */
+  .cpBylineTextTS,
+  .cpBylineTextTS a:link {
+    color: #fff;
+  }
+
+  .cpBylineTS {
+    text-align: center;
+  }
+  
+  .cpBylineIconTS {
+    fill: currentColor;
+    width: 39px;
+    height: 26px;
+    display: inline;
+    vertical-align: middle;
+  }
+</style>
+
+<div class="widgetItem cpBylineTS">
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100" class="cpBylineIconTS">
+    <path class="c" d="M73.4,23.2h-19v16.7h19c2.8,0,5,2.2,5,5c0,2.8-2.2,5-5,5h-19v28.4h5.5l11.3-11.7h2.2c11.9,0,21.6-9.7,21.6-21.6C95,33,85.3,23.2,73.4,23.2"></path>
+    <path class="p" d="M45.8,66.5H26.6C14.7,66.5,5,56.8,5,44.9C5,33,14.7,23.2,26.6,23.2h19.1v16.7H26.6c-2.8,0-5,2.2-5,5c0,2.8,2.2,5,5,5h19.1V66.5z"></path>
+  </svg>
+  <span class="cpBylineTextTS">Government Websites by <a href="https://connect.civicplus.com/referral">CivicPlus&reg;</a></span>
+</div>
+</div></div>
+	</div>
+	</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</div></div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+<link href="/745732998.css" rel="stylesheet" type="text/css" />
+
+<div id="SplashMessageWrapper" class="cp-Splash-wrapper">
+	<div role="dialog" aria-labelledby="cp-Splash-title" aria-describedby="editorContentDesc" aria-modal="true" tabindex="-1" id="SplashMessage" class="hidden cp-Splash cp-Splash--modal is-open">
+		<div class="cp-Splash-header">
+			<h2 class="cp-Splash-title" id="cp-Splash-title">Loading</h2>
+			<button class="cp-Splash-Btn cp-Splash-close" aria-label="Close this modal" title="Close this window">
+				<svg id="iconClose" viewBox="0 0 25 25">
+					<polygon style="fill:currentcolor"
+							 points="18.806,6.98 18.075,6.248 12.532,11.792 6.989,6.248 6.257,6.98 11.786,12.508 6.212,18.084 6.943,18.815 12.532,13.224 18.12,18.815 18.851,18.084 13.277,12.508"></polygon>
+				</svg>
+			</button>
+		</div>
+		<div class="cp-Splash-body">
+			<div class="cp-Splash-Prose editorContent fr-view" id="editorContentDesc">
+				<!-- Content from the Froala Editor will go here. -->
+				Loading
+			</div>
+		</div>
+		<div class="cp-Splash-footer">
+			<button class="cp-Splash-Btn cp-Splash-Btn--NoShow">Do Not Show Again</button>
+			<button class="cp-Splash-Btn cp-Splash-Btn--Close">Close</button>
+		</div>
+	</div>
+</div>
+
+<script src="/Assets/Scripts/APIClient.js"></script>
+<script src="/Assets/Mystique/Shared/Scripts/Moment/Moment.min.js"></script>
+<script src="/Assets/Scripts/SplashModal/SplashModalRender.js"></script>
+<script>
+
+		$(document).ready(function () {
+			var filter = {
+				targetId: '2301',
+				targetType: 1
+			}
+
+			new SplashModalRender().triggerRender(filter);
+		});
+</script>
+
+
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+
+    <script src="/-978663714.js" type="text/javascript"></script>
+    <!----------Google Translate (Mobile Friendly)--------->
+
+<style>
+    #google-translate-container {
+      float: right;
+      padding: 3px 5px 0px 0px;
+      position: fixed; 
+      bottom: 8px; 
+      right: 100px; 
+      z-index: 1000;
+    }
+  
+    .goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * {
+      font-family: arial;
+      font-size: 10pt;
+      background-image: url("https://www.gstatic.com/images/branding/product/2x/translate_24dp.png");
+      background-position: 5px 5px;
+      background-size: 18px;
+      background-repeat: no-repeat;
+      text-indent: 16px;
+      background-color: #fff;
+      color: #000 !important;
+    }
+  
+    .goog-logo-link {
+      display: none !important;
+    }
+  
+    .goog-te-gadget {
+      color: transparent !important;
+    }
+  
+    .goog-te-gadget .goog-te-combo {
+      margin: 2px 0 !important;
+      border-radius: 15px !important;
+      }
+  
+    .goog-te-combo{
+      border: 1px solid !important;
+      border-color: #bcc9d7 #96a3b1 #96a3b1 #bcc9d7 !important;
+      border-radius: 50px !important;
+      height:31px !important;
+      padding: 0 1px 0 .25rem !important;
+                  width: 156px;
+    }
+  
+    #launcher-wrapper {
+      bottom: 50px !important;
+    }
+    
+    .skiptranslate > span {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+  }
+  
+  </style>
+  
+  <div id="google-translate-container">
+    <div id="google_translate_element">
+    </div>
+  </div>
+  
+  <script>
+  
+    function googleTranslateElementInit() {
+      var el = document.getElementById("google_translate_element");
+      if (el && el.innerHTML.trim() !== "") {
+          return;
+      }
+
+      new google.translate.TranslateElement({ pageLanguage: "en" }, "google_translate_element");
+      // begin accessibility compliance
+      $('img.goog-te-gadget-icon').attr('alt','Google Translate');
+      $('div#goog-gt-tt div.logo img').attr('alt','translate');
+      $('div#goog-gt-tt .original-text').css('text-align','left');
+      $('.goog-te-gadget-simple .goog-te-menu-value span').css('color','#000000');
+      $('.goog-te-combo').attr('aria-label','google translate languages');
+      $('svg.goog-te-spinner').attr('title','Google Translate Spinner');
+      $('.goog-te-gadget-simple .goog-te-menu-value span').css('color','#000000');
+    }
+  
+    $(function() {
+      $.getScript("//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit");
+    });
+  
+  </script>
+  
+  <!--------------End Google Translate----------------->
+
+
+<!-- Fixed Nav Adjustment -->
+<script>
+    function getValueTS(elem, attr) {
+        const val = elem.css(attr);
+        if (val === undefined) return undefined;
+        const num = parseInt(val, 10);
+        if (num === NaN) return undefined;
+        return num;
+    }
+
+    function clampTS(number, min, max) {
+        return Math.min(Math.max(number, min), max);
+    }
+
+    function isPageEditingTS() {
+        return (
+            $("#doneEditing").length > 0 || // In live edit
+            typeof DesignCenter !== "undefined" // In theme manager
+        );
+    }
+
+    const bgColorRegexTS = /rgba\((\d+), (\d+), (\d+), (\d*\.?\d*)\)/;
+    function isTransparentTS(elem) {
+        const bg = elem.css('background-color');
+        if (typeof bg !== "string" || !bg.startsWith('rgba(')) return false;
+        const matchState = bg.match(bgColorRegexTS);
+        if (!matchState || matchState.length !== 5) return false;
+        const alpha = parseFloat(matchState[4], 10);
+        if (!(alpha >= 0 && alpha < 1)) return false;
+        return true;
+    }
+
+    function iterateLeftpads(cb) {
+        const containersTS = $("[class^='siteWrap'],[class*=' siteWrap']");
+        for (let i = 0; i < containersTS.length; i++) {
+            const containerTS = containersTS[i];
+            // Skip the body container and anything with data-skip-leftpad
+            if (
+                containerTS.id !== "bodyContainerTS" &&
+                containerTS.getAttribute('data-skip-leftpad') === null
+            ) {
+                cb(containerTS);
+            }
+        }
+    }
+
+    const anchor = $("#divToolbars");
+    const anchor2 = $("#headerContainerTS")
+
+    // Outer banner padding (push banner down)
+    const outerSizingTS = $("#bannerContainerTS");
+    // Inner banner padding (push banner content down) - Transparent header OR on attaching headers
+    const innerSizingTS = $("#bannerSizingTS");
+    const bodyContainerTS = $("#bodyContainerTS");
+
+    const forceUnfixClassTS = "forceUnfixTS";
+
+    const fixedTopTS = $(".fixedTopTS");
+    const fixedBottomTS = $(".fixedBottomTS");
+    const fixedLeftTS = $(".fixedLeftTS");
+
+    var initialTopTS;
+    var topAttachTS;
+    if (fixedTopTS && fixedTopTS.length === 1) {
+        initialTopTS = getValueTS(fixedTopTS, 'top');
+        const attachment = fixedTopTS.attr('data-attach');
+        if (attachment) topAttachTS = $("#" + attachment);
+        if (!topAttachTS || topAttachTS.length !== 1) topAttachTS = undefined;
+    }
+
+    function resizeAdjustmentTS() {
+        const editing = isPageEditingTS();
+
+        // Fixed top script
+        (function () {
+            if (!fixedTopTS || fixedTopTS.length !== 1 || initialTopTS === undefined) return;
+
+            if (editing) {
+                fixedTopTS[0].classList.add(forceUnfixClassTS);
+            } else {
+                fixedTopTS[0].classList.remove(forceUnfixClassTS);
+            }
+
+            const topPosition = fixedTopTS.css('position');
+            if (topPosition === 'fixed') {
+                if (topAttachTS) {
+                    scrollAdjustmentTS();
+                } else {
+                    const anchorHeight = anchor.outerHeight() - 1;
+                    fixedTopTS.css('top', anchorHeight + initialTopTS);
+                }
+            } else {
+                fixedTopTS.css('top', initialTopTS);
+            }
+
+            if (topPosition === 'fixed' || topPosition === 'absolute') {
+                // Bump the banner content down
+                if (isTransparentTS(fixedTopTS)) {
+                    innerSizingTS.css('padding-top', initialTopTS + fixedTopTS.outerHeight() - 1);
+                    outerSizingTS.css('padding-top', '');
+
+                    try {
+                        window.Pages.onResizeHandlersExecute();
+                    } catch (e) { }
+                } else {
+                    outerSizingTS.css('padding-top', fixedTopTS.outerHeight() - 1);
+                    innerSizingTS.css('padding-top', '');
+                }
+            } else {
+                innerSizingTS.css('padding-top', '');
+                outerSizingTS.css('padding-top', '');
+            }
+        })();
+
+        // Fixed bottom script
+        (function () {
+            if (!fixedBottomTS || fixedBottomTS.length === 0) return;
+
+            // If the widget has gone narrow, force unfix
+            if (editing || fixedBottomTS.outerHeight() > 200) {
+                fixedBottomTS[0].classList.add(forceUnfixClassTS);
+            } else {
+                fixedBottomTS[0].classList.remove(forceUnfixClassTS);
+            }
+
+            if (fixedBottomTS.css('position') === 'fixed') {
+                bodyContainerTS.css('padding-bottom', fixedBottomTS.outerHeight());
+            } else {
+                bodyContainerTS.css('padding-bottom', '');
+            }
+        })();
+
+        // Fixed left script
+        (function () {
+            if (!fixedLeftTS || fixedLeftTS.length === 0) return;
+
+            if (editing) {
+                fixedLeftTS[0].classList.add(forceUnfixClassTS);
+            } else {
+                fixedLeftTS[0].classList.remove(forceUnfixClassTS);
+            }
+
+            if (fixedLeftTS.css('position') === 'fixed') {
+                const anchorHeight = anchor.outerHeight() - 1;
+                fixedLeftTS.css('top', anchorHeight);
+                const leftBoundingTS = fixedLeftTS[0].getBoundingClientRect();
+                iterateLeftpads(function (containerTS) {
+                    const containerBoundingTS = containerTS.getBoundingClientRect();
+                    if (containerBoundingTS.left <= leftBoundingTS.right) {
+                        $(containerTS).css('padding-left', leftBoundingTS.width + 16);
+                    }
+                });
+            } else {
+                fixedLeftTS.css('top', '');
+                iterateLeftpads(function (containerTS) {
+                    $(containerTS).css('padding-left', '');
+                });
+            }
+        })();
+    }
+
+    function scrollAdjustmentTS() {
+        if (!fixedTopTS || fixedTopTS.length !== 1 || !topAttachTS || topAttachTS.length !== 1) return;
+        const topPosition = fixedTopTS.css('position');
+        if (topPosition === 'fixed' || topPosition === 'absolute') {
+            const anchorBounding = anchor[0].getBoundingClientRect();
+            const attachBounding = topAttachTS[0].getBoundingClientRect();
+            const scrollTop = $(window).scrollTop();
+
+            fixedTopTS.css('top', Math.max(anchorBounding.bottom - 1, attachBounding.bottom));
+        } else {
+            fixedTopTS.css('top', initialTopTS);
+        }
+    }
+
+    $(window).load(function () {
+        setTimeout(function () {
+            resizeAdjustmentTS();
+        }, 350);
+
+        $(window).scroll(function () {
+            scrollAdjustmentTS();
+        });
+
+        var adjustTimeoutTS;
+        $(window).resize(function () {
+            clearTimeout(adjustTimeoutTS);
+            adjustTimeoutTS = setTimeout(function () {
+                resizeAdjustmentTS();
+            }, 350);
+        });
+
+        $.when(window.Pages.angularToolbarComplete).done(function () {
+            resizeAdjustmentTS();
+        });
+    });
+</script>
+<!-- End Fixed Nav Adjustment -->
+
+<!-- Move banner to outer wrap -->
+<script>
+    function moveBannerToOuterWrap() {
+        if ($(".fixedBannerTS").length) {
+            if ($("#bannerDivbanner2").length) {
+                $("#bannerDivbanner2").appendTo("#outer-wrap");
+            } else {
+                setTimeout(function () {
+                    moveBannerToOuterWrap();
+                }, 500);
+            }
+        }
+    }
+    moveBannerToOuterWrap(); 
+</script>
+<!-- end move banner to outer wrap -->
+
+<script
+    type="text/javascript">!function () { var b = function () { window.__AudioEyeSiteHash = "5ecd6f9f03ef53f9841075bd5dd55bf0"; var a = document.createElement("script"); a.src = "https://wsmcdn.audioeye.com/aem.js"; a.type = "text/javascript"; a.setAttribute("async", ""); document.getElementsByTagName("body")[0].appendChild(a) }; "complete" !== document.readyState ? window.addEventListener ? window.addEventListener("load", b) : window.attachEvent && window.attachEvent("onload", b) : b() }();</script>
+
+<!-- Start of Survicate (www.survicate.com) code -->
+
+<style>
+@media only screen and (max-width: 768px) {
+#survicate-box .sv__survey.sv__micro-theme.sv__minimized {
+align-items: flex-start!important;
+flex-direction: column!important;
+z-index: 99;
+padding-bottom: 24px;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1181px) and (orientation: portrait) {
+#survicate-box .sv-box-child:not(.sv-desktop) .sv__survey.sv__micro-theme {
+    padding-bottom: 80px;
+    z-index: 99;
+}
+}
+</style>
+<script type="text/javascript">
+    (function (w) {
+        var s = document.createElement('script');
+        s.src = 'https://survey.survicate.com/workspaces/e9791589ce88e23175780e69db526ba4/web_surveys.js';
+        s.async = true;
+        var e = document.getElementsByTagName('script')[0];
+        e.parentNode.insertBefore(s, e);
+    })(window);
+</script>
+<!-- End of Survicate code -->
+
+<!-- Start of addt'l styles to add vertical height to widget spacers (GV - 2/25) -->
+<style>
+.row.wide > .col:has(.widgetSpacer) .widgetSpacer {
+min-height: 15px;
+}
+</style>
+<!-- End of styles -->
+
+
+    <script type="text/javascript">
+        $(function () {
+            document.cookie = "responsiveGhost=0; path=/";
+        });
+        $(window).on("load", function () {
+            $('body').addClass('doneLoading').removeClass('hideContent');
+
+            if ($('#404Content').length > 0)
+                $('div#bodyWrapper').css('padding', '0px');
+        });
+    </script>
+
+    <noscript>
+        <style>
+            body.hideContent {
+                opacity: 1 !important;
+            }
+        </style>
+    </noscript>
+
+        
+<div style="display: none;">
+	<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+
+		<symbol id="iconArrow--left" viewbox="0 0 25 25">
+			<title>Arrow Left</title>
+			<polygon style="fill:currentcolor" points="18.044,25 19.498,23.545 8.409,12.454 19.408,1.455 17.954,0 5.502,12.452"></polygon>
+		</symbol>
+
+		<symbol id="iconArrow--right" viewbox="0 0 25 25">
+			<title>Arrow Right</title>
+			<polygon style="fill:currentcolor" points="6.957,0 5.502,1.455 16.591,12.546 5.592,23.545 7.047,25 19.498,12.548"></polygon>
+		</symbol>
+
+	</svg>
+</div>
+    <script type="text/javascript">loadCSS('//fonts.googleapis.com/css?family=Lato:700,italic,regular|Libre+Baskerville:700,italic,regular|Montserrat:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Oxygen:300,700,regular|');</script>
+    
+
+    <div class="hidden activeWidgetSkinComponentsOnPageJson">[]</div>
+        <div style="display: none;">
+            <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+                <symbol id="iconSlideshowArrowLeft" viewBox="0 0 22.68 40">
+                    <title>Slideshow Left Arrow</title>
+                    <g>
+                        <path style="fill:currentcolor;" d="M20,40a2.67,2.67,0,0,1-1.9-.79L.79,21.9a2.68,2.68,0,0,1,0-3.79L18.1.79a2.68,2.68,0,1,1,3.79,3.79L6.47,20,21.89,35.42A2.68,2.68,0,0,1,20,40Z"></path>
+                    </g>
+                </symbol>
+                <symbol id="iconSlideshowArrowRight" viewBox="0 0 22.68 40">
+                    <title>Slideshow Right Arrow</title>
+                    <g>
+                        <path style="fill:currentcolor;" d="M2.68,0a2.67,2.67,0,0,1,1.9.79L21.89,18.1a2.68,2.68,0,0,1,0,3.79L4.58,39.21A2.68,2.68,0,0,1,.79,35.42L16.21,20,.79,4.58A2.68,2.68,0,0,1,2.68,0Z"></path>
+                    </g>
+                </symbol>
+            </svg>
+        </div>
+    
+	
+
+    <div id="root-picker-outlet"></div>
+</body>
+</html>

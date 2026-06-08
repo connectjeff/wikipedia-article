@@ -6,7 +6,7 @@ Review principle: use only verifiable sources in the article draft.
 
 ## Source Quality Summary
 
-The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
+The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
 
 The notability case remains moderate-risk for AfC. The sources verify facts, but several are short mentions, organizational listings, or coverage of projects rather than in-depth biographical coverage.
 
@@ -24,6 +24,7 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | M1-M3 | 2025 | MetroWest Daily News | Search result and related Natick election articles | Local news / letter | Mixed | Verified and reviewed | Minor | Low to Medium | Municipal election corroboration; see `sources/metrowest_daily_news_sources.md` |
 | S7 | 2026 | Natick Veterans Oral History Project | Jeff Alderson, Air Force veteran | Local archive/oral history | Partial | Verified | Short biographical entry | Low to Medium | Military service facts |
 | S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, ERUG1, PESC2016, ACEL1 | 2011-2017 | PESC / NCES | Awards, board listing, Data Summit programs, STATS-DC agenda, ERUG call notes, and implementation guide | Organizational award list, conference programs, government conference agenda, call notes, implementation guide | No or partial | Verified; PDFs/text extracted where applicable | Minor to moderate for narrow professional-context facts | Low to Medium | PESC board, ConnectEDU, data standards, MyDataButton, ERUG, Eduventures ePortfolio research, award, and contributor context if retained |
+| MDB2, MDB1 | 2012-2016 | Hack Education / ESP Solutions Group | MyDataButton background sources | Education-technology blog post and white paper / commentary | Partial; not about Alderson | Verified; HTML/PDF text extracted | MyDataButton and Houghton Mifflin Harcourt context only; do not name Alderson | Low for Alderson; Medium for MyDataButton context | Background only; not Alderson-specific |
 | CB1 | 2014 | PACERMonitor / U.S. Bankruptcy Court filing copy | ConnectEDU Bankruptcy Petition | Public docket page plus legal filing copy | No / primary | Verified from PACERMonitor docket page and rendered petition page image | Minor; primary filing only | None | Equity-security-holder fact only; not notability |
 | S9 | Unknown | ASEE PEER | Focus More on Teaching than Grading: Try MATLAB Grader | Conference paper/proceedings | Likely yes | Located but not verified; site returned heavy-load page | Unknown | TBD | Do not cite until reviewed |
 | S10, EA01-EA33 | 2015-2017 | Encoura / Eduventures | Encoura author profile and linked Wake-Up Call articles | Corporate profile / affiliated authored articles | No | Verified from author page and Builder content API | Sparse profile; authored article list only | None to Low | Do not use for notability; publication-history leads only |
@@ -31,7 +32,7 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | NP1 | 2017 | Natick Patch | ICYMI: Who's Running In The 2017 Natick Town Election? | Local election news | Yes | Verified | Minor | Low | 2017 School Committee candidacy |
 | WL1-WL2 | 2017 | Wicked Local | Letter of support and candidate question article | Local opinion / candidate questionnaire | Mixed | Verified | Minor to moderate | Low to Medium | 2017 School Committee campaign context |
 | NLTP1 | 2017 | Natick Local Town Pages | Meet the Candidates for Town Committees | Local monthly publication / candidate statements | Partial | Verified | Moderate for campaign context | Low to Medium | 2017 School Committee candidate statement |
-| TN1 | 2017 | Town of Natick | Official Election Results - March 28, 2017 | Official election results | No / primary | Verified; PDF text extracted | Minor | Low | Official 2017 election result and vote totals |
+| TN1, TN2 | 2017; 2026 | Town of Natick | Official Election Results; Hybrid Town Meeting Committee | Official election results and committee page | No / primary | Verified; PDF/HTML text extracted | Minor | Low | Official 2017 election result and Hybrid Town Meeting Committee existence |
 | S11 | 2021 | ASME Mechanical Engineering | DOI 10.1115/1.2021-Sept2 | Trade publication | Likely yes | Located but blocked/not reviewed | Unknown | TBD | Do not cite until reviewed |
 
 ## Reviewed Source Notes
@@ -218,7 +219,31 @@ Verified details:
 
 Assessment: useful corroboration for municipal election facts. Limited notability value because the coverage is election-list coverage or opinion/letter content, not biographical coverage.
 
-### 2017 School Committee Campaign Sources: FB1, NP1, WL1-WL2, NLTP1, TN1
+### Town of Natick Sources: TN1 and TN2
+
+URLs:
+
+- https://www.natickma.gov/DocumentCenter/View/4563/Official-Election-Results---March-28-2017?bidId=
+- https://www.natickma.gov/2301/Hybrid-Town-Meeting-Committee
+
+Local files:
+
+- `data/town_of_natick_2017_official_election_results.pdf`
+- `data/town_of_natick_2017_official_election_results.txt`
+- `data/town_of_natick_hybrid_town_meeting_committee.html`
+- `data/town_of_natick_hybrid_town_meeting_committee.txt`
+
+Verified details:
+
+- Town of Natick official results show Hayley I. Sonneborn with 1,402 votes, Donna M. Mckenzie with 1,020 votes, and Jeffrey A. Alderson with 1,012 votes. The official margin between McKenzie and Alderson was 8 votes.
+- The Town's Hybrid Town Meeting Committee page verifies the committee as an official board/committee page and includes a public survey link.
+- The Hybrid Town Meeting Committee page does not name Alderson; use Natick Report N6 for the Alderson-specific action and TN2 only for official committee corroboration.
+
+Assessment: useful primary-source verification for narrow municipal facts. These sources do not support notability.
+
+See `sources/town_of_natick_sources.md` for the dedicated Town of Natick source list.
+
+### 2017 School Committee Campaign Sources: FB1, NP1, WL1-WL2, NLTP1
 
 URL set:
 
@@ -227,7 +252,6 @@ URL set:
 - https://www.wickedlocal.com/story/bulletin-tab/2017/03/23/natick-letter-support-for-school/21906287007/
 - https://www.wickedlocal.com/story/bulletin-tab/2017/03/24/question-for-candidates/21899647007/
 - https://www.yumpu.com/en/document/view/57088486/natick-march-2017
-- https://www.natickma.gov/DocumentCenter/View/4563/Official-Election-Results---March-28-2017?bidId=
 
 Local files:
 
@@ -237,20 +261,17 @@ Local files:
 - `data/wickedlocal_2017_question_for_candidates.html`
 - `data/natick_local_town_pages_march_2017.html`
 - `data/natick_local_town_pages_march_2017_pages_2_3.html`
-- `data/town_of_natick_2017_official_election_results.pdf`
-- `data/town_of_natick_2017_official_election_results.txt`
 
 Verified details:
 
 - Natick Patch listed Jeffrey A. Alderson, Donna M. McKenzie, and Hayley I. Sonneborn as candidates for two three-year Natick School Committee seats in the March 28, 2017 town election.
 - Wicked Local published a letter supporting Alderson's School Committee candidacy and a candidate-question article that included Alderson's response alongside other School Committee candidates.
 - Natick Local Town Pages identified Alderson, McKenzie, and Sonneborn as School Committee candidates and published candidate-submitted statements.
-- Town of Natick official results show Hayley I. Sonneborn with 1,402 votes, Donna M. Mckenzie with 1,020 votes, and Jeffrey A. Alderson with 1,012 votes. The official margin between McKenzie and Alderson was 8 votes.
 - The Facebook page metadata identifies the page as the home of the Committee to Elect Jeff Alderson for Natick School Committee.
 
 Assessment: useful civic-background evidence for prior town-government engagement. These sources verify a 2017 School Committee run, candidate context, and the official result, but they are local election sources, opinion/candidate statements, primary sources, or campaign material. They should not materially strengthen the AfC notability case.
 
-See `sources/natick_patch_sources.md`, `sources/wicked_local_sources.md`, `sources/natick_local_town_pages_sources.md`, `sources/town_of_natick_sources.md`, and `sources/campaign_social_media_sources.md` for dedicated source lists.
+See `sources/natick_patch_sources.md`, `sources/wicked_local_sources.md`, `sources/natick_local_town_pages_sources.md`, and `sources/campaign_social_media_sources.md` for dedicated source lists.
 
 ### S7: Natick Veterans Oral History Project
 
@@ -320,6 +341,39 @@ Verified details:
 Assessment: organizational/event evidence, weak for notability but acceptable for verifying narrow PESC, ConnectEDU, data-standards, MyDataButton, ERUG, Eduventures ePortfolio research, service-award, and implementation-guide contributor facts.
 
 See `sources/pesc_sources.md` for the dedicated PESC source list.
+
+### MDB2 and MDB1: MyDataButton Background Sources
+
+URLs:
+
+- https://hackeducation.com/2012/04/11/download-all-your-education-data-with-the-click-of-one-button
+- https://www.arniedocs.info/wp-content/uploads/2016/05/MyData-Button-Disappears-2016-05-03.pdf
+
+Local files:
+
+- `data/hack_education_mydata_button_2012.html`
+- `data/hack_education_mydata_button_2012.txt`
+- `data/mydata_button_white_house_disappears_2016.pdf`
+- `data/mydata_button_white_house_disappears_2016.txt`
+
+Verified details:
+
+- Hack Education title: `Download All Your Education Data With the Click of One Button`
+- Hack Education author/date: Audrey Watters, April 11, 2012.
+- Hack Education describes the Department of Education's proposed `MyData` button, compares it to the VA Blue Button, and discusses data silos, data standards, and third-party education vendors.
+- Hack Education states that ETS, Pearson, Parchment, and Houghton Mifflin Harcourt were among key industry players on board with the MyData button initiative.
+- Title: `MyData Button: Button, Button, Who's Got the Button?`
+- Author: Glynn D. Ligon, Ph.D., ESP Solutions Group, Inc.
+- Date: May 3, 2016, based on file name; copyright 2016 ESP Solutions Group.
+- States that in 2012 the White House, Secretary of Education, and several major companies promised students a button to download education data.
+- Describes education's MyDataButton as part of the Obama administration's open-access / smart-disclosure effort.
+- States that on January 19, 2012, the Executive Office of the President announced MyDataButton would appear on the U.S. Department of Education Federal Student Aid website.
+- Mentions five companies named in the announcement: ETS, StraighterLine, Houghton Mifflin Harcourt, Pearson, and Parchment.
+- Neither source mentions Alderson, ConnectEDU, or PESC.
+
+Assessment: useful background context for the MyDataButton initiative and the White House / U.S. Department of Education framing. Hack Education is especially useful as a contemporary independent source for Houghton Mifflin Harcourt's initiative context. These sources can help contextualize a carefully worded statement that Alderson's PESC/ERUG MyDataButton work took place in the same initiative environment that included Houghton Mifflin Harcourt, but they do not independently verify Alderson's HMH role or his personal involvement. Pair any Alderson-specific MyDataButton claim with PESC2012 and ERUG1; pair HMH role claims with Data & Society or another HMH-specific source.
+
+See `sources/mydata_button_sources.md` for the dedicated MyDataButton source list.
 
 ### CB1: ConnectEDU Bankruptcy Petition
 
@@ -408,6 +462,8 @@ These are the citation templates used or available for use in the draft.
 
 {{cite web |title=Official Election Results - March 28, 2017 |url=https://www.natickma.gov/DocumentCenter/View/4563/Official-Election-Results---March-28-2017?bidId= |website=Town of Natick |date=April 4, 2017 |access-date=June 8, 2026}}
 
+{{cite web |title=Hybrid Town Meeting Committee |url=https://www.natickma.gov/2301/Hybrid-Town-Meeting-Committee |website=Town of Natick |access-date=June 8, 2026}}
+
 {{cite web |title=Jeff Alderson, Air Force veteran |url=https://natickveterans.com/2026/01/29/jeffrey-alderson/ |website=Natick Veterans Oral History Project |date=January 29, 2026 |access-date=June 8, 2026}}
 
 {{cite web |title=Awards - PESC Board of Directors Recipients |url=https://pesc.org/awards/ |website=PESC |access-date=June 8, 2026}}
@@ -425,6 +481,10 @@ These are the citation templates used or available for use in the draft.
 {{cite conference |title=PESC Fall Data Symposium & Summit program |conference=PESC Fall Data Symposium & Summit |publisher=Postsecondary Electronic Standards Council |date=2016 |url=https://nebula.wsimg.com/af9365ebe142935671ccd9d9f7258d0c?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1 |access-date=June 8, 2026}}
 
 {{cite web |title=Academic Credential & Experiential Learning Implementation Guide |url=https://cache.nebula.phx3.secureserver.net/78bacabe0c17ff11c6ee2e735abaa371?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1 |website=PESC |date=November 2016 |access-date=June 8, 2026}}
+
+{{cite web |last=Watters |first=Audrey |title=Download All Your Education Data With the Click of One Button |url=https://hackeducation.com/2012/04/11/download-all-your-education-data-with-the-click-of-one-button |website=Hack Education |date=April 11, 2012 |access-date=June 8, 2026}}
+
+{{cite web |last=Ligon |first=Glynn D. |title=MyData Button: Button, Button, Who's Got the Button? |url=https://www.arniedocs.info/wp-content/uploads/2016/05/MyData-Button-Disappears-2016-05-03.pdf |website=ArnieDocs |publisher=ESP Solutions Group |date=May 3, 2016 |access-date=June 8, 2026}}
 
 <!-- Primary legal-filing lead only; do not use until filing text is directly reviewed. -->
 {{cite web |title=Connectedu Bankruptcy Petition |url=https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition |website=Scribd |date=April 28, 2014 |access-date=June 8, 2026}}
