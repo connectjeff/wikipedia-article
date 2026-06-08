@@ -16,10 +16,8 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 |---|---:|---|---|---|---|---|---|---|---|
 | S1 | 2017 | Data & Society Research Institute | The Legacy of inBloom | Research working paper | Yes | Verified; PDF text extracted | Moderate | Medium to High | inBloom role and professional context |
 | S2 | 2016 | Campus Technology | Eduventures Publishes Report on Learning Management Systems | Trade journalism | Yes | Verified | Moderate | Medium | Eduventures analyst role |
-| S3 | 2025 | Natick Report | Natick swears in newly elected officials, transfers the moderator's gavel | Local news | Yes | Verified | Moderate for public role | Low to Medium | Town moderator role |
-| S4 | 2025 | Natick Report | Natick 2025 election results | Local news | Yes | Verified | Minor | Low | Incoming moderator verification |
-| S5 | 2025 | Natick Report | Volunteers sought to join Natick Hybrid Town Meeting Committee | Local news | Yes | Verified | Moderate for official activity | Low to Medium | Town moderator activity |
-| S6 | 2025 | Natick Report | Natick 2025 town election guide | Local news/election guide | Yes | Verified | Minor | Low | Election detail if needed |
+| N1-N25 | 2023-2026 | Natick Report | Full search result set for `Jeff Alderson` | Local news / opinion / primary statements | Mixed | Verified and reviewed | Minor to moderate | Low to Medium | Municipal-service facts; see `sources/natick_report_sources.md` |
+| M1-M3 | 2025 | MetroWest Daily News | Search result and related Natick election articles | Local news / letter | Mixed | Verified and reviewed | Minor | Low to Medium | Municipal election corroboration; see `sources/metrowest_daily_news_sources.md` |
 | S7 | 2026 | Natick Veterans Oral History Project | Jeff Alderson, Air Force veteran | Local archive/oral history | Partial | Verified | Short biographical entry | Low to Medium | Military service facts |
 | S8 | 2015 | PESC | Awards - PESC Board of Directors Recipients | Organizational award list | No or partial | Verified | Minor | Low | Award, if included |
 | S9 | Unknown | ASEE PEER | Focus More on Teaching than Grading: Try MATLAB Grader | Conference paper/proceedings | Likely yes | Located but not verified; site returned heavy-load page | Unknown | TBD | Do not cite until reviewed |
@@ -61,57 +59,43 @@ Verified details:
 
 Assessment: independent trade-journalism source. Useful, but the article is about the report, not Alderson as a biographical subject.
 
-### S3: Natick Report, gavel transfer
+### N1-N25: Natick Report Full Search-Result Review
 
-URL: https://www.natickreport.com/2025/03/natick-swears-in-newly-elected-officials-transfers-the-moderators-gavel/
+URL set: https://www.natickreport.com/?s=Jeff+Alderson and pages 2-5 of the same search.
 
-Local file: `data/natick_report_gavel.html`
+Local files:
 
-Verified details:
-
-- Title: `Natick swears in newly elected officials, transfers the moderator's gavel`
-- Publication: Natick Report
-- The article says outgoing moderator Frank Foss handed the Town Meeting gavel to incoming moderator Jeff Alderson.
-- The article lists Jeff Alderson among newly elected officials as moderator.
-
-Assessment: reliable enough for local public-role facts; limited notability value.
-
-### S4: Natick Report, election results
-
-URL: https://www.natickreport.com/2025/03/natick-2025-election-results-7m-override-passes-incumbents-retain-select-board-1-newcomer-on-school-committee/
-
-Local file: `data/natick_report_election_results.html`
+- Search pages: `data/natick_search_page1.html` through `data/natick_search_page5.html`
+- Extracted result list: `data/natick_report_search_results.tsv`
+- Reviewed article HTML: `data/natick_report_01_*.html` through `data/natick_report_25_*.html`
+- Natick-only source review: `sources/natick_report_sources.md`
 
 Verified details:
 
-- The article says there would be a new moderator, with Frank Foss outgoing and Jeff Alderson incoming.
+- All 25 actual search-result articles were fetched and reviewed from their article body text.
+- The strongest Natick Report items for the draft are the 2025 gavel-transfer article, the 2025 election guide, and the 2025 Hybrid Town Meeting Committee article.
+- Several additional items support municipal-service context, including Alderson's first Town Meeting as moderator, 2026 Town Meeting activity, and pre-moderator Town Meeting activity as a member/proponent.
+- The set remains local-news coverage. It verifies public-role facts but has limited standalone notability value for a biography.
 
-Assessment: mention-level source.
+Assessment: useful for municipal-service verification. See `sources/natick_report_sources.md` for per-source inclusion recommendations.
 
-### S5: Natick Report, Hybrid Town Meeting Committee
+### M1-M3: MetroWest Daily News Search and Related Election Review
 
-URL: https://www.natickreport.com/2025/11/volunteers-sought-to-join-natick-hybrid-town-meeting-committee/
+URL set: https://www.metrowestdailynews.com/search/?q=Jeff+Alderson plus related MetroWest election articles found during verification.
 
-Local file: `data/natick_report_hybrid.html`
+Local files:
 
-Verified details:
-
-- The article says Natick Town Moderator Jeff Alderson sought Town Meeting members for a Hybrid Town Meeting Committee.
-- It states that the moderator would appoint eight Town Meeting members and one Natick Pegasus representative.
-
-Assessment: verifies activity in the municipal role. Not a broad notability source.
-
-### S6: Natick Report, election guide
-
-URL: https://www.natickreport.com/2025/03/natick-2025-town-election-guide-7mil-override-question-contested-races-where-to-vote/
-
-Local file: `data/natick_report_election_guide.html`
+- Search page: `data/metrowest_search_jeff_alderson.html`
+- Reviewed article HTML: `data/metrowest_01_outgoing_moderator_letter.html`, `data/metrowest_01_natick_voters_decide_override.html`, `data/metrowest_02_override_passes_election.html`
+- MetroWest-only source review: `sources/metrowest_daily_news_sources.md`
 
 Verified details:
 
-- Lists `Jeffrey A. Alderson` as the uncontested candidate for a three-year town moderator term.
+- The MetroWest site search listed one article: a January 18, 2025 letter to the editor by outgoing Natick moderator Frank Foss.
+- Two related MetroWest election articles were also reviewed and marked supplemental: a March 24, 2025 election preview and a March 26, 2025 election-results article.
+- The strongest MetroWest item for article use is the March 26, 2025 election-results article, which lists Alderson as town moderator for a three-year term with 4,764 votes.
 
-Assessment: mention-level election guide.
+Assessment: useful corroboration for municipal election facts. Limited notability value because the coverage is election-list coverage or opinion/letter content, not biographical coverage.
 
 ### S7: Natick Veterans Oral History Project
 
@@ -155,6 +139,8 @@ These are the citation templates used or available for use in the draft.
 {{cite report |last1=Bulger |first1=Monica |last2=McCormick |first2=Patrick |last3=Pitcan |first3=Mikaela |title=The Legacy of inBloom |publisher=Data & Society Research Institute |date=February 2, 2017 |url=https://datasociety.net/pubs/ecl/InBloom_feb_2017.pdf |access-date=June 8, 2026}}
 
 {{cite web |last=Schaffhauser |first=Dian |title=Eduventures Publishes Report on Learning Management Systems |url=https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx |website=Campus Technology |date=January 28, 2016 |access-date=June 8, 2026}}
+
+<!-- See sources/natick_report_sources.md for all 25 reviewed Natick Report citation templates. Recommended Natick Report citations for the current draft are below. -->
 
 {{cite web |last=Brown |first=Bob |title=Natick swears in newly elected officials, transfers the moderator's gavel |url=https://www.natickreport.com/2025/03/natick-swears-in-newly-elected-officials-transfers-the-moderators-gavel/ |website=Natick Report |date=March 27, 2025 |access-date=June 8, 2026}}
 

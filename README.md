@@ -7,6 +7,8 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `dossier/source_dossier.xlsx` - Excel source dossier table.
 - `dossier/source_dossier.csv` - CSV version of the same dossier.
 - `sources/source_dossier.md` - human-readable source review and source-quality notes.
+- `sources/natick_report_sources.md` - dedicated review of all 25 Natick Report search-result articles.
+- `sources/metrowest_daily_news_sources.md` - dedicated review of MetroWest Daily News search and related election sources.
 - `drafts/outline_and_justification.md` - proposed outline, notability rationale, and risk assessment.
 - `drafts/article_draft.wikitext` - AfC-ready draft article text.
 - `afc/submission_note.md` - COI disclosure and submission text.
@@ -16,4 +18,3 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 ## Important Caveat
 
 The article draft is intentionally conservative. Some sources mentioned in the ChatGPT transcript could not be verified during this setup and were not used. The current source base supports a good-faith AfC request, but the notability case may still be challenged because several sources are short mentions or project-focused rather than full biographical profiles.
-
