@@ -1,0 +1,603 @@
+
+--- Page 1 ---
+
+PROGRAM
+
+--- Page 2 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+WELCOME
+ANNUAL FALL
+DATA SUMMITS
+FOCUS ON ACCESS,
+INTEGRATION AND
+IMPLEMENTATION OF DATA
+SYSTEMS; MAINTENANCE AND
+PORTABILITY OF DATA EXCHANGE
+STANDARDS; OPEN, COMMUNITY-
+DRIVEN INNOVATION AND
+DEVELOPMENT OF TECHNOLOGY;
+MOBILITY AND OVERALL
+INTEROPERABILITY; & OTHER KEY
+FACTORS THAT DRIVE GLOBAL
+EDUCATION DATA SYSTEMS
+DEVELOPMENT AND
+TECHNOLOGY.
+PESC AND ITS
+MEMBERSHIP
+LEAD TRANSPARENT,
+COLLABORATIVE DEVELOPMENT
+ACROSS P20W EDUCATION.
+SUPPORTING THIS MISSION ARE
+PESC PARTNERS THE AACRAO
+SPEEDE COMMITTEE, ARUCC, THE
+GRONINGEN DECLARATION
+NETWORK, INCOMMON/
+INTERNET2, SHEEO, AND THE US
+DEPARTMENT OF EDUCATION’S
+COMMON EDUCATION DATA
+STANDARDS (CEDS) INITIATIVE.
+PESC IS SPONSORED ANNUALLY BY
+CREDENTIALS SOLUTIONS,
+NATIONAL STUDENT
+CLEARINGHOUSE, ORACLE,
+PARCHMENT AND USA FUNDS.
+
+--- Page 3 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+PROGRAM WEDNESDAY THURSDAY FRIDAY
+OCTOBER 12, 2016 OCTOBER 13, 2016 OCTOBER 14, 2016
+7:30am – 5:00pm REGISTRATION
+7:30am – 9:00am CONTINENTAL BREAKFAST
+SCHEDULE GENERAL
+SYMPOSIUM SESSIONS
+GENERAL
+SUMMIT SESSIONS
+CONCURRENT
+SUMMIT SESSIONS
+LA JOLLA ROOM LA JOLLA ROOM LA JOLLA ROOM
+8:30am – 9:30am WELCOME
+INTRODUCING ERASMUS
+WITHOUT PAPER: EUROPEAN
+DATA EXCHANGE
+JOINT CONVENING:
+COMMON DATA SERVICES (CDS) TASK
+FORCE/EDEXCHANGE AND
+ERASMUS WITHOUT PAPER (EWP)
+1) AACRAO SPEEDE COMMITTEE
+DEL MAR ROOM
+2) STEERING COMMITTEE,
+CHANGE CONTROL BOARD,
+TECHNICAL ADVISORY BOARD
+9:30am – 10:00am DEVELOPING AN
+INTERNATIONAL SCHOOL CODE
+LIST: LEADING WITH STRATEGIC
+COUNTRIES
+10:00am – 10:30am BREAK
+10:30am – Noon EMERGENCE OF BLOCKCHAIN:
+ITS APPLICATION AND RELATION
+TO ACADEMIC CREDENTIALING
+JOINT CONVENING (CONT’D):
+COMMON DATA SERVICES (CDS) TASK
+FORCE/EDEXCHANGE AND
+ERASMUS WITHOUT PAPER (EWP)
+LA JOLLA ROOM
+1) BOARD OF DIRECTORS
+DEL MAR ROOM
+2) SEAL OF APPROVAL BOARD
+Noon – 1:30pm DEL MAR ROOM LUNCH DEL MAR ROOM ADJOURN
+1:30pm – 3:00pm GLOBAL DATA STRATEGY
+PERSPECTIVES | CALIFORNIA
+AND CANADA
+GLOBAL DATA MOBILITY USER GROUP
+AND
+INTERNATIONAL SCHOOL CODE LIST
+3:00pm – 3:30pm BREAK
+3:30pm – 5:00pm GLOBAL DATA STRATEGY
+PERSPECTIVES | STATE & PK12
+AND EVOLVING E-PORTFOLIO
+ACADEMIC CREDENTIALING &
+EXPERIENTIAL LEARNING TASK FORCE
+AND
+COMMON CREDENTIAL
+5:00pm – 6:00pm ANNUAL PESC MEMBER MEETING
+6:00pm – 7:00pm CORONADO TERRACE
+ANNUAL FALL RECEPTION
+PROGRAM AT A GLANCE
+
+--- Page 4 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+INTRODUCING ERASMUS WITHOUT PAPER (EWP)
+Moderator: J. James Wager, Education Strategist & Consultant, Credentials Solutions
+Speaker: Valere Meus, International Relations Office, Ghent University
+8:30am – 9:30am
+VALÈRE MEUS, International Relations Office of Ghent University in Belgium, is a distinguished and expert
+speaker on Erasmus Without Paper (EWP). He has addressed numerous audiences at EUNIS – European
+University Information Systems organisation, the Groningen Declaration Network, and the EAIE –
+European Association for International Education, among many others, and will serve as a featured
+speaker at EDiNTEROP 2016, PESC’s Fall Data Symposium and Summit.
+In November 2015, ICEF Monitor reported that “five million students are studying outside their home
+countries, more than double the 2.1 million who did so in 2000 and more than triple the number in
+1990.” Industry Tap reports that “ human knowledge is doubling every 12 months, soon to be every 12
+hours…compared to in 1900 [where it ] doubled approximately every 100 years…and in 1945, the rate
+was every 25 years.”
+The Erasmus Without Paper (EWP) project aims to create a network supporting the electronic exchange
+of exchange student data and documents by interlinking higher education systems. This innovative
+solution has an unprecedented potential to link all higher education institutions, resulting in the
+reduction of cost, efficiency of labour and better access to student data across Europe. This will
+ultimately lead to the permanent migration from the paper world to the electronic world of student
+data.
+The consortium of 11 partner institutions composed of public institutions, higher education organisations,
+and companies from 8 European countries with a dissemination potential to over 400 HEIs from 36
+European countries along with 11 associate partners, have taken up a bottom-up initiative to influence
+higher education institutions to exchange student information for mobility programmes fully in an
+electronic way by providing an evidence-based feasibility study with different use case scenarios and
+the practical solution to connect all existing systems in one network.
+It is clear across every industry but especially in higher education, that paper, prone to fraud and
+human error, cannot simply keep up. This extraordinary convening marks the beginning of a long-term
+collaboration to tackle the problem of paper and improve the migration toward digitalization and
+electronic data exchange.
+EdExchange will follow this featured session in the afternoon and on the following day PESC will host a
+cross-continent working discussion with the hope to align both initiatives and further the coordinated
+digitalization, standardization and exchange of student data.
+SESSION DESCRIPTIONS
+
+--- Page 5 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+GLOBAL COLLABORATION TO ESTABLISH AN INTERNATIONAL SCHOOL CODE LIST
+Moderator: Matthew Bemis, Associate Registrar, University of Southern California
+Speakers: Rick Skeel, Director of Product Development, Ellucian
+Dave Landry, Director of Data Exchange Services, National Student Clearinghouse
+James Kelly, Senior Director of Technology, ECE
+9:30am – 10:00am
+Leaders at AACRAO, ECE, Ellucian, National Student Clearinghouse and the University of Southern California are
+reaching out to a number of countries from around the world to gather their school code lists, analyze them,
+crosswalk them and determine the scope and value of development of a master international school code
+list. With digitalization in higher education on the rise, the need for such a list becomes more vitally
+important. Housed under PESC’s Global Data Mobility User Group, we expect a first milestone to be reached and
+are excited about sharing this progress with attendees.
+EMERGENCE OF BLOCK CHAIN | ITS APPLICATION AND RELATION TO ACADEMIC
+CREDENTIALING
+Moderator: Rajeev Arora, Senior VP, Product, Parchment
+Speakers: Tom Black, Associate Vice Provost of Student Affairs and University Registrar, Stanford
+University
+David Moldoff, CEO and Founder, AcademyOne
+10:30am - noon
+As the enabling force driving bitcoin, block chain technology is now being analyzed for applicability in higher
+education. A number of institutions and service providers are currently experimenting with and have been inspired
+by block chain. Most attractive is the ease of use to authenticate a credential, mobility, and the high level of trust
+achieved throughout the network. Panelists will provide a detailed demonstration of block chain technology,
+articulate its value proposition, and how it is being used globally in higher education and by whom. Discussion will
+include the alignment between the use of block chain, transcripts and other PESC Approved Standards, badges as
+well as the newly emerging Common Credential for Certificates, Degrees and Diplomas.
+GLOBAL DATA STRATEGY PERSPECTIVES
+Moderator: Patrick Elliott, Senior Associate Registrar, University of Maryland University College
+Speakers: Tim Calhoon, Executive Director, California Community Colleges Technology Center
+Lou Delzompo, CTO, California Community Colleges
+Joanne Duklas, Researcher and Consultant, Canadian PESC User Group
+Romesh Vadivel, Assistant Registrar and Director, McGill University
+1:30pm – 3:00pm
+TIM CALHOON, Executive Director of the California Community Colleges Technology Center, is a longtime
+champion of standards and technology and served as the original chair of PESC’s Common Data Service Task
+Force, which launched EdExchange. Tim, joined by CTO LOU DELZOMPO, will discuss the evolution of data
+exchange, the vision of EdExchange and the challenges and benefits of aligning with other industry initiatives. Their
+presentation will include the mission of the Technology Center, its IT strategy, how PESC and PESC Approved
+Standards fit in, and the coordinated effort required to thread together the numerous initiatives to ensure
+achievement and positive outcomes.
+
+--- Page 6 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+JOANNE DUKLAS and ROMESH VADIVEL will present the recently concluded survey results from the ARUCC
+Groningen and Student Mobility Task Force, formed in the Spring of 2014 with its mission of advancing student
+mobility through data exchange. One of the first action items of the Task Force was to ensure that ARUCC
+become the first Canadian signatory to the Groningen Declaration Network, which was accomplished in May 2015.
+The ARUCC Groningen and Student Mobility Task Force built awareness about the Groningen Declaration Network
+and the Task Force by sharing information with the broader ARUCC, CanPESC, CUCCIO, and PCCAT constituencies
+to raise awareness about the Groningen Declaration Network and the work of the Task Force. In pursuit of these
+objectives, the Task Force produced a national consultation survey that was sent to institutions and organizations
+across the country develop an understanding of their readiness and willingness to establish a national data-sharing
+model. The report and recommendations of the Task Force speak to the readiness and willingness of organizations
+across Canada to develop a nation-wide data-sharing network.
+GLOBAL DATA STRATEGY PERSPECTIVES
+Moderator: Francisco Valines, Director of Financial Aid, Florida International University
+Speaker: Jeffrey Alderson, Principal Analyst, Enterprise Software, Eduventures
+Alex Jackl, CEO, Bardic Systems
+3:30pm – 5:00pm
+Electronic portfolios are commonplace in academic programs, allowing faculty and students to prove mastery of
+content by showcasing artifacts created in a classroom context. This same technological approach is also being
+used across the student lifecycle, from admissions to career services and alumni engagement. JEFFREY ALDERSON
+of Eduventures will present findings from their review of 30 different portfolio vendors, and examples of how they are
+being used across the student lifecycle.
+For those working in PK12, different factors than in higher education have significant impact and influence across
+the spectrum. Pulling it all together to provide seamless service for students becomes extremely complex with
+direction, guidance and requirements being issued separately by state education agencies and local education
+agencies before teachers and administrators are informed and prepare for expected teaching and learning
+outcomes. ALEX JACKL will discuss these influencing factors and the challenges in balancing sometimes competing
+demands of a hierarchical education system.
+COMMON DATA SERVICES TASK FORCE & EDEXCHANGE JOINT CONVENING W/ EWP
+In December 2011 PESC created the Common Data Services (CDS) Task Force with the mission to improve security,
+reliability, efficiency and speed in the transfer of education data. Leaders within the California Community College
+System requested this community development and service through PESC and submitted a formal, open Letter of
+Intent. After several years of analysis and planning to ensure alignment & interoperation with all other community-
+based initiatives, CDS formally launched EdExchange, EdExchange is a data exchange platform that enables the
+electronic exchange of standards-based data and digital documents between academic institutions and their
+service providers. Achieved through an open web services architecture and associated standards, EdExchange is
+designed as a peer-to-peer network providing a secure, reliable, and direct connection between institutions
+(whether direct or through their service providers) that avoids file-based technologies. Envisioned as open source,
+PESC is forging a relationship with Apereo as a partner. This session will focus on the additional administrative items
+necessary to produce these protocols, the launch of a pilot, along with an introductory conversation about
+additional governance over these protocols.
+GLOBAL DATA MOBILITY USER GROUP & INTERNATIONAL SCHOOL CODE LIST
+The GLOBAL DATA MOBILITY User Group serves as hands-on experts and data users across all of education that
+identifies new development ideas, standards, tools and resources to ensure PESC, its Members, PESC Approved
+Standards and the education community at-large can meet the demands on this growing digital economy. The
+User Group has begun work on its first deliverable - an International School Code List and this topic will serve as the
+agenda for part of the concurrent session. Leaders within PESC and the education community have been
+discussing this need for a number of years. Today's technological innovation with open, transparent collaboration
+(the cornerstone of PESC's foundation and guiding principle) and finally having reached the tipping point whereby
+
+--- Page 7 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+most experts agree that such a list is not only needed but potentially impacts data quality, enable this goal and we
+are pleased and excited to host this initiative.
+ACADEMIC CREDENTIALING & EXPERIENTIAL LEARNING TASK FORCE
+A provocative question posed to Education today is how to capture learning that happens outside of the
+classroom. In addition to the traditional Academic Transcript, many are starting to use competency based
+transcripts and co-curricular/experiential transcripts as well. Both provide valuable information for admission into the
+education and workforce environment and both seem to be growing rapidly in use. While data standards are
+ultimately needed for all transactions in order to achieve full interoperability, final agreement has not been
+reached on the actual definitions of both items. While the market may need to mature more in order for data
+standards to be used and accepted, PESC formed its newest Task Force – Academic Credentialing & Extended
+Transcript. This Task Force is monitoring the community and is preparing PESC for any new standards as well as any
+extensions or additions that might be needed to existing PESC Approved Standards. The first deliverable of the Task
+Force is the Common Credential for Certificates, Degrees and Diplomas.
+SEAL OF APPROVAL BOARD
+The PESC Seal of Approval Program is a voluntary service offered by PESC for implementers of PESC Approved
+Standards to indicate a uniform level of implementation. Implementers must formally apply to PESC for the Seal of
+Approval using the official application and must submit a small, non-refundable fee to PESC. The service was
+designed to communicate to the community at large that a certain implementation of PESC Approved Standards
+has been uniformly implemented according to the original intent and spirit of the PESC Approved Standard. A Seal
+of Approval can be used by implementers to market products and services to demonstrate alignment and
+interoperability. The Seal of Approval Program is a formal process governed by specific policies and procedures
+and by a Seal of Approval Board (SAB), comprised of PESC member representatives appointed by the PESC Board
+of DirectorS. The Seal of Approval Program is a voluntary program of PESC and eligibility to apply is open and
+available to any organization or implementer in education.
+STEERING COMMITTEE, CCB, TAB
+The Technical Advisory and Change Control Boards of PESC govern the technical standards, the process by which
+a format is proposed as a PESC Approved Standard and all the technical documentation and tools needed to
+support the development and use of PESC Approved Standards. At this session, both Boards discuss the additions
+and revisions to data elements, the NIEM process and the relationship between PESC, XML and other emerging
+technologies like JSON.
+
+--- Page 8 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+LUNCH
+WEDNES DAY OCT OBER 12
+T O MAT O B A SI L B I S Q UE, C R E AMY
+T O MAT O, B A SI L E S SE NCE
+MI X E D GR E E N S, B AB Y SP I NA CH
+S AL A D, DR I E D CH E R R I E S,
+T O AST E D NUT S , SH AV E D R E D
+O NI O N S, B AL SA MI C V I N AI GR E T T E
+RO SE M AR Y CO N FI T FI N GE R L I N G
+P O T AT O SAL AD , R O A ST E D
+P O R T O B E L L A M U SH R O O M S,
+L E E KS, B AB Y SW E E T P E P P E R S
+GAR L I C R O A ST CH I CKE N, W I L D
+MU SH R O O M S I N A ME R L O T
+R E DUCT I O N
+GR I L L E D S AL MO N, T O M AT O
+CAP E R R E L I SH
+PE N NE P AST A , SE A SO NAL
+R O A ST E D V E GE T AB L E S, GR E E N
+H E R S
+SE ASO N ST E AME D V E GE T A B L E S
+VA NI L L A CH E E SE C AKE, GR AH AM
+CR AC KE R CR U ST , V AN I L L A
+MO U S SE
+MENUS
+RECEPTION
+WEDNES DAY OCT OBER 12
+CR AB C AKE S
+CH I CKE N L E MO NG R A S S
+P O T ST I C KE R
+MI N I C AP R E SE S AL A D
+DE CO N ST R U CT E D SP R I N G
+R O L L
+O NE CO MP L I ME NT AR Y
+B E E R O R W I NE
+CASH B AR
+LUNCH
+THUR SDAY OCT OBE R 13
+MI X E D GR E E N S, J I C AM A, MA N GO,
+CI L A NT R O V I N AI GR E T T E
+HE I R L O O M T O M AT O, CU C UMB E R, R E D
+O NI O N S AL A D, B AL SA MI C V I NE G AR,
+FR E SH B A SI L
+GR I L L E D CH I C KE N B R E AST, B AL S AMI C
+R O A ST E D CI P P O L I NI O NI O N S,
+R O A ST E D R AI NB O W C AR R O T S, H E R B
+J U S
+O V E N R O A ST E D B AJ A C AL I FO R NI A SE A
+B A SS, B L ACK O L I V E S, C AP E R S, CI T R U S
+S AUCE , GR E MO L AT A
+QU NO A ST I R- FR Y, W I T H S E ASO N AL
+GR I L L E D B E GE T AL B E S, C I T R US O I L
+RO AST E D MAR B L E NE W P O T AT O E S,
+FR E SH P AR SL E Y
+WI L D B E R R Y T AR T L E T S
+WAL NUT CAR R O T C AKE
+CH O CO L AT E DUO SH O O T E R
+
+--- Page 9 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+SERVICE AWARDS
+2014-2015
+Technology Center
+California Community College System
+Jeffrey Alderson
+Eduventures
+2013-2014
+Brian Allison
+USA Funds
+Doug Holmes
+OUAC
+David Webber
+Chair OASIS CAM Technical Committee
+2012-2013
+Hans L'Orange
+SHEEO
+Susan McCrackin
+College Board
+2011-2012
+John C. Ittelson, Ph.D.
+California State University Monterey Bay
+Presidents Awards:
+William Hollowsky
+Joseph Giroux
+2010-2011
+Charles Leonhardt
+Georgetown University
+SPEEDE Committee
+AACRAO
+2009-2010
+Kristi Blabaum
+NASLA
+Michael Morris
+ACT, Inc.
+2008-2009
+Stephen C. Biklen
+NASLA
+David K. Moldoff
+AcademyOne, Inc.
+Clare Smith-Larson
+Iowa State University
+2007-2008
+Judith Flink
+University of Illinois
+10th Anniversary Achievement Award:
+Rick Skeel
+University of Oklahoma
+2006-2007
+AACRAO
+Jim Farmer
+Georgetown University
+2005-2006
+Ed Hauser
+SunGard Higher Education
+Keith Riccitelli
+Sallie Mae
+Tom Stewart
+AACRAO SPEEDE
+2004-2005
+Tim Bornholtz
+U.S. Department of Education
+Mark Bolembach
+SunGard SCT
+2003-2004
+Holly Hyland
+U.S. Department of Education
+Adele Marsh
+AES
+Dallas Martin
+NASFAA
+Bruce Marton
+University of Texas at Austin
+2002-2003
+Jerry Bracken
+Brigham Young University
+2001-2002
+Steve Margenau
+Great Lakes Higher Education Corporation
+Adele Marsh
+AES
+Bruce Marton
+University of Texas at Austin
+Paul Ness
+Sallie Mae
+Jeanenne Rothenberger
+Purdue University
+Michael Sessa
+American Student Assistance
+2000-2001
+Rebecca Babel
+ELM Resources
+Ellen Blackmun
+NASFAA
+Steve Margenau
+Great Lakes Higher Education Corporation
+Karl Van Neste
+The College Board
+1999-2000
+David Leonard
+USA Group
+Tim Pavlick
+KPMG
+David Stones
+Harbinger
+DISTINGUISHED SERVICE AWARDS
+Many, many volunteers from the
+education community have helped
+shape PESC into the organization it
+is today & we truly thank everyone.
+The success of PESC is due primarily
+to the valuable output (from white
+papers to approval and posting of
+standards) produced through
+workgroups and committees that
+are staffed and run by community
+representatives who volunteer their
+time and effort.
+Certain individuals have gone above
+and beyond the call of duty and
+PESC takes the opportunity each Fall
+to recognize these individuals by
+awarding them with Distinguished
+Service Awards.
+Distinguished Service Awards serve
+as our opportunity to say thank you
+for being a leader and for making a
+positive impact on education.
+2015 – 2016
+Tom Black
+Stanford University
+Leisa Wellsman
+Ontario Universities’
+Application Centre
+
+--- Page 10 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+AACRAO National Student Clearinghouse
+AcademyOne Ontario College Application Service
+Accenture Oracle
+Access 4 Learning Ontario Universities’ Application Centre
+ACE Paradigm
+ACT Parchment
+ApplyAlberta Pittsburg State University
+Arizona State University Purdue University
+California Community College System Simon Fraser University
+California State University System Smart Catalog
+Capella University Smarter Balanced Assessment Consortium
+Central Connecticut State University Southern Connecticut State University
+College Board Stanford University
+CollegeNet University of Arizona
+Common Application University of British Columbia
+Community College of the Air Force University of California at Berkeley
+Cosumnes River College University of Denver
+Credentials Solutions University of Idaho
+DecisionDesk University of Illinois System
+Digitary University of Lethbridge
+Educational Credential Evaluators University of Louisiana at Lafayette
+Ellucian University of Maryland University College
+Eduventures University of Mississippi
+ELM Resources University of Missouri System
+Elon University University of Northern Iowa
+Emory University University of Oregon
+Florida International University University of Phoenix
+Federation of State Medical Boards University of Puerto Rico System
+Georgetown University University of South Florida
+Groningen Declaration Network University of Southern California
+IERF University of Texas at Austin
+IMS University of Virginia
+Indiana State University University of Wisconsin at Madison
+Jenzabar USA Funds
+Kuali Foundation Washington State University
+Memorial University of Newfoundland Workday
+Michigan State University
+NASLA
+PESC MEMBERS
+
+--- Page 11 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+ACADEMIC EPORTFOLIO
+ADMISSION APPLICATION
+COLLEGE TRANSCRIPT
+COURSE INVENTORY (CATALOG)
+EDUCATION TEST SCORE REPORTING
+FINANCIAL AID
+HIGH SCHOOL TRANSCRIPT
+IPEDS
+NSLDS
+PDF ATTACHMENT
+PESC APPROVED STANDARDS
+
+
+--- Page 12 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+Doug Falk, VP & CIO Chair
+National Student Clearinghouse
+Tuan Anh Do, Director of Enrollment Mgmt Technology
+San Francisco State University
+J. James Wager, Education Strategist, Consultant Vice Chair
+Credentials Solutions
+David Moldoff, CEO & Founder
+AcademyOne
+Patrick Elliott, Senior Associate Registrar Treasurer
+University of Maryland University College
+Michael Sessa, President & CEO
+PESC
+Brian Allison, VP Product Secretary
+USA Funds
+Rick Skeel, Director of Product Management
+Ellucian
+Rajeev Arora, SVP, Product
+Parchment
+Francisco Valines, Director of Financial Aid
+Florida International University
+W. Matthew Bemis, Associate Registrar
+University of Southern California
+Andy Wood, VP of Higher ED Product Engineering
+Oracle
+Kristi Blabaum, Systems Integration Analyst
+NASLA
+ENABLING GLOBAL PORTABILITY AS EDUCATION’S ONLY DATA STANDARDS BODY
+Through open and transparent community participation, PESC enables cost-effective connectivity between
+data systems to accelerate performance and service, to simplify data access and research,
+and to improve data quality along the Education lifecycle.
+Powered by the dedication of volunteers from its membership base, PESC maintains a trusted, open and
+transparent collaborative environment. With this unique community perspective, PESC is breaking down costly,
+proprietary barriers & has mapped out a common, strategic path for the future.
+This path includes continued development of common data standards, establishment & support
+of data networks and infrastructure, common authentication and web services protocols enterprise-wide,
+seamless connections bridging postsecondary education systems to secondary and labor and workforce
+systems, and an eye on emerging technologies like social networking.
+Partners
+AACRAO
+ARUCC
+Groningen Declaration Network
+Internet 2 / InCommon
+SHEEO
+US Department of Education
+BOARD OF DIRECTORS
+MISSION & VISION
+
+--- Page 13 ---
+
+FALL DATA SYMPOSIUM & SUMMIT
+BEST PRACTICES COMPETITION
+SAVE THE DATE
+Now in its 18th year, the Best Practices Competition is held to highlight and promote innovation and ingenuity in the
+application and implementation of interoperable data standards for business needs. First held in 1999, the Competition
+is open to institutions, associations, organizations, government agencies and departments, districts, consortia, non-
+profit and commercial service providers and other education stakeholders that have collaborated to design and/or
+adopt an electronic standardization initiative via a specific implementation, and/or other medium such as, but not
+limited to, published articles and white papers.
+The 18th Annual Best Practices Competition for 2016 is open for submissions until close of business Friday March 31,
+2017. Documents detailing the scope of a project, participants, type of standards employed, relevant dates of project
+milestones, copies of articles (if an article submission), outline of mission/objectives and any related statistics (number
+of transactions transmitted, estimated cost savings, etc.) should be included in the submission.
+All entries should be submitted by March 31, 2017 to Michael.Sessa@PESC.org or at: Michael Sessa, President & CEO,
+PESC, 1250 Connecticut Avenue, NW Suite 200, Washington, D.C. 20036. All entries will be judged by the PESC Board of
+Directors. First place and those receiving special recognition will be notified immediately by PESC, an official public
+announcement will be made immediately before PESC's Spring Data Summit and the award presentation will be made
+during the general session of the Data Summit.

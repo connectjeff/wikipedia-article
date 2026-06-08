@@ -1,0 +1,184 @@
+
+--- Page 1 ---
+
+SCHEDULE WEDNESDAY 
+October 17, 2012 
+THURSDAY 
+October 18, 2012 
+FRIDAY 
+October 19, 2012 
+7:30am – 8:30am              CONTINENTAL BREAKFAST 
+Arbutus Foyer       3rd Floor Foyer                                                   3rd Floor Foyer 
+8:00am – 5:00pm         REGISTRATION 
+Arbutus Foyer       3rd Floor Foyer                                                   3rd Floor Foyer 
+8:00am – 8:30am Arbutus 
+1st TIME ATTENDEE ORIENTATION 
+8:30am – 10:15am GENERAL SESSIONS 
+Arbutus  
+CONCURRENT SESSIONS CONCURRENT SESSIONS 
+Arbutus Oak Aspen Arbutus Oak Aspen 
+- PESC 
+- Canadian User Panel 
+- MyDataButton 
+CommIT
+EA2 Task 
+Force 
+Student 
+Loan Data 
+Reporting 
+Canadian 
+PESC User 
+Group 
+CommIT 
+EA2 Task 
+Force 
+Academic 
+ePortfolio 
+Canadian 
+PESC User 
+Group 
+10:15am – 10:30am BREAK 
+      Arbutus Foyer                                          3 rd Floor Foyer                                                    3 rd Floor Foyer 
+10:30am – noon - USDE & NIEM 
+- FSA Strategy for E-  
+  Authentication 
+CommIT
+EA2 Task 
+Force 
+Student 
+Loan Data 
+Reporting 
+Canadian 
+PESC User 
+Group  
+CommIT 
+EA2 Task 
+Force 
+Academic 
+ePortfolio 
+Joint 
+CCB/TAB 
+Noon – 1:30pm Keynote Lunch/Awards 
+Pavillon 
+Lunch:  Buffet 
+Arbutus           Oak                Aspen   
+Adjourn 
+1:30pm – 3:00pm - Electronic Transcript  
+  Exchange 
+- AACRAO
+CDS Task 
+Force 
+Student 
+Aid User 
+Group 
+Education 
+Record 
+User Group 
+3:00pm – 3:15pm BREAK 
+      Arbutus Foyer                                           3 rd Floor Foyer 
+3:15pm – 5:00pm - CommIT 
+- CDS Task Force 
+- PESC Workgroup Panel 
+CDS Task 
+Force 
+Student 
+Aid User 
+Group 
+CEDS User 
+Group 
+5:30pm – 6:30pm 15th ANNIVERSARY 
+RECEPTION 
+Seasons 
+ANNUAL FALL  
+MEMBERSHIP MEETING 
+Arbutus 
+PROGRAM 
+
+
+--- Page 2 ---
+
+PESC | Yesterday, Today & Tomorrow | Michael D. Sessa, President & CEO, PESC 
+PESC President & CEO Michael Sessa will reflect on the growth of PESC and its 15th Year Anniversary and roll 
+out PESC’s updated business plan PESC 3.0 | Unifying the Education Domain Around Interoperability to 
+Improve Student Achievement, which includes a number of major updates and announcement including a 
+new name for the organization. 
+Canadian PESC User Group | Bill McKee, Director of Operations, OCAS 
+Panel 1:  Why Data Standards and How PESC Can Help 
+- Kelly McMullen, ApplyAlberta 
+- Trudy Sykes, OUAC 
+- Jam Hamidi, BCCampus 
+Panel 2: Prerequisites for Success and the Value of Co-opetition 
+- Dave Mathews, Ellucian 
+- Dave Moldoff, AcademyOne 
+MyDataButton | Jeffrey Alderson, Senior Director of Product Innovation, ConnectEDU 
+PESC Board Member Jeffrey Alderson will discuss the role he and ConnectEDU are playing in this joint White 
+House/US Department of Education initiative to ensure students have access to their data. 
+US Department of Education & NIEM | Michael Fillinich, Sr. Manager, OCIO, FSA 
+Mike Fillinich of FSA will discuss the value of the National Information Exchange Model (NIEM) and how the 
+US Department of Education and PESC will be migrating their technical strategy to NIEM.  With a number of 
+free tools and resources now being used cross federal agencies, NIEM sets a much needed hierarchy for 
+Education’s technical approach to standards. 
+FSA Strategy for E-Authentication | Richard Gordon, CIO, FSA 
+FSA CIO Richard Gordon will discuss how FSA meets the needs of the community and of students while 
+ensuring accurate access through authentication.  Participation in certain federations and FSA’s overall 
+strategy and the factors that need to be considered will be reviewed.  
+Keynote | | David Wrate, Director of Citizen Engagement, Government of British Columbia 
+David Wrate is the Director of Citizen Engagement for the Government of the Province of British Columbia. 
+Actively engaged in open data for the past two years, he has been in the thick of developing and growing 
+DataBC, the Provinces’ open data program.  Watching the internet evolve from Usenet groups to the web to 
+mobile applications has given David a deep appreciation for the societal effects of technology.  He is an 
+advocate of our lives having ‘just’ enough technology to help us be a better society. 
+Electronic Transcript Exchange | Matthew Pittinsky, Ph.D., Parchment, CEO 
+Parchment CEO Matthew Pittinsky, Ph.D., will discuss the results of a recent white paper that studied the 
+value and effects of electronic processing with focus on transcripts and their exchange among various 
+stakeholders in the education community. 
+AACRAO | Michael Riley, Executive Director, AACRAO 
+AACRAO’s new Executive Director Michael Riley will discuss AACRAO’s perspective on electronic processing, 
+on standards, and on trends and future opportunities that may exist between AACRAO and PESC.  Being 
+PESC’s strongest strategic partner, AACRAO and PESC continue to collaborate and share innovative ideas.
+PROGRAM 
+
+--- Page 3 ---
+
+CommIT | Charles Leonhardt, CTO, Georgetown University 
+Born out of PESC’s eAuthentication/eAuthorization (EA2) Task Force and forged through a strong 
+partnership between PESC’s EA2 and Internet2’s InCommon, the Common Identity & Trust (CommIT) 
+Collaborative seeks to bring easier yet more efficient sign-on functionality to teachers, professors, 
+administrators, students and providers. 
+CDS Task Force | Tim Calhoon, Technology Center Director, California Community Colleges 
+The Common Data Services (CDS) Task Force is looking to establish an education-wide data exchange 
+protocol so that any provider using PESC Approved Standards and registered in the service network could 
+communicate directly with the appropriate exchange host for a targeted institution.  These services would 
+be ‘payload agnostic’ and while the immediate interest is for transcript exchange, the network could be used 
+for the exchange of other existing or future PESC standards and/or transactions. 
+PESC Workgroup | Academic ePortfolio, ERUG, Student Loan Data Reporting, CCB, TAB 
+The Academic ePortfolio and Student Loan Data Reporting Development Workgroups are focused on 
+developing XML version 1.0 of the standard for their respective topic.  In addition to agreeing on the data 
+elements to be included, Workgroups must produce the XML schema required for the standard along with a 
+corresponding Implementation Guide and Instance Diagram.  The Education Record User Group (ERUG) 
+governs the maintenance and outreach for all PESC Approved Standards in the Registrar’s and Admissions 
+Officer’s sectors (eg, Transcripts, Test Scores, Admissions Application, etc.).  The Change Control Board (CCB) 
+governs what becomes a PESC Approved Standard while the Technical Advisory Board (TAB) provides 
+technical assistance to all workgroups and development efforts. 
+Student Loan Data Reporting Workgroup
+The Student Loan Data Reporting Workgroup is focusing on the development of XML version 1.0 of a 
+standard that can be used by lenders, servicers, guarantors, colleges and universities to exchange student 
+loan repayment data and information. 
+Canadian PESC User Group
+The Canadian PESC User Group includes stakeholders with Canadian-specific interests.  The Group 
+represents Canadian interests in PESC to maintain ‘one standard’ and to ensure that PESC products and 
+services have value to all organizations in the United States and Canada.
+Student Aid User Group
+The Student Aid User Group includes stakeholders with student aid-specific interests.  The Group monitors 
+activities in the community to ensure interoperability and compliance with applicable statute. 
+Education Record User Group
+The Education Record User Group (ERUG) governs the maintenance and outreach for all PESC Approved 
+Standards in the Registrar’s and Admissions Officer’s sectors (eg, Transcripts, Test Scores, Admissions 
+Application, etc.).  
+CEDS User Group
+The Common Education Data Standards (CEDS) User Group includes stakeholders with longitudinal student 
+data-specific interests.  The Group works with NCES and all other organizations to ensure communication, 
+collaboration and continued support of CEDS.
+Joint CCB/TAB 
+The Change Control Board (CCB) governs what becomes a PESC Approved Standard while the Technical 
+Advisory Board (TAB) provides technical assistance to all workgroups and development efforts. 

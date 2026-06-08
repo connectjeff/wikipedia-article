@@ -1,0 +1,39 @@
+# MathWorks and MATLAB Grader Source Review for Jeffrey Alderson
+
+Scope: sources that connect Jeffrey Alderson to MathWorks, MATLAB Grader, educational technology webinars, and related publication/profile lists.
+
+## Bottom Line
+
+These sources are useful for verifying Alderson's public association with MathWorks, MATLAB Grader, and educational technology webinars. They are mostly event listings, organizational pages, social-video pages, or profile/publication-list pages. Treat them as professional-context support and source leads, not as major AfC notability sources.
+
+The strongest currently verified item in this cluster remains the MIT Open Learning event page, which independently hosts a short panelist bio. The IEEE vTools event page is also useful because it gives a detailed event listing and speaker bio. The IN4OBE detailed program directly verifies Alderson as speaker for an autograded programming assignments session; the LinkedIn and YouTube pages support the recorded-webinar trail. The MathWorks video search and YouTube playlist pages are useful leads; the fetched playlist metadata did not itself name Alderson, so presenter attribution for individual MathWorks videos should be reviewed manually before article use. ResearchGate was added as a publication-list lead, but direct local fetch was blocked by HTTP 403.
+
+## Review Table
+
+| ID | Date | Source | Title | Coverage assessment | Notability weight | Recommendation | Local file |
+|---|---|---|---|---|---|---|---|
+| MOL1 | March 22, 2021 | MIT Open Learning | [The Evolution of Engineering Education Post-COVID-19](https://openlearning.mit.edu/events/evolution-engineering-education-post-covid-19) | Event page listing Alderson as Product Manager for MATLAB Grader at MathWorks, with a short professional bio. | Low to Medium | Use for narrow MathWorks and MATLAB Grader professional-context facts. | `data/mit_openlearning_engineering_education_post_covid.html` |
+| IEEE1 | December 13, 2018 | IEEE vTools Events / IEEE Education Society | [WEBINAR: MATLAB Grader for automaticallygraded computational assignments](https://events.vtools.ieee.org/m/183771) | Event page lists Jeff Alderson of MathWorks as speaker, gives the topic as MATLAB Grader for automatically graded computational assignments, and describes him as Online Learning Product Marketing at MathWorks and product manager for MATLAB's autograding solution, MATLAB Grader. | Low to Medium | Use for narrow professional-context evidence of Alderson presenting on MATLAB Grader. Do not use as notability support. | `data/ieee_vtools_183771.html` |
+| IN4OBE1 | Program page published 2025; session from IN4OBE Summit 2022 context | IN4OBE detailed program plus LinkedIn post | [Detailed Program](https://in4obe.org/detailed-program/) / [Autograded Programming Assignments with MATLAB Grade](https://www.linkedin.com/posts/empowering-education-transforming-share-7188778442442629120-2_oF/) | IN4OBE detailed program lists `Autograded Programming Assignments with MATLAB Grade`, Day 1, Track 2: Computing, Engineering & Technology, Theme 3, Topic 4: Automating Assessment and Evaluation, 3:00 pm - 5:00 pm, CET-4, with Jeff Alderson as speaker. LinkedIn post metadata says Alderson, Product Manager at MathWorks, was speaker and embeds the YouTube recording. | Low to Medium | Use for narrow professional-context evidence of Alderson presenting on autograded programming assignments / MATLAB Grader. Do not use as notability support. | `data/in4obe_detailed_program.html`; `data/linkedin_in4obe_empowering_education.html` |
+| YT1 | 2024 upload metadata | YouTube / IN4OBE LLC | [Autograded Programming Assignments with MATLAB Grade](https://www.youtube.com/watch?v=C-GlXr3MxvQ) | YouTube oEmbed metadata identifies the video title and author as IN4OBE LLC. The fetched watch page contains the same title and includes `Jeff Alderson` in page data, while the LinkedIn post provides clearer speaker attribution. | Low | Use only as supporting evidence for the recorded webinar, paired with the LinkedIn/IN4OBE metadata. | `data/youtube_in4obe_c_glxr3mxvq.html`; `data/youtube_in4obe_c_glxr3mxvq_oembed.json` |
+| MWYT1 | Current page access June 8, 2026 | YouTube / MATLAB channel | [Teaching with MATLAB and Simulink](https://www.youtube.com/playlist?list=PLn8PRpmsu08oV_uJZBB7jIemn4-lxN7yL) | Official MATLAB channel playlist with 37 videos on teaching with MATLAB and Simulink, including MATLAB Grader topics. The fetched playlist metadata verifies the playlist and video list, but does not itself name Alderson. | None to Low | Retain as a lead. Do not cite for Alderson presenter attribution until individual videos/transcripts are reviewed. | `data/youtube_mathworks_playlist_educational_technology.html` |
+| MWS1 | Current page access June 8, 2026 | MathWorks | [Search MATLAB and Simulink Videos: Alderson](https://www.mathworks.com/videos/search.html?q=Alderson&page=1) | MathWorks video-search page for `Alderson`. The page shell and a broader search API response were fetched locally; the API response included MathWorks video results but was broader than the rendered video-only results. | None to Low | Retain as a source-discovery lead. Use exact MathWorks video detail pages only after verifying page-level presenter metadata. | `data/mathworks_video_search_alderson_page1.html`; `data/mathworks_video_search_alderson_results.json` |
+| RG1 | Current page access June 8, 2026 | ResearchGate | [Jeffrey Alderson scientific contributions](https://www.researchgate.net/scientific-contributions/Jeffrey-Alderson-2273994673) | Publication-list/profile page lead for Alderson's published articles. Local direct fetch returned HTTP 403, so details were not verified locally. | None | Retain as a publication-list lead only. Do not cite in the article until the page or underlying publication records are reviewed. | Direct fetch blocked; no local HTML saved |
+
+## Ready Citation Templates
+
+```wikitext
+{{cite web |title=WEBINAR: MATLAB Grader for automaticallygraded computational assignments |url=https://events.vtools.ieee.org/m/183771 |website=IEEE vTools Events |date=December 13, 2018 |access-date=June 8, 2026}}
+
+{{cite web |title=Detailed Program |url=https://in4obe.org/detailed-program/ |website=IN4OBE |access-date=June 8, 2026}}
+
+{{cite web |title=Autograded Programming Assignments with MATLAB Grade |url=https://www.linkedin.com/posts/empowering-education-transforming-share-7188778442442629120-2_oF/ |website=LinkedIn |publisher=IN4OBE |date=April 24, 2024 |access-date=June 8, 2026}}
+
+{{cite web |title=Autograded Programming Assignments with MATLAB Grade |url=https://www.youtube.com/watch?v=C-GlXr3MxvQ |website=YouTube |publisher=IN4OBE LLC |access-date=June 8, 2026}}
+
+{{cite web |title=Teaching with MATLAB and Simulink |url=https://www.youtube.com/playlist?list=PLn8PRpmsu08oV_uJZBB7jIemn4-lxN7yL |website=YouTube |publisher=MATLAB |access-date=June 8, 2026}}
+
+{{cite web |title=Search MATLAB and Simulink Videos: Alderson |url=https://www.mathworks.com/videos/search.html?q=Alderson&page=1 |website=MathWorks |access-date=June 8, 2026}}
+
+{{cite web |title=Jeffrey Alderson scientific contributions |url=https://www.researchgate.net/scientific-contributions/Jeffrey-Alderson-2273994673 |website=ResearchGate |access-date=June 8, 2026}}
+```

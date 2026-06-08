@@ -6,7 +6,7 @@ Review principle: use only verifiable sources in the article draft.
 
 ## Source Quality Summary
 
-The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead is a legal-filing source hosted on Scribd; it may support a narrow shareholder fact once the filing schedule is directly reviewed, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
+The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
 
 The notability case remains moderate-risk for AfC. The sources verify facts, but several are short mentions, organizational listings, or coverage of projects rather than in-depth biographical coverage.
 
@@ -18,11 +18,13 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | GF1 | 2013 | Gates Foundation | ConnectEDU, Inc. / OPP1092353 | Primary grant database record | No / primary | Verified from downloaded HTML | Minor; does not name Alderson or inBloom | None | ConnectEDU / Gates Foundation funding context only |
 | SI1 | 2026 | Startup Intros | ConnectEdu: Funding, Team & Investors | Company directory/profile summary | Partial | Verified from downloaded HTML | Company background only; does not name Alderson | None to Low | ConnectEDU company-background context only |
 | S2, CT2 | 2016 | Campus Technology | Eduventures LMS and higher-ed analytics articles | Trade journalism | Yes | Verified | Minor to moderate | Low to Medium | Eduventures analyst role and professional context |
+| MOL1 | 2021 | MIT Open Learning | The Evolution of Engineering Education Post-COVID-19 | Event page / panelist bio | Partial | Verified from downloaded HTML | Short professional bio | Low to Medium | MathWorks and MATLAB Grader professional-context facts |
+| IEEE1, IN4OBE1, YT1, MWYT1, MWS1, RG1 | 2018-2026 | IEEE / IN4OBE / YouTube / MathWorks / ResearchGate | MATLAB Grader and publication-list source leads | Event pages, video pages, search pages, profile/publication list | Mixed; mostly primary/affiliated/platform sources | Mixed; verified where local page data was available, ResearchGate blocked by HTTP 403 | Minor or source-lead only | None to Low | Professional context and source discovery only; see `sources/mathworks_matlab_grader_sources.md` |
 | N1-N25 | 2023-2026 | Natick Report | Full search result set for `Jeff Alderson` | Local news / opinion / primary statements | Mixed | Verified and reviewed | Minor to moderate | Low to Medium | Municipal-service facts; see `sources/natick_report_sources.md` |
 | M1-M3 | 2025 | MetroWest Daily News | Search result and related Natick election articles | Local news / letter | Mixed | Verified and reviewed | Minor | Low to Medium | Municipal election corroboration; see `sources/metrowest_daily_news_sources.md` |
 | S7 | 2026 | Natick Veterans Oral History Project | Jeff Alderson, Air Force veteran | Local archive/oral history | Partial | Verified | Short biographical entry | Low to Medium | Military service facts |
-| S8 | 2015 | PESC | Awards - PESC Board of Directors Recipients | Organizational award list | No or partial | Verified | Minor | Low | Award, if included |
-| CB1 | 2014 | Scribd / U.S. Bankruptcy Court filing copy | ConnectEDU Bankruptcy Petition | Legal filing copy / bankruptcy petition | No / primary | Verified from downloaded PDF page image | Minor; primary filing only | None | Equity-security-holder fact only; not notability |
+| S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, ERUG1, PESC2016, ACEL1 | 2011-2017 | PESC / NCES | Awards, board listing, Data Summit programs, STATS-DC agenda, ERUG call notes, and implementation guide | Organizational award list, conference programs, government conference agenda, call notes, implementation guide | No or partial | Verified; PDFs/text extracted where applicable | Minor to moderate for narrow professional-context facts | Low to Medium | PESC board, ConnectEDU, data standards, MyDataButton, ERUG, Eduventures ePortfolio research, award, and contributor context if retained |
+| CB1 | 2014 | PACERMonitor / U.S. Bankruptcy Court filing copy | ConnectEDU Bankruptcy Petition | Public docket page plus legal filing copy | No / primary | Verified from PACERMonitor docket page and rendered petition page image | Minor; primary filing only | None | Equity-security-holder fact only; not notability |
 | S9 | Unknown | ASEE PEER | Focus More on Teaching than Grading: Try MATLAB Grader | Conference paper/proceedings | Likely yes | Located but not verified; site returned heavy-load page | Unknown | TBD | Do not cite until reviewed |
 | S10, EA01-EA33 | 2015-2017 | Encoura / Eduventures | Encoura author profile and linked Wake-Up Call articles | Corporate profile / affiliated authored articles | No | Verified from author page and Builder content API | Sparse profile; authored article list only | None to Low | Do not use for notability; publication-history leads only |
 | FB1 | 2017 | Facebook | Committee to Elect Jeff Alderson for Natick School Committee | Campaign social media | No | Verified metadata | Sparse | None | Do not use for notability |
@@ -122,6 +124,62 @@ Assessment: independent trade-journalism sources. Useful for professional contex
 
 See `sources/campus_technology_sources.md` for the dedicated Campus Technology source list.
 
+### MOL1: MIT Open Learning Event Page
+
+URL: https://openlearning.mit.edu/events/evolution-engineering-education-post-covid-19
+
+Local file: `data/mit_openlearning_engineering_education_post_covid.html`
+
+Verified details:
+
+- Title: `The Evolution of Engineering Education Post-COVID-19`
+- Publication/source: MIT Open Learning
+- Event date: March 22, 2021, 1:00pm
+- The page lists Jeff Alderson as `Product Manager` for `MATLAB Grader, MathWorks`.
+- The biography says Alderson was product manager for MATLAB's auto-grading solution, MATLAB Grader, at MathWorks in Natick, Massachusetts, and led MathWorks marketing efforts in online teaching and learning.
+- The biography also says he was previously Principal Analyst for Technology at Eduventures and Lead Architect for Houghton Mifflin Harcourt, formerly Choice P20 Solutions, supporting architecture and security engineering for clients including the New York State Education Department.
+
+Assessment: useful for narrow professional context linking Alderson to MathWorks and MATLAB Grader. Not a major notability source because the coverage is a short event bio, not an independent profile.
+
+See `sources/mit_open_learning_sources.md` for the dedicated MIT Open Learning source list.
+
+### IEEE1, IN4OBE1, YT1, MWYT1, MWS1, and RG1: MathWorks / MATLAB Grader Source Leads
+
+URLs:
+
+- https://events.vtools.ieee.org/m/183771
+- https://in4obe.org/detailed-program/
+- https://www.linkedin.com/posts/empowering-education-transforming-share-7188778442442629120-2_oF/
+- https://www.youtube.com/watch?v=C-GlXr3MxvQ
+- https://www.youtube.com/playlist?list=PLn8PRpmsu08oV_uJZBB7jIemn4-lxN7yL
+- https://www.mathworks.com/videos/search.html?q=Alderson&page=1
+- https://www.researchgate.net/scientific-contributions/Jeffrey-Alderson-2273994673
+
+Local files:
+
+- `data/ieee_vtools_183771.html`
+- `data/in4obe_detailed_program.html`
+- `data/linkedin_in4obe_empowering_education.html`
+- `data/youtube_in4obe_c_glxr3mxvq.html`
+- `data/youtube_in4obe_c_glxr3mxvq_oembed.json`
+- `data/youtube_mathworks_playlist_educational_technology.html`
+- `data/mathworks_video_search_alderson_page1.html`
+- `data/mathworks_video_search_alderson_results.json`
+
+Verified details:
+
+- IEEE vTools lists Jeff Alderson of MathWorks as speaker for `WEBINAR: MATLAB Grader for automaticallygraded computational assignments`; the page describes him as Online Learning Product Marketing at MathWorks and product manager for MATLAB's autograding solution, MATLAB Grader.
+- IN4OBE's detailed program lists `Autograded Programming Assignments with MATLAB Grade`, Day 1, Track 2: Computing, Engineering & Technology, Theme 3, Topic 4: Automating Assessment and Evaluation, 3:00 pm - 5:00 pm, CET-4, with Jeff Alderson as speaker.
+- The IN4OBE LinkedIn page metadata says Jeff Alderson, Product Manager at MathWorks, was speaker for `Autograded Programming Assignments with MATLAB Grade`; it embeds the YouTube recording.
+- YouTube oEmbed metadata identifies the IN4OBE video title as `Autograded Programming Assignments with MATLAB Grade` and the author as `IN4OBE LLC`; the fetched watch-page data also contains `Jeff Alderson`.
+- The official MATLAB YouTube playlist page verifies the `Teaching with MATLAB and Simulink` playlist and a 37-video list, including MATLAB Grader topics, but the fetched playlist metadata does not itself name Alderson.
+- The MathWorks video search page for `Alderson` was fetched, along with a broader search API response. The response included MathWorks video results, but it should be treated as source discovery until exact video-detail pages verify presenter metadata.
+- ResearchGate was added as a publication-list lead for `Jeffrey Alderson scientific contributions`; local direct fetch returned HTTP 403, so details were not verified locally.
+
+Assessment: useful professional-context and source-discovery cluster. Do not use these sources to establish notability. The IEEE and IN4OBE detailed-program pages are acceptable for narrow event/presenter facts; use exact video/publication pages only after confirming the relevant page-level metadata.
+
+See `sources/mathworks_matlab_grader_sources.md` for the dedicated MathWorks / MATLAB Grader source list.
+
 ### N1-N25: Natick Report Full Search-Result Review
 
 URL set: https://www.natickreport.com/?s=Jeff+Alderson and pages 2-5 of the same search.
@@ -211,26 +269,68 @@ Assessment: useful for non-contentious service facts, but likely primary-adjacen
 
 See `sources/natick_veterans_sources.md` for the dedicated Natick Veterans source list.
 
-### S8: PESC awards page
+### S8, PESCBOARD2011, PESC2011, NCES2011, PESC2012, ERUG1, PESC2016, and ACEL1: PESC sources
 
-URL: https://pesc.org/awards/
+URLs:
 
-Local file: `data/pesc_awards.html`
+- https://pesc.org/awards/
+- https://www.sctrac.org/portals/8/SCFiles/PESC_AwardLetterSC.pdf
+- https://pesc.org/wp-content/uploads/2024/07/Spring-2011-Program-Full-Boston.pdf
+- https://nces.ed.gov/whatsnew/conferences/PDF/STATSDC2011Agenda.pdf
+- https://nebula.wsimg.com/ab98b6bb89dd32b40efd76843c5817aa?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1
+- https://cdn.cocodoc.com/cocodoc-form-pdf/pdf/44678435--2012-04-24-PESC-ERUG-Call-Notespdf-pesc-.pdf
+- https://nebula.wsimg.com/af9365ebe142935671ccd9d9f7258d0c?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1
+- https://cache.nebula.phx3.secureserver.net/78bacabe0c17ff11c6ee2e735abaa371?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1
+
+Local files:
+
+- `data/pesc_awards.html`
+- `data/pesc_2010_2011_board_award_letter_sc.pdf`
+- `data/pesc_2010_2011_board_award_letter_sc.txt`
+- `data/pesc_spring_2011_program_full_boston.pdf`
+- `data/pesc_spring_2011_program_full_boston.txt`
+- `data/nces_statsdc_2011_agenda.pdf`
+- `data/nces_statsdc_2011_agenda.txt`
+- `data/pesc_2012_data_summit_program_my_data_button.pdf`
+- `data/pesc_2012_data_summit_program_my_data_button.txt`
+- `data/pesc_2012_erug_call_notes.pdf`
+- `data/pesc_2012_erug_call_notes.txt`
+- `data/pesc_2016_data_summit_eportfolio_vendors.pdf`
+- `data/pesc_2016_data_summit_eportfolio_vendors.txt`
+- `data/pesc_acel_implementation_guide.pdf`
+- `data/pesc_acel_implementation_guide.txt`
 
 Verified details:
 
-- Lists `Jeffrey Alderson, ConnectEDU` among 2015 recipients.
+- The awards page lists `Jeffrey Alderson, ConnectEDU` among 2015 Board of Directors award recipients.
+- The March 24, 2011 PESC award letter lists `JEFFREY ALDERSON, ConnectEDU, Inc.` in a sidebar headed `2010-2011 Board of Directors`.
+- The PESC Spring 2011 Data Summit program lists `Jeffrey Alderson, Director of Development, ConnectEDU; PESC Board of Directors` and `Jane Swift, Senior Vice President of Government Relations, ConnectEDU; Former Governor of Massachusetts` in the general session `Welcome to the Commonwealth of Massachusetts`.
+- The same 2011 program lists a separate keynote later in the program for John Suess, so it should not be used to describe Alderson as the keynote speaker.
+- The NCES STATS-DC 2011 agenda lists session `VII-C Best Practices in Linking PK-12 and Higher Education` with Michael Sessa of PESC, David Moldoff of AcademyOne, and Jeffrey Alderson of ConnectEDU.
+- The STATS-DC session description says PESC would present recent best practices using PESC-approved standards and technologies.
+- The PESC Spring 2012 Data Summit program lists `MyDataButton | Jeffrey Alderson, Senior Director of Product Innovation, ConnectEDU`.
+- The 2012 program says PESC Board Member Alderson would discuss the role he and ConnectEDU were playing in a joint White House/U.S. Department of Education initiative to ensure students had access to their data.
+- The April 24, 2012 PESC Education Record User Group call notes list Alderson as Director of Development at ConnectEDU and a PESC Board of Directors member.
+- The ERUG call notes say Alderson had earlier suggested potential use of MyData in PESC XML work and briefed ERUG on the White House/U.S. Department of Education initiative.
+- The PESC Fall 2016 Data Symposium & Summit program lists Alderson as `Principal Analyst, Enterprise Software, Eduventures` and speaker in `Global Data Strategy Perspectives | State & PK12 and Evolving E-Portfolio`.
+- The 2016 program says Alderson of Eduventures would present findings from a review of 30 portfolio vendors and examples of their use across the student lifecycle.
+- The same 2016 program lists `Jeffrey Alderson, Eduventures` under `Service Awards 2014-2015`.
+- The PESC Academic Credential & Experiential Learning Implementation Guide lists `Jeffrey Alderson, Eduventures` among contributors in the acknowledgments.
 
-Assessment: organizational source, weak for notability but acceptable for verifying the award/listing.
+Assessment: organizational/event evidence, weak for notability but acceptable for verifying narrow PESC, ConnectEDU, data-standards, MyDataButton, ERUG, Eduventures ePortfolio research, service-award, and implementation-guide contributor facts.
 
 See `sources/pesc_sources.md` for the dedicated PESC source list.
 
 ### CB1: ConnectEDU Bankruptcy Petition
 
-URL: https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition
+Primary URL: https://www.pacermonitor.com/public/case/3402250/ConnectEdu,_Inc
+
+Supporting petition-copy URL: https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition
 
 Local files:
 
+- `data/pacermonitor_connectedu_case.html`
+- `data/pacermonitor_connectedu_voluntary_petition_doc1.pdf` (HTML access page for Doc. 1, not a full PDF)
 - `data/connectedu_bankruptcy_petition_scribd.html`
 - `data/search_ddg_connectedu_bankruptcy_petition_jina.txt`
 - `data/connectedu_bankruptcy_petition.pdf`
@@ -240,13 +340,16 @@ Local files:
 
 Verified details:
 
-- Search indexing identifies the document as `Connectedu Bankruptcy Petition` and describes it as Boston ed-tech startup ConnectEDU's Chapter 11 bankruptcy petition filed April 28, 2014.
+- PACERMonitor identifies the case as `ConnectEdu, Inc. Bankruptcy (1:14-bk-11238), New York Southern Bankruptcy Court`, filed April 28, 2014.
+- PACERMonitor lists the case as Chapter 7 after conversion, judge Shelley C. Chapman, case filed April 28, 2014, converted September 12, 2014, and terminated June 28, 2017.
+- PACERMonitor's docket lists Doc. 1 as a Voluntary Petition (Chapter 11), order for relief entered, filed by Sharon L. Levine of Lowenstein Sandler LLP on behalf of ConnectEdu, Inc.
+- The PACERMonitor public filing page confirms the Doc. 1 description but does not expose the full PDF without access.
 - The downloaded PDF is case `14-11238-scc`, Doc. 1, filed April 28, 2014, entered April 28, 2014 at 19:16:03.
 - Page 8 is the `List of Equity Security Holders` cover page and points to attached Schedule A.
 - Page 10 is Schedule A and lists `Jeff Alderson` with 139 ordinary common options, 139 total preferred and common, and 0.01% diluted ownership.
 - The downloaded text file contains only docket/page headers because the filing is image-based; the Alderson row was verified from the rendered page-10 image.
 
-Assessment: primary legal-filing evidence only. Do not use for notability. If the article draft mentions this fact, state it narrowly as an equity-security-holder listing from the bankruptcy filing and prefer an official court/PACER copy if available.
+Assessment: primary legal-filing evidence only. Do not use for notability. If the article draft mentions this fact, state it narrowly as an equity-security-holder listing from the bankruptcy filing. Cite PACERMonitor for public docket metadata and retain the local petition page images as review evidence for the Schedule A row.
 
 See `sources/legal_bankruptcy_sources.md` for the dedicated legal/bankruptcy source list.
 
@@ -263,6 +366,8 @@ See `sources/unverified_publication_leads.md` for source leads that need review 
 See `sources/affiliated_profile_sources.md` for affiliated/profile sources and usage limits.
 
 See `sources/encoura_eduventures_sources.md` for the dedicated Encoura / Eduventures author-profile and Wake-Up Call article-link list.
+See `sources/mit_open_learning_sources.md` for the dedicated MIT Open Learning source list.
+See `sources/mathworks_matlab_grader_sources.md` for the dedicated MathWorks / MATLAB Grader source list.
 
 ## Ready Citation Templates
 
@@ -278,6 +383,14 @@ These are the citation templates used or available for use in the draft.
 {{cite web |last=Schaffhauser |first=Dian |title=Eduventures Publishes Report on Learning Management Systems |url=https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx |website=Campus Technology |date=January 28, 2016 |access-date=June 8, 2026}}
 
 {{cite web |last=Raths |first=David |title=Laying the Groundwork for Big Data |url=https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1 |website=Campus Technology |date=February 25, 2016 |access-date=June 8, 2026}}
+
+{{cite web |title=The Evolution of Engineering Education Post-COVID-19 |url=https://openlearning.mit.edu/events/evolution-engineering-education-post-covid-19 |website=MIT Open Learning |date=March 22, 2021 |access-date=June 8, 2026}}
+
+{{cite web |title=WEBINAR: MATLAB Grader for automaticallygraded computational assignments |url=https://events.vtools.ieee.org/m/183771 |website=IEEE vTools Events |date=December 13, 2018 |access-date=June 8, 2026}}
+
+{{cite web |title=Detailed Program |url=https://in4obe.org/detailed-program/ |website=IN4OBE |access-date=June 8, 2026}}
+
+{{cite web |title=Autograded Programming Assignments with MATLAB Grade |url=https://www.linkedin.com/posts/empowering-education-transforming-share-7188778442442629120-2_oF/ |website=LinkedIn |publisher=IN4OBE |date=April 24, 2024 |access-date=June 8, 2026}}
 
 <!-- See sources/natick_report_sources.md for all 25 reviewed Natick Report citation templates. Recommended Natick Report citations for the current draft are below. -->
 
@@ -298,6 +411,20 @@ These are the citation templates used or available for use in the draft.
 {{cite web |title=Jeff Alderson, Air Force veteran |url=https://natickveterans.com/2026/01/29/jeffrey-alderson/ |website=Natick Veterans Oral History Project |date=January 29, 2026 |access-date=June 8, 2026}}
 
 {{cite web |title=Awards - PESC Board of Directors Recipients |url=https://pesc.org/awards/ |website=PESC |access-date=June 8, 2026}}
+
+{{cite web |title=PESC Award Letter to South Carolina |url=https://www.sctrac.org/portals/8/SCFiles/PESC_AwardLetterSC.pdf |website=South Carolina Transfer & Articulation Center |publisher=Postsecondary Electronic Standards Council |date=March 24, 2011 |access-date=June 8, 2026}}
+
+{{cite conference |title=Spring 2011 Program Full - Boston |conference=PESC Spring 2011 Data Summit |publisher=Postsecondary Electronic Standards Council |date=2011 |url=https://pesc.org/wp-content/uploads/2024/07/Spring-2011-Program-Full-Boston.pdf |access-date=June 8, 2026}}
+
+{{cite conference |title=2011 STATS-DC Data Conference agenda |conference=STATS-DC Data Conference |publisher=National Center for Education Statistics |date=2011 |url=https://nces.ed.gov/whatsnew/conferences/PDF/STATSDC2011Agenda.pdf |access-date=June 8, 2026}}
+
+{{cite conference |title=PESC Spring 2012 Data Summit program |conference=PESC Spring 2012 Data Summit |publisher=Postsecondary Electronic Standards Council |date=2012 |url=https://nebula.wsimg.com/ab98b6bb89dd32b40efd76843c5817aa?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1 |access-date=June 8, 2026}}
+
+{{cite web |title=PESC ERUG Conference Call Notes for April 24, 2012 |url=https://cdn.cocodoc.com/cocodoc-form-pdf/pdf/44678435--2012-04-24-PESC-ERUG-Call-Notespdf-pesc-.pdf |website=PESC Education Record User Group |date=April 24, 2012 |access-date=June 8, 2026}}
+
+{{cite conference |title=PESC Fall Data Symposium & Summit program |conference=PESC Fall Data Symposium & Summit |publisher=Postsecondary Electronic Standards Council |date=2016 |url=https://nebula.wsimg.com/af9365ebe142935671ccd9d9f7258d0c?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1 |access-date=June 8, 2026}}
+
+{{cite web |title=Academic Credential & Experiential Learning Implementation Guide |url=https://cache.nebula.phx3.secureserver.net/78bacabe0c17ff11c6ee2e735abaa371?AccessKeyId=4CF7FAE11697F99C9E6B&disposition=0&alloworigin=1 |website=PESC |date=November 2016 |access-date=June 8, 2026}}
 
 <!-- Primary legal-filing lead only; do not use until filing text is directly reviewed. -->
 {{cite web |title=Connectedu Bankruptcy Petition |url=https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition |website=Scribd |date=April 28, 2014 |access-date=June 8, 2026}}

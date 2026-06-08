@@ -1,0 +1,101 @@
+
+--- Page 1 ---
+
+Postsecondary Electronic Standards Council
+Education Record User Group
+Notes from the April 24, 2012 Conference Call
+On today’s call were
+Jeffrey Alderson, Director of Development, ConnectEDU, Inc. and Member of the PESC
+Board of Directors
+Bob Hewett, Principal Software Engineer, Data Solutions, Pearson, and 
+Co-Chair of
+ERUG
+Scott Hillman, Retired VP, Operations & Customer Services, Parchment
+Tom Stewart, Retired Registrar, Miami Dade College (FL) and Member of the AACRAO
+SPEEDE Committee
+Romy Teh, VP, Program Management & Client Services, Xap Corporation
+Bob started today’s call at 3 minutes after the hour.
+MyData Specification: Jeff Alderson from the PESC Board and from ConnectEDU had
+earlier suggested the potential use of MyData in our XML work in PESC.  He joined us
+on today’s call and briefed us on the initiative from the US White House and the US
+Department of Education (primarily Federal Student Aid) to place usable electronic
+student data in the hands of the students who can benefit from the use of their own data. 
+The MIME format and other ZIP formats, among others, were discussed briefly as a
+possible wrapper for the data.
+  
+The proposal now being discussed is focused on the products that might be made
+available from service providers.
+The following is a brief dialog provided by Jeff Alderson in response to several questions
+from Bob Hewett:
+From Bob:  Why would a university want to adopt this standard? They definite ly wouldn’t
+want to give it away for free .
+From Jeff: The White House is singularly focused on enabling learners  to get access to
+and "unlock" their own data stored in various systems and services. This wouldn't be
+something for a University to adopt directly. Rather, this would be a service or feature of
+an existing product that a service provider such as College Board or ConnectEDU or an
+SIS/ERP vendor like Pearson or Oracle would provide. The goal here is  to provide any
+data that a service provider collects on an individual learner back to the learner in an
+electronic format for the learner to take with them and do with the data as they wish.
+ 
+April 24, 2012 Page 1 of 3 pages by Tom Stewart
+
+--- Page 2 ---
+
+PESC ERUG Conference Call Notes for April 24, 2012
+From Bob:  There is no mention of security.  Universities would be reluctant to deliver data
+to students that could easily be manipulated by any computer savvy college student. What
+precautions could be put in place to make sure the files could not be  modified by the
+receiving party?  Signing the bundle?  Signed Zip files?
+From Jeff:  The assumption here is that the data in the files would be unencrypted and
+open, and would also be considered "unofficial." As the goal of this data payload is for the
+learner to take it with them and re-upload into another service provider, such as a service
+provided by ConnectEDU for college and career planning, the learner would not be helping
+themselves by manipulating the content of the data file.  Also, for service prov iders that
+build interfaces to ingest this data, it would be done with the knowledge that the data is
+open and could have been modified, and would be properly flagged as "self-reported" by
+the student. This is not intended to be a replacement for existing, secure, re cords
+exchange networks.  
+From Bob:  EDI is not listed as a standard and that is what most universities use. (I realize
+that the standard can easily support any text-based standard, but I thought I’d mention it).
+From Jeff: As the goal of this project was learner-centric and not University focused, the
+conversation quickly turned to leveraging the most "modern" XML standards, as they would
+be the easiest to deploy by the service providers. I don't believe that the proposed solution
+would exclude the ability of EDI to be put into the multi-part wrapper, but XML was
+certainly the focus of the conversations.
+From Bob:  To answer your question, everyone thought that it is technically feasible, but
+there were concerns about giving text based standard data to students a nd whether a
+MIME based delivery system is the best delivery mechanism since it implies that som e
+installed application would be needed to take advantage of the data.
+From Jeff:  The assumption is that it will be the responsibility of service providers to build
+products and services around this data payload, and provide added  value services to
+individual learners that show up with the data in this format.
+From Bob:  Joseph Giroux was interested in this for the Portfolio work group.
+From Jeff:  Glad to hear it. I recommended that the emerging ePortfolio XML s tandard
+should be used/supported as modern portfolio and planning systems could  use that
+standard to export all the individual learner data that is outside the scope of the traditional
+transcript.  Everyone in this working group agreed, and was looking forward to seeing draft
+specifications.
+Crosswalk Rule from PESC XML Transcripts to EDI TS130: Karen Lee from James Madison University
+in Virginia pointed out a discrepancy among these crosswalks for the use of the SCED code to identify the
+course content for high school courses.  In several of the crosswalks, the SCED code is mapped to a REF
+segment and in others, it is mapped to a NTE segment.  The AACRAO SPEEDE Committee discussed the
+issue on its last call and agreed the most appropriate mapping would b e to a REF segment in the EDI
+TS130.
+On today’s call, ERUG agreed that mapping to a REF segment is a better fit.
+April 24, 2012 Page 2 of 3 pages by Tom Stewart
+
+--- Page 3 ---
+
+PESC ERUG Conference Call Notes for April 24, 2012
+Tom will revise the mapping in the appropriate crosswalks, add a new tab for the affected crosswalks to
+point out the changes, and ask Michael Sessa to replace the affected crosswalks with the revised ones on
+the EDI and XML Crosswalks Page on the PESC.org web site.
+Future PESC ERUG calls: Since Bob Hewett now has another commitment every other week at the time
+of our calls, we agreed to change from weekly calls to regular calls every other week. 
+Today’s call ended at 35 minutes after the hour.
+Next ERUG Conference Call is Tuesday, May 8, 2012 at noon Eastern (11 am Central, 10 am Mountain,
+and 9 am Pacific) Daylight Saving Time. Call 888.205.5513 and use participant code 952016#. 
+Next Face to Face Meeting of ERUG:  PESC Spring 2012 Data Summit May 2 - 4, 2012 in Las Vegas at
+the Wynn | Encore Hotel.  ERUG session is scheduled from 8:30 am to 10:15 am on Thursday, May 3 in
+the hotel’s Alsace Room 2.
+April 24, 2012 Page 3 of 3 pages by Tom Stewart

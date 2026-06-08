@@ -1,0 +1,3024 @@
+
+--- Page 1 ---
+
+P20W Education Standards Council
+Implementation Guide
+Academic Credential &
+Experiential Learning
+Version 1.0
+November 2016
+Mei Hung (meihung@stanford.edu)
+
+
+--- Page 2 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 2
+Version History
+Version Date Changed By Changes
+1.0 October 2016 Mei Hung Initial version submitted for PESC review and
+approval
+1.0 November 2016 Mei Hung Added message contributed by Jim Farmer
+1.0 December 2016 Mei Hung Updates based on latest CoreMain,
+AcademicRecord, and iso_3166 libraries.
+
+--- Page 3 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 3
+Terms and Conditions of Use
+1. How You May Not Use the PESC Intellectual Property (IP)
+In using the Service, you may not: (a) use the PESC IP for any purpose not expressly permitted by us; (b)
+engage in, facilitate, or further unlawful conduct; (c) use the PESC IP in a way that harms us or our advertisers,
+sponsors, affiliates, members, or partners; (d) damage, disable, overburden, or impair the PESC IP or any
+aspect thereof, or interfere with anyone else's ability to access or use the PESC IP; (e) resell or redistribute the
+PESC IP, or any part of the PESC IP; (f) disrupt, or try to gain unauthorized access to: any account, computer,
+hardware, or network related to the PESC IP; (g) obtain (or try to obtain) any data from the PESC IP or related
+hardware, except data that we intend to provide or make available to you; (h) defame, abuse, harass, stalk,
+threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others; (i) publish,
+distribute, or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent, or unlawful
+content, topic, name, material, file, or information; (j) publish, distribute, or disseminate any content, topic,
+name, material, file, or information that incites, advocates, promotes, depicts, constitutes, or expresses child
+pornography, profanity, hatred, bigotry, racism, illegal drug use, gratuitous or graphic violence, or criminal or
+fraudulent activity; (k) use the PESC IP or any material or information made available through the PESC IP in
+any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of us or
+any third party; (l) download or use any material sent or provided by another user of the PESC IP that you
+know, or reasonably should know, cannot be legally shared or distributed in such manner (except as expressly
+permitted by us); (m) view, intercept, or attempt to intercept private communications not intended for you;
+or (n) violate any relevant law or posted guidelines or codes relating to the use of the PESC IP.
+2. Privacy
+In order to operate and provide the PESC IP, we collect certain information about you. In particular, we may
+access or disclose information about you, including the content of your communications, in order to: (a)
+comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of PESC
+or our members, including the enforcement of our agreements or policies governing your use of the PESC IP;
+or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of
+PESC employees, customers, or the public. We may use technology or other means to protect the PESC IP,
+protect our members, or stop you from breaching this Agreement. These means may include, for example,
+filtering to stop spam or increase security. These means may hinder or break your use of the PESC IP.
+3. Intellectual Property
+If you receive from us PESC IP in the form of any software, programs, download or other content (for
+purposes of this Section 3, we refer to all of these, as applicable, as “software”), your use of that software is
+under the terms of this Agreement (including any statement of specific authorized uses or restrictions).
+Unless otherwise stated in this Agreement, then we grant you a limited, personal, non-exclusive, revocable
+license to use the software only for and during the term of this Agreement. You may not copy, download,
+modify or create derivative works, publish, transmit, sell or attempt to sell or transfer, or otherwise use or
+exploit any software unless we have expressly allowed you to do so. Copyright and other intellectual property
+laws and treaties protect the software and all other aspects of your use of the PESC IP. We own the title,
+copyright, and other intellectual property rights in the software and the PESC IP, and the software and PESC IP
+are solely licensed and not sold. You do not have ownership rights to any software made available or
+accessible on or in relation to the PESC IP, regardless of how the software and PESC IP are used, accessed,
+downloaded, or otherwise made available to you. Unless we notify you otherwise, your license to use the
+software will end on the date you cease to be a Member of PESC, if applicable, and you must promptly
+uninstall and delete the software.
+
+--- Page 4 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 4
+4. Interpreting this Agreement
+All parts of this Agreement apply to the maximum extent permitted by law. A court may hold that we cannot
+enforce a part of this contract as written. If this happens, then we will replace that part with terms that most
+closely match the intent of the part that we cannot enforce. The rest of this contract will not change. This is
+the entire contract between you and us regarding your use of the PESC IP. It supersedes any prior contract or
+statements regarding your use of the PESC IP. If you have confidentiality obligations related to the PESC IP,
+those obligations remain in force even after termination or cancellation of the PESC IP (for example, you may
+have been a beta tester). The section titles in the contract do not limit the other terms of this contract.
+5. Assignment
+We may assign this Agreement, in whole or in part, at any time with or without notice to you. You may not
+assign this Agreement, or any part of it, to any other person. Any attempt by you to do so is void. You may not
+transfer to anyone else, either temporarily or permanently, any rights to use the PESC IP or any part of the
+PESC IP.
+6. Claim Must Be Filed Within One Year
+Any claim related to this Agreement or the PESC IP may not be brought unless brought within one year after
+the claim arises. If it is not filed in time, then that claim is permanently barred. This applies to you and your
+successors. It also applies to us and our successors and assigns.
+7. Choice of Law and Location for Resolving Disputes
+Claims for breach of this Agreement will be subject to the laws of the District of Columbia, without reference
+to conflict of laws principles. You consent to the exclusive jurisdiction and venue of the District of Columbia
+for all disputes relating to this Agreement or the PESC IP.
+
+--- Page 5 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 5
+Table of Contents
+1 Introduction.................................................................................................................................................................................5
+2 Development History...............................................................................................................................................................7
+3 Acknowledgments.....................................................................................................................................................................8
+4 Other Standards or Schema Referenced..........................................................................................................................9
+5 Terminology ................................................................................................................................................................................9
+6 Schema Organization, Format, and Implementation...............................................................................................10
+7 Overview of Academic Credential and Experiential Learning Components..................................................11
+7.1 TransmissionData ........................................................................................................................................................ 11
+7.2 DocumentProduction.................................................................................................................................................. 12
+7.3 LearningRecordDetail................................................................................................................................................. 13
+7.4 AcademicLearning........................................................................................................................................................ 13
+8 Academic Credential and Experiential Learning Details .......................................................................................15
+8.1 Elements........................................................................................................................................................................... 15
+8.2 Types.................................................................................................................................................................................. 15
+8.3 Schema Diagrams ......................................................................................................................................................... 16
+Appendix A: Sample XML Document ....................................................................................................................................... 72
+1 Introduction
+Considering that the rise of a more skilled and more demanding workforce requires stronger and more
+targeted talent and skills, the Academic Credential and Experiential Learning Task Force has been focused on
+the emergence of innovative ideas and processes that might better capture potential skills and talents not
+included in the traditional digital record. "As registrars, many of us struggle constantly to maintain
+consistency in the face of faculty and student demands for a more comprehensive credential that documents
+the student academic experience in greater depth," Dr. Rodney Parks, Registrar at Elon University, states in
+
+--- Page 6 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 6
+winning PESC’s 16th Annual Best Practices Competition. The final mission of the Task Force with its goals and
+outputs will be determined by the Task Force as it prepares for its inaugural meeting. Initial tasks include:
+• serving as a resource for the education community and archiving all relevant articles, statuses and
+regulations, guides, and references developed throughout the sector by various stakeholders;
+• identifying and monitoring emerging innovations, best practices, and prototypes to ensure awareness
+and transparency; and,
+• collaborating with all other stakeholders that are leading the space in academic credential and
+experiential learning.
+The current transcript, designed to record learning in the form of course enrollments, course credits, and
+grades, is no longer a sufficiently robust approach to satisfy the needs of the modern learner. Higher
+Education institutions have long adopted the Carnegie Unit as a policy which specifies that learning be
+recorded in the form of time. The GPA (grade point average), a calculation based on that standard, was
+commonly used to demonstrate a student’s achievement. While the transcript and the Carnegie Unit have
+served the academy well for over a hundred years, changes in pedagogy and technology have caused a
+greater awareness that learning should not be measured just as course credits and grades, but should be
+more descriptive. Learning outcomes and a variety of other assessment methods are a means to describe
+learning more in the form of skills, capacities, and abilities mastered.
+While there are new ideas about what should be recorded, higher education has not coalesced around a
+single approach, or even a handful of approaches. It will take time to come to broad agreement on the best
+way to describe and record the learning that takes place on campuses. Further, noncurricular or experiential
+learning, arguably counting among the most important activities in which students can engage, is increasingly
+considered worthy of noting and recording alongside the curricular learning that leads to majors and minors
+and, ultimately, degrees.
+Starting over twenty-five years ago, transcript and course inventory standards were promulgated to enable
+the portability of the established records of the academy as data. EDI, XML, and PDF formats have been
+employed in a variety of use cases to make data exchange common at least within higher education.
+Certainly, many students benefit from the ease with which courses and credit information can be shared
+between institutions. And the use of the PDF format has made it easier for the exchange of student
+achievement information with third parties outside higher education.
+Thus, it is not too early to think about how to capture and convey learning data that describes experiential
+learning alongside one of its most common expressions of acknowledgment, the certificate credential. Paper
+certificate credentials have been in existence for centuries and are used by many organizations and
+institutions to recognize participation, completion, or achievement. However, there is no standard at present
+enabling the electronic exchange of information related to the certificate credential. Thus, it is hereby
+proposed that the following XML standard begin to serve as a means both to create the digital form of the
+certificate credential and to embed within it the information that the certificate credential recognizes.
+Certainly this credential standard could be adopted to convey diploma information as well. The principal value
+proposition for a digital credential is to convey to the learner what (s)he has learned or achieved, but it must
+also provide a standardized form for the learner so that the personal data it contains may be more easily
+controlled and shared with others using certification and authorization technology commonly available today.
+
+--- Page 7 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 7
+2 Development History
+1) The Board of Directors of PESC announced the formation of an interorganizational Task Force focused on
+Academic Credentialing and Experiential Learning at the PESC Spring 2015 Data Summit ED Data Systems
+(April 28-30, 2015).
+• http://www.pesc.org/library/docs/about_us/press/ACTaskForceANNOUNCE06-17-2015v4final.pdf
+2) Discussion of the “emerging best practices in academic credentialing and experiential learning” at the 2nd
+Annual Global Symposium and Summit (October 14-16, 2015).
+• http://www.pesc.org/interior.php?page_id=244
+3) Academic credentialing and experiential learning task force presented the "business case for the
+development of a PESC standard in xml for supporting credentialing and experiential learning records and
+for enhancing data exchange mobility" and introduced alternative framework for learning outcome skills
+mapping at the Spring 2016 data summit (April 13-15, 2016).
+• http://www.pesc.org/interior.php?page_id=247
+4) (Submitted by Jim Farmer, Instructional Media + Magic Inc.) The discussion draft was prepared for the
+PESC Fall 2016 Symposium and Data Summit held October 12-14 in San Diego, California. It was presented
+and discussed at the Thursday session of the Academic Credentialing and Experiential Learning Task Force
+and Common Credential. Thomas C. Black, Associate Vice Provost and Stanford University Registrar, and
+Mei Hung, Application Developer, Stanford University, demonstrated a prototype implementation that
+Mei Hung had developed for certificates.
+During the discussion, it was suggested that the proposed specification be made available to the HR
+(Human Resources) Open Standards organization and interested employers. The HR Technology
+Conference held the previous week had several presentations of Automated Tracking Systems used for
+the recruiting process. Algorithms are being developed and used to make decisions during the evaluation
+process. These systems may work more effectively if digital versions of materials, such as PESC’s
+electronic transcript and ePortfolio and the credentials specification described in this document, are
+widely implemented. This document is being shared with employers and those informal contacts are
+continuing.
+In an earlier email to the Task Force and others, Alex Jackl, Bardic Systems Inc., had summarized the
+comments on the XML specification and the XML Schema (XSD) that implements an evaluation of
+compliance with the standard. Those comments led to changes incorporated in this draft specification.
+Executive Director Michael Sessa said that the Task Force expects to complete their work and, following a
+Public Comment Period, present the proposed standard for approval at the Spring 2017 Symposium and
+Data Summit to be held May 3-5, 2017, in Washington DC.
+In an email, Sessa described the process:
+“A proposed standard, once all the development work is successfully completed, is posted online at
+www.pesc.org. Included in each proposed standard are the Implementation Guide, XML Schema and
+Sample Instance Document. All comments from the education community and the general public must be
+made by email to PESC President & CEO at Michael.Sessa@PESC.org. Public comments can address any
+and/or all part of the standard being proposed.”
+
+--- Page 8 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 8
+With this instruction, the Task Force and publisher Stanford University have been gracious and willing to
+make this document publicly available. Hopefully, this additional distribution encourages readers to
+participate in the Public Comment Period and perhaps attend the PESC Spring Summit where final
+changes in the document will be made and the discussion turns to implementation of the standard.
+This document is being provided to interested HR software developers and employers as well as higher
+education.
+3 Acknowledgments
+Contributors:
+Tom Black Stanford University
+Joellen Shendy University of Maryland University College
+Alex Jackl Bardic Systems
+Michael Sessa PESC
+Tuan Anh Do San Francisco State University
+Kristi Blabaum Great Lakes Higher Education Corporation & Affiliates
+Don Phillips Xap
+Jim Goodell Quality Information Partners
+Michael Morris ACT
+Jeff Elliott University of Missouri
+Jim Farmer Instructional Media + Magic Inc.
+Susan McCrackin Collegeboard.org
+Patrick Elliott University of Maryland University College
+W. Matt Bemis University of Southern California
+Jack Weber Credentials Solutions
+Rajeev Arora Parchment
+Jeffrey Alderson Eduventures
+David Moldoff AcademyOne
+Steven Margenau Great Lakes Educational Loan Services
+Paul Baldridge Great Lakes Educational Loan Services
+Mei Hung Stanford University
+
+--- Page 9 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 9
+4 Other Standards or Schema Referenced
+This standard references the following PESC standards, specifications, and schemas:
+• Core Main (http://www.pesc.org/interior.php?page_id=181)
+• Academic Record (http://www.pesc.org/interior.php?page_id=182)
+• Transcript Request and Response (http://www.pesc.org/interior.php?page_id=174)
+• College Transcript (http://www.pesc.org/interior.php?page_id=164)
+• Education Course Inventory (http://www.pesc.org/interior.php?page_id=243)
+5 Terminology
+To ensure clarity and consistency, below are definitions of the terminology used in the context of this Guide:
+• AwardEndorse: Official approver of the credential award.
+• LearningOutcomeSkillCode: Learning outcome skill based on DQP intellectual skills.
+• LearningOutcomeProficiency: Assessment of learning proficiency.
+• AlternateOutcomeFramework: The alternative skill mappings associated with learning outcomes.
+• ContinuingEducationUnits (CEUs): One CEU equals ten hours of participation.
+• AcademicAwardLevel: The credential award classification is illustrated as below.
+• DQP (Degree Qualification Profile - http://degreeprofile.org): A set of reference points for what
+students should know and be able to do upon completion of associate, bachelor’s and master’s degrees
+– in any field of study.
+• CEDS (Common Education Data Standards - https://ceds.ed.gov/dataModelEntities.aspx): The schema
+elements in the standard are aligned with data element definition in CEDS.
+
+--- Page 10 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 10
+Following is an illustration of the AcademicAwardLevelType tag.
+6 Schema Organization, Format, and Implementation
+The Academic Credential and Experiential Learning schema is designed for:
+• Credential records for both traditional academic learning and extra- and co-curricular experience
+• Learning record data exchange and mobilization
+• Records for credential artifact generation and presentation
+• Expression of the contents of the program as learning outcomes and learning reflection
+• Learning outcome proficiency assessment
+• Learning outcome mapping to alternative systems such as HR system, Higher Ed student records
+system.
+• Both PreK, K-12 and Work Force eco-systems as well as Higher Education
+The schema includes the components of Academic Program, Academic Session, and College Transcript Course
+and it is structured to support the needs of both academic and experiential learning records. It also serves the
+purpose of data transmission using the Transcript Request and Response standard. The schema supports
+credential artifact generation and presentation.
+
+--- Page 11 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 11
+7 Overview of Academic Credential and Experiential Learning Components
+The standard proposes modifications based on the latest versions of CoreMain, AcademicRecord, and
+iso_3166 libraries.
+The schema is composed of 3 main sections:
+1. Transmission Data Section: This section uses the existing PESC Request and Response of the XML
+Transcript standard [http://www.pesc.org/interior.php?page_id=174] and is for conveying data to
+other systems. It describes the requesting source, which is an education institute, and the destination,
+which indicates the school or an organization receives the document.
+2.Document Production Section: The section describes information for generating artifacts to present
+learning records. An artifact is a visual presentation of the learning result credential. It also describes
+the document format, such as XML, PDF, or PDF with attachment
+3.Credential Learning Record Detail Section: This section describes acknowledgment of credential
+learning records and expression of learning that is more explicit in terms of intellectual skills, outcomes,
+goals, or capacities. Learning outcomes can be assessed and can be mapped to alternative vocabularies
+defined in other frameworks.
+The components of the schema are displayed below:
+7.1 TransmissionData
+LearningRecord/TransmissionData
+** PESC Request Implementation Guide
+[http://www.pesc.org/library/docs/standards/College%20Transcript/XMLtranREQUESTigV1-2-0.pdf]
+** PESC Negative Response Implementation Guide
+[http://www.pesc.org/library/docs/standards/College%20Transcript/XMLTRA_x007E_1.pdf]
+
+--- Page 12 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 12
+7.2 DocumentProduction
+The Document Production component is designed for learning records artifact generation. The artifact
+holds the proof for credential awards including the standard elements of student identification data,
+including award title and program award endorsement information. With this information, the organization
+has the ability to design the credential artifact in forms including image, PDF, or Word document.
+
+
+--- Page 13 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 13
+7.3 LearningRecordDetail
+LearningRecordDetail component provides a structure for holding Academic Credential and Experiential
+Learning records. It is used to hold a learner’s identification record and both the traditional academic
+learning records as well as extra- and co-curricular experience records.
+7.4 AcademicLearning
+The AcademicLearning element provides a structure for storing learning records. The learning records can
+be academic, co-curricular, and extracurricular activities records.
+The information is credited in elements shown in the following
+• A credential program is provided by accredited organizations, such as a school or a department.
+• A credential award should specify the level of the degree, certificate, or award granted for the
+successful completion of requirements of an academic program. Summary Type information (child of
+Academic Award) can also indicate if the award is credited to an academic degree.
+• An Achievement Category is the category of the area in which achievement was earned.
+• The Program Instruction Method is used for program and the courses.
+• The Performance Evidence is a website location which keeps the result or products from the learning
+activities. It can be a community services reflection, project research document, or portfolio data.
+• Learning Program is the plan of series courses learning and/or extracurricular activities. Program
+Outcomes Description identifies what the learner knows and is able to do at the end of the program.
+• Academic Session holds information regarding courses taken by a learner and/or holds the learning
+experiences and reflection expressed by the learner during the session period.
+• A course’s learning outcome describes in a comprehensive way what a student should be expected to
+demonstrate as a result of taking the course.
+• A course learning outcome can be assessed based on the categories of proficiencies defined DQP.
+• A course learning outcome has mapping to alternative vocabularies from third parties or career-building
+sites that can easily utilize learning outcomes as student capabilities.
+
+--- Page 14 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 14
+
+
+--- Page 15 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 15
+8 Academic Credential and Experiential Learning Details
+8.1 Elements
+Elements Complex types
+LearningRecord LearningRecordType
+Mentor EndorseType
+AwardEndorse EndorseType
+SponsorOrganization AcRec:OrganizationType
+PerformanceEvidence URLType
+8.2 Types
+Complex types Simple types
+DocumentProductionType LearningTopicType
+EndorseType LearningOutcomeDescriptionType
+LearningRecordDetailType LearningOutcomeSkillCodeType
+AcademicLearningType LearningOutcomeProficiencyCodeType
+LearningProgramType FrameworkOutcomeIdType
+AcademicSessionType FrameworkOutcomeValue
+CourseType DocumentTypeCodeType
+CourseInstructorType PlacementLocation
+LearningOutcomeType LearningReflection
+LearningOutcomeQualificationAssessmentType AcademicAwardLevel
+AlternateOutcomeFrameworkType
+FrameworkOutcomeType
+LearningExperienceType
+
+--- Page 16 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 16
+8.3 Schema Diagrams
+LearningRecord
+diagram
+type LearningRec:LearningRecordType
+properties
+content complex
+children TransmissionData DocumentProduction LearningRecordDetail NoteMessage UserDefinedExtensions
+annotation
+documentation
+The root element of the credential and experiencial learning message
+source <xs:element name="LearningRecord" type="LearningRec:LearningRecordType">
+<xs:annotation>
+<xs:documentation>The root element of the credential and experiencial
+learning message</xs:documentation>
+</xs:annotation>
+</xs:element>
+
+--- Page 17 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 17
+LearningRecordType
+diagram
+children TransmissionData DocumentProduction LearningRecordDetail NoteMessage UserDefinedExtensions
+used by
+element LearningRecord
+source <xs:complexType name="LearningRecordType">
+<xs:annotation>
+<xs:documentation/>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="TransmissionData" type="AcRec:TransmissionDataType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Routing and header information</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="DocumentProduction" type="AcRec:DocumentProductionType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>Information for credential document
+generation</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningRecordDetail"
+type="AcRec:LearningRecordDetailType">
+<xs:annotation>
+<xs:documentation>Credential and experiential Learning Record for a
+student</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about experiencial
+
+--- Page 18 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 18
+learning</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Additional structured information. Requires mutually
+defined XML schema.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+DocumentProductionType
+diagram
+children ElectronicFormat DocumentTypeCode Person AcademicAward AwardEndorse
+used by
+element LearningRecord/DocumentProduction
+annotation documentation
+Information for credential document generation
+source <xs:complexType name="DocumentProductionType">
+<xs:annotation>
+<xs:documentation> Information for credential document generation
+</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="ElectronicFormat" type="AcRec:ElectronicFormatType"/>
+<xs:element name="DocumentTypeCode" type="core:DocumentTypeCodeType"
+minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="Person" type="AcRec:PersonType"/>
+<xs:element name="AcademicAward" type="AcRec:AcademicAwardType"
+minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="AwardEndorse" type="core:EndorseType" minOccurs="0"
+maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 19 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 19
+DocumentProductionType/AwardEndorse
+diagram
+type core:EndorseType
+properties
+minOcc 0
+maxOcc unbounded
+content complex
+children Department PositionTitle Name
+annotation
+documentation
+information about the endorsement of A academic award
+source <xs:element name="AwardEndorse" type="core:EndorseType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>information about the endorsement of A academic
+award</xs:documentation>
+</xs:annotation>
+</xs:element>
+EndorseType
+diagram
+children Department PositionTitle Name
+used by
+elements DocumentProductionType/AwardEndorse LearningExperienceType/Mentor
+
+--- Page 20 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 20
+annotation
+documentation
+Info of a Person who endorses a diploma, a program or a certificate
+source <xs:complexType name="EndorseType">
+<xs:annotation>
+<xs:documentation>Info of a Person who endorses a diploma, a program or a
+certificate</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="Department" type="core:OrganizationNameType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The department within and
+organization</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="PositionTitle" type="core:PositionTitleType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>Job title or position of the contact at the endorsing
+organization</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Name" type="core:NameType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The name of record of the student at the sending
+institution</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+LearningRecordDetailType
+diagram
+
+
+--- Page 21 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 21
+children Person AcademicLearning NoteMessage UserDefinedExtensions
+used by
+element LearningRecordType/LearningRecordDetail
+annotation
+documentation
+A type specifying the details of a learning experience
+source <xs:complexType name="LearningRecordDetailType">
+<xs:annotation>
+<xs:documentation>A type specifying the details of a learning
+experience</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="Person" type="AcRec:PersonType">
+<xs:annotation>
+<xs:documentation>Biographical and demographic information about the
+student.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AcademicLearning" type="AcRec:AcademicLearningType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Program and course information for Learning Records
+Program and course information for Learning Records</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about
+transcript</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Additional structured information. Requires mutually
+defined XML schema.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 22 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 22
+AcademicLearningType
+diagram
+children School Department AcademicAward AchievementCategoryCode ProgramInstructionMethod PerformanceEvidence
+LearningProgram AcademicSession NoteMessage UserDefinedExtensions
+used by
+element LearningRecordDetailType/AcademicLearning
+annotation
+documentation
+Extend from core:AcademicProgramType in order to describe learning program and the learning outcomes
+
+--- Page 23 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 23
+source <xs:complexType name="AcademicLearningType">
+<xs:annotation>
+<xs:documentation>Extend from core:AcademicProgramType in order to describe
+learning program and the learning outcomes</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="School" type="AcRec:SchoolType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Override school</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Department" type="AcRec:OrganizationType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The department within and
+organization</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AcademicAward" type="AcRec:AcademicAwardType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Academic awards, degrees, diplomas, certifications,
+etc.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AchievementCategoryCode"
+type="AcRec:AchievementCategoryCodeType" minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Category for the achievement</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="ProgramInstructionMethod"
+type="core:CourseInstructionMethodType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Method used for instruction.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="PerformanceEvidence" type="core:URLType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>A URL of a web location that hosts a learner's work
+results.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningProgram" type="AcRec:LearningProgramType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Information about the academic program Extend from
+core:AcademicProgramType in order to describe learning program and the learning
+outcomes</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AcademicSession" type="AcRec:AcademicSessionType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Information about an academic
+session</xs:documentation>
+</xs:annotation>
+
+--- Page 24 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 24
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about
+transcript</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Additional structured information. Requires mutually
+defined XML schema.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 25 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 25
+LearningProgramType
+diagram
+type extension of core:AcademicProgramType
+
+--- Page 26 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 26
+properties
+base core:AcademicProgramType
+children ProgramSecondarySchoolCode ProgramCIPCode ProgramHEGISCode ProgramCSISCode ProgramUSISCode
+ProgramESISCode ProgramLocalCode AcademicProgramType AcademicProgramName NoteMessage
+ProgramSummary ProgramDescription LearningOutcome UserDefinedExtensions
+used by
+element AcademicLearningType/LearningProgram
+annotation
+documentation
+Extend from core:AcademicProgramType in order to describe learning program and the learning outcomes
+source <xs:complexType name="LearningProgramType">
+<xs:annotation>
+<xs:documentation>Extend from core:AcademicProgramType in order to describe
+learning program and the learning outcomes</xs:documentation>
+</xs:annotation>
+<xs:complexContent>
+<xs:extension base="core:AcademicProgramType">
+<xs:sequence>
+<xs:element name="ProgramSummary" type="AcRec:AcademicSummaryBaseType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Summary information about the Academic Award
+Program</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="ProgramDescription" type="xs:string" minOccurs="0">
+<xs:annotation>
+<xs:documentation>A short description of a learning
+program</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningOutcome" type="core:LearningOutcomeType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Information about the results of an education
+experience</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Additional structured information. Requires
+mutually defined XML schema.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+
+--- Page 27 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 27
+AcademicSessionType
+diagram
+children AcademicSessionDetail School StudentLevel AcademicProgram AcademicAward Course LearningExperience
+AcademicSummary AttendanceCount UserDefinedExtensions NoteMessage
+
+--- Page 28 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 28
+used by
+elements AcademicRecordType/AcademicSession AdmissionDecisionType/AcademicSession
+AcademicLearningType/AcademicSession
+annotation
+documentation
+Course, award and summary information related to a specific time period. Typically arranged into successive semesters
+or school years and is the preferred method for conveying academic coursework.
+source <xs:complexType name="AcademicSessionType">
+<xs:annotation>
+<xs:documentation>Course, award and summary information related to a
+specific time period. Typically arranged into successive semesters or school
+years and is the preferred method for conveying academic
+coursework.</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="AcademicSessionDetail"
+type="core:AcademicSessionDetailType">
+<xs:annotation>
+<xs:documentation>Information identifying the time period for the
+beginning of this session</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="School" type="AcRec:SchoolType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Override School</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="StudentLevel" type="core:StudentLevelType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>An indication of the classification of the student at
+the time of this Academic Session</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AcademicProgram" type="AcRec:AcademicProgramType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>The major or degree objectives for the student at the
+time of this session</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AcademicAward" type="AcRec:AcademicAwardType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Academic awards associated with this
+session</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Course" type="AcRec:CourseType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Education courses associated with this
+session</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningExperience" type="AcRec:LearningExperienceType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+
+--- Page 29 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 29
+<xs:documentation>Information about a learning
+experience</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AcademicSummary" type="AcRec:AcademicSummaryFType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Academic summary for this session</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AttendanceCount" type="core:AttendanceCountType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>Attendance recorded as days (or partial days) present
+or absent</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>This is a mini schema of previously agreed upon
+formatted data about the session. It is used by a group of previously agreed
+upon users, frequently within a state or among the users of a particular
+vendor</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about the academic
+session</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 30 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 30
+CourseType
+diagram
+
+
+--- Page 31 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 31
+children CourseCreditBasis CourseCreditUnits CourseCreditLevel CourseCreditValue CourseCreditEarned
+CourseAcademicGradeScaleCode CourseAcademicGrade CourseSupplementalAcademicGrade
+CourseAcademicGradeStatusCode CourseNarrativeExplanationGrade CourseRepeatCode CourseCIPCode
+CourseCSISCode CourseUSISCode CourseNCESCode CourseSCEDCode CourseFiveDigitSCEDCode
+CourseSubjectAreaCode CourseQualityPointsEarned CourseLevel CourseGPAApplicabilityCode
+CourseSubjectAbbreviation CourseNumber CourseSectionNumber OriginalCourseID AgencyCourseID CourseTitle
+CourseDescription CourseAddDate CourseDropDate CourseOverrideSchool OverrideSchoolCourseNumber
+CourseApplicability CourseBeginDate CourseEndDate CourseInstructionSite CourseInstructionSiteName
+Requirement Attribute Proficiency Licensure LanguageOfInstruction CourseInstructionMethod CourseInstructor
+LearningTopic LearningOutcome NoteMessage UserDefinedExtensions
+used by
+elements AcademicRecordType/Course AcademicSessionType/Course
+TransferCreditType/TransferCoursesAccepted
+annotation
+documentation
+Academic coursework not related to a specific academic session.
+source <xs:complexType name="CourseType">
+<xs:annotation>
+<xs:documentation>Academic coursework not related to a specific academic
+session.</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="CourseCreditBasis" type="core:CourseCreditBasisType">
+<xs:annotation>
+<xs:documentation>The type of enrollment associated with the credit
+hours for the course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseCreditUnits" type="core:CourseCreditUnitsType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The type of credit (unit, semester, or quarter)
+associated with the credit hours earned for the course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseCreditLevel" type="core:CourseCreditLevelType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The level of credit associated with the credit hours
+earned for the course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseCreditValue" type="core:CourseCreditValueType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>Number indicating the credit hours that may be earned
+in the course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseCreditEarned" type="core:CourseCreditEarnedType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The number of credits a student earned by the
+successful completion of a course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseAcademicGradeScaleCode"
+type="core:CourseAcademicGradeScaleCodeType" minOccurs="0">
+
+--- Page 32 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 32
+<xs:annotation>
+<xs:documentation>The grading scale used by an academic educational
+institution for an academic course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseAcademicGrade" type="core:CourseAcademicGradeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The final grade awarded for participation in the
+course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseSupplementalAcademicGrade"
+type="AcRec:CourseSupplementalAcademicGradeType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Grades that are reported, which combine to make the
+final grade in a course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseAcademicGradeStatusCode"
+type="core:CourseAcademicGradeStatusCodeType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Special enrollment or completion status of this
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseNarrativeExplanationGrade"
+type="core:CourseNarrativeExplanationGradeType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The narrative of the grade awarded to a student in an
+academic course in those cases where a course does not receive a letter or
+numeric grade included in the grading scale of the Course Academic Grade
+Qualifier.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseRepeatCode" type="core:CourseRepeatCodeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>Indicates that an academic course has been repeated by
+a student and how that repeat is to be computed in the student's academic grade
+average.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:choice>
+<xs:element name="CourseCIPCode" type="core:CourseCIPCodeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The Classification of Instructional Programs (CIP)
+code to describe the area of study for the course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseCSISCode" type="core:CourseCSISCodeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The Statistics Canada Canadian College Student
+Information System (CCSIS) code to describe the area of study for the
+course.</xs:documentation>
+
+--- Page 33 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 33
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseUSISCode" type="core:CourseUSISCodeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The Statistics Canada University Student Information
+System (USIS) code to describe the area of study for the
+course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseNCESCode" type="core:CourseNCESCodeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The code set developed (or being developed) by the
+United States Department of Education's National Center for Education Statistics
+for the Classification of Secondary School Courses</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseSCEDCode" type="core:CourseSCEDCodeType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The School Codes for the Exchange of Data (SCED)
+code set being developed for the United States Department of Education's
+National Center for Education Statistics to describe the content and level of a
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseFiveDigitSCEDCode"
+type="core:CourseFiveDigitSCEDCodeType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>This set of code values is derived from the first
+five digits of the CourseSCEDCode above.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseSubjectAreaCode"
+type="core:CourseSubjectAreaCodeType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>This set of code values is derived from the first
+two digits of the CourseSCEDCode above.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:choice>
+<xs:element name="CourseQualityPointsEarned"
+type="core:CourseQualityPointsEarnedType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The numerical value assigned to a letter grade to
+provide a basis of quantitative determination of an average.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseLevel" type="core:CourseLevelType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The level of work demonstrated by successful
+completion of the academic course being described </xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseGPAApplicabilityCode"
+type="core:CourseGPAApplicabilityCodeType" minOccurs="0">
+
+--- Page 34 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 34
+<xs:annotation>
+<xs:documentation>An indicator of whether or not this course being
+described is included in the computation of the student's Grade Point Average,
+and if so, if it weighted differently from regular courses.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseSubjectAbbreviation"
+type="core:CourseSubjectAbbreviationType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The alphabetic abbreviation of the academic department
+or discipline offering the course. It is one part of the total course identifier
+number.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseNumber" type="core:CourseNumberType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The official reference number portion of a course
+identifier. This number frequently designates the level of the course as well as
+the level of the student expected to enroll in the course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseSectionNumber" type="core:CourseSectionNumberType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The number assigned to differentiate among distinct
+occurrences of courses that have the same course abbreviation and number but may
+be considered to be different . For example, it could be used to identify the
+instructor.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="OriginalCourseID" type="core:OriginalCourseIDType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The course ID as it was listed when the credit was
+earned (e.g. before a system conversion) to show consistency between present
+transcripts and older ones. </xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AgencyCourseID" type="core:AgencyCourseIDType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The course ID that might have been assigned to this
+course by the state or other agency</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseTitle" type="core:CourseTitleType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The name or title of the course taken by a student at
+an academic institution.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseDescription" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Course Description</xs:documentation>
+</xs:annotation>
+<xs:simpleType>
+<xs:restriction base="core:CourseDescriptionType">
+
+--- Page 35 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 35
+<xs:maxLength value="255"/>
+<xs:minLength value="1"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="CourseAddDate" type="core:CourseAddDateType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The date a student was added to an academic course at
+a school.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseDropDate" type="core:CourseDropDateType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The date on which the student drops or withdraws from
+the course.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseOverrideSchool" type="AcRec:SchoolType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The school where the credit was earned if different
+from the Academic Session School</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="OverrideSchoolCourseNumber"
+type="core:OverrideSchoolCourseNumberType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The course ID as it was listed at the school where the
+credit was earned</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseApplicability" type="core:CourseApplicabilityType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The academic program to which this academic course
+applies toward graduation.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseBeginDate" type="core:CourseBeginDateType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The official begin date for this
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseEndDate" type="core:CourseEndDateType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The official end date for this
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseInstructionSite"
+type="core:CourseInstructionSiteType" minOccurs="0">
+<xs:annotation>
+
+--- Page 36 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 36
+<xs:documentation>An indication of the type of location at which the
+course is taught.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseInstructionSiteName"
+type="core:CourseInstructionSiteNameType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The name of the location at which the course is
+taught.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Requirement" type="core:RAPType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Curriculum requirements satisfied by successful
+completion of this course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Attribute" type="core:RAPType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Attributes of this course which may require special
+handling by the receiving institution</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Proficiency" type="core:RAPType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Proficiency level signified by successful completion
+of this course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Licensure" type="core:LicensureType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Licensure requirements satisfied by successful
+completion of this course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LanguageOfInstruction"
+type="core:LanguageOfInstructionType" minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Language associated with one or more aspects of the
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseInstructionMethod"
+type="core:CourseInstructionMethodType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The method of instruction used for the
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="CourseInstructor" type="core:CourseInstructorType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Course instructor title and name</xs:documentation>
+
+--- Page 37 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 37
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningTopic" type="core:LearningTopicType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Topics to be taught in a course, learning experience
+or training</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningOutcome" type="core:LearningOutcomeType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Learning outcomes from the course taken and learning
+experience</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about the
+course</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Additional structured information. Requires mutually
+defined XML schema.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+CourseInstructorType
+diagram
+children PositionTitle Name
+used by
+element CourseType/CourseInstructor
+annotation
+documentation
+The detailed information about the course instructor
+source <xs:complexType name="CourseInstructorType">
+<xs:annotation>
+<xs:documentation>The detailed information about the course
+instructor</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+
+--- Page 38 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 38
+<xs:element name="PositionTitle" type="core:PositionTitleType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>Title of this employment position</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Name" type="core:NameType" minOccurs="1">
+<xs:annotation>
+<xs:documentation>The name of record of the student at the sending
+institution</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+LearningOutcomeType
+diagram
+children LearningOutcomeDescription LearningOutcomeQualificationAssessment AlternateOutcomeFramework
+used by
+elements CourseType/LearningOutcome LearningProgramType/LearningOutcome
+annotation
+documentation
+Program learning outcome and the outcome evaluations and alternative outcome mapping
+source <xs:complexType name="LearningOutcomeType">
+<xs:annotation>
+<xs:documentation>Program learning outcome and the outcome evaluations and
+alternative outcome mapping</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="LearningOutcomeDescription"
+type="core:LearningOutcomeDescriptionType">
+<xs:annotation>
+<xs:documentation>Program learning outcome and the outcome evaluations
+and alternative outcome mapping The narrative of course learning
+outcomes.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningOutcomeQualificationAssessment"
+type="core:LearningOutcomeQualificationAssessmentType" minOccurs="0"
+maxOccurs="unbounded">
+
+--- Page 39 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 39
+<xs:annotation>
+<xs:documentation>Information aobut the assessent used to evaluate a
+learning experience Learning Outcome Assessment</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="AlternateOutcomeFramework"
+type="core:AlternateOutcomeFrameworkType" minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>A container to hold the alternative framework
+taxonomies that map to the learning outcome Alternative framework associated
+with learning in outcome </xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+LearningOutcomeQualificationAssessmentType
+diagram
+children LearningOutcomeSkillCode LearningOutcomeProficiencyCode
+used by
+element LearningOutcomeType/LearningOutcomeQualificationAssessment
+annotation
+documentation
+Assessment of learning proficiency
+source <xs:complexType name="LearningOutcomeQualificationAssessmentType">
+<xs:annotation>
+<xs:documentation>Assessment of learning proficiency</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="LearningOutcomeSkillCode"
+type="core:LearningOutcomeSkillCodeType">
+<xs:annotation>
+<xs:documentation>Learning Outcome Skill based on DQP intellectual
+skills Learning Outcome Skill based on DQP intellectual
+skills</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningOutcomeProficiencyCode"
+type="core:LearningOutcomeProficiencyCodeType">
+<xs:annotation>
+<xs:documentation>Assessment of learning proficiency Assessment of
+learning proficiency</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 40 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 40
+AlternateOutcomeFrameworkType
+diagram
+children FrameworkSourceReference FrameworkOutcome
+used by
+element LearningOutcomeType/AlternateOutcomeFramework
+annotation
+documentation
+A container to hold the alternative framework taxonomies that map to the learning outcome
+source <xs:complexType name="AlternateOutcomeFrameworkType">
+<xs:annotation>
+<xs:documentation>A container to hold the alternative framework taxonomies
+that map to the learning outcome</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="FrameworkSourceReference" type="core:URLType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>URL of the alternative framework that has the outcome
+taxnomies URI of alternative framework</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="FrameworkOutcome" type="core:FrameworkOutcomeType"
+minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>information about the outcome of a learning activity
+Alternative framework skill taxonomy</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+FrameworkOutcomeType
+diagram
+children FrameworkOutcomeId FrameworkOutcomeValue
+
+--- Page 41 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 41
+used by
+element AlternateOutcomeFrameworkType/FrameworkOutcome
+annotation
+documentation
+information about the outcome of a learning activity
+source <xs:complexType name="FrameworkOutcomeType">
+<xs:annotation>
+<xs:documentation>information about the outcome of a learning
+activity</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="FrameworkOutcomeId" type="core:FrameworkOutcomeIdType"
+minOccurs="0" maxOccurs="1">
+<xs:annotation>
+<xs:documentation>Identifier for outcome Alternative outcome id
+</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="FrameworkOutcomeValue"
+type="core:LearningOutcomeDescriptionType" minOccurs="1">
+<xs:annotation>
+<xs:documentation>A container to hold the alternative framework
+taxonomies that map to the learning outcome Definition of alternative outcome
+taxonomy</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 42 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 42
+LearningExperienceType
+diagram
+children SponsorOrganization Mentor PlacementLocation LearningReflection NoteMessage UserDefinedExtensions
+used by
+element AcademicSessionType/LearningExperience
+annotation
+documentation
+A type describing information about a learning experience
+source <xs:complexType name="LearningExperienceType">
+<xs:annotation>
+<xs:documentation>A type describing information about a learning
+experience</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="SponsorOrganization" type="xs:string" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The department or organization that sponsors the
+extra- and co-curricular experience learning program or
+courses.</xs:documentation>
+</xs:annotation>
+
+--- Page 43 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 43
+</xs:element>
+<xs:element name="Mentor" type="core:EndorseType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>The information of a person who coaches a learner
+during a service or an extra- and co-curricular experience learning
+program.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="PlacementLocation" type="xs:string" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The location where a learner studies or provides the
+services for the extra- and co-curricular experience learning program or
+courses.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="LearningReflection" type="xs:string" minOccurs="0">
+<xs:annotation>
+<xs:documentation>A learner's essay or statement about the extra- and
+co-curricular learning course taken or about the services
+experience.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about a learning
+experience</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="UserDefinedExtensions"
+type="core:UserDefinedExtensionsType" minOccurs="0">
+<xs:annotation>
+<xs:documentation>Additional structured information. Requires mutually
+defined XML schema. Additional structured information. Requires mutually
+defined XML schema.</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+LearningTopicType
+type restriction of xs:string
+properties
+base xs:string
+used by
+element CourseType/LearningTopic
+facets
+Kind Value Annotation
+minLength 1
+maxLength 300
+annotation
+documentation
+
+--- Page 44 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 44
+Topics to be taught for a course, learning experience or training
+source <xs:simpleType name="LearningTopicType">
+<xs:annotation>
+<xs:documentation>Topics to be taught for a course, learning experience or
+training</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+<xs:minLength value="1"/>
+<xs:maxLength value="300"/>
+</xs:restriction>
+</xs:simpleType>
+LearningOutcomeType/LearningOutcomeDescription
+type restriction of xs:string
+properties
+base xs:string
+used by
+elements FrameworkOutcomeType/FrameworkOutcomeValue
+LearningOutcomeType/LearningOutcomeDescription
+facets
+Kind Value Annotation
+minLength 1
+maxLength 300
+annotation
+documentation
+Text describing the outcome of a learning experience
+source <xs:simpleType name="LearningOutcomeDescriptionType">
+<xs:annotation>
+<xs:documentation>Text describing the outcome of a learning
+experience</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+<xs:minLength value="1"/>
+<xs:maxLength value="300"/>
+</xs:restriction>
+</xs:simpleType>
+FrameworkOutcomeType/FrameworkOutcomeId
+type restriction of xs:string
+properties
+base xs:string
+used by
+element FrameworkOutcomeType/FrameworkOutcomeId
+facets
+Kind Value Annotation
+minLength 1
+maxLength 40
+annotation
+documentation
+
+--- Page 45 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 45
+Program and course information for Learning Records
+source <xs:simpleType name="FrameworkOutcomeIdType">
+<xs:annotation>
+<xs:documentation>Program and course information for Learning
+Records</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+<xs:minLength value="1"/>
+<xs:maxLength value="40"/>
+</xs:restriction>
+</xs:simpleType>
+FrameworkOutcomeType/FrameworkOutcomeValue
+diagram
+type core:LearningOutcomeDescriptionType
+properties
+content simple
+facets Kind Value Annotation
+minLength 1
+maxLength 300
+annotation
+documentation
+A container to hold the alternative framework taxonomies that map to the learning outcome Definition of alternative
+outcome taxonomy
+source <xs:element name="FrameworkOutcomeValue"
+type="core:LearningOutcomeDescriptionType" minOccurs="1">
+<xs:annotation>
+<xs:documentation>A container to hold the alternative framework taxonomies
+that map to the learning outcome Definition of alternative outcome
+taxonomy</xs:documentation>
+</xs:annotation>
+</xs:element>
+LearningOutcomeQualificationAssessmentType/LearningOutcomeSkillCode
+type restriction of xs:string
+properties
+base xs:string
+used by
+element LearningOutcomeQualificationAssessmentType/LearningOutcomeSkillCode
+facets
+Kind Value Annotation
+enumeration AnalyticInquiry documentation
+Analytic Inquiry
+
+--- Page 46 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 46
+enumeration UseInformationResources documentation
+Use Information Resources
+enumeration EngagingDiversePerspective documentation
+Engaging Diverse Perspective
+enumeration EthicalReasoning documentation
+Ethical Reasoning
+enumeration QuantitativeFluency documentation
+Quantitative Fluency
+enumeration CommunicativeFluency documentation
+Communicative Fluency
+enumeration ProgramSpecificIntellectualPracticalSkills documentation
+Program Specific Intellectual Practical Skills
+annotation
+documentation
+Learning Outcome Skill based on DQP intellectual skills
+source <xs:simpleType name="LearningOutcomeSkillCodeType">
+<xs:annotation>
+<xs:documentation>Learning Outcome Skill based on DQP intellectual
+skills</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+<xs:enumeration value="AnalyticInquiry">
+<xs:annotation>
+<xs:documentation>Analytic Inquiry </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="UseInformationResources">
+<xs:annotation>
+<xs:documentation>Use Information Resources </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="EngagingDiversePerspective">
+<xs:annotation>
+<xs:documentation>Engaging Diverse Perspective </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="EthicalReasoning">
+<xs:annotation>
+<xs:documentation>Ethical Reasoning </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="QuantitativeFluency">
+<xs:annotation>
+<xs:documentation>Quantitative Fluency </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+
+--- Page 47 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 47
+<xs:enumeration value="CommunicativeFluency">
+<xs:annotation>
+<xs:documentation>Communicative Fluency </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="ProgramSpecificIntellectualPracticalSkills">
+<xs:annotation>
+<xs:documentation>Program Specific Intellectual Practical Skills
+</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+</xs:restriction>
+</xs:simpleType>
+LearningOutcomeQualificationAssessmentType/LearningOutcomeProficiencyCode
+type restriction of xs:string
+properties
+base xs:string
+used by
+element LearningOutcomeQualificationAssessmentType/LearningOutcomeProficiencyCode
+facets
+Kind Value Annotation
+enumeration Novice documentation
+Novice
+enumeration Intermediate documentation
+Intermediate
+enumeration Proficient documentation
+Proficient
+enumeration Distinguished documentation
+Distinguished
+enumeration Master documentation
+Master
+annotation
+documentation
+Assessment of learning proficiency
+source <xs:simpleType name="LearningOutcomeProficiencyCodeType">
+<xs:annotation>
+<xs:documentation>Assessment of learning proficiency</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+<xs:enumeration value="Novice">
+<xs:annotation>
+<xs:documentation>Novice </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Intermediate">
+<xs:annotation>
+
+--- Page 48 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 48
+<xs:documentation>Intermediate </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Proficient">
+<xs:annotation>
+<xs:documentation>Proficient </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Distinguished">
+<xs:annotation>
+<xs:documentation>Distinguished </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Master">
+<xs:annotation>
+<xs:documentation>Master </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+</xs:restriction>
+</xs:simpleType>
+
+--- Page 49 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 49
+LearningExperienceType/SponsorOrganization
+diagram
+type AcRec:OrganizationType
+
+--- Page 50 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 50
+properties
+minOcc 0
+maxOcc 1
+content complex
+children OPEID NCHELPID IPEDS ATP FICE ACT CCD PSS CEEBACT CSIS USIS ESIS PSIS DUNS MutuallyDefined APAS
+LocalOrganizationID OrganizationName Contacts Accreditation NoteMessage
+annotation
+documentation
+The department or organization that sponsors the extra- and co-curricular experience learning program or courses.
+source <xs:element name="SponsorOrganization" type="AcRec:OrganizationType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>The department or organization that sponsors the extra-
+and co-curricular experience learning program or courses.</xs:documentation>
+</xs:annotation>
+</xs:element>
+
+--- Page 51 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 51
+AcRec:OrganizationType
+diagram
+children OPEID NCHELPID IPEDS ATP FICE ACT CCD PSS CEEBACT CSIS USIS ESIS PSIS DUNS MutuallyDefined APAS
+LocalOrganizationID OrganizationName Contacts Accreditation NoteMessage
+
+--- Page 52 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 52
+used by
+elements AcademicLearningType/Department EmploymentType/Employer SourceDestinationType/Organization
+LearningExperienceType/SponsorOrganization
+annotation
+documentation
+Non-person entity such as Organization, Institution, Agency or Business.
+source <xs:complexType name="OrganizationType">
+<xs:annotation>
+<xs:documentation>Non-person entity such as Organization, Institution,
+Agency or Business.</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:group ref="core:OrganizationIDMultiChoiceGroup"/>
+<xs:element name="LocalOrganizationID" type="core:LocalOrganizationIDType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>A code set typically used by a state, province or
+region to further identify the sending school.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="OrganizationName" minOccurs="0" maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Name of Non-person entity such as Organization,
+Institution, Agency or Business.</xs:documentation>
+</xs:annotation>
+<xs:simpleType>
+<xs:restriction base="core:OrganizationNameType">
+<xs:maxLength value="60"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="Contacts" type="AcRec:ContactsType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>To identify a person or an office at the sending
+school to which administrative communications should be
+directed</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="Accreditation" type="core:AccreditationType"
+minOccurs="0">
+<xs:annotation>
+<xs:documentation>This complex data element provides information about
+the accreditation of the school sending the transcript.</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about the
+organization</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 53 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 53
+LearningExperienceType/Mentor
+diagram
+type core:EndorseType
+properties
+minOcc 0
+maxOcc unbounded
+content complex
+children Department PositionTitle Name
+annotation
+documentation
+The information of a person who coaches a learner during a service or an extra- and co-curricular experience learning
+program.
+source <xs:element name="Mentor" type="core:EndorseType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>The information of a person who coaches a learner during a
+service or an extra- and co-curricular experience learning
+program.</xs:documentation>
+</xs:annotation>
+</xs:element>
+LearningExperienceType/PlacementLocation
+diagram
+type xs:string
+properties
+minOcc 0
+maxOcc 1
+content simple
+
+--- Page 54 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 54
+annotation
+documentation
+The location where a learner studies or provides the services for the extra- and co-curricular experience learning program
+or courses.
+source <xs:element name="PlacementLocation" type="xs:string" minOccurs="0">
+<xs:annotation>
+<xs:documentation>The location where a learner studies or provides the
+services for the extra- and co-curricular experience learning program or
+courses.</xs:documentation>
+</xs:annotation>
+</xs:element>
+LearningExperienceType/LearningReflection
+diagram
+type xs:string
+properties
+minOcc 0
+maxOcc 1
+content simple
+annotation
+documentation
+A learner's essay or statement about the extra- and co-curricular learning course taken or about the services experience.
+source <xs:element name="LearningReflection" type="xs:string" minOccurs="0">
+<xs:annotation>
+<xs:documentation>A learner's essay or statement about the extra- and co-
+curricular learning course taken or about the services
+experience.</xs:documentation>
+</xs:annotation>
+</xs:element>
+AcademicLearningType/PerformanceEvidence
+diagram
+
+
+--- Page 55 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 55
+type core:URLType
+properties
+minOcc 0
+maxOcc unbounded
+content complex
+children URLAddress NoteMessage
+annotation
+documentation
+A URL of a web location that hosts a learner's work results.
+source <xs:element name="PerformanceEvidence" type="core:URLType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>A URL of a web location that hosts a learner's work
+results.</xs:documentation>
+</xs:annotation>
+</xs:element>
+AcademicAwardType/AcademicAwardLevel
+type restriction of xs:string
+properties
+base xs:string
+used by
+element AcademicAwardType/AcademicAwardLevel
+facets
+Kind Value Annotation
+enumeration B17 documentation
+Did not complete secondary school
+enumeration B18 documentation
+Standard High School Diploma which may or may not include an exit test
+enumeration B19 documentation
+Advanced or honors diploma
+enumeration B20 documentation
+Vocational diploma
+enumeration B21 documentation
+Special Education Diploma normally for students with a disabilit
+enumeration B22 documentation
+Certificate of completion or attendance
+enumeration B23 documentation
+Special certificate of completion or attendance
+enumeration B24 documentation
+
+--- Page 56 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 56
+General Education Development Test Diploma (GED)
+enumeration B25 documentation
+Other high school equivalency diploma
+enumeration B26 documentation
+International diploma or certificate (such as International Baccalaureate)
+enumeration B27 documentation
+Standard High School Diploma with only 3 year curriculum
+enumeration B28 documentation
+Met all graduation requirements except for required exit test
+enumeration B58 documentation
+B58
+enumeration B59 documentation
+B59
+enumeration B60 documentation
+B60
+enumeration 0.0 documentation
+"Other" - value to represent an award that does not otherwise fit existing
+enumerations
+enumeration 1.1 documentation
+Certificate of completion,
+enumeration 1.2 documentation
+Certificate of proficiency
+enumeration 1.3 documentation
+Statement of participation
+enumeration 1.4 documentation
+Statement of completion
+enumeration 1.5 documentation
+Statement of achievement
+enumeration 2.0 documentation
+Certificate
+enumeration 2.1 documentation
+Postsecondary Certificate Or Diploma (less than one year)
+
+--- Page 57 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 57
+enumeration 2.2 documentation
+Postsecondary Certificate Or Diploma (one year or more but less than four
+years)
+enumeration 2.3 documentation
+Associate Degree (e.g., Associate In Arts, Associate In Science)
+enumeration 2.4 documentation
+Baccalaureate Degree
+enumeration 2.5 documentation
+Baccalaureate (Honors) Degree
+enumeration 2.6 documentation
+Postsecondary Certificate Or Diploma (one year or more but less than two
+years)
+enumeration 2.7 documentation
+Postsecondary Certificate Or Diploma (two years or more but less than four
+years)
+enumeration 2.8 documentation
+"Undergraduate non-degree" - value to represent an award from
+undergraduate coursework that is not a certificate or degree
+enumeration 3.1 documentation
+First Professional Degree
+enumeration 3.2 documentation
+Post-Professional Degree
+enumeration 3.3 documentation
+"Graduate Professional" - value to represent an award from graduate
+coursework in a professional program
+enumeration 4.0 documentation
+"Graduate non-degree" - value to represent an award from graduate
+coursework that is not a certificate or degree
+enumeration 4.1 documentation
+Graduate Certificate
+enumeration 4.2 documentation
+Master's Degree
+enumeration 4.3 documentation
+Intermediate Graduate Degree
+enumeration 4.4 documentation
+
+--- Page 58 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 58
+Doctoral Degree
+enumeration 4.5 documentation
+Post-doctoral Award
+enumeration FrenchBaccalaureate documentation
+French Baccalaureate
+enumeration CEGEP documentation
+CEGEP
+enumeration 1 documentation
+Postsecondary award, certificate or diploma of less than one academic year
+(less than 900 contact or clock hours)
+enumeration 2 documentation
+Certificate
+enumeration 3 documentation
+Associate's Degree
+enumeration 4 documentation
+Postsecondary award, certificate, or diploma of at least two but less than four
+academic years (at least 1800 contact or clock hours)
+enumeration 5 documentation
+Bachelor's Degree or equivalent
+enumeration 6 documentation
+Postbaccalaureate Certificate
+enumeration 7 documentation
+Master's Degree
+enumeration 8 documentation
+Post Masters Certificate
+enumeration 9 documentation
+Doctor's Degree
+enumeration 10 documentation
+First-Professional Degree
+enumeration 11 documentation
+First-Professional Certificate (Post-Degree)
+enumeration 17 documentation
+Doctor's degree - research/scholarship
+
+--- Page 59 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 59
+enumeration 18 documentation
+Doctor's degree - professional practice
+enumeration 19 documentation
+Doctor's degree - otherAward Levels.
+annotation
+documentation
+The level of the degree, certificate, or award granted for the successful completion of requirements of an academic
+program.B17 Did not complete secondary schoolB18 Standard High School Diploma which may or may not include an
+exit testB19 Advanced or honors diplomaB20 Vocational diplomaB21 Special Education Diploma normally for students
+with a disabilityB22 Certificate of completion or attendanceB23 Special certificate of completion or attendanceB24
+General Education Development (GED) DiplomaB25 Other high school equivalency diplomaB26 International diploma or
+certificate such as International Baccalaureate B27 Standard High School Diploma with only 3 year curriculumB28 Met all
+graduation requirements except for required exit testFrenchBaccalaureate is an award made to high school students who
+complete a rigorous program of student including foreign languages. It allows French and international students to obtain
+a standardized qualification, typically at the age of 18. This then qualifies holders to work in certain areas, or go on to
+tertiary education or acquire some other professional qualification or training.CEGEP is an award made by Canadian
+secondary schools that is typically equivalent to a high school diploma plus one year of college level courses
+source <xs:simpleType name="AcademicAwardLevelType">
+<xs:annotation>
+<xs:documentation>The level of the degree, certificate, or award granted for
+the successful completion of requirements of an academic program.B17 Did not
+complete secondary schoolB18 Standard High School Diploma which may or may not
+include an exit testB19 Advanced or honors diplomaB20 Vocational diplomaB21
+Special Education Diploma normally for students with a disabilityB22 Certificate
+of completion or attendanceB23 Special certificate of completion or
+attendanceB24 General Education Development (GED) DiplomaB25 Other high school
+equivalency diplomaB26 International diploma or certificate such as
+International Baccalaureate B27 Standard High School Diploma with only 3 year
+curriculumB28 Met all graduation requirements except for required exit
+testFrenchBaccalaureate is an award made to high school students who complete a
+rigorous program of student including foreign languages. It allows French and
+international students to obtain a standardized qualification, typically at the
+age of 18. This then qualifies holders to work in certain areas, or go on to
+tertiary education or acquire some other professional qualification or
+training.CEGEP is an award made by Canadian secondary schools that is typically
+equivalent to a high school diploma plus one year of college level
+courses</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+<xs:enumeration value="B17">
+<xs:annotation>
+<xs:documentation>Did not complete secondary school</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B18">
+<xs:annotation>
+<xs:documentation>Standard High School Diploma which may or may not
+include an exit test</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B19">
+<xs:annotation>
+<xs:documentation>Advanced or honors diploma</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+
+--- Page 60 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 60
+<xs:enumeration value="B20">
+<xs:annotation>
+<xs:documentation>Vocational diploma</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B21">
+<xs:annotation>
+<xs:documentation>Special Education Diploma normally for students with a
+disabilit</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B22">
+<xs:annotation>
+<xs:documentation>Certificate of completion or
+attendance</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B23">
+<xs:annotation>
+<xs:documentation>Special certificate of completion or
+attendance</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B24">
+<xs:annotation>
+<xs:documentation>General Education Development Test Diploma
+(GED)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B25">
+<xs:annotation>
+<xs:documentation>Other high school equivalency
+diploma</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B26">
+<xs:annotation>
+<xs:documentation>International diploma or certificate (such as
+International Baccalaureate)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B27">
+<xs:annotation>
+<xs:documentation>Standard High School Diploma with only 3 year
+curriculum</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B28">
+<xs:annotation>
+<xs:documentation>Met all graduation requirements except for required
+exit test</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B58">
+<xs:annotation>
+<xs:documentation>B58</xs:documentation>
+</xs:annotation>
+
+--- Page 61 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 61
+</xs:enumeration>
+<xs:enumeration value="B59">
+<xs:annotation>
+<xs:documentation>B59</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="B60">
+<xs:annotation>
+<xs:documentation>B60</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="0.0">
+<xs:annotation>
+<xs:documentation> "Other" - value to represent an award that does not
+otherwise fit existing enumerations</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="1.1">
+<xs:annotation>
+<xs:documentation>Certificate of completion,</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="1.2">
+<xs:annotation>
+<xs:documentation>Certificate of proficiency</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="1.3">
+<xs:annotation>
+<xs:documentation>Statement of participation</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="1.4">
+<xs:annotation>
+<xs:documentation>Statement of completion</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="1.5">
+<xs:annotation>
+<xs:documentation>Statement of achievement</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.0">
+<xs:annotation>
+<xs:documentation>Certificate</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.1">
+<xs:annotation>
+<xs:documentation>Postsecondary Certificate Or Diploma (less than one
+year)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.2">
+<xs:annotation>
+<xs:documentation>Postsecondary Certificate Or Diploma (one year or more
+but less than four years)</xs:documentation>
+
+--- Page 62 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 62
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.3">
+<xs:annotation>
+<xs:documentation>Associate Degree (e.g., Associate In Arts, Associate
+In Science)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.4">
+<xs:annotation>
+<xs:documentation>Baccalaureate Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.5">
+<xs:annotation>
+<xs:documentation>Baccalaureate (Honors) Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.6">
+<xs:annotation>
+<xs:documentation>Postsecondary Certificate Or Diploma (one year or more
+but less than two years)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.7">
+<xs:annotation>
+<xs:documentation>Postsecondary Certificate Or Diploma (two years or
+more but less than four years)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2.8">
+<xs:annotation>
+<xs:documentation> "Undergraduate non-degree" - value to represent an
+award from undergraduate coursework that is not a certificate or
+degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="3.1">
+<xs:annotation>
+<xs:documentation>First Professional Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="3.2">
+<xs:annotation>
+<xs:documentation>Post-Professional Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="3.3">
+<xs:annotation>
+<xs:documentation> "Graduate Professional" - value to represent an award
+from graduate coursework in a professional program</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4.0">
+<xs:annotation>
+<xs:documentation> "Graduate non-degree" - value to represent an award
+from graduate coursework that is not a certificate or degree</xs:documentation>
+
+--- Page 63 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 63
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4.1">
+<xs:annotation>
+<xs:documentation>Graduate Certificate</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4.2">
+<xs:annotation>
+<xs:documentation>Master's Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4.3">
+<xs:annotation>
+<xs:documentation>Intermediate Graduate Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4.4">
+<xs:annotation>
+<xs:documentation>Doctoral Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4.5">
+<xs:annotation>
+<xs:documentation>Post-doctoral Award</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="FrenchBaccalaureate">
+<xs:annotation>
+<xs:documentation>French Baccalaureate</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="CEGEP">
+<xs:annotation>
+<xs:documentation>CEGEP</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="1">
+<xs:annotation>
+<xs:documentation>Postsecondary award, certificate or diploma of less
+than one academic year (less than 900 contact or clock hours)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="2">
+<xs:annotation>
+<xs:documentation>Certificate</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="3">
+<xs:annotation>
+<xs:documentation>Associate's Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="4">
+<xs:annotation>
+<xs:documentation>Postsecondary award, certificate, or diploma of at
+least two but less than four academic years (at least 1800 contact or clock
+
+--- Page 64 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 64
+hours)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="5">
+<xs:annotation>
+<xs:documentation>Bachelor's Degree or equivalent</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="6">
+<xs:annotation>
+<xs:documentation>Postbaccalaureate Certificate</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="7">
+<xs:annotation>
+<xs:documentation>Master's Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="8">
+<xs:annotation>
+<xs:documentation>Post Masters Certificate</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="9">
+<xs:annotation>
+<xs:documentation>Doctor's Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="10">
+<xs:annotation>
+<xs:documentation>First-Professional Degree</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="11">
+<xs:annotation>
+<xs:documentation>First-Professional Certificate (Post-
+Degree)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="17">
+<xs:annotation>
+<xs:documentation>Doctor's degree -
+research/scholarship</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="18">
+<xs:annotation>
+<xs:documentation>Doctor's degree - professional
+practice</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="19">
+<xs:annotation>
+<xs:documentation>Doctor's degree - otherAward
+Levels.</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+
+--- Page 65 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 65
+</xs:restriction>
+</xs:simpleType>
+URLType
+diagram
+children URLAddress NoteMessage
+used by
+elements AlternateOutcomeFrameworkType/FrameworkSourceReference
+AcademicLearningType/PerformanceEvidence ContactsType/URL ContactsType/URL
+annotation
+documentation
+The Uniform Resource Locator of source institution
+source <xs:complexType name="URLType">
+<xs:annotation>
+<xs:documentation>The Uniform Resource Locator of source
+institution</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="URLAddress" type="core:URLAddressType">
+<xs:annotation>
+<xs:documentation>The Uniform Resource Locator (URL) address of the
+sending high school or of a contact at the sending high
+school</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about the URL address of the
+source institution</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 66 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 66
+DocumentProductionType/DocumentTypeCodeType
+type restriction of xs:string
+properties
+base xs:string
+used by
+elements TransmissionDataType/DocumentType FFELDocumentResponseType/DocumentTypeCode
+CommonRecordResponseType/DocumentTypeCode TransmissionDataType/DocumentTypeCode
+DocumentProductionType/DocumentTypeCode
+facets
+Kind Value Annotation
+enumeration Acknowledgment documentation
+Acknowledgment
+enumeration Application documentation
+Application
+enumeration Cancel documentation
+Cancel
+enumeration Certificate documentation
+Certificate
+enumeration CertificationRequest documentation
+Certification Request
+enumeration Change documentation
+Change
+enumeration Credential documentation
+Credential
+enumeration Diploma documentation
+Diploma
+enumeration DisbursementAcknowledgement documentation
+Disbursement Acknowledgement
+enumeration DisbursementForecast documentation
+Disbursement Forecast
+enumeration DisbursementRoster documentation
+Disbursement Roster
+enumeration InstitutionRequest documentation
+Institution Request
+enumeration GainfulEmploymentStudentResponseFile documentation
+Gainful Employment Student Response File
+
+--- Page 67 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 67
+enumeration GainfulEmploymentStudentSubmittal documentation
+Gainful Employment Student Submittal
+enumeration IPEDS documentation
+Integrated PostSecondary Education Data System
+enumeration NSLDSEnrollmentError documentation
+National Student Loan Data System Enrollment Error
+enumeration NSLDSEnrollmentSubmittal documentation
+National Student Loan Data System Enrollment Submittal
+enumeration Receipt documentation
+Receipt
+enumeration Request documentation
+Request
+enumeration RequestedRecord documentation
+Requested Record
+enumeration Response documentation
+Response
+enumeration ReverseTransfer documentation
+Reverse Transfer
+enumeration StudentRequest documentation
+Student Request
+enumeration TermEnroll documentation
+Term Enroll
+enumeration TermGrade documentation
+Term Grade
+enumeration ThirdPartyRequest documentation
+Third Party Request
+annotation
+documentation
+Type and purpose of document being transmitted
+source <xs:simpleType name="DocumentTypeCodeType">
+<xs:annotation>
+<xs:documentation>Type and purpose of document being
+transmitted</xs:documentation>
+</xs:annotation>
+<xs:restriction base="xs:string">
+
+--- Page 68 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 68
+<xs:enumeration value="Acknowledgment">
+<xs:annotation>
+<xs:documentation>Acknowledgment</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Application">
+<xs:annotation>
+<xs:documentation>Application</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Cancel">
+<xs:annotation>
+<xs:documentation>Cancel</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Certificate">
+<xs:annotation>
+<xs:documentation>Certificate </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="CertificationRequest">
+<xs:annotation>
+<xs:documentation>Certification Request</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Change">
+<xs:annotation>
+<xs:documentation>Change</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Credential">
+<xs:annotation>
+<xs:documentation>Credential </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Diploma">
+<xs:annotation>
+<xs:documentation>Diploma </xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="DisbursementAcknowledgement">
+<xs:annotation>
+<xs:documentation>Disbursement Acknowledgement</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="DisbursementForecast">
+<xs:annotation>
+<xs:documentation>Disbursement Forecast</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="DisbursementRoster">
+<xs:annotation>
+<xs:documentation>Disbursement Roster</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="InstitutionRequest">
+<xs:annotation>
+
+--- Page 69 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 69
+<xs:documentation>Institution Request</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="GainfulEmploymentStudentResponseFile">
+<xs:annotation>
+<xs:documentation>Gainful Employment Student Response
+File</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="GainfulEmploymentStudentSubmittal">
+<xs:annotation>
+<xs:documentation>Gainful Employment Student
+Submittal</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="IPEDS">
+<xs:annotation>
+<xs:documentation>Integrated PostSecondary Education Data
+System</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="NSLDSEnrollmentError">
+<xs:annotation>
+<xs:documentation>National Student Loan Data System Enrollment
+Error</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="NSLDSEnrollmentSubmittal">
+<xs:annotation>
+<xs:documentation>National Student Loan Data System Enrollment
+Submittal</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Receipt">
+<xs:annotation>
+<xs:documentation>Receipt</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Request">
+<xs:annotation>
+<xs:documentation>Request</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="RequestedRecord">
+<xs:annotation>
+<xs:documentation>Requested Record</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Response">
+<xs:annotation>
+<xs:documentation>Response</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="ReverseTransfer">
+<xs:annotation>
+<xs:documentation>Reverse Transfer</xs:documentation>
+</xs:annotation>
+
+--- Page 70 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 70
+</xs:enumeration>
+<xs:enumeration value="StudentRequest">
+<xs:annotation>
+<xs:documentation>Student Request</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="TermEnroll">
+<xs:annotation>
+<xs:documentation>Term Enroll</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="TermGrade">
+<xs:annotation>
+<xs:documentation>Term Grade</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="ThirdPartyRequest">
+<xs:annotation>
+<xs:documentation>Third Party Request</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+</xs:restriction>
+</xs:simpleType>
+
+--- Page 71 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 71
+URLType
+diagram
+children URLAddress NoteMessage
+used by
+elements AlternateOutcomeFrameworkType/FrameworkSourceReference
+AcademicLearningType/PerformanceEvidence ContactsType/URL ContactsType/URL
+annotation
+documentation
+The Uniform Resource Locator of source institution
+source <xs:complexType name="URLType">
+<xs:annotation>
+<xs:documentation>The Uniform Resource Locator of source
+institution</xs:documentation>
+</xs:annotation>
+<xs:sequence>
+<xs:element name="URLAddress" type="core:URLAddressType">
+<xs:annotation>
+<xs:documentation>The Uniform Resource Locator (URL) address of the
+sending high school or of a contact at the sending high
+school</xs:documentation>
+</xs:annotation>
+</xs:element>
+<xs:element name="NoteMessage" type="core:NoteMessageType" minOccurs="0"
+maxOccurs="unbounded">
+<xs:annotation>
+<xs:documentation>Additional information about the URL address of the
+source institution</xs:documentation>
+</xs:annotation>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+--- Page 72 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 72
+Appendix A: Sample XML Document
+<LearningRec:LearningRecord
+xmlns:LearningRec="urn:org:pesc:message:LearningRecord:v1.0.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="urn:org:pesc:message:LearningRecord:v1.0.0
+LearningRecord_v1.0.0.xsd">
+<TransmissionData>
+<DocumentID>1e65ffb9-9576-3aae-9456-38b498abf95a</DocumentID>
+<CreatedDateTime>2016-10-04T18:59:06</CreatedDateTime>
+<DocumentTypeCode>Request</DocumentTypeCode>
+<TransmissionType>Original</TransmissionType>
+<Source>
+<Organization>
+<DUNS>009214214</DUNS>
+<OrganizationName>ABC University</OrganizationName>
+</Organization>
+</Source>
+<Destination>
+<Organization>
+<OPEID />
+<OrganizationName>Creative Company</OrganizationName>
+</Organization>
+</Destination>
+<DocumentProcessCode>PRODUCTION</DocumentProcessCode>
+</TransmissionData>
+<DocumentProduction>
+<ElectronicFormat>PDFWithEmbeddedData</ElectronicFormat>
+<DocumentTypeCode>Certificate</DocumentTypeCode>
+<Person>
+<Name>
+<FirstName>John</FirstName>
+<MiddleName>T</MiddleName>
+<LastName>Doe</LastName>
+<NameSuffix>II</NameSuffix>
+</Name>
+</Person>
+<AcademicAward>
+<AcademicAwardLevel>1.5</AcademicAwardLevel>
+<AcademicAwardDate>2016-06-12</AcademicAwardDate>
+<AcademicAwardTitle>Certificate of Achievement</AcademicAwardTitle>
+<AcademicSummary>
+<AcademicSummaryType>NonDegreeApplicable</AcademicSummaryType>
+<AcademicProgram>
+<AcademicProgramName>Corporate Innovation</AcademicProgramName>
+</AcademicProgram>
+</AcademicSummary>
+<NoteMessage>1.5 statement of achievement</NoteMessage>
+</AcademicAward>
+<AwardEndorse>
+<Department>Graduate School of Business</Department>
+<PositionTitle>Dean</PositionTitle>
+<Name>
+<FirstName>Jim</FirstName>
+
+--- Page 73 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 73
+<LastName>Smith</LastName>
+</Name>
+</AwardEndorse>
+<AwardEndorse>
+<PositionTitle>Faculty Director</PositionTitle>
+<Name>
+<FirstName>Joe</FirstName>
+<LastName>Huy</LastName>
+</Name>
+</AwardEndorse>
+</DocumentProduction>
+<LearningRecordDetail>
+<Person>
+<Name>
+<FirstName>John</FirstName>
+<MiddleName>T</MiddleName>
+<LastName>Doe</LastName>
+<NameSuffix>II</NameSuffix>
+</Name>
+<AlternateName />
+</Person>
+<AcademicLearning>
+<School>
+<OrganizationName>ABC University</OrganizationName>
+<OPEID>00xxxxxx</OPEID>
+<SchoolLevel>Postsecondary</SchoolLevel>
+<NoteMessage>CheaID=xxxxxx</NoteMessage>
+</School>
+<Department>
+<OPEID>00xxxxxx</OPEID>
+<OrganizationName>Graduate School of Business</OrganizationName>
+</Department>
+<AcademicAward>
+<AcademicAwardLevel>1.5</AcademicAwardLevel>
+<AcademicAwardDate>2016-06-12</AcademicAwardDate>
+<AcademicAwardTitle>Certificate of Achievement</AcademicAwardTitle>
+<AcademicSummary>
+<AcademicSummaryType>NonDegreeApplicable</AcademicSummaryType>
+<AcademicProgram>
+<AcademicProgramName>Corporate Innovation</AcademicProgramName>
+</AcademicProgram>
+</AcademicSummary>
+<NoteMessage>1.5 statement of achievement</NoteMessage>
+</AcademicAward>
+<AchievementCategoryCode>Academic</AchievementCategoryCode>
+<ProgramInstructionMethod>FieldStudy</ProgramInstructionMethod>
+<PerformanceEvidence>
+<URLAddress>http://www.abc.edu/johndoeclasswork</URLAddress>
+</PerformanceEvidence>
+<LearningProgram>
+<LearningOutcome>
+<LearningOutcomeDescription>Apply foundational financial and logical analysis to understand and develop
+organizational strategy</LearningOutcomeDescription>
+</LearningOutcome>
+<LearningOutcome>
+<LearningOutcomeDescription>Collaborate with a diverse, global executive cohort to analyze existing
+companies' successes and challenges related to corporate innovation </LearningOutcomeDescription>
+
+--- Page 74 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 74
+</LearningOutcome>
+</LearningProgram>
+<AcademicSession>
+<AcademicSessionDetail>
+<SessionDesignator>2016-06</SessionDesignator>
+</AcademicSessionDetail>
+<Course>
+<CourseCreditBasis>ContinuingEducation</CourseCreditBasis>
+<CourseCreditUnits>ContinuingEducationUnits</CourseCreditUnits>
+<CourseCreditValue>3</CourseCreditValue>
+<CourseSubjectAbbreviation>FINLEAD</CourseSubjectAbbreviation>
+<CourseNumber>27</CourseNumber>
+<CourseTitle>Financing Innovation: The Creation of Value</CourseTitle>
+<CourseDescription>Learn the difference between earnings and cash flow, the importance of net working
+capital, and the determinants of a firm's cost of capital</CourseDescription>
+<CourseInstructionMethod>InternetInstruction</CourseInstructionMethod>
+<CourseInstructor>
+<PositionTitle>Professor</PositionTitle>
+<Name>
+<FirstName>Dainel</FirstName>
+<LastName>Lu</LastName>
+</Name>
+</CourseInstructor>
+<LearningOutcome>
+<LearningOutcomeDescription>Build a financial model using the discounted cash flow, weighted average
+cost of capital method</LearningOutcomeDescription>
+</LearningOutcome>
+<LearningOutcome>
+<LearningOutcomeDescription>Analyze capitalization tables and calculate key terms in venture capital
+financing</LearningOutcomeDescription>
+<LearningOutcomeQualificationAssessment>
+<LearningOutcomeSkillCode>AnalyticInquiry</LearningOutcomeSkillCode>
+<LearningOutcomeProficiencyCode>Proficient</LearningOutcomeProficiencyCode>
+</LearningOutcomeQualificationAssessment>
+<LearningOutcomeQualificationAssessment>
+<LearningOutcomeSkillCode>UseInformationResources</LearningOutcomeSkillCode>
+<LearningOutcomeProficiencyCode>Distinguished</LearningOutcomeProficiencyCode>
+</LearningOutcomeQualificationAssessment>
+<AlternateOutcomeFramework>
+<FrameworkSourceReference>
+<URLAddress>http://www.onetonline.org/link/summary/13-2051.00</URLAddress>
+</FrameworkSourceReference>
+<FrameworkOutcome>
+<FrameworkOutcomeId>13-2051.10</FrameworkOutcomeId>
+<FrameworkOutcomeValue>Analyzing Data or Information</FrameworkOutcomeValue>
+</FrameworkOutcome>
+</AlternateOutcomeFramework>
+</LearningOutcome>
+<LearningOutcome>
+<LearningOutcomeDescription>Use strategies for basing conclusions about society in data including causal
+reasoning, historical contextualization, hypothesis testing, modeling, and critical analysis of behavior and
+institutions</LearningOutcomeDescription>
+<LearningOutcomeQualificationAssessment>
+<LearningOutcomeSkillCode>AnalyticInquiry</LearningOutcomeSkillCode>
+<LearningOutcomeProficiencyCode>Master</LearningOutcomeProficiencyCode>
+</LearningOutcomeQualificationAssessment>
+<LearningOutcomeQualificationAssessment>
+
+--- Page 75 ---
+
+PESC Academic Credential & Experiential Learning Implementation Guide V1.0 November 2016
+© Copyright PESC. P20W Education Standards Council, 2017. All Rights Reserved. Page 75
+<LearningOutcomeSkillCode>QuantitativeFluency</LearningOutcomeSkillCode>
+<LearningOutcomeProficiencyCode>Proficient</LearningOutcomeProficiencyCode>
+</LearningOutcomeQualificationAssessment>
+<AlternateOutcomeFramework>
+<FrameworkSourceReference>
+<URLAddress>http://www.onetonline.org/link/summary/13-2051.00</URLAddress>
+</FrameworkSourceReference>
+<FrameworkOutcome>
+<FrameworkOutcomeId>13-2051.00</FrameworkOutcomeId>
+<FrameworkOutcomeValue>Critical Thinking</FrameworkOutcomeValue>
+</FrameworkOutcome>
+<FrameworkOutcome>
+<FrameworkOutcomeValue>Analyzing Data or Information</FrameworkOutcomeValue>
+</FrameworkOutcome>
+</AlternateOutcomeFramework>
+<AlternateOutcomeFramework>
+<FrameworkSourceReference>
+<URLAddress>http://www.onetonline.org/link/summary/13-1199.04</URLAddress>
+</FrameworkSourceReference>
+<FrameworkOutcome>
+<FrameworkOutcomeValue>Critical Thinking</FrameworkOutcomeValue>
+</FrameworkOutcome>
+</AlternateOutcomeFramework>
+</LearningOutcome>
+</Course>
+</AcademicSession>
+<AcademicSession>
+<AcademicSessionDetail>
+<SessionDesignator>2016-01</SessionDesignator>
+</AcademicSessionDetail>
+<LearningExperience>
+<SponsorOrganization>
+<DUNS>009214214</DUNS>
+<OrganizationName>Haas Center for Public Service</OrganizationName>
+</SponsorOrganization>
+<Mentor>
+<PositionTitle>Professor</PositionTitle>
+<Name>
+<FirstName>Jane</FirstName>
+<LastName>Doe</LastName>
+</Name>
+</Mentor>
+<PlacementLocation>Fresno Renewable Energy. Fresno, California</PlacementLocation>
+<LearningReflection>I worked with the Fresno Engineering team to help size solar photovoltaic systems for
+schools and houses in Fresno. I also supported the team's efforts</LearningReflection>
+</LearningExperience>
+</AcademicSession>
+</AcademicLearning>
+</LearningRecordDetail>
+</LearningRec:LearningRecord>

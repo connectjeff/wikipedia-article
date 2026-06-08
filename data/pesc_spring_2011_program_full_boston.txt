@@ -1,0 +1,487 @@
+
+--- Page 1 ---
+
+ 
+  
+ 
+ 
+UNLOCKING THE POWER OF DATA 
+ 
+ Architects of education data 
+Spring 2011 Data Summit 
+April 26 – 28, 2011 
+Boston 
+Westin Copley square 
+ 
+ 
+
+--- Page 2 ---
+
+ 
+ 
+  
+ 
+Data Summits focus on community development, 
+implementation, integration, maintenance and exchange 
+of data and data standards.  Access, data quality, overall 
+connectivity, and political factors that drive information 
+systems and interoperability are also discussed. 
+ 
+All Summit meetings and events are open to all 
+registered attendees.  Transparent collaboration, 
+engaging discussions, awareness of technical resources 
+and best practices, identification of emerging 
+technologies, new business contacts, and tips from 
+experts of leading community organizations can be 
+expected. 
+ 
+Register today! 
+ 
+Agenda 
+ 
+In continuing its mission of transparent, community-based collaboration, 
+the Spring 2011 Data Summit is held in partnership with the AACRAO 
+SPEEDE Committee, with the Common Education Data Standards (CEDS) 
+Initiative and Consortium, IMS, SIF Association, the Data Quality 
+Campaign (DQC) and the US Department of Education.  The Spring 2011 
+Data Summit includes PESC’s 13th Annual Membership Meeting and 
+Annual Spring Reception. 
+ 
+ 
+Spring 2011 Data Summit 
+April 26 – 28, 2011 
+Boston 
+Westin Copley square 
+Architects of education data 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+
+PESC SPRING 2011 DATA SUMMIT **FINAL DRAFT** 
+“ARCHITECTS OF EDUCATION DATA”  04.22.2011 
+ 
+TUESDAY APRIL 26, 2011       
+ 
+7:30AM – 8:30AM CONTINENTAL BREAKFAST ST. GEORGE FOYER – 3RD FLOOR 
+8:00AM – 8:30AM ORIENTATION FOR FIRST-TIME ATTENDEES (OPTIONAL) ST. GEORGE A 
+8:30AM – 5:00PM REGISTRATION ST. GEORGE FOYER – 3RD FLOOR 
+8:30AM – 10:15AM 
+ 
+CONCURRENT 
+WORKING SESSIONS 
+ST. GEORGE A – 3RD FLOOR ST. GEORGE B – 3RD FLOOR ST. GEORGE C – 3RD FLOOR 
+EDUNIFY TASK FORCE COMMON EDUCATION  
+DATA STANDARDS 
+ELECTRONIC AUTHENTICATION & 
+AUTHORIZATION TASK FORCE 
+10:15AM – 10:30AM BREAK 
+ 
+ST. GEORGE FOYER – 3RD FLOOR 
+10:30AM – NOON 
+ 
+ (CONTINUED) 
+ACADEMIC E-PORTFOLIO 
+WORKGROUP 
+COMMON EDUCATION  
+DATA STANDARDS 
+ELECTRONIC AUTHENTICATION & 
+AUTHORIZATION TASK FORCE 
+NOON – 1:30PM LUNCH ON YOUR OWN 
+ 
+1:30PM – 3:15PM 
+ 
+ (CONTINUED) 
+ACADEMIC E-PORTFOLIO 
+WORKGROUP 
+EDUCATION RECORD  
+USER GROUP 
+CHANGE CONTROL BOARD 
+3:15PM – 3:30PM BREAK 
+ 
+ST. GEORGE FOYER – 3RD FLOOR 
+3:30PM – 5:00PM 
+ 
+ (CONTINUED) 
+TECHNICAL ADVISORY BOARD EDUCATION RECORD  
+USER GROUP 
+SEAL OF APPROVAL BOARD 
+5:15PM – 6:15PM 
+ 
+13TH ANNUAL PESC MEMBERSHIP MEETING  GLOUCESTER – 2ND FLOOR 
+6:30PM – 7:30PM 
+ 
+ANNUAL SPRING RECEPTION  NEWBURY – 2ND FLOOR 
+  
+WEDNESDAY APRIL 27, 2011 
+ 
+7:30AM – 8:30AM CONTINENTAL BREAKFAST STAFFORDSHIRE FOYER – 3RD FLOOR 
+8:30AM – 3:00PM REGISTRATION 3RD FLOOR FOYER 
+8:30AM – 10:15AM 
+ 
+ 
+GENERAL SESSION 
+STAFFORDSHIRE 
+WELCOME TO THE COMMONWEALTH OF MASSACHUSETTS 
+JEFFREY ALDERSON, DIRECTOR OF DEVELOPMENT, CONNECTEDU; PESC BOARD OF DIRECTORS 
+JANE SWIFT, SENIOR VICE PRESIDENT OF GOVERNMENT RELATIONS, CONNECTEDU; FORMER GOVERNOR OF 
+MASSACHUSETTS  
+NCES NATIONAL FORUM ON EDUCATION STATISTICS 
+KATHY GOSA, DIRECTOR OF INFORMATION TECHNOLOGY, KANSAS STATE DEPARTMENT OF EDUCATION; VICE 
+CHAIR, NCES FORUM 
+EDFACTS 
+ROSS SANTY, DIRECTOR OF PERFORMANCE INFORMATION MANAGEMENT, OPEPD – OFFICE OF PLANNING, 
+EVALUATION AND POLICY DEVELOPMENT, US DEPARTMENT OF EDUCATION 
+ IPEDS – INTEGRATED POSTSECONDARY EDUCATION DATA SYSTEM 
+ELISE MILLER, PROGRAM DIRECTOR, IPEDS – INTEGRATED POSTSECONDARY EDUCATION DATA SYSTEM, 
+NCES – NATIONAL CENTER FOR EDUCATION STATISTICS, US DEPARTMENT OF EDUCATION 
+10:15AM – 10:30AM BREAK STAFFORDSHIRE FOYER 
+10:30AM – 12:00PM 
+ 
+ 
+GENERAL SESSION 
+STAFFORDSHIRE 
+STATE LONGITUDINAL DATA SYSTEMS GRANTS & COMMON EDUCATION DATA STANDARDS 
+JACK BUCKLEY, COMMISSIONER, NCES – NATIONAL CENTER FOR EDUCATION STATISTICS, US DEPARTMENT OF 
+EDUCATION 
+COMMON EDUCATION DATA STANDARDS  & THE CONSORTIUM 
+HANS L'ORANGE, VICE PRESIDENT FOR RESEARCH AND INFORMATION RESOURCES, AND DIRECTOR OF THE 
+SHEEO/NCES NETWORK, SHEEO – STATE HIGHER EDUCATION EXECUTIVE OFFICERS 
+ALEX JACKL, CCSSO – COUNCIL OF CHIEF STATE SCHOOL OFFICERS 
+DATA QUALITY CAMPAIGN 
+AIMEE GUIDERA, EXECUTIVE DIRECTOR, DQC – DATA QUALITY CAMPAIGN  
+NATIONAL EDUCATION TECHNOLOGY PLAN 
+KAREN CATOR, DIRECTOR, OFFICE OF EDUCATIONAL TECHNOLOGY, US DEPARTMENT OF EDUCATION 
+12:00PM – 1:30PM 
+ 
+LUNCH 
+STAFFORDSHIRE 
+ 
+KEYNOTE: INCOMMON AND PESC: A STRATEGIC PARTNERSHIP 
+JOHN ‘JACK’ SUESS, VICE PRESIDENT FOR INFORMATION TECHNOLOGY & CIO, UNIVERSITY OF MARYLAND, 
+BALITMORE COUNTY; CHAIR, INCOMMON STEERING COMMITTEE 
+ 
+1:30PM – 3:00PM IMPLEMENTATION PANEL 
+ 
+
+
+--- Page 4 ---
+
+ 
+ 
+GENERAL SESSION 
+STAFFORDSHIRE 
+SHAWN BAY, FOUNDER & CEO, ESCHOLAR   
+RICK TORRES, PRESIDENT & CEO, NATIONAL STUDENT CLEARINGHOUSE 
+ CLINT MULLINS, PROGRAM MANAGER, SOUTH CAROLINA COMMISSION ON HIGHER EDUCATION 
+ 
+PESC 
+MICHAEL SESSA, PRESIDENT & CEO 
+FSA 
+RICHARD GORDON, CIO, FSA – FEDERAL STUDENT AID, US DEPARTMENT OF EDUCATION 
+MIKE FILLINICH, SENIOR TECHNICAL MANAGER, ENTERPRISE DATA SERVICES, TECHNOLOGY OFFICE, FSA – 
+FEDERAL STUDENT AID, US DEPARTMENT OF EDUCATION 
+3:00PM – 3:15PM BREAK STAFFORDSHIRE FOYER 
+3:15PM – 4:00PM 
+ 
+GENERAL SESSION 
+STAFFORDSHIRE 
+SIF ASSOCIATION 
+LARRY FRUTH, EXECUTIVE DIRECTOR/CEO 
+IMS 
+ROB ABEL, CEO 
+4:00PM – 4:15PM BREAK  
+4:15PM – 5:15PM 
+ 
+WORKSHOPS 
+ 
+WORKSHOP: XML REGISTRY & REPOSITORY 
+ESSEX NORTH CENTER – 3RD FLOOR  
+WORKSHOP: PESC APPROVED STANDARDS IN CANADA 
+ESSEX NORTH WEST – 3RD FLOOR 
+4:30PM – 6:00PM 
+ 
+WORKSHOP: DATA QUALITY CAMPAIGN:  POSTSECONDARY IMPACT 
+BAR 10 
+ 
+6:00PM ADJOURN  
+ 
+ 
+THURSDAY APRIL 28, 2011 
+ 
+7:30AM – 8:30AM CONTINENTAL BREAKFAST ST. GEORGE FOYER – 3RD FLOOR 
+8:30AM – NOON REGISTRATION 3RD FLOOR FOYER 
+8:30AM – 10:00AM 
+ 
+CONCURRENT 
+WORKING SESSIONS 
+ 
+ST. GEORGE C – 3RD FLOOR  ST. GEORGE D – 3RD FLOOR  COURIER – 7TH FLOOR  
+LAUNCH:  
+COMMON IP – INTELLECTUAL 
+PROPERTY POLICY WORKGROUP 
+ 
+LAUNCH:  
+COMMON XML ARCHITECTURE & 
+DATA MODELING WORKGROUP 
+LAUNCH:  
+KUALI WORKGROUP 
+ 
+10:00AM – 10:15AM BREAK ST. GEORGE FOYER 
+10:15AM – 12:00PM 
+ 
+ (CONTINUED)   
+COMMON IP – INTELLECTUAL 
+PROPERTY POLICY WORKGROUP 
+COMMON XML ARCHITECTURE & 
+DATA MODELING WORKGROUP 
+KUALI WORKGROUP 
+ 
+12:00PM ADJOURN  
+1:30PM – 4:00PM IMS, PESC, SIF PRINCIPALS MEETING (INVITATION ONLY) 
+COURIER 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 5 ---
+
+CONCURRENT WORKING AND GENERAL SESSION DESCRIPTIONS 
+ 
+ACADEMIC E-PORTFOLIO 
+A current PESC development workgroup within the Standards Forum for Education focusing on  the development of 
+an XML standard to support ePortfolio stakeholders. 
+Co-Chairs: John Ittelson, Professor Emeritus, California State University Monterey Bay  
+ ittelson@csumb.edu 
+ Don Phillips, Xap Corporation 
+  don.phillips@xap.com  
+ 
+COMMON EDUCATION DATA STANDARDS (CONCURRENT) 
+An informal discussion focusing on current and future activities of CEDS.  
+Co-Chairs: Hans L’Orange, Vice President, SHEEO  
+ hans@sheeo.org 
+ Alex Jackl  
+ ajackl@gmail.com 
+ 
+ELECTRONIC AUTHENTICATION/AUTHORIZATION (EA2) TASK FORCE 
+A current PESC task force focusing on advancement, yet simplification of user experiences with education 
+technology and resources, support of portability of data and research, maximization of  the value and integrity of 
+education technology all in a secured and trustworthy environment.  
+Co-Chairs: Charlie Leonhardt, Principal Technologist, Georgetown University  
+ leonhardt@georgetown.edu 
+Arnie Miles, Middleware Architect & Assistant Adjunct Professor of Computer Sciences, Georgetown 
+University  
+ adm35@georgetown.edu 
+ 
+EDUNIFY TASK FORCE 
+A current PESC task force focusing on web services, service oriented architecture and public/private registries. 
+Co-Chairs: Steve Wheat, Chief IT Architect, Emory University  
+ swheat@emory.edu  
+ Jim Wager, Vice President, SCRIP-SAFE International  
+ jwager@scrip-safe.com  
+ 
+EDUCATION RECORD USER GROUP 
+A current PESC user group within the Standards Forum for Education focusing on  maintenance of approved EDI & 
+XML standards related to the admissions and registrar functions  (high school & college transcripts, admissions 
+application, test scores, PDFs, etc.) 
+Co-Chairs: Tuan Ahn Do, San Francisco State University  
+ doey@sfsu.edu  
+ Bob Hewett, Pearson  
+ bhewett@pearson.com  
+ 
+TECHNICAL ADVISORY BOARD (TAB) 
+A current PESC committee within the Standards Forum for Education  that supports all development and directs the 
+strategic direction of technical issues. 
+Co-Chairs: Michael Morris, Director, ACT  
+ michael.morris@act.org 
+ Gideon Sanstra, SunGard Higher Education  
+ gideon.sanstra@sungardhe.com  
+ 
+CHANGE CONTROL BOARD (CCB) 
+A current PESC committee within the Standards Forum for Education  that authorizes the approval of new 
+standards and approved maintenance of existing standards. 
+Chair: Kristi Blabaum, Great Lakes Educational Loan Services  
+ kblabaum@glhec.org  
+ 
+SEAL OF APPROVAL BOARD (SAB) 
+A current PESC committee focusing on launching a new service within PESC that will ensure uniform 
+implementation of PESC Approved Standards. 
+Chair: Francisco Valines, Director of Financial Aid, Florida International University  
+ valinesf@fiu.edu  
+ 
+ 
+
+--- Page 6 ---
+
+NCES – NATIONAL FORUM ON EDUCATION STATISTICS 
+A general overview and update on the NCES Forum including current and future activities.  
+Presenter: Kathy Gosa, Director of Information Technology, Kansas State Department of Education  
+ kgosa@ksde.org   
+ 
+EDFACTS 
+A general overview and update on EdFACTS including current and future activities.  
+Presenter: Ross Santy, Director of Performance Information Management, OPEPD, US Department of Education 
+ ross.santy@ed.gov 
+ 
+IPEDS – INTEGRATED POSTSECONDARY EDUCATION DATA SYSTEM 
+A general overview and update on IPEDS including current and future activities. 
+Presenter: Elise Miller, Program Director, IPEDS, NCES, US Department of Education 
+ elise.miller@ed.gov  
+ 
+STATE LONGITUDINAL DATA SYSTEMS (SLDS) GRANTS AND COMMON EDUCATION DATA STANDARDS 
+A general overview and update on SLDS and CEDS including current and future activities.  
+Presenter: Jack Buckley, Commissioner, NCES, US Department of Education 
+ jack.buckley@ed.gov  
+ 
+COMMON EDUCATION DATA STANDARDS AND THE CONSORTIUM 
+A general overview and update on CEDS including current and future activities.  
+Presenters: Hans L’Orange, Vice President, SHEEO  
+ hans@sheeo.org  
+ Alex Jackl  
+ ajackl@gmail.com  
+ 
+DATA QUALITY CAMPAIGN 
+A general overview and update on DQC including current and future activities. 
+Presenter: Aimee Guidera, Executive Director, DQC 
+ aimee@dataqualitycampaign.org  
+ 
+NATIONAL EDUCATION TECHNOLOGY PLAN (NETP) 
+A general overview and update on NETP including current and future activities. 
+Presenter: Karen Cator, Director of Education Technology, US Department of Education  
+ karen.cator@ed.gov  
+ 
+PESC AND INCOMMON:  A STRATEGIC PARTNERSHIP 
+The keynote presentation proposing a strategic collaboration and partnership between PESC and InCommon.  
+Presenter: John ‘Jack’ Suess, Vice President of Information Technology & CIO, University of Maryland Baltimore 
+County 
+ john@umbc.edu 
+ 
+IMPLEMENTATION PANEL 
+Several perspectives that highlight best practices and implementations solving specific problems.  
+Presenters: Shawn Bay, Founder, eScholar 
+ sbay@escholar.com 
+ Rick Torres, President & CEO, National Student Clearinghouse 
+ rtorres@studentclearinghouse.org 
+Clint Mullins, (invited), Program Manager, Division of Academic Affairs & Licensing, South  Carolina 
+Commission on Higher Education    
+ 
+PESC 
+A general overview and update on PESC including current and future activities. 
+Presenter: Michael Sessa, President & CEO, PESC  
+ michael.sessa@pesc.org  
+ 
+FSA 
+A general overview and update on FSA including current and future activities.  
+Presenter: Richard Gordon, CIO, Federal Student Aid, US Department of Education  
+ richard.gordon@ed.gov  
+ Mike Fillinich, Senior Manager, Federal Student Aid, US Department of Education  
+ mike.fillinich@ed.gov  
+ 
+ 
+ 
+
+--- Page 7 ---
+
+ 
+SIF ASSOCIATION 
+A general overview and update on SIF including current and future activities. 
+Presenter: Larry Fruth:  Executive Director/CEO, SIF Association  
+ lfruth@sifassociation.org  
+ 
+IMS 
+A general overview and update on IMS including current and future activities.  
+Presenter: Rob Abel, CEO, IMS  
+ rabel@imsglobal.org  
+ 
+WORKSHOP ON XML REGISTRY & REPOSITORY 
+An informal discussion about the role of the XML Registry & Repository for the Education Community and how it 
+can serve PK20 stakeholders. 
+Presenter:  Mike Fillinich, Senior Manager, Federal Student Aid, US Department of Education  
+ mike.fillinich@ed.gov  
+ Michael Sessa, President & CEO, PESC  
+ michael.sessa@pesc.org  
+  
+WORKSHOP ON PESC APPROVED STANDARDS IN CANADA 
+An informal discussion to ensure coordination and alignment of Canadian-specific stakeholder  issues within all 
+efforts of PESC, to Increase awareness and outreach of efforts occurring in Canada , to highlight major Canadian 
+initiatives, to ensure organizations using or implementing PESC Approved Standards are recognized . 
+Co-Chairs:   Bill McKee, Director of Operations, OCAS  
+ mckee@ocas.ca 
+ Shane Aulenbach, VP or R & D, Decision Academic  
+ shane.aulenback@decisionacademic.com  
+  
+WORKSHOP ON THE DATA QUALITY CAMPAIGN IN POSTSECONDARY EDUCATION 
+An informal discussion about the impact of the DQC on the postsecondary sector. 
+Presenter: Aimee Guidera, Executive Director, Data Quality Campaign  
+ aimee@dataqualitycampaign.org  
+ 
+COMMON IP 
+An open workgroup investigating the development of a single Technic al Guide and IP Policy for PK20 education. 
+Co-Chairs: Larry Fruth, Executive Director/CEO, SIF Association 
+ lfruth@sifassociation.org  
+ Rob Abel, CEO, IMS Global Learning Consortium 
+ rabel@imsglobal.org  
+ David Moldoff, Founder & CEO, AcademyOne, representing PESC  
+ dmoldoff@academyone.com  
+ 
+COMMON XML 
+An open workgroup investigating the development of a single Technical Guide and IP Policy for PK20 education.  
+Co-Chairs: Ron Kleinman, CTO, SIF Association 
+ rkleinman@sifassociation.org  
+ Colin Smythe, Chief Architect, IMS Global Learning Consortium  
+ csmythe@imsglobal.org  
+ Shawn Bay, Founder, eScholar, representing PESC 
+ sbay@escholar.com  
+ 
+KUALI WORKGROUP 
+A new PESC workgroup within the Standards Forum for Education focusing on development of XML standards to 
+support users of Kuali open source software. 
+Chair: Matthew Coombs, Sr. Director of Systems Development, San Joaquin Delta College  
+ mcoombs@deltacollege.edu 
+  
+
+--- Page 8 ---
+
+ 
+Additional reading materials are posted and available on the Spring 2011 Data Summit Page Under “Events” on the 
+PESC website www.PESC.org: 
+ 
+ AACRAO SPEEDE Survey of State-by-State Initiatives 04-06-2011 
+ NCES State Education Agency (SEA) Survey 11-2009 
+ NIST’s The ABC’s of Standards 
+ The Value of Standards 
+ 12th Annual Report on Federal Agency Use of Voluntary Consensus Standards and 
+Conformity Assessment 
+ National Technology Transfer and Advancement Act (NTTA) of 1995 
+ OMB Circular A-119 of 1998 
+ Section 143 of the Higher Education Act of 1965, as amended 
+ 
+ 
+  
+
+--- Page 9 ---
+
+ 
+ 
+ 
+ 
+UNLOCKING THE POWER OF DATA 
+ 
+ Architects of education data 
+Spring 2011 Data Summit 
+April 26 – 28, 2011 
+Boston 
+Westin Copley square 
