@@ -32,6 +32,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `afc/submission_note.md` - COI disclosure and submission text.
 - `afc/checklist.md` - pre-submission checklist.
 - `data/` - fetched source pages and extracted PDF text.
+- `archive/private_records/` - private transcript PDFs retained for internal project archival only; do not cite, upload, or submit as AfC source evidence.
 
 ## Source Improvement Plan
 
@@ -54,7 +55,7 @@ Overall AfC readiness: moderate and suitable for a good-faith as-is submission. 
 
 Lead: fair. The lead accurately summarizes the strongest supported roles: education technology, Air Force service, Eduventures, MATLAB Grader, inBloom, and Natick town moderator. It should not be expanded unless a stronger independent profile source is found.
 
-Education and military service: acceptable but source-limited. The section is concise and uses a local oral-history/archive source for WPI and military-service facts and a MathWorks speaker bio for the University of Illinois Urbana-Champaign Master of Education item. Private WPI and UIUC transcript PDFs exist in the project as internal corroboration only and should not be cited or submitted as AfC source evidence. Because the published sources are primary-adjacent or affiliated, this section should remain brief and should not support notability.
+Education and military service: acceptable but source-limited. The section is concise and uses a local oral-history/archive source for WPI and military-service facts and a MathWorks speaker bio for the University of Illinois Urbana-Champaign Master of Education item. Private WPI and UIUC transcript PDFs are archived in `archive/private_records/` for internal corroboration only and should not be cited, uploaded, or submitted as AfC source evidence. Because the published sources are primary-adjacent or affiliated, this section should remain brief and should not support notability.
 
 Education technology career: strongest section. Data & Society is the core Alderson-specific source because it identifies his technical role in the New York implementation of inBloom and includes attributed commentary. SXSW EDU and Education Week now provide stronger context for why inBloom mattered, but they do not mention Alderson. Campus Technology provides independent trade coverage of his Eduventures analyst work. MIT Open Learning supports the MathWorks/MATLAB Grader connection but is event-bio context rather than profile coverage. Keep PESC, SlideShare, ProctorFree, and similar sources mostly in the dossier unless a specific narrow fact is needed.
 
