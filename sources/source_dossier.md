@@ -2,11 +2,11 @@
 
 Working status: evidence file for a proposed Wikipedia Articles for Creation submission.
 
-Review principle: use only verifiable sources in the article draft. The shared ChatGPT transcript is planning context only and is not an article source.
+Review principle: use only verifiable sources in the article draft.
 
 ## Source Quality Summary
 
-The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology article independently identifies him as author and principal analyst for an Eduventures learning management systems report. Natick Report sources verify his 2025 municipal role and later town moderator activity. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
+The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. Natick Report sources verify his 2025 municipal role and later town moderator activity. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
 
 The notability case remains moderate-risk for AfC. The sources verify facts, but several are short mentions, organizational listings, or coverage of projects rather than in-depth biographical coverage.
 
@@ -15,7 +15,7 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | ID | Year | Source | Title | Source type | Independent? | Status | Significant coverage? | Notability weight | Use in draft |
 |---|---:|---|---|---|---|---|---|---|---|
 | S1 | 2017 | Data & Society Research Institute | The Legacy of inBloom | Research working paper | Yes | Verified; PDF text extracted | Moderate | Medium to High | inBloom role and professional context |
-| S2 | 2016 | Campus Technology | Eduventures Publishes Report on Learning Management Systems | Trade journalism | Yes | Verified | Moderate | Medium | Eduventures analyst role |
+| S2, CT2 | 2016 | Campus Technology | Eduventures LMS and higher-ed analytics articles | Trade journalism | Yes | Verified | Minor to moderate | Low to Medium | Eduventures analyst role and professional context |
 | N1-N25 | 2023-2026 | Natick Report | Full search result set for `Jeff Alderson` | Local news / opinion / primary statements | Mixed | Verified and reviewed | Minor to moderate | Low to Medium | Municipal-service facts; see `sources/natick_report_sources.md` |
 | M1-M3 | 2025 | MetroWest Daily News | Search result and related Natick election articles | Local news / letter | Mixed | Verified and reviewed | Minor | Low to Medium | Municipal election corroboration; see `sources/metrowest_daily_news_sources.md` |
 | S7 | 2026 | Natick Veterans Oral History Project | Jeff Alderson, Air Force veteran | Local archive/oral history | Partial | Verified | Short biographical entry | Low to Medium | Military service facts |
@@ -23,7 +23,6 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | S9 | Unknown | ASEE PEER | Focus More on Teaching than Grading: Try MATLAB Grader | Conference paper/proceedings | Likely yes | Located but not verified; site returned heavy-load page | Unknown | TBD | Do not cite until reviewed |
 | S10 | Unknown | Encoura | Encoura Wake-Up Call Author - Jeffrey Alderson | Corporate profile | No | Verified page, insufficient content | Very sparse | Low | Do not use unless richer content is found |
 | S11 | 2021 | ASME Mechanical Engineering | DOI 10.1115/1.2021-Sept2 | Trade publication | Likely yes | Located but blocked/not reviewed | Unknown | TBD | Do not cite until reviewed |
-| S12 | 2026 | ChatGPT shared transcript | Wikipedia Biography Creation Plan | Planning context | No | Saved locally | Not an article source | None | Do not cite |
 
 ## Reviewed Source Notes
 
@@ -43,11 +42,19 @@ Verified details:
 
 Assessment: strong for professional-role verification and moderately strong for notability. It is not a profile, but it contains substantive attributed commentary.
 
-### S2: Campus Technology, Eduventures Publishes Report on Learning Management Systems
+See `sources/data_society_inbloom_sources.md` for the dedicated Data & Society / inBloom source list.
 
-URL: https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx
+### S2 and CT2: Campus Technology Articles
 
-Local file: `data/campus_technology_lms.html`
+URLs:
+
+- https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx
+- https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1
+
+Local files:
+
+- `data/campus_technology_lms.html`
+- `data/campus_technology_big_data_groundwork.html`
 
 Verified details:
 
@@ -56,8 +63,15 @@ Verified details:
 - Date in URL and page: January 28, 2016
 - Author: Dian Schaffhauser
 - The article identifies Alderson as author and Principal Analyst for an Eduventures report on learning management systems and quotes him on the report's purpose.
+- Title: `Laying the Groundwork for Big Data`
+- Publication: Campus Technology
+- Date on page: February 25, 2016
+- Author: David Raths
+- The article identifies Alderson as principal analyst for Eduventures and uses his comments on higher-education analytics vendors, data integration, and data governance as context for an article about institutional data leadership.
 
-Assessment: independent trade-journalism source. Useful, but the article is about the report, not Alderson as a biographical subject.
+Assessment: independent trade-journalism sources. Useful for professional context, but the articles are about education-technology topics rather than Alderson as a biographical subject.
+
+See `sources/campus_technology_sources.md` for the dedicated Campus Technology source list.
 
 ### N1-N25: Natick Report Full Search-Result Review
 
@@ -112,6 +126,8 @@ Verified details:
 
 Assessment: useful for non-contentious service facts, but likely primary-adjacent. Avoid unsupported interpretation.
 
+See `sources/natick_veterans_sources.md` for the dedicated Natick Veterans source list.
+
 ### S8: PESC awards page
 
 URL: https://pesc.org/awards/
@@ -124,12 +140,18 @@ Verified details:
 
 Assessment: organizational source, weak for notability but acceptable for verifying the award/listing.
 
+See `sources/pesc_sources.md` for the dedicated PESC source list.
+
 ## Sources Not Used In Draft
 
 - ASEE PEER page for `Focus More on Teaching than Grading: Try MATLAB Grader`: located but not verified because the site returned a heavy-load page. Do not cite until content and authorship are reviewed.
 - ASME DOI `10.1115/1.2021-Sept2`: DOI resolved to a Cloudflare-blocked ASME page. Do not cite until reviewed.
 - Encoura author page: downloaded page verified existence but did not expose enough substantive biographical content to cite.
 - LinkedIn profile PDF: saved locally but self-published; do not use for notability and avoid using for article facts unless a non-contentious fact has no better source.
+
+See `sources/unverified_publication_leads.md` for source leads that need review before citation.
+
+See `sources/affiliated_profile_sources.md` for affiliated/profile sources and usage limits.
 
 ## Ready Citation Templates
 
@@ -139,6 +161,8 @@ These are the citation templates used or available for use in the draft.
 {{cite report |last1=Bulger |first1=Monica |last2=McCormick |first2=Patrick |last3=Pitcan |first3=Mikaela |title=The Legacy of inBloom |publisher=Data & Society Research Institute |date=February 2, 2017 |url=https://datasociety.net/pubs/ecl/InBloom_feb_2017.pdf |access-date=June 8, 2026}}
 
 {{cite web |last=Schaffhauser |first=Dian |title=Eduventures Publishes Report on Learning Management Systems |url=https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx |website=Campus Technology |date=January 28, 2016 |access-date=June 8, 2026}}
+
+{{cite web |last=Raths |first=David |title=Laying the Groundwork for Big Data |url=https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1 |website=Campus Technology |date=February 25, 2016 |access-date=June 8, 2026}}
 
 <!-- See sources/natick_report_sources.md for all 25 reviewed Natick Report citation templates. Recommended Natick Report citations for the current draft are below. -->
 
