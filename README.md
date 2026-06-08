@@ -30,6 +30,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `drafts/outline_and_justification.md` - proposed outline, notability rationale, and risk assessment.
 - `drafts/article_draft.wikitext` - AfC-ready draft article text.
 - `afc/submission_note.md` - COI disclosure and submission text.
+- `afc/submission_guide.md` - step-by-step guide for creating and submitting the Wikipedia draft.
 - `afc/checklist.md` - pre-submission checklist.
 - `data/` - fetched source pages and extracted PDF text.
 - `archive/private_records/` - private transcript PDFs retained for internal project archival only; do not cite, upload, or submit as AfC source evidence.
