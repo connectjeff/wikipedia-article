@@ -65,4 +65,4 @@ AfC proposal materials: good process posture. The submission note clearly disclo
 
 ## Important Caveat
 
-The article draft is intentionally conservative. Some candidate sources could not be verified during this setup and were not used. The current source base supports a good-faith AfC request, but the notability case may still be challenged because several sources are short mentions or project-focused rather than full biographical profiles.
+The current package supports a good-faith AfC submission, but acceptance is not assured. The main risk is not source verification; it is whether reviewers consider the available independent coverage sufficiently significant for a standalone biography.
