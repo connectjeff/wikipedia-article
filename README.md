@@ -12,6 +12,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `sources/campus_technology_sources.md` - dedicated review of Campus Technology sources.
 - `sources/mit_open_learning_sources.md` - dedicated review of MIT Open Learning source for MATLAB Grader / MathWorks context.
 - `sources/mathworks_matlab_grader_sources.md` - dedicated review of MathWorks, MATLAB Grader, IEEE, IN4OBE, YouTube, and ResearchGate publication-list sources.
+- `sources/education_sources.md` - dedicated review of education credential and graduate coursework sources.
 - `sources/natick_report_sources.md` - dedicated review of all 25 Natick Report search-result articles.
 - `sources/natick_patch_sources.md` - dedicated review of Natick Patch sources.
 - `sources/metrowest_daily_news_sources.md` - dedicated review of MetroWest Daily News search and related election sources.
@@ -34,7 +35,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 
 ## Source Improvement Plan
 
-Use this checklist to improve the likelihood that the AfC request is accepted. The main goal remains finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC cluster improves verification of career continuity in education data standards, ConnectEDU, MyDataButton, ERUG, STATS-DC, Eduventures ePortfolio research, and PESC service/contributor roles, but those sources are mostly organizational or event records. They should support narrow facts, not carry the notability argument by themselves.
+Use this checklist for future improvements after the current as-is submission package. The main goal remains finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC cluster improves verification of career continuity in education data standards, ConnectEDU, MyDataButton, ERUG, STATS-DC, Eduventures ePortfolio research, and PESC service/contributor roles, but those sources are mostly organizational or event records. They should support narrow facts, not carry the notability argument by themselves.
 
 - [ ] Review the requested ASME article at DOI `10.1115/1.2021-Sept2` when it is in hand. Prioritize it if it includes substantive interview/profile coverage of Alderson.
 - [ ] Search for independent coverage of the PESC/MyDataButton/education-data-standards work. Good targets include U.S. Department of Education, White House/MyData materials, NCES/STATS-DC proceedings, education-data interoperability coverage, and trade press that names Alderson or ConnectEDU in connection with MyData, PESC, ERUG, PESC-approved standards, ePortfolio vendors, or academic credentialing.
@@ -44,16 +45,16 @@ Use this checklist to improve the likelihood that the AfC request is accepted. T
 - [ ] Search for independent trade-press coverage that names Alderson in relation to ConnectEDU, Houghton Mifflin Harcourt, Eduventures, inBloom, interoperability, learning management systems, analytics, or MATLAB Grader.
 - [ ] Search for independent local or regional profile coverage tied to Alderson's Natick town moderator role, not just election listings, letters, or routine meeting coverage.
 - [ ] Keep Gates Foundation, Startup Intros, Encoura/Eduventures authored posts, Facebook, Town of Natick results, PESC organizational/event records, and the bankruptcy filing in clearly marked supporting/source-lead roles unless they are needed for narrow factual verification.
-- [ ] Before AfC submission, prune the article draft to cite only the strongest sources and avoid adding weak facts merely because they are verified.
+- [x] Prune the article draft for an as-is AfC submission using currently verified published sources only.
 - [ ] Re-run dossier validation after every source addition: CSV parses cleanly, source IDs are unique, `dossier/source_dossier.xlsx` is regenerated, and source-quality notes match the draft.
 
 ## Draft Article Quality Summary
 
-Overall AfC readiness: moderate. The draft is short, neutral, and sourced, which is appropriate for a COI-disclosed AfC submission. The main weakness remains notability, not verifiability: the best sources document Alderson's role in larger education-technology projects rather than providing sustained biographical profile coverage. The draft should stay concise and avoid adding weak facts merely because the dossier can verify them.
+Overall AfC readiness: moderate and suitable for a good-faith as-is submission. The draft is short, neutral, and sourced, which is appropriate for a COI-disclosed AfC submission. The main weakness remains notability, not verifiability: the best sources document Alderson's role in larger education-technology projects rather than providing sustained biographical profile coverage. The draft should stay concise and avoid adding weak facts merely because the dossier can verify them.
 
 Lead: fair. The lead accurately summarizes the strongest supported roles: education technology, Air Force service, Eduventures, MATLAB Grader, inBloom, and Natick town moderator. It should not be expanded unless a stronger independent profile source is found.
 
-Education and military service: acceptable but source-limited. The section is concise and uses a local oral-history/archive source for noncontroversial facts. Because the source is primary-adjacent, this section should remain brief and should not be used to support notability.
+Education and military service: acceptable but source-limited. The section is concise and uses a local oral-history/archive source for WPI and military-service facts and a MathWorks speaker bio for the University of Illinois Urbana-Champaign Master of Education item. Private WPI and UIUC transcript PDFs exist in the project as internal corroboration only and should not be cited or submitted as AfC source evidence. Because the published sources are primary-adjacent or affiliated, this section should remain brief and should not support notability.
 
 Education technology career: strongest section. Data & Society is the core Alderson-specific source because it identifies his technical role in the New York implementation of inBloom and includes attributed commentary. SXSW EDU and Education Week now provide stronger context for why inBloom mattered, but they do not mention Alderson. Campus Technology provides independent trade coverage of his Eduventures analyst work. MIT Open Learning supports the MathWorks/MATLAB Grader connection but is event-bio context rather than profile coverage. Keep PESC, SlideShare, ProctorFree, and similar sources mostly in the dossier unless a specific narrow fact is needed.
 

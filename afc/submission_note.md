@@ -3,7 +3,7 @@
 Use this text in the AfC submission comments or on the draft talk page, adapting the username and date as needed.
 
 ```
-I am Jeffrey Alderson, the subject of this proposed article. I have a conflict of interest and am using the Articles for Creation process rather than publishing directly to mainspace. I am not asking for promotional wording; I am requesting review of a short, neutral biography based only on independent and verifiable sources. I have disclosed the source dossier and have avoided citing self-published material except where clearly marked as not used or primary-adjacent.
+I am Jeffrey Alderson, the subject of this proposed article. I have a conflict of interest and am using the Articles for Creation process rather than publishing directly to mainspace. I am not asking for promotional wording; I am requesting review of a short, neutral biography based on published, verifiable sources, with independent sources carrying the notability argument. I have disclosed the source dossier and have kept private documents and self-published/profile material out of the draft except where a public source supports a narrow, noncontentious fact.
 ```
 
 Suggested user-page disclosure:
@@ -16,7 +16,7 @@ Suggested draft talk-page disclosure:
 
 ```
 == Conflict of interest disclosure ==
-I am Jeffrey Alderson, the subject of this draft. I have a conflict of interest and am submitting this through Articles for Creation for independent review. The draft is intended to rely on verifiable, published sources and to avoid promotional claims.
+I am Jeffrey Alderson, the subject of this draft. I have a conflict of interest and am submitting this through Articles for Creation for independent review. The draft relies on published, verifiable sources and is intended to avoid promotional claims.
 ```
 
 ## Submission Steps
@@ -34,4 +34,3 @@ I am Jeffrey Alderson, the subject of this draft. I have a conflict of interest 
 - Articles for Creation is the appropriate route for editors with a conflict of interest.
 - Biographies of living persons require careful sourcing, neutral tone, and removal of contentious or poorly sourced material.
 - Standalone biography notability generally depends on significant coverage in reliable secondary sources independent of the subject.
-

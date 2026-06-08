@@ -6,7 +6,7 @@
 
 == Education and military service ==
 
-Alderson graduated from [[Worcester Polytechnic Institute]] after attending on an Air Force scholarship and studying electrical and computer engineering. He joined the [[United States Air Force]] in 1998, was deployed twice to the Middle East to help build computer systems, and left the service in 2003 as a captain.<ref name="NatickVeterans">{{cite web |title=Jeff Alderson, Air Force veteran |url=https://natickveterans.com/2026/01/29/jeffrey-alderson/ |website=Natick Veterans Oral History Project |date=January 29, 2026 |access-date=June 8, 2026}}</ref>
+Alderson graduated from [[Worcester Polytechnic Institute]] after attending on an Air Force scholarship and studying electrical and computer engineering.<ref name="NatickVeterans">{{cite web |title=Jeff Alderson, Air Force veteran |url=https://natickveterans.com/2026/01/29/jeffrey-alderson/ |website=Natick Veterans Oral History Project |date=January 29, 2026 |access-date=June 8, 2026}}</ref> He later earned a Master of Education in education policy, organization, and leadership from the [[University of Illinois Urbana-Champaign]].<ref name="MathWorksAI">{{cite web |title=Enhancing Teaching and Learning with MATLAB Copilot and Simulink Copilot |url=https://www.mathworks.com/videos/enhancing-teaching-and-learning-with-generative-ai-and-matlab-1758823408469.html |website=MathWorks |date=May 28, 2026 |access-date=June 8, 2026}}</ref> He joined the [[United States Air Force]] in 1998, was deployed twice to the Middle East to help build computer systems, and left the service in 2003 as a captain.<ref name="NatickVeterans" />
 
 == Education technology career ==
 

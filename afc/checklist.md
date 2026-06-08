@@ -7,7 +7,9 @@
 - [x] Draft article created: `drafts/article_draft.wikitext`
 - [x] Outline and justification created: `drafts/outline_and_justification.md`
 - [x] COI/AfC submission note created: `afc/submission_note.md`
+- [x] Education credential reviewed against public source support; private transcripts are not used as article citations.
+- [x] As-is submission posture reviewed: current draft is concise, neutral, and limited to currently verified published sources.
 - [ ] Subject should review all factual claims before submission.
 - [ ] Subject should add COI disclosure on Wikipedia user page or draft talk page.
-- [ ] Consider finding at least one more independent biographical or trade-publication source before submitting.
-- [ ] Re-check any blocked or unverified sources before adding them to the draft.
+- [ ] Optional: continue looking for stronger independent biographical or trade-publication sources after submission or before any resubmission.
+- [ ] Do not add blocked, private, or unverified sources to the draft article.

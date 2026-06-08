@@ -12,6 +12,7 @@ Short description: `American education technology analyst and town moderator`
 
 2. Education and military service
    - Worcester Polytechnic Institute electrical and computer engineering background.
+   - Master of Education in education policy, organization, and leadership from the University of Illinois Urbana-Champaign, cited to the public MathWorks speaker bio.
    - U.S. Air Force service from 1998 to 2003, with rank at separation as captain.
 
 3. Education technology career
@@ -28,17 +29,17 @@ Short description: `American education technology analyst and town moderator`
 5. References
    - Use only reviewed sources.
 
-## Summary Justification
+## Summary Justification for As-Is AfC Submission
 
-An article may be warranted because reviewed sources document Alderson's work across education technology and municipal governance. The strongest Alderson-specific source is Data & Society's 2017 working paper, which identifies him as the technical architect for the New York implementation of inBloom and includes substantive attributed commentary on the project's communication and product-development challenges. SXSW EDU, eSchool News/Reuters, and Education Week provide independent or event-official context showing that inBloom was a nationally visible and disputed education-technology initiative, though those sources do not name Alderson. Campus Technology independently identifies him as author and principal analyst for an Eduventures report on learning management systems and quotes him in higher-education analytics coverage. MIT Open Learning verifies his later connection to MathWorks and MATLAB Grader, though only as short event-bio context. Natick Report independently verifies his public-service role as Natick town moderator and subsequent activity in that office.
+An article may be warranted because reviewed sources document Alderson's work across education technology and municipal governance. The strongest Alderson-specific source is Data & Society's 2017 working paper, which identifies him as the technical architect for the New York implementation of inBloom and includes substantive attributed commentary on the project's communication and product-development challenges. SXSW EDU and Education Week provide context showing that inBloom was a nationally visible and disputed education-technology initiative, though those sources do not name Alderson. Campus Technology independently identifies him as author and principal analyst for an Eduventures report on learning management systems and quotes him in higher-education analytics coverage. MIT Open Learning and MathWorks verify his later connection to MathWorks and MATLAB Grader, though as event-bio and affiliated context rather than independent profile coverage. Natick Report independently verifies his public-service role as Natick town moderator and subsequent activity in that office.
 
-The best notability argument is that Alderson has an independently documented technical role in a nationally discussed education-technology initiative, a documented analyst role in higher-education technology, and independent local-news coverage of elected municipal office. The submitted draft should be framed as a good-faith request for review rather than as a guaranteed pass.
+The best notability argument for an as-is AfC submission is that Alderson has an independently documented technical role in a nationally discussed education-technology initiative, a documented analyst role in higher-education technology, and independent local-news coverage of elected municipal office. The submitted draft should be framed as a good-faith request for independent review rather than as a guaranteed pass.
 
 ## Notability Risk
 
 The AfC risk is real. Several available sources are short mentions, organizational listings, or coverage of projects rather than extended biographical profiles. Wikipedia's biography notability guideline generally expects significant coverage in reliable secondary sources independent of the subject. The current source set supports a short, neutral draft and a transparent AfC request, but an AfC reviewer may still decide that the independent coverage is insufficient for a standalone biography.
 
-To strengthen the request before submission, try to locate and review:
+Optional post-submission or pre-resubmission source improvements:
 
 - Any full ASME article or interview at DOI `10.1115/1.2021-Sept2`.
 - Any archived/full ASEE PEER record for `Focus More on Teaching than Grading: Try MATLAB Grader`.
