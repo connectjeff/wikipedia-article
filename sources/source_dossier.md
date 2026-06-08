@@ -22,7 +22,7 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 | M1-M3 | 2025 | MetroWest Daily News | Search result and related Natick election articles | Local news / letter | Mixed | Verified and reviewed | Minor | Low to Medium | Municipal election corroboration; see `sources/metrowest_daily_news_sources.md` |
 | S7 | 2026 | Natick Veterans Oral History Project | Jeff Alderson, Air Force veteran | Local archive/oral history | Partial | Verified | Short biographical entry | Low to Medium | Military service facts |
 | S8 | 2015 | PESC | Awards - PESC Board of Directors Recipients | Organizational award list | No or partial | Verified | Minor | Low | Award, if included |
-| CB1 | 2014 | Scribd / U.S. Bankruptcy Court filing copy | ConnectEDU Bankruptcy Petition | Legal filing copy / bankruptcy petition | No / primary | Located; Scribd page blocked direct text extraction | Unknown until direct filing review | None | Potential shareholder fact only after direct review |
+| CB1 | 2014 | Scribd / U.S. Bankruptcy Court filing copy | ConnectEDU Bankruptcy Petition | Legal filing copy / bankruptcy petition | No / primary | Verified from downloaded PDF page image | Minor; primary filing only | None | Equity-security-holder fact only; not notability |
 | S9 | Unknown | ASEE PEER | Focus More on Teaching than Grading: Try MATLAB Grader | Conference paper/proceedings | Likely yes | Located but not verified; site returned heavy-load page | Unknown | TBD | Do not cite until reviewed |
 | S10, EA01-EA33 | 2015-2017 | Encoura / Eduventures | Encoura author profile and linked Wake-Up Call articles | Corporate profile / affiliated authored articles | No | Verified from author page and Builder content API | Sparse profile; authored article list only | None to Low | Do not use for notability; publication-history leads only |
 | FB1 | 2017 | Facebook | Committee to Elect Jeff Alderson for Natick School Committee | Campaign social media | No | Verified metadata | Sparse | None | Do not use for notability |
@@ -233,14 +233,20 @@ Local files:
 
 - `data/connectedu_bankruptcy_petition_scribd.html`
 - `data/search_ddg_connectedu_bankruptcy_petition_jina.txt`
+- `data/connectedu_bankruptcy_petition.pdf`
+- `data/connectedu_bankruptcy_petition_download_text.txt`
+- `data/connectedu_bankruptcy_petition_page_08.png`
+- `data/connectedu_bankruptcy_petition_page_10.png`
 
 Verified details:
 
 - Search indexing identifies the document as `Connectedu Bankruptcy Petition` and describes it as Boston ed-tech startup ConnectEDU's Chapter 11 bankruptcy petition filed April 28, 2014.
-- Direct `curl` access to Scribd returned a client-challenge page, so the shareholder schedule could not be extracted into local text during this review.
-- Intended fact to verify: whether the petition or attached list of equity security holders listed Alderson as a ConnectEDU shareholder at the time of the bankruptcy filing.
+- The downloaded PDF is case `14-11238-scc`, Doc. 1, filed April 28, 2014, entered April 28, 2014 at 19:16:03.
+- Page 8 is the `List of Equity Security Holders` cover page and points to attached Schedule A.
+- Page 10 is Schedule A and lists `Jeff Alderson` with 139 ordinary common options, 139 total preferred and common, and 0.01% diluted ownership.
+- The downloaded text file contains only docket/page headers because the filing is image-based; the Alderson row was verified from the rendered page-10 image.
 
-Assessment: primary legal-filing evidence only. Do not use for notability. Do not add the shareholder fact to the article draft until an accessible filing copy, PDF text, or official court document is reviewed directly.
+Assessment: primary legal-filing evidence only. Do not use for notability. If the article draft mentions this fact, state it narrowly as an equity-security-holder listing from the bankruptcy filing and prefer an official court/PACER copy if available.
 
 See `sources/legal_bankruptcy_sources.md` for the dedicated legal/bankruptcy source list.
 
@@ -248,7 +254,6 @@ See `sources/legal_bankruptcy_sources.md` for the dedicated legal/bankruptcy sou
 
 - ASEE PEER page for `Focus More on Teaching than Grading: Try MATLAB Grader`: located but not verified because the site returned a heavy-load page. Do not cite until content and authorship are reviewed.
 - ASME DOI `10.1115/1.2021-Sept2`: DOI resolved to a Cloudflare-blocked ASME page. Do not cite until reviewed.
-- ConnectEDU bankruptcy petition on Scribd: located as a filing-copy lead, but Scribd served a client-challenge page and the shareholder schedule was not directly extracted. Do not cite for the shareholder fact until the filing text is accessible and reviewed.
 - Encoura author page and linked Wake-Up Call articles: verified author-page existence and 33 affiliated authored article links. Do not use for notability; retain as publication-history evidence and leads for independent coverage.
 - Facebook campaign page: self-published campaign material. Do not use for notability.
 - LinkedIn profile PDF: saved locally but self-published; do not use for notability and avoid using for article facts unless a non-contentious fact has no better source.

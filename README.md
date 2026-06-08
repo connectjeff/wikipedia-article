@@ -29,6 +29,21 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `afc/checklist.md` - pre-submission checklist.
 - `data/` - fetched source pages and extracted PDF text.
 
+## Source Improvement Plan
+
+Use this checklist to improve the likelihood that the AfC request is accepted. The main goal is to add independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. Primary sources, affiliated profiles, campaign material, and source leads should remain in the dossier but should not carry the notability argument.
+
+- [ ] Review the requested ASME article at DOI `10.1115/1.2021-Sept2` when it is in hand. Prioritize it if it includes substantive interview/profile coverage of Alderson.
+- [ ] Review the ASEE PEER / MATLAB Grader source and add it only if the full record confirms authorship, publication context, and relevance.
+- [ ] Review Startup Intros' underlying ConnectEDU source list. Prioritize independent sources such as EdSurge, Education Week, FTC, Graduation Alliance, and New Markets over the Startup Intros summary itself.
+- [ ] Replace any ConnectEDU company-background claims with citations to stronger underlying sources when possible.
+- [ ] Locate an official court/PACER copy of the ConnectEDU bankruptcy petition if the equity-security-holder fact is retained. The Scribd copy verifies page 10 locally, but an official filing is preferable.
+- [ ] Search for independent trade-press coverage that names Alderson in relation to ConnectEDU, Houghton Mifflin Harcourt, Eduventures, inBloom, interoperability, learning management systems, analytics, or MATLAB Grader.
+- [ ] Search for independent local or regional profile coverage tied to Alderson's Natick town moderator role, not just election listings, letters, or routine meeting coverage.
+- [ ] Keep Gates Foundation, Startup Intros, Encoura/Eduventures authored posts, Facebook, Town of Natick results, and the bankruptcy filing in clearly marked supporting/source-lead roles unless they are needed for narrow factual verification.
+- [ ] Before AfC submission, prune the article draft to cite only the strongest sources and avoid adding weak facts merely because they are verified.
+- [ ] Re-run dossier validation after every source addition: CSV parses cleanly, source IDs are unique, `dossier/source_dossier.xlsx` is regenerated, and source-quality notes match the draft.
+
 ## Future Actions
 
 - [ ] Review the requested ASME article at DOI `10.1115/1.2021-Sept2` when it is in hand. Update `sources/source_dossier.md`, `dossier/source_dossier.csv`, and `dossier/source_dossier.xlsx` with the full citation, source-quality assessment, and any article-draft changes supported by the source.

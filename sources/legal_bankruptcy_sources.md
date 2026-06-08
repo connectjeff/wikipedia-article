@@ -4,19 +4,19 @@ Scope: legal and bankruptcy filing sources reviewed for the Jeffrey Alderson AfC
 
 ## Bottom Line
 
-The ConnectEDU bankruptcy-petition reference is potentially useful for a narrow factual point: whether Alderson was listed as a ConnectEDU shareholder or equity security holder at the time of the company's Chapter 11 filing. It is primary legal-filing evidence and should not be used for AfC notability.
+The ConnectEDU bankruptcy-petition reference verifies a narrow factual point: Alderson appears in the filing's List of Equity Security Holders. On page 10 of the petition, the Schedule A table lists `Jeff Alderson` with 139 ordinary common options, 139 total preferred and common, and 0.01% diluted ownership. This is primary legal-filing evidence and should not be used for AfC notability.
 
-This source is not yet ready for article use. Direct access to Scribd returned a client-challenge page during review, so the filing text and shareholder schedule were not extracted locally. Prefer an official court/PACER copy or an accessible PDF/text copy before citing the shareholder fact in the article draft.
+The downloaded text file contains only docket/page headers because the petition is image-based. The page-10 fact was verified by rendering the scanned PDF page image. Prefer an official court/PACER copy if this fact is used in a Wikipedia draft.
 
 ## Review Table
 
 | ID | Date | Source | Title | Coverage assessment | Notability weight | Recommendation | Local evidence |
 |---|---|---|---|---|---|---|---|
-| CB1 | April 28, 2014 filing date from search indexing | Scribd copy of U.S. Bankruptcy Court filing | [Connectedu Bankruptcy Petition](https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition) | Search indexing describes this as ConnectEDU's Chapter 11 bankruptcy petition filed April 28, 2014. The intended use is to verify whether Alderson appears on the petition's shareholder/equity-security-holder schedule. Direct Scribd access returned a client-challenge page, so the schedule was not verified in local extracted text. | None | Do not use for notability. Do not cite for the shareholder fact until an accessible filing copy is reviewed directly. | `data/connectedu_bankruptcy_petition_scribd.html`; `data/search_ddg_connectedu_bankruptcy_petition_jina.txt` |
+| CB1 | April 28, 2014 | Scribd copy of U.S. Bankruptcy Court filing | [Connectedu Bankruptcy Petition](https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition) | Primary bankruptcy filing for ConnectEDU, Inc., case `14-11238-scc`, Doc. 1, filed April 28, 2014. Page 8 is the `List of Equity Security Holders` cover page and page 10 is Schedule A. Page 10 lists `Jeff Alderson` with 139 ordinary common options, 139 total preferred and common, and 0.01% diluted ownership. | None | Do not use for notability. Use only if the article needs a narrow, primary-source-backed statement that Alderson was listed among ConnectEDU equity security holders. Prefer an official court copy for article citation. | `data/connectedu_bankruptcy_petition.pdf`; `data/connectedu_bankruptcy_petition_download_text.txt`; `data/connectedu_bankruptcy_petition_page_08.png`; `data/connectedu_bankruptcy_petition_page_10.png` |
 
 ## Ready Citation Template
 
-Use only after the filing text or official court document is directly reviewed.
+Use only if the equity-holder fact is necessary. Prefer an official court source over Scribd when available.
 
 ```wikitext
 {{cite web |title=Connectedu Bankruptcy Petition |url=https://www.scribd.com/doc/220960006/Connectedu-Bankruptcy-Petition |website=Scribd |date=April 28, 2014 |access-date=June 8, 2026}}
