@@ -38,17 +38,13 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 
 ## Source Improvement Plan
 
-Use this checklist for future improvements after the current as-is submission package. The main goal remains finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC cluster improves verification of career continuity in education data standards, ConnectEDU, MyDataButton, ERUG, STATS-DC, Eduventures ePortfolio research, and PESC service/contributor roles, but those sources are mostly organizational or event records. They should support narrow facts, not carry the notability argument by themselves.
+Use this checklist for future improvements after the current as-is submission package. The main goal remains finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC and NCES cluster improves verification of career continuity in education data standards, ConnectEDU, MyDataButton, ERUG, STATS-DC, Eduventures ePortfolio research, and PESC service/contributor roles, but those sources are mostly organizational or event records. They should support narrow facts, not carry the notability argument by themselves.
 
 - [ ] Review the requested ASME article at DOI `10.1115/1.2021-Sept2` when it is in hand. Prioritize it if it includes substantive interview/profile coverage of Alderson.
-- [ ] Search for independent coverage of the PESC/MyDataButton/education-data-standards work. Good targets include U.S. Department of Education, White House/MyData materials, NCES/STATS-DC proceedings, education-data interoperability coverage, and trade press that names Alderson or ConnectEDU in connection with MyData, PESC, ERUG, PESC-approved standards, ePortfolio vendors, or academic credentialing.
-- [ ] Decide whether the article draft should include a compact PESC/data-standards sentence. If included, cite only the strongest one or two PESC sources and avoid a long list of event roles that would read like a resume.
+- [ ] Search for independent secondary coverage of the PESC/MyDataButton/education-data-standards work. Good targets include education-data interoperability coverage and trade press that names Alderson or ConnectEDU in connection with MyData, PESC, ERUG, PESC-approved standards, ePortfolio vendors, or academic credentialing.
 - [ ] Review Startup Intros' underlying ConnectEDU source list. Prioritize independent sources such as EdSurge, Education Week, FTC, Graduation Alliance, and New Markets over the Startup Intros summary itself.
-- [ ] Replace any ConnectEDU company-background claims with citations to stronger underlying sources when possible.
 - [ ] Search for independent trade-press coverage that names Alderson in relation to ConnectEDU, Houghton Mifflin Harcourt, Eduventures, inBloom, interoperability, learning management systems, analytics, or MATLAB Grader.
 - [ ] Search for independent local or regional profile coverage tied to Alderson's Natick town moderator role, not just election listings, letters, or routine meeting coverage.
-- [ ] Keep Gates Foundation, Startup Intros, Encoura/Eduventures authored posts, Facebook, Town of Natick results, PESC organizational/event records, and the bankruptcy filing in clearly marked supporting/source-lead roles unless they are needed for narrow factual verification.
-- [x] Prune the article draft for an as-is AfC submission using currently verified published sources only.
 - [ ] Re-run dossier validation after every source addition: CSV parses cleanly, source IDs are unique, `dossier/source_dossier.xlsx` is regenerated, and source-quality notes match the draft.
 
 ## Draft Article Quality Summary
