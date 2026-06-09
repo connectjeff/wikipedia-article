@@ -6,7 +6,7 @@ Review principle: use only verifiable sources in the article draft.
 
 ## Source Quality Summary
 
-The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. SXSW EDU, eSchool News/Reuters, and Education Week sources strengthen context for inBloom's SXSW EDU launch, national visibility, scale, and privacy controversy, but they do not name Alderson and should not be used for Alderson-specific claims. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics. The ProctorFree Eduventures Summit 2016 post verifies Alderson's Eduventures Summit keynote/presenter role and online-proctoring commentary, but it is a vendor promotional source and should not carry notability. The SlideShare Simmons College deck verifies an Eduventures-era presentation and professional bio facts, but it is platform-hosted and likely self/affiliated, so it should be used only for narrow presentation-history context. The SlideServe slide-image set verifies another narrow ConnectEDU-era role signal, but it is a platform-hosted presentation and should remain supporting context only. The Google Scholar profile and Justia Patents lead are useful only as patent metadata/source discovery for ConnectEDU-related patent applications; they do not provide independent biographical coverage and underlying patent records should be preferred before article citation. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The MathWorks video page MWV1 verifies the University of Illinois Urbana-Champaign M.Ed. item in a speaker bio, but it is affiliated and should not carry notability. The UIUC Digication portfolio is supporting education/coursework context only and does not replace MWV1 as the degree citation. Local private WPI and UIUC transcript PDFs are archived in `archive/private_records/` for internal corroboration only and should not be cited, uploaded, or submitted as AfC source evidence. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, NCES MIS agenda, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The NCES MIS 2013 agenda now directly connects Alderson to a MyDataButton session and describes the initiative as involving the White House and U.S. Department of Education. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
+The strongest reviewed source is the Data & Society working paper, which independently identifies Alderson as a former lead architect at Houghton Mifflin Harcourt and technical architect for the New York implementation of inBloom, and includes his attributed commentary. SXSW EDU, eSchool News/Reuters, and Education Week sources strengthen context for inBloom's SXSW EDU launch, national visibility, scale, and privacy controversy, but they do not name Alderson and should not be used for Alderson-specific claims. The Campus Technology articles independently identify him as an Eduventures principal analyst and support professional context in learning management systems and higher-education analytics; the 2007 Campus Technology ConnectEDU article independently supports transcript-exchange and PESC/SIFA project context but does not name Alderson. The ProctorFree Eduventures Summit 2016 post verifies Alderson's Eduventures Summit keynote/presenter role and online-proctoring commentary, but it is a vendor promotional source and should not carry notability. The SlideShare Simmons College deck verifies an Eduventures-era presentation and professional bio facts, but it is platform-hosted and likely self/affiliated, so it should be used only for narrow presentation-history context. The SlideServe slide-image set verifies another narrow ConnectEDU-era role signal, but it is a platform-hosted presentation and should remain supporting context only. The Google Scholar profile and Justia Patents lead are useful only as patent metadata/source discovery for ConnectEDU-related patent applications; they do not provide independent biographical coverage and underlying patent records should be preferred before article citation. The MIT Open Learning and IEEE event pages verify his later connection to MathWorks and MATLAB Grader, but should be treated as event/profile-context rather than significant independent biographical coverage. The MathWorks video page MWV1 verifies the University of Illinois Urbana-Champaign M.Ed. item in a speaker bio, but it is affiliated and should not carry notability. The UIUC Digication portfolio is supporting education/coursework context only and does not replace MWV1 as the degree citation. Local private WPI and UIUC transcript PDFs are archived in `archive/private_records/` for internal corroboration only and should not be cited, uploaded, or submitted as AfC source evidence. The IN4OBE, MathWorks, YouTube, and ResearchGate items are useful source leads or professional-context sources, not notability anchors. The PESC program, NCES MIS agenda, call-note, award-letter, and implementation-guide sources verify PESC board, ConnectEDU, MyDataButton, Education Record User Group, STATS-DC data-standards, Eduventures ePortfolio research, service-award, and Academic Credential & Experiential Learning contributor involvement, but they are organizational/event records rather than independent biographical coverage. The NCES MIS 2013 agenda now directly connects Alderson to a MyDataButton session and describes the initiative as involving the White House and U.S. Department of Education. The ESP Solutions Group MyDataButton paper verifies broader White House / U.S. Department of Education initiative context and names Houghton Mifflin Harcourt among companies in the 2012 announcement, but it does not mention Alderson, ConnectEDU, or PESC; use it only to support context around the initiative, not an Alderson-specific fact by itself. The Gates Foundation grant record verifies a July 2013 committed grant to ConnectEDU, but does not mention Alderson or inBloom by name and should be treated as funding context only. The Startup Intros ConnectEDU profile is useful company-background orientation, but it is a directory/profile summary and does not support Alderson-specific notability. Natick Report sources verify his 2025 municipal role and later town moderator activity. The 2017 School Committee campaign sources verify earlier town-government engagement but are mainly local election coverage, candidate statements, opinion, primary results, or campaign material. The ConnectEDU bankruptcy-petition lead now includes a PACERMonitor public docket source and locally reviewed petition evidence; it may support a narrow shareholder fact, but it does not support notability. The Natick Veterans page verifies military-service facts but should be treated as primary-adjacent because it appears to be an oral-history/archive entry.
 
 The notability case remains moderate-risk for AfC. The sources verify facts, but several are short mentions, organizational listings, or coverage of projects rather than in-depth biographical coverage.
 
@@ -16,8 +16,8 @@ The notability case remains moderate-risk for AfC. The sources verify facts, but
 |---|---:|---|---|---|---|---|---|---|---|
 | S1, SXSW1, ESN1, EW1 | 2013-2020 | Data & Society / SXSW EDU / eSchool News-Reuters / Education Week | inBloom role and context sources | Research paper, event retrospective, and education journalism | Mixed | Verified; text extracted | Moderate for S1; contextual only for others | Medium to High for S1; contextual only for others | Alderson-specific inBloom role from S1; broader inBloom launch/controversy context from SXSW1/ESN1/EW1 |
 | GF1 | 2013 | Gates Foundation | ConnectEDU, Inc. / OPP1092353 | Primary grant database record | No / primary | Verified from downloaded HTML | Minor; does not name Alderson or inBloom | None | ConnectEDU / Gates Foundation funding context only |
-| SI1, SSV1, GSC1, JPT1 | 2009-2026 | Startup Intros / SlideServe / Google Scholar / Justia Patents | ConnectEDU company, presentation, and patent leads | Company directory/profile summary; platform-hosted presentation images; scholar profile/index; patent database listing | Partial | SI1 verified; SSV1 slide images downloaded and reviewed; GSC1 downloaded and reviewed; JPT1 local fetch blocked | Company background, narrow ConnectEDU-era role signal, and patent-metadata leads | None to Low | ConnectEDU background/context only; SSV1, GSC1, and JPT1 should not carry notability |
-| S2, CT2, PF1, SS1 | 2016 | Campus Technology / ProctorFree / SlideShare | Eduventures LMS, analytics, Summit, and presentation sources | Trade journalism, vendor blog/event coverage, and platform-hosted deck | Mixed | Verified | Minor to moderate | Low to Medium | Eduventures analyst role, professional context, Summit 2016 presenter evidence, and presentation-history context |
+| SI1, CT0, SSV1, GSC1, JPT1 | 2007-2026 | Startup Intros / Campus Technology / SlideServe / Google Scholar / Justia Patents | ConnectEDU company, project, presentation, and patent leads | Company directory/profile summary; trade journalism; platform-hosted presentation images; scholar profile/index; patent database listing | Partial | SI1 verified; CT0 verified; SSV1 slide images downloaded and reviewed; GSC1 downloaded and reviewed; JPT1 local fetch blocked | Company background, ConnectEDU transcript-exchange project context, narrow ConnectEDU-era role signal, and patent-metadata leads | None to Low | ConnectEDU background/context only; CT0 does not name Alderson; SSV1, GSC1, and JPT1 should not carry notability |
+| CT0, S2, CT2, PF1, SS1 | 2007-2016 | Campus Technology / ProctorFree / SlideShare | ConnectEDU transcript exchange, Eduventures LMS, analytics, Summit, and presentation sources | Trade journalism, vendor blog/event coverage, and platform-hosted deck | Mixed | Verified | Minor to moderate | Low to Medium | ConnectEDU project context, Eduventures analyst role, professional context, Summit 2016 presenter evidence, and presentation-history context |
 | MOL1 | 2021 | MIT Open Learning | The Evolution of Engineering Education Post-COVID-19 | Event page / panelist bio | Partial | Verified from downloaded HTML | Short professional bio | Low to Medium | MathWorks and MATLAB Grader professional-context facts |
 | MWV1, UIUC1 | 2020-2026 | MathWorks / University of Illinois at Urbana-Champaign Digication | Education credential and graduate portfolio sources | Affiliated speaker bio and institution-hosted portfolio | No / partial | Verified from downloaded HTML | Minor | None to Low | M.Ed. item from MWV1; UIUC portfolio as supporting education/coursework context only; see `sources/education_sources.md` |
 | IEEE1, IN4OBE1, YT1, MWYT1, MWS1, MWV1, RG1 | 2018-2026 | IEEE / IN4OBE / YouTube / MathWorks / ResearchGate | MATLAB Grader, MathWorks video bio, and publication-list source leads | Event pages, video pages, search pages, profile/publication list | Mixed; mostly primary/affiliated/platform sources | Mixed; verified where local page data was available, ResearchGate blocked by HTTP 403 | Minor or source-lead only | None to Low | Professional context, source discovery, and narrow education item only; see `sources/mathworks_matlab_grader_sources.md` |
@@ -126,6 +126,29 @@ Assessment: useful company-background orientation. It is a directory/profile sum
 
 See `sources/connectedu_company_sources.md` for the dedicated ConnectEDU company-background source list.
 
+### CT0: Campus Technology, Service Links Student Data to Web College Planning Platform
+
+URL: https://campustechnology.com/articles/2007/03/service-links-student-data-to-web-college-planning-platform.aspx
+
+Local files:
+
+- `data/campus_technology_connectedu_student_data_platform_2007.html`
+- `data/campus_technology_connectedu_student_data_platform_2007.txt`
+
+Verified details:
+
+- Title: `Service Links Student Data to Web College Planning Platform`
+- Publication: Campus Technology
+- Author/date: Paul McCloskey, March 26, 2007.
+- The article says ConnectEDU and Rediker Software teamed to export student data into ConnectEDU's college planning, admissions, and financial-aid platform.
+- The article describes electronic college transcripts and application materials, and says ConnectEDU claimed an XML-based transcript delivery system integrated with a secure national college network following PESC and SIFA guidelines.
+- The article says ConnectEDU expected to deliver 1.3 million transcripts in the upcoming admissions cycle.
+- The article does not mention Alderson.
+
+Assessment: independent trade-publication context for ConnectEDU transcript exchange, college-planning platform, and PESC/SIFA interoperability claims. It does not independently verify Alderson's role. Use only as project background paired with Alderson-specific sources such as Data & Society, PESC records, or a verified PESC biography/meeting source.
+
+See `sources/campus_technology_sources.md` and `sources/connectedu_company_sources.md` for the dedicated source lists.
+
 ### SSV1: SlideServe, A Standards-Based Data Exchange Network
 
 URL: https://www.slideserve.com/licia/a-standards-based-data-exchange-network
@@ -166,11 +189,12 @@ Assessment: useful only as patent metadata/source discovery. These sources do no
 
 See `sources/patent_sources.md` for the dedicated patent source list.
 
-### S2, CT2, PF1, and SS1: Eduventures Analyst, Summit, and Presentation Sources
+### CT0, S2, CT2, PF1, and SS1: ConnectEDU and Eduventures Sources
 
 URLs:
 
 - https://campustechnology.com/articles/2016/01/28/eduventures-publishes-report-on-learning-management-systems.aspx
+- https://campustechnology.com/articles/2007/03/service-links-student-data-to-web-college-planning-platform.aspx
 - https://campustechnology.com/articles/2016/02/25/laying-the-groundwork-for-big-data.aspx?Page=3&p=1
 - https://www.proctorfree.com/news/rethink-student-lifecycle-online-proctoring-eduventures-summit-2016
 - https://www.slideshare.net/slideshow/eduventures-tapping-the-social-funnel-for-developmentjune-2016simmons-college/63257710
@@ -178,6 +202,8 @@ URLs:
 Local files:
 
 - `data/campus_technology_lms.html`
+- `data/campus_technology_connectedu_student_data_platform_2007.html`
+- `data/campus_technology_connectedu_student_data_platform_2007.txt`
 - `data/campus_technology_big_data_groundwork.html`
 - `data/proctorfree_eduventures_summit_2016.html`
 - `data/proctorfree_eduventures_summit_2016.txt`
@@ -186,6 +212,10 @@ Local files:
 
 Verified details:
 
+- Title: `Service Links Student Data to Web College Planning Platform`
+- Publication: Campus Technology
+- Author/date: Paul McCloskey, March 26, 2007.
+- The article describes ConnectEDU and Rediker Software linking school student data to ConnectEDU's college planning, admissions, and financial-aid platform, including electronic transcripts, PESC/SIFA guideline alignment, and expected transcript delivery scale. It does not mention Alderson.
 - Title: `Eduventures Publishes Report on Learning Management Systems`
 - Publication: Campus Technology
 - Date in URL and page: January 28, 2016
@@ -205,7 +235,7 @@ Verified details:
 - SlideShare metadata lists the deck as uploaded by `JeffTe`; page data shows `createdAt` June 20, 2016.
 - Extracted slide text identifies Alderson as `Principal Analyst, Eduventures` and `Principal Analyst, Enterprise Software`, and includes a presenter bio covering Houghton Mifflin Harcourt, ConnectEDU, PESC, A4L, Air Force service, and Worcester Polytechnic Institute.
 
-Assessment: Campus Technology provides independent trade-journalism sources useful for professional context, though the articles are about education-technology topics rather than Alderson as a biographical subject. ProctorFree adds a third-party vendor source for Alderson's Eduventures Summit 2016 keynote/presenter role and online-proctoring commentary, but because it is promotional and vendor-interested it should be treated as low-weight professional context, not a notability anchor. The SlideShare deck is useful for presentation-history and deck-content verification only; it is platform-hosted and likely self/affiliated.
+Assessment: Campus Technology provides independent trade-journalism sources useful for professional and project context, though the articles are about education-technology topics rather than Alderson as a biographical subject. CT0 strengthens context for ConnectEDU transcript exchange and standards-aligned interoperability, but it does not name Alderson. ProctorFree adds a third-party vendor source for Alderson's Eduventures Summit 2016 keynote/presenter role and online-proctoring commentary, but because it is promotional and vendor-interested it should be treated as low-weight professional context, not a notability anchor. The SlideShare deck is useful for presentation-history and deck-content verification only; it is platform-hosted and likely self/affiliated.
 
 See `sources/campus_technology_sources.md` and `sources/encoura_eduventures_sources.md` for the dedicated source lists.
 
@@ -539,6 +569,8 @@ These are the citation templates used or available for use in the draft.
 {{cite web |title=ConnectEDU, Inc. |url=https://www.gatesfoundation.org/about/committed-grants/2013/07/opp1092353 |website=Gates Foundation |date=July 2013 |access-date=June 8, 2026}}
 
 {{cite web |title=ConnectEdu: Funding, Team & Investors |url=https://startupintros.com/orgs/connectedu |website=Startup Intros |access-date=June 8, 2026}}
+
+{{cite web |last=McCloskey |first=Paul |title=Service Links Student Data to Web College Planning Platform |url=https://campustechnology.com/articles/2007/03/service-links-student-data-to-web-college-planning-platform.aspx |website=Campus Technology |date=March 26, 2007 |access-date=June 8, 2026}}
 
 {{cite web |title=A Standards-Based Data Exchange Network |url=https://www.slideserve.com/licia/a-standards-based-data-exchange-network |website=SlideServe |date=April 8, 2009 |access-date=June 8, 2026}}
 
