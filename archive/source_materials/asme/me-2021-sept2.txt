@@ -1,0 +1,290 @@
+--- PAGE 1 ---
+FUTURE READY
+From education to industry, more students and professional engineers are    embracing a mindset of self-directed and lifelong learning.    BY JEFF O’HEIR
+O
+ne of the worst global crises of the last cen-
+tury is yielding some of the best strategies in 
+decades for closing the skills gap, improving 
+education, and enhancing the skills and career 
+development of engineers of all age groups. 
+The U.S. Bureau of Labor Statistics projects 
+employment growth for engineers, with nearly 
+140,000 new jobs expected for engineers from 2016 to 2026. 
+According to industry experts, that growth will be led partly 
+by the use of digital technologies including artificial intelli-
+gence, additive manufacturing, robotics, and virtual reality.
+“The jobs are going to be changing very rapidly in the next 
+five to 10 years. Given what we know about the evolution of 
+skills and how that really creates gaps for the industry, we are 
+trying to find a way to manage these changes in a practical 
+way,” said Lisa Lang, the head of Learning and Education 
+Americas at Siemens. “And with skills becoming obsolete 
+before we know, it’s really important that employees are 
+constantly developing and growing to remain relevant in the 
+workforce."
+0821_MEM_FEA_WD_Learning and Skills.indd   380821_MEM_FEA_WD_Learning and Skills.indd   38 6/23/21   2:26 PM6/23/21   2:26 PM
+Downloaded from http://asmedigitalcollection.asme.org/memagazineselect/article-pdf/143/5/38/6763596/me-2021-sept2.pdf by Jeff Alderson on 09 June 2026
+
+--- PAGE 2 ---
+FUTURE READY
+From education to industry, more students and professional engineers are    embracing a mindset of self-directed and lifelong learning.    BY JEFF O’HEIR
+MECHANICAL ENGINEERING   |  AUGUST/SEPTEMBER 2021   |  P. 39
+As the global pandemic put added pressure on industries 
+that were already struggling to fill their ranks, engineering 
+companies have been investing in training to bring their 
+existing workforce up to speed. Over the last year, as work-
+places became remote, online learning opportunities have 
+helped in upskilling and reskilling the engineering workforce.
+In March 2021, the editors of Mechanical Engineering con-
+vened with top educators and industry leaders for a four-part 
+webinar series, titled “Engineering Education: The Future 
+is Now” exploring which new skills will be taught to young 
+engineers, what training mid-career engineers need in order 
+to return to work as the pandemic subsides, and how much 
+more can be done to confront the labor and skills gap in 2021 
+and beyond. 
+The conversations unearthed many lessons learned from 
+dealing with the chaos, disruption, isolation, and frustra-
+tion born from COVID 19. But those hard-won lessons, the 
+experts warned, would be in vain unless all stakeholders work 
+together toward implementing the changes needed to turn the 
+best of them into reality.
+0821_MEM_FEA_WD_Learning and Skills.indd   390821_MEM_FEA_WD_Learning and Skills.indd   39 6/23/21   2:26 PM6/23/21   2:26 PM
+Downloaded from http://asmedigitalcollection.asme.org/memagazineselect/article-pdf/143/5/38/6763596/me-2021-sept2.pdf by Jeff Alderson on 09 June 2026
+
+--- PAGE 3 ---
+To get a good sense of the genesis, progress, and impact of 
+those changes, it’s best to begin at higher education, where 
+colleges and universities had to quickly pivot to remotely 
+teach, nurture, graduate, and prepare students for an uncer-
+tain job market. 
+The job market will remain tough. But educators say the 
+members of the COVID-19 Class have developed a resil-
+iency, flexibility, and patience they haven’t seen in previous 
+graduates. Those strengths, some say, will help those young 
+engineers emerge as the next “greatest generation” since those 
+who came of age during World War II. 
+“The silver lining to this horrible dark cloud that we’ve been 
+through is that these students will be magnificent,” said Sanjay 
+Sarma, the Fred and Daniel Flowers Professor of Mechanical 
+Engineering and vice president for Open Learning at MIT. 
+“They are forged in fire and going to come out as a mini 
+greatest generation. We need to give them the tools and the 
+opportunities to be that.”
+CONTINUED LEARNING
+Unfortunately, the pandemic revealed that those tools 
+weren’t always there for every student who needed them. 
+Remote learning exposed the lack of equitable access many 
+students had to broadband and the cloud, advanced software, 
+and the portable devices needed to properly learn and work. 
+The quarantine forced many institutions, as well as busi-
+nesses, to do a better job providing those digital and physical 
+resources. 
+“The students are more prepared to actually live and work 
+the way that I am,” said Jeff Alderson, a product manager at 
+MathWorks, a developer of mathematical computing software, 
+who explained that many of the communication, collabora-
+tion, code sharing, modeling, simulation, and virtual lab tools 
+many students now have access to are the same that are used 
+in industry. “It’s good to have that sort of hands-on experience 
+with the practices of their profession.”
+Prior to the pandemic and worldwide lockdowns, some 
+key engineering software developers had already developed 
+innovative platforms that improved their online features and 
+capabilities, which greatly helped students and professionals 
+work remotely. Some developers, such as MathWorks, also 
+began adding a plethora of new content, such as models, 
+project examples, lectures, labs, and assessments, to improve 
+the online learning experience, Alderson said. 
+Many schools recognized the importance of that access 
+to digital tools and portable technologies after schools shut 
+down. As a result, schools like the University of Colorado 
+Boulder are investing in more digitized tools and portable 
+gear, said Daria Kotys-Schwartz, director of CU’s College of 
+Engineering and Applied Science. “This year has pushed all of 
+us to think in completely different ways about the way we’re 
+educating,” she said.
+Another outcome of learning and working remotely is that 
+more students and professional engineers have embraced self-
+directed learning at levels not seen before, Kotys-Schwartz 
+and others said. This practice represents an important trend 
+since lifelong, self-directed learning is one of the best ways for 
+engineers of all levels to close skills gaps, learn new technolo-
+gies, and advance more quickly in their studies and careers. 
+The benefits are especially relevant since many companies 
+plan to retain at least partial work-from-home programs as 
+they watch the course of the pandemic.
+0821_MEM_FEA_WD_Learning and Skills.indd   400821_MEM_FEA_WD_Learning and Skills.indd   40 6/23/21   2:26 PM6/23/21   2:26 PM
+Downloaded from http://asmedigitalcollection.asme.org/memagazineselect/article-pdf/143/5/38/6763596/me-2021-sept2.pdf by Jeff Alderson on 09 June 2026
+
+--- PAGE 4 ---
+“You have to embrace a mindset of lifelong learning to 
+stay abreast of these new technologies in your profession,” 
+Alderson said. “Every company that you go to in industry is 
+using special types of tools. Online learning is giving you an 
+eye into that. As a lifelong learner you have to take advantage 
+of those things.”
+“There’s an equilibrium that occurs between self-directed 
+learning as well as your employers-directed learning and, of 
+course, you need to do what your employer requires in terms 
+of table stakes training based on your state or jurisdiction, but 
+I think it’s a combination,” said Arin Ceglia, ASME’s director 
+of learning and development. There is a large spectrum of 
+available ways to attain skills—everything from additional 
+advanced degrees to micro credentials, which are very 
+common and popular at the moment, as well as training in 
+specific topic areas, she said.
+SHOWCASING TALENT
+But a lot of that work will be wasted unless the projects and 
+skills that result from in-class and self-directed learning are 
+saved and electronically archived (using YouTube, electronic 
+portfolios, GitHub, share files and other tools) for sharing 
+with prospective employers or current managers to win jobs, 
+advance in the workplace, and close skills gaps. That practice 
+becomes more important as internships and other jobs remain 
+remote.  
+“One thing that’s really changing engineering education 
+is that the artifacts of learning don’t stay on your computer,” 
+Alderson said. “You should be able to hit the ground running 
+in industry with files and functions and models that you’ve 
+used in your academic career. It’s really important to take that 
+stuff with you.”
+A well-managed and robust portfolio will also help candi-
+dates prove to recruiters and others they can be productive 
+in a remote environment. “Recruiters are going to want to 
+understand how you adapt to that environment, not how 
+you fell prey to it,” said Rob Feinstein, a veteran of the online 
+recruiting industry and author of Launched: Start Y our Career 
+Right After College, Even During a Pandemic. 
+Despite all of the advances in technology, every piece of 
+content in a job candidate’s online portfolio should strive to 
+answer three old-school questions that almost every recruiter 
+or manager wants to know: Do you have the skills and experi-
+ence to do the job? Do you have the interest and passion? Do 
+you have the personality or attitude to get it done?
+“Employers are well aware of what everybody’s going 
+through. On the other hand, employers still have needs,” said 
+Michael Powell, director of the career assistance center at the 
+University of Texas at Austin. “Everything they’re looking at 
+on your resume, every question they ask you is designed to 
+answer those three questions. That’s what it all comes down 
+to.”
+Recruiters understand that many in-person internships 
+and entry-level engineering jobs have been put on hold. But 
+they are still looking for students who managed to build need 
+skills—especially in leadership and team building—during the 
+pandemic. Those experiences could include running a virtual 
+club or working as a residence assistant. Gaining and docu-
+MECHANICAL ENGINEERING   |  AUGUST/SEPTEMBER 2021   |  P. 41
+0821_MEM_FEA_WD_Learning and Skills.indd   410821_MEM_FEA_WD_Learning and Skills.indd   41 6/23/21   2:26 PM6/23/21   2:26 PM
+Downloaded from http://asmedigitalcollection.asme.org/memagazineselect/article-pdf/143/5/38/6763596/me-2021-sept2.pdf by Jeff Alderson on 09 June 2026
+
+--- PAGE 5 ---
+menting those skills and achievements will grow increas-
+ingly important as the “gig” economy, fueled by freelance 
+and contract workers, continues to grow as large companies 
+refrain from hiring full-time employees. 
+COMMUNICATION BREAKDOWN 
+Students and professional engineers might have devel-
+oped greater resiliency and flexibility during the pandemic, 
+but many still have trouble communicating with multi-
+generational colleagues of different levels in the workplace. 
+It’s always been a problem and something that has held back 
+engineers in their careers. 
+“Many engineers aren’t good communicators and don’t try 
+to be,” said Michael Horodniceanu, a professor at New York 
+University’s Tandon School of Engineering. “The people at 
+the higher levels are able to address a topic in a very succinct 
+and clear fashion, and that’s not the strength of engineers. 
+The ability to communicate creates trust. Trust is the ulti-
+mate thing that engineers must realize that they need.” 
+The isolation and lack of in-person contact during 
+quarantine, experts say, have exacerbated the issue. Some 
+schools and companies see an urgent need to address the 
+problem before cross-disciplinary teams are called back to 
+the workplace to work on the same projects. The communi-
+cation breakdown, experts say, affects engineers of all ages 
+and career stages.
+Virtual meetings have replaced the conference room, and 
+the limited time available to collaborate means engineers, 
+project managers, sales, and directors all need to communi-
+cate quicker and more efficiently.
+“It’s important to recognize that engineers don’t neces-
+sarily speak the same language as business folks or mar-
+keters or finance people,” said ASME’s Ceglia. “In order 
+to be a successful mid-career engineer, you really need to 
+be able to communicate with all of the different folks that 
+you’re going to engage with.”
+Weak communication skills are something companies 
+have to address early during the on-boarding process, 
+Kotys-Schwartz said. Companies should also offer ongoing 
+training in communications and other soft skills, which is 
+needed more today than ever before, experts said.
+“It’s one of the areas we’re finding to be the most difficult 
+to coach in this environment,” Kotys-Schwartz said, adding 
+that students also have to learn how to sit still in small 
+environments like the boardroom, communicate effectively 
+via email, and carry on a telephone conversation. “No matter 
+how hard I try in their senior year, I cannot replicate what 
+it is going to be like working in different types of industries 
+and environments. Our students need soft and professional 
+skills and will continue to need coaching and development 
+in them, because we don’t know for sure how they’re doing 
+in that realm this year.”
+0821_MEM_FEA_WD_Learning and Skills.indd   420821_MEM_FEA_WD_Learning and Skills.indd   42 6/23/21   2:26 PM6/23/21   2:26 PM
+Downloaded from http://asmedigitalcollection.asme.org/memagazineselect/article-pdf/143/5/38/6763596/me-2021-sept2.pdf by Jeff Alderson on 09 June 2026
+
+--- PAGE 6 ---
+STUCK IN THE MIDDLE 
+Before the pandemic, engineers were in strong demand 
+across industries. But that changed for some as companies 
+were forced to lay off workers or postpone promotions and 
+other types of advancement. While most of the previously 
+mentioned tips and strategies also apply to mid-career engi-
+neers, here are a few aimed specifically at those who are a bit 
+more vulnerable to layoffs during difficult times. Of course, 
+all engineers looking to advance should practice them.
+The most important qualities a mid-career engineer can 
+display are flexibility and versatility. “Raising your hand” to 
+take on a new assignment is among the best ways to prove 
+that. Hyleme George, associate vice president of innovation 
+and strategy at Black & Veatch, an engineering firm based 
+in Overland Park, Kans., said those enthusiastic, willing 
+engineers are the employees his company values the most, 
+especially if they can apply a variety of past skills to a new 
+project, business unit, or market.  
+“Those are the ones that are valuable to us. They give us a 
+chance to take an individual and move him or her around the 
+company,” he said. “It helps us do a better job as of balancing 
+the talent we have with the demand that we have from our 
+clients and our projects.” 
+NYU’s Horodniceanu has always been big on raising his 
+hand whenever a new opportunity was presented. That 
+enthusiasm helps explain his varied career, which includes 
+working in transportation, executive management, and in 
+government and private enterprise. 
+“You have to be willing to compromise. You have to be 
+willing to do certain things that are not the norm,” he said. 
+“You have to be willing to change when needed and tackle 
+the issues that you have never tackled before. That is going to 
+make you a very worthwhile employee.”
+Today, there are more ways than ever to attain the skills 
+and experience an organization needs to fill its vacant posi-
+tions. It often takes just a bit extra drive or initiative on the 
+part of an ambitious employee to take advantage of those 
+options. But it can be done… during a pandemic and long 
+after it has ended.
+“What’s most important to the mid-career engineers is 
+to always be committed to lifelong learning, whether it’s 
+formal or informal training,” Ceglia said. “We always learn by 
+exploring new topic areas and grow as a result. It makes us 
+more versatile.”
+Adopting an agile learning mindset is essential for the 
+engineering workforce. As companies implement new digital 
+engineering technologies, engineers will need to continu-
+ously reskill and upskill to be future ready. ME
+JEFF O’HEIR is a science and technology writer based in Hutington, N.Y.
+MECHANICAL ENGINEERING   |  AUGUST/SEPTEMBER 2021   |  P. 43
+0821_MEM_FEA_WD_Learning and Skills.indd   430821_MEM_FEA_WD_Learning and Skills.indd   43 6/23/21   2:26 PM6/23/21   2:26 PM
+Downloaded from http://asmedigitalcollection.asme.org/memagazineselect/article-pdf/143/5/38/6763596/me-2021-sept2.pdf by Jeff Alderson on 09 June 2026
+
