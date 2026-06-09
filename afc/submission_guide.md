@@ -108,7 +108,7 @@ Before submitting, confirm:
 - The article uses only published sources already embedded as citations.
 - The COI disclosure is on your user page or the draft talk page.
 - The draft does not cite private transcripts, local PDFs, or project files.
-- The draft does not cite `FAW1` or any other source lead that is blocked or not directly verified.
+- The draft does not cite private transcripts, project files, blocked source leads, or unverified source leads.
 - The article remains short, neutral, and non-promotional.
 - The current source dossier remains local project support, not a Wikipedia citation source.
 - You have personally reviewed the pasted draft and are not submitting unreviewed AI-generated text.

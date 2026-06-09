@@ -1,0 +1,34 @@
+Manual review of local PDF rendering
+
+Source file:
+data/studylib_pesc_functional_acknowledgment_workgroup_ccb_review.pdf
+
+Rendered title:
+PESC Functional Acknowledgment Workgroup CCB Review
+Meeting Minutes 3/30/09 3 pm EDT
+
+Verified visible details:
+
+- Teleconference info: 800-508-7631; Meeting ID: *9976409*
+- Call began at 3 pm and lasted until about 45 minutes.
+- Listserv: ACKNOWLEDGEMENT@LISTS.PESC.ORG
+
+Workgroup presenters:
+
+- Rob Moore, Rob.Moore@transcriptcenter.com, National Transcript Center
+- Jeffrey Alderson, jalderson@ConnectEdu.net, ConnectEdu
+- Monterey Sims, Monterey.Sims@phoenix.edu, University of Phoenix/SPEEDE Committee
+
+Action-item topics visible in the rendering:
+
+- Change Column 24C tag and code type wording.
+- Delete error max length reference in implementation guide.
+- Change Simple values from Sector Library to Core Main Library.
+- Add enumerated value of Acknowledgment to DocumentTypeCode in Core Main.
+- Data types for line number and column number.
+- Send PESC Change / Schema Issue Review form to Kristi.
+- Submit updated CCST and implementation guide to Kristi after call.
+
+Assessment:
+
+This PDF verifies a narrow PESC Functional Acknowledgment workgroup participation fact for Alderson while affiliated with ConnectEdu. It remains primary/organizational evidence and should not be used as a notability anchor.
