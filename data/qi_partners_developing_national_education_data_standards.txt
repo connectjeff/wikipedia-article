@@ -1,0 +1,112 @@
+Developing National Education Data Standards – Quality Information Partners 
+Skip to main navigation 
+Skip to main content 
+Skip to footer 
+
+
+
+
+
+Developing National Education Data Standards – Quality Information Partners 
+Quality Information Partners 
+Clarity. Insight. Access. Menu 
+
+Search for: 
+
+Home 
+About 
+Who We Are 
+Our Team 
+Working at QIP 
+Clients 
+Contract Vehicles 
+Capabilities 
+Areas of Focus 
+Postsecondary Outcomes Data 
+Learning Engineering 
+Data Literacy 
+Blog 
+Contact 
+Skip to menu toggle button 
+QIP on Twitter 
+Email 
+LinkedIn 
+YouTube 
+Back to top ↑ 
+
+
+Posted on: July 10, 2024 Last updated on: July 11, 2024 Written by: Jim Goodell Categorized in: Capabilities , Education Data , Uncategorized Tagged as: CEDS Common Education Data Standards data standards education data standards 
+
+
+
+
+
+
+
+
+
+
+
+
+Developing National Education Data Standards 
+Data standards are more than just data definitions and code sets. Over the years, standards have been developed to model the relationships between data entities and define their elements. 
+In response to needs expressed by state education agencies (SEAs), the National Center for Education Statistics (NCES) contracted QIP In fall 2009 to establish a technical working group to develop voluntary common standards. Common Education Data Standards, or CEDS, was born. 
+CEDS was not the first standards initiative in education, but it is the first initiative to define data definitions for uses across the spectrum of early learning, K-12, postsecondary, and workforce learning. The CEDS data dictionary has become a “Rosetta Stone” for understanding P-20W (early learning through workforce) data. 
+Stakeholders have played a critical role in CEDS’ growth in each domain in the P-20W spectrum . Other initiatives that define and implement data standards or define the environment in which data standards can be used have played key roles as well. For example, CEDS includes elements developed by the National Forum on Education Statistics and has developed new areas based on recommendations from Statewide Longitudinal Data System working groups. 
+In 2011, work began on conceptual and logical data models–the Domain Entity Schema used for navigation on the CEDS.ed.gov website and for human discovery of data definitions, and the Normalized Data Schema, a normalized logical data model that is available as physical data models (now known as the CEDS Integrated Data Store). The CEDS team also began developing website tools to support the discovery and use of the standards, including ALIGN, CONNECT, myConnect, and Extend. 
+In 2012, CEDS expanded to include a comprehensive data dictionary and model for formative and summative assessment data. The CEDS Community of Practice was created in 2015, followed in 2019 by the followed in 2019 by the CEDS Open Source Community . Both of these communities modernized the stakeholder-driven standards development process by allowing anyone to participate synchronously and asynchronously. 
+Part of a Broader Ecosystem of Standards – Why One Standard is Not Enough 
+Many standards are required to meet the data collection, aggregation, reporting, and use needs across P20W. This is both because different data standards initiatives focus on different domains and uses of data and because standards are needed for the complete data and technology stack. 
+
+
+
+
+
+
+
+
+
+
+Figure 1. Early diagram from EdMatrix.org that classifies standards and standards organizations based on the kinds of data and level of the technology stack addressed. 
+
+
+
+
+
+Standard Type 
+data definitions (data dictionary) support a common understanding about the meaning of data and intended uses and also include controlled vocabulary, also known as code sets, that define a constrained set of expected values. 
+data models (logical and physical data models) define the relationships between data objects and support efficiencies in the collection, management and use of data, for example, data models optimized for collection of data are structured differently than data models optimized for reporting. 
+protocols and application programming interfaces (APIs) are needed for interoperability between data systems including the secure and reliable movement of data. 
+packaging (a.k.a. serialization) formats ensures that data sent from one system can be understood by a receiving system. 
+
+
+
+
+
+
+
+
+
+Collaboration across Standards Organizations 
+The development of the CEDS standards has been enriched through collaboration with other key standards initiatives, including 1EdTech (formerly IMS Global), A4L (formerly the Schools Interoperability Framework Association), Postsecondary Electronic Standards Council (PESC), HR Open Standards Consortium, International Standards Organization (ISO), American National Standards Institute (ANSI), CTDL, W3C, original Open Badges project, Christensen institute, UCLA connection, IEEE, World-Wide Web Consortium (W3C), Dublin Core Metadata Initiative (DCMI), and Learning Resource Metadata Innovation (LRMI). 
+Over the years, NCES and the CEDS stakeholder community has built bridges to other standards organizations for open collaboration on standards development. As a result, today there is unprecedented cooperation among the U.S. centric education data standard organizations and some relevant non-education-specific standards initiatives. QIP is proud to be a part of this collaboration. 
+
+◀ Reporting Civil Rights Data: Supporting High-Quality Data Submissions 
+Celebrating 20 Years of Business: Cloud Hosting and Web Support ▶ 
+
+
+
+
+
+Skip back to main navigation 
+Post navigation 
+
+Previous Post Reporting Civil Rights Data: Supporting High-Quality Data Submissions 
+Next Post Celebrating 20 Years of Business: Cloud Hosting and Web Support 
+
+
+© 2026 Quality Information Partners Fairfax, VA 
+
+
+Email 
+LinkedIn 

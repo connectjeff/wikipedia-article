@@ -10,6 +10,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `sources/data_society_inbloom_sources.md` - dedicated review of Data & Society / inBloom sources.
 - `sources/connectedu_company_sources.md` - dedicated review of ConnectEDU company-background sources.
 - `sources/campus_technology_sources.md` - dedicated review of Campus Technology sources.
+- `sources/ceds_sources.md` - dedicated review of CEDS / national education data standards context sources.
 - `sources/mit_open_learning_sources.md` - dedicated review of MIT Open Learning source for MATLAB Grader / MathWorks context.
 - `sources/mathworks_matlab_grader_sources.md` - dedicated review of MathWorks, MATLAB Grader, IEEE, IN4OBE, YouTube, and ResearchGate publication-list sources.
 - `sources/education_sources.md` - dedicated review of education credential and graduate coursework sources.

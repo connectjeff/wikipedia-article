@@ -1,0 +1,218 @@
+The Forum Voice: Fall 2010 (Volume 13, No. 2) | IES Skip to main content 
+
+
+
+
+
+
+
+
+
+
+Publications 
+
+Member Resources 
+
+
+Member Resources 
+
+Resources help members and interesed non-members better understand how the Forum is organized and operated. 
+
+Explore Resources 
+
+
+Member List 
+
+Committees 
+
+Annual Meeting Notes 
+
+The Forum Voice 
+
+School Courses for the Exchange of Data 
+
+
+School Courses for the Exchange of Data 
+
+SCED is a voluntary, common classification system for prior-to-secondary school courses. 
+
+Explore SCED 
+
+
+SCED Training Menu 
+Publications 
+
+
+Member Resources 
+Member List 
+
+
+Committees 
+
+
+Annual Meeting Notes 
+
+
+The Forum Voice 
+
+
+School Courses for the Exchange of Data 
+SCED Training 
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb 
+Home arrow_forward_ios National Forum ... arrow_forward_ios Member Resource ... arrow_forward_ios The Forum Voice arrow_forward_ios The Forum Voice ... 
+Home arrow_forward_ios ... arrow_forward_ios The Forum Voice ... 
+National Forum ... Member Resource ... The Forum Voice 
+
+
+
+
+
+
+
+
+
+The Forum Voice: Fall 2010 (Volume 13, No. 2) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial Board 
+David Weinberger , Yonkers Public Schools (NY) Cheryl McMurtrey , Mountain Home School District 193 (ID) Tom Howell , State of Michigan, Center for Educational Performance and Information Peter Tamayo , Washington State Office of Superintendent Ghedam Bairu, NCES 
+Letter from Chair 
+"These are unparalleled times in the field of education, with unique opportunities and responsibilities." How many times have we said or heard this in the past few years? Education remains in the forefront of every political and social agenda, and the importance of and possibilities for incredible strides in educating our children have never been greater. This focus on education has led to increasing investment in as well as escalating expectations and demands for data systems to inform education process and progress at every level. 
+As a technologist, I have spent much of my career with large telecommunications, financial, and manufacturing organizations in the private sector. Each experience has been rewarding and I have learned a great deal. However, my experience in the State Department of Education, where the "bottom line" is the education and success of our children, brings the greatest satisfaction of all. 
+The Forum is made up of folks who share this passion and who find personal gratification in working for the schools and children of this nation. The future we imagine for our children, grandchildren, nieces and nephews fuels the work we do and the unselfish contributions and collaboration among NCES, SEA, and LEA representatives. 
+I am at the same time honored and humbled to represent you as Chair of the Forum. ESEA reauthorization, ARRA metrics, Common Education Data Standards, longitudinal linking of data across sectors, and business intelligence solutions for effective use of education data all promise to be important issues this coming year. Addressing each of these issues and their associated challenges will require innovation and ingenuity. I know that by working together and building upon our successes and best practices, we will make great strides in the momentous tasks before us and continue to contribute to the body of knowledge and resources that make up the Forum. 
+Through your continued commitment and efforts, as well as the support of talented and dedicated steering committee members and the awesome NCES staff, I know we will accomplish much over the coming year. Watch for announcements about the Privacy Technical Assistance Committee and forthcoming Forum publications over the next few months. We will set the stage in February 2011 "Deep in the Heart of Data," in Austin, Texas. I look forward to seeing y'all there! 
+-Kathy Gosa, Kansas State Department of Education 
+Welcome New Members 
+At this year's Summer Meeting, the Forum welcomed twenty-four new members. We look forward to working with them and seeing them again at the Winter 2011 Forum Meeting in Austin, Texas. The new members include: 
+Linda Atwood, Montana Office of Public Instruction 
+Sheri Ballman, Princeton City School District (OH) 
+John Brandt, Utah State Office of Education 
+Karolyn Bridges-Jordan, Mississippi Department of Education 
+Corey Chatis, Bill & Melinda Gates Foundation 
+Cindy Helmers, Bloomington School District #87 (IL) 
+Lisa Howard, Tennessee Department of Education 
+Craig Hoyle, Regional Education Laboratory–Northeast & Islands 
+Sandy Hyslop, New Hampshire Department of Education 
+Candy Johnson, Kentucky Department of Education 
+Janice Johnson, Maryland State Department of Education 
+Josh Klein, Oregon Department of Education 
+Marilyn King, Bozeman Public Schools (MT) 
+Douglas Levin, State Education Technology Directors Association 
+Judy Merriman, South Dakota Department of Education 
+Dorice Miller, North Dakota Department of Public Instruction 
+Tom Olson, South Carolina Department of Education 
+Marilyn Peterson, Nebraska Department of Education 
+Dave Ream, Pennsylvania Department of Education 
+Christina Tydeman, Hawaii Department of Education 
+Ken Wagner, New York State Education Department 
+Gary West, South Carolina Department of Education 
+David Wu, Hawaii Department of Education 
+Scott Zellmer, Weber School District (UT) 
+New Resources 
+
+Traveling Through Time: The Forum Guide to Longitudinal Data Systems, Book I: What is an LDS? — This book, the first of the four-part Forum series, is a primer on longitudinal data systems (LDS). It focuses on the LDS fundamentals, providing a definition of "LDS" and detailing the features that a basic system should have as well as the components that can further expand the system's utility. Benefits of an LDS are discussed and common misconceptions about these systems are dispelled. The book also includes basic organizational steps that should guide the development of a successful LDS. 
+
+
+Forum Guide to Data Ethics Online Course — Through multimedia presentations, vignettes, and recommended practices and training guides, this online course teaches users the ethical principles contained in the Forum Guide to Data Ethics . Intended for any person who handles data in an education organization, this course offers practical lessons related to maintaining professional integrity, and ensuring data quality and security. Users may take a final assessment, completers of which will receive a certificate from the Forum. 
+Upcoming Publications 
+Forum to Expand School Codes for the Exchange of Data to Earlier Grade Levels 
+Currently, the School Codes for the Exchange of Data (SCED) includes the Secondary School Course Classification System , which offers a taxonomy and course descriptions for secondary education. The system facilitates more efficient maintenance and exchange of records as students transfer from one school to another, or to postsecondary education. Soon, with release of the Prior-to-Secondary Course Classification System , SCED will expand to the earlier grade levels, covering early childhood education through grade 8. 
+By design, the prior-to-secondary course framework mirrors, in large part, the secondary course framework. Both frameworks consist of four basic elements: course description, course level, available credit (for secondary) or grade span (for prior to secondary), and sequence. Taken together, these elements create a unique identification code for any course. 
+Use of this broader spectrum of standardized course codes will enable education institutions to more efficiently capture and share course-taking information starting from the very beginning of a student's educational experiences. SCED course titles and descriptions are not expected to replace those used by states or school districts. Rather, the system is written in a general way to allow users to map each of their specific courses to a common code. 
+In addition to being available in PDF, HTML, and print formats, the prior-to-secondary course codes and descriptions will be added to the NCES Handbooks Online , where they will be easily searchable along with the existing secondary codes and descriptions. 
+Forum Guide Aims to Improve the Accessibility of Education Information 
+What if you were to search online for your local school's activity calendar and saw a blank page, or perhaps only an indecipherable string of nonsensical characters? This is effectively what happens to scores of web users with visual disabilities when trying to access information on education websites. In 1998, the U.S. Congress amended the Workforce Rehabilitation Act of 1973 to require federal agencies (and organizations that receive federal funds) to make their electronic and information technology more accessible to people with disabilities. "Section 508" is shorthand for this law, and Section 508 "standards" refer to a set of fairly technical specifications and performance requirements for developing, reporting, and sharing electronic information, tools, and resources that promote more accessible presentation of information for people with disabilities. 
+Unfortunately, many schools, districts, and even state education agencies do not yet comply with some components of the Section 508 accessibility guidelines. In some cases, staff are not aware of their responsibilities as mandated by Section 508. In other instances, perceived technical challenges interfere with compliance. And in many organizations, the sheer volume of work required to update websites (and other electronic resources) overwhelms planners to the point of making Section 508 compliance appear to be impractical. 
+The Forum's Section 508 Accessibility Working Group hopes to raise awareness of Section 508 through the release of the Forum Guide to Ensuring Equal Access to Education Websites: An Introduction to Electronic Information Accessibility Standards , which suggests best practices for complying with Section 508 goals at an operational level in schools, school districts and state education agencies. The intended audience includes information technology administrators, data specialists, and program staff responsible for the "content" on websites and in data reports; education administrators who often prioritize tasks for technical and data staff; and other stakeholders who have an interest in seeing that our schools, school districts, and state education agencies operate in an effective and equitable manner for all constituents regardless of disability status. The document includes chapters about why educators should care about accessibility, what they need to know to comply with Section 508, and best practices for implementing accessibility standards in education organizations. 
+Look for the Forum Guide to Ensuring Equal Access to Education Websites: An Introduction to Electronic Information Accessibility Standards to be released on the Forum website in early 2011–and share it with your colleagues so that the education data community can do its part to improve access to the important information it shares about our students, schools, and communities. 
+Forum Guide to Crime, Violence, and Discipline Incident Data 
+Maintaining order in schools has always been an important component of effective school management, and reducing school crime and violence has become a national priority for policymakers in the last two decades. This priority – creating a school environment that is free of violence and other crime – is a necessary step in achieving critical educational goals, including providing suitable conditions for learning in which all children have an opportunity to achieve high academic standards. 
+Developing policies to reduce school crime requires accurate and timely data about where, how, and why existing crimes occur. While there are no guarantees that greater awareness of the status of crime and violence in schools will prevent future incidents from occurring, accurate and timely data enable policymakers and practitioners to more effectively focus interventions aimed at improving the safety and security of all students, staff, and school facilities. 
+The Forum Guide to Crime, Violence, and Discipline Incident Data (expected in early 2011) focuses on the use of crime, violence, and discipline data to improve school safety. As such, it presents strategies for implementing an incident database, including system design, management, and training; recommends a body of data elements, definitions, and code lists useful for collecting accurate and comparable data about crime, violence, and discipline; and offers suggestions for the effective presentation and reporting of crime, violence, and discipline data. The Forum collaborated with the Discipline Data Working Group of the U.S. Department of Education to ensure the product reflects the data reporting requirements of the Office of Special Education and Rehabilitative Services, the Office of Civil Rights, the Office of Safe and Drug-Free Schools, and ED Facts . 
+Forum to Offer Best Practices on Longitudinal Data Systems Development, Management, and Use 
+In recent years, the U.S. Department of Education has elevated data to a new level of importance, tying longitudinal data system (LDS) development and innovative data use to competitive funding opportunities via the Institute of Education Sciences (IES) Statewide Longitudinal Data System (SLDS) Program and the Race to the Top. And indeed, from the apex of the federal government, the message on education data has been getting clearer and more resounding: In order to realize a more effective, efficient, and equitable education system, education stakeholders need detailed, accurate data to provide objective facts about what is happening in classrooms, schools, districts and states. Across the country, states and districts are developing LDSs, in large part, to realize this vision. 
+This summer, The Forum released the first book of a four-part Forum series on longitudinal data systems, What is an LDS? —a primer on the subject. This winter, three additional installments will be published to help education agencies plan, develop, and evaluate their LDSs; govern the data; and use the information to improve the education system. 
+Book II of the series, Planning and Developing an LDS , discusses the early stages of LDS development, and is intended to help state and local education agencies through the process of determining what they want to accomplish with their LDS and what they will need in order to achieve these goals. The book covers topics such as creating a solid project management team, gaining crucial input from a range of stakeholders, assessing the current data system environment and planning the desired LDS, collecting the data needed to meet stakeholder requirements, and writing strong requests for proposals. 
+Book III: Effectively Managing LDS Data , covers organizational issues aimed at moving an LDS project forward; and at ensuring the data are of high quality so that users may leverage them with confidence for decisionmaking. The book provides a practical and implementable data governance process and structure; discusses how to ensure high data quality; provides an overview of data standards; and addresses data privacy and security issues. 
+Finally, because it's not enough just to build an LDS, Book IV: Advanced LDS Usage focuses on data use. It explores the ways in which the data can be utilized by a host of stakeholders, and the tools and training that allow users to access and turn student-level longitudinal data into actionable information for use at all levels to improve the education system and student outcomes. The book weaves in several case studies highlighting how school districts and states are making use of their longitudinal data to gain greater insight into educational processes and student learning. 
+Look for the final three books of the series over the coming months on the Forum website. Share them with colleagues to help disseminate best practices across your state or district to promote successful LDS development, management, and use. 
+Common Education Data Standards Initiative 
+In September, Version 1.0 of the Common Education Data Standards (previously called the Common Data Standards) were released. Version 1.0 includes 161 data elements for which standard names, definitions, code sets, and technical specifications are provided. These voluntary standards were identified for a key set of K-12 and transition-to-postsecondary data elements, the common use of which can enable greater interoperability, portability, and comparability of data across districts, states, and higher education organizations. Elements are divided into several categories based on the entity they describe: school, LEA, K-12 student, K-12 staff, K-12 course, class section, K-12 assessment, academic record, and postsecondary transition. All of the standards were drawn from or synchronized with existing standards sources such as the NCES Handbooks Online, Schools Interoperability Framework (SIF), the Postsecondary Electronic Standards Council (PESC) schema, and EDFacts. Participants in the CEDS Technical Working Group (TWG) include representatives from state and local education agencies (all of which are Forum members), higher education organizations, and key non-profit organizations. In addition to the standards, members have collaboratively developed several use case scenarios to provide practical examples of how the standards can support the creation of various data products and processes. Use-case samples developed thus far include both high school- and postsecondary-generated transcripts, LEA-to-LEA and LEA-to-SEA student record exchanges, and a high school feedback report. 
+SLDS State Support Team 
+The SLDS Program has formed the State Support Team (SST)—a group of seasoned data system experts with a broad range of knowledge—to provide both grantee and non-grantees states with direct support on critical longitudinal data system challenges. SST experts are actively working with states through site visits, emails, and phone calls and have provided practical guidance and support in areas such as data governance, project management, P-20 data sharing, stakeholder engagement, data collection, data dictionary development, course code implementation, RFP writing, vendor management, interoperability, and data use. The group will play a growing role in the SLDS Program's continuing efforts to share best practices and to ensure the success of longitudinal data systems across the country. To request support, contact the SST . 
+Privacy Technical Assistance Center 
+The increased use of student-level data systems for education decisionmaking and reporting, and the expanded collection of individual-level data from early childhood education through K-12, postsecondary, and the workforce, has raised questions about how best to protect personally identifiable information. In response, NCES has established a Privacy Technical Assistance (TA) Center to serve as a "one-stop" resource where education stakeholders can go to gain greater clarity on policy, technological, statistical, and legal issues related to the protection of student data. To help states meet privacy challenges, the Center will provide a number of resources and services, including FAQs; a privacy toolkit containing presentations, white papers, guidelines, technical briefs, training materials and other relevant resources; on-site technical assistance for states on issues such as data governance, data security, privacy, and collaboration with Institutions of Higher Education (IHE), LEAs, and other state agencies; regional meetings to facilitate the sharing of best practices with SEAs, IHEs, and LEAs; and a help desk to respond to questions and point users to relevant resources. 
+Summer 2010 Forum Meeting Recap 
+On July 26-28, the Forum convened in Bethesda, MD for its 22nd annual summer meeting. Joint session presentations addressed the protection of student privacy and the data requirements of the American Recovery and Reinvestment Act, while an inspiring half-day professional development workshop taught participants many lessons about how to use data to enhance instruction. Chair Kathy Gosa (Kansas State Department of Education) also gave an instructive presentation on the many ways she has used and promoted Forum products at home to support her agency's work. Standing committees gathered to consider a wide range of hot topics including data governance, the Common Education Data Standards Initiative, the Common Core State Standards Initiative, the Early Childhood Data Collaborative, the teacher-student link, LDS sustainability, ED Facts , the National Education Data Model, and more. Meeting notes are available including presentations and supporting documents. 
+Communications Subcommittee 2010 
+First formed in 1998, then again in 2005, the Forum's Communications Subcommittee reconvened at the Summer 2010 Meeting to address the Forum's evolving communications needs. With growth of the Forum's expertise and reputation, the subcommittee has been working to update and enhance communications plans and tools to help raise awareness of the Forum among the broader education community. Members have identified a number of activities, products, and strategies that could facilitate more effective outreach to member organizations and other audiences that can benefit from Forum resources. Subcommittee discussions are ongoing and work on several action items is currently under way. 
+Upcoming Events 
+Winter 2011 Forum Meeting February , 21–25, 2011 in Austin, TX Contact: Ghedam Bairu 
+2010–11 Forum Officers 
+Forum Chair: 
+Kathy Gosa , Kansas State Department of Education 
+Vice Chair: 
+David Weinberger , Yonkers Public Schools (NY) 
+Past Chair: 
+Linda Rocks , Bossier Parish Schools (LA) 
+NESAC Chair: 
+Patricia Sullivan , Texas Education Agency 
+NESAC Vice Chair: 
+Cheryl McMurtrey , Mountain Home School District 193 (ID) 
+Consultant: 
+Maureen Matthews , CCSSO 
+PPI Chair: 
+Laurel Vorachek , Anchorage School District (AK) 
+PPI Vice Chair: 
+Tom Howell , State of Michigan, Center for Educational Performance and Information 
+Consultant: 
+Beth Young , QIP 
+TECH Chair: 
+Lee Rabbitt , Newport Public Schools (RI) 
+TECH Vice Chair: 
+Peter Tamayo , Washington State Office of Superintendent 
+Consultant: 
+Tom Szuba , QIP 
+Newsletter Information 
+The Forum Voice is released as an electronic publication. 
+
+
