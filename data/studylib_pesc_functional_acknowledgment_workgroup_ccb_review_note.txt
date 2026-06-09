@@ -1,0 +1,17 @@
+Manual review note for StudyLib source lead:
+
+Source URL: https://studylib.net/doc/8601923/pesc-functional-acknowledgment-workgroup-ccb-review
+Local HTML capture: data/studylib_pesc_functional_acknowledgment_workgroup_ccb_review.html
+Local text extraction: data/studylib_pesc_functional_acknowledgment_workgroup_ccb_review.txt
+
+Local access result:
+
+Direct local capture returned a Cloudflare challenge page, not the underlying document text. The source should be retained as a source lead or partially verified item until the document can be reviewed in a browser or via an alternate archived copy.
+
+User-provided relevance:
+
+The source was submitted as identifying Alderson working with the PESC Functional Acknowledgment working group.
+
+Assessment:
+
+Do not cite this source in the article draft until the underlying document content is directly reviewed. If verified, it may support only a narrow PESC workgroup participation fact, not standalone notability.

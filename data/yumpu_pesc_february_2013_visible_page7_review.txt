@@ -1,0 +1,16 @@
+Manual review note for Yumpu page image:
+
+Source URL: https://www.yumpu.com/en/document/read/38261340/february-2013-pesc/7
+Local image: data/yumpu_pesc_february_2013_visible_page7.jpg
+Document title from Yumpu metadata: February 2013 - PESC
+Visible page footer: 7
+
+Relevant visible text:
+
+- "JEFFREY ALDERSON, Senior Director of Product Innovation, ConnectEDU - MyData"
+- The page also lists ConnectEDU as a Diamond Sponsor with URL "www.ConnectEDU.com".
+- The surrounding page describes PESC XML High School Transcript support across the United States and Canada and says the PESC Spring 2013 Data Summit would focus on data integration, maintenance, exchange, and data standards.
+
+Assessment:
+
+This source directly supports a narrow fact that Alderson, then Senior Director of Product Innovation at ConnectEDU, was associated with a PESC item/session titled "MyData" in the February 2013 PESC publication. It is an organizational/PESC source and should not be used as standalone notability evidence.

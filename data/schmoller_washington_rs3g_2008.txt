@@ -1,0 +1,94 @@
+Fortnightly Mailing: Bologna: are European entrepreneurs now leading the US on the development of Higher Education student record software? Guest Contribution by Jim Farmer.
+Fortnightly Mailing
+Categories
+ai-course (25)
+Books (1)
+General (3)
+Guest contributions (46)
+JimFarmer (6)
+Lightweight learning (35)
+Maths (1)
+Moocs (32)
+News and comment (411)
+Nothing to do with online learning (49)
+Oddments (102)
+Open Access (7)
+Resources (433)
+Snippets (5)
+See More
+Archives
+July 2021
+April 2017
+November 2015
+October 2015
+September 2015
+August 2015
+June 2015
+March 2015
+January 2015
+November 2014
+More...
+© Seb Schmoller under
+UK Creative Commons Licence . In case of difficulty, email me.
+Validate
+« Lucy Kellaway's diatribe against "brainlessly upbeat" business language | Main | Epic escapes from Huveaux »
+Bologna: are European entrepreneurs now leading the US on the development of Higher Education student record software? Guest Contribution by Jim Farmer.
+On Wednesday 21 May the Institute of Higher Education Policy released a report “The Bologna Club: What U.S. Higher Education Can Learn from a Decade of European Reconstruction.” One week later, 28 May 2008, two young European entrepreneurs, Manuel Dietz and Stéphane Velay, of the German company unisolution GmbH, described the collaborative work of 13 European software and service providers to automate administrative services supporting the emerging Bologna Process.
+The report's author Clifford Adelman wrote:
+What has transpired since 1999 cannot be but lightly acknowledged in the United States. While still a work in progress, parts of the Bologna Process have already been imitated in Latin America, North Africa, and Australia. The core features of the Bologna Process have sufficient momentum to become the dominant global higher education model [emphasis added] within the next two decades. We had better listen up.
+Hosted by the Postsecondary Electronic Standards Council , Dietz and Velay described the work of the Rome Student Systems and Standards Group (RS3G) . Ten U.S. software and service suppliers, one university representative, and three PESC and HR-XML officials attended.
+Dietz and Velay were attending the NAFSA Conference — the National Association of Foreign Student Advisors, or as NAFSA labels it, “Association of International Educators” — at the Washington Convention Center. More than 9,000 people from over 100 countries attended the conference.
+RS3G is cooperatively developing specifications for data exchange. The business transactions include the Learning Agreements (LA) assuring credit for work done in another university, Transcript of Records (ToR) and Exchange Studies Supplement (ESS) issued by the home university, and, at the end of studies, Transcript of Records (ToR) and Diploma Supplement (DS) issued by home institution. These electronic documents would be signed electronically and legally binding.
+The First Workshop of the Rome Student Systems and Standards Group was held in Rome — hence the name — on 9 November 2007.
+At the the Workshop Valey described the Bologona process:
+In order to establish a European Higher Education Area by 2010 the involved 46 European states (Jan. 2007) agreed within the Bologna Process on common aims concerning the restructuring of study programs and academic degrees at universities. Different measurements are about to be implemented to reach more comparability and compatibility for these study programs and academic degrees:
+Bachelor Degree and Master Degree study programs
+Modularization of study programs
+Diploma Supplements and European Credit Transfer System (ECTS)
+Increased support for the mobility of students and lecturers between universities.
+Student and Exam data exchange within the Bologna Process nowadays – TOR
+Nowadays, study and exam results, achieved by students during their “studies abroad” at guest/host universities, are given to the student in paper based form as a so called “transcript of records” (TOR) according to the Bologna Requirements, including the ECTS credit points and grades. Therefore a lack of security, standardization and efficiency concerning the TOR exchange is obvious.
+Velay said the Workshop established a “permanent observatory on standards” to ensure their work was consistent with existing and likely standards. The Group sent a delegation of experts to CEN (European Committee for Standardization) to ensure their experience was available as standards were considered for tertiary [higher] education.
+At the Workshop, Hermann Strack, from Hochschule Harz, Wernigerode, Germany, described the OSCI (Open Service Computer Interface) messaging specification and recommended the forthcoming version 2.0 for all data exchanges among universities and between the universities, government agencies, and employers. In Washington, Velay confirmed the Group’s intent to influence and use this specification. The XML and SOAP-based specification is almost identical to the Meteor project in the U.S that assembles and exchanges student loan information. Meteor has been operating since 2002 now processing 200-300,000 transactions per year.
+The Rome participants include “national” software suppliers such as Kion (Italy), HIS (Germany), OCU (Spain), and LADOK (Sweden). Three national standards consortia were represented: JISC-XCRI from the UK and CDM — course description metadata — from Norway, Sweden, and France and PESC represented by Dave Moldoff, CEO of Academy One.
+At the Rome workshop conference, Lígia Maria Ribeiro, of Universidade do Porto, speaking for EUNIS, the European University Information Systems Association, encouraged the collaborative efforts and suggested RS3G participants make presentations at the EUNIS 2008 Conferencebeing held in June. Velay confirmed several have been scheduled.
+The Rome workshop was organized by Simone Ravaioli of Kion and Dietz and Velay. Kion provides student management systems to 70% of the universities in Italy; unisolution’s moveonnet serves 300 institutions in 15 countries—including the U.S.—with more than 1,100 institutions as registered users of the moveonnet portal.
+The Second Workshop was held in Dublin, Ireland on 25 April 2008 hosted by Digitary — a security firm focusing on the exchange of validated transcripts. 37 representatives from 11 countries attended, likely encouraged by the warm hospitality and nearby Guinness brewery.
+The RS3G speakers shared a set of previously-collected business cases eligible for standardization. Speaking from the perspective of the standardization community, Erlend Øverby (CEN’s expert and facilitator of the MLO [Metadata for Learning Opportunities] project), filled in the audience on the work of the standardization authorities and the “life-cycle” of standards.” These included student mobility — typically referring to study at a second university within the program of the home university, [credit] transfer mobility, graduation documents, and employment.
+Examples of these cases were shown and discussed in Velay’s Washington presentation.
+One of the recommendations from the Rome Workshop was to use current standards. Because many European employers have HR-XML compliant human resource systems, students and alumni benefit if their education records are presented in HR-XML electronic format. For example, the HR-XML résumé or CV has been supported for about five years. Monster Worldwide Inc. has supported this format since 2003 and Microsoft has provided a Word add-on for those preparing resumes.
+At the Dublin workshop Sven Gutow, of Hochschul Information System GmbH, commented that the Bologna process itself will encourage changed business practices. New information technology provides additional capabilities. The combination, he said, suggests a new generation of administrative systems will replace current systems.
+Chuck Allen, Director, HR-XML Consortium , participated in the Washington briefing. He identified the areas where academic information was used in employment processes and listed a number of activities inEurope where this information is passed to employers electronically in HR-XML compliant formats. Extending comments by Mark Stubbs, Manchester Metropolitan University at the Rome and Dublin workshops, Allen said implementing HR-XML documents in a student’s ePortfolio would ensure accurate and complete information for potential employers and current competencies and diploma supplements for current employees engaging in additional education.
+Based on recent briefings, Sigma Systems Inc. CEO Randy Timmons commented the Kuali open source student systems software products will be using Service Oriented Architecture. Although current implementation uses Java interfaces, Web services will be supported when needed. Timmons said it may be possible to coordinate Kuali and RS3G specifications to minimize network maintenance costs.
+After Dietz and Velay left the briefing to return to the NAFSA Conference, the discussion turned to the U.S. perspective of the RS3G's work.
+Jeff Alderson, ConnectEdu , said his company would like to achieve electronic exchange among servicers and hoped to later connect directly to colleges and universities using standards. [PESC has an EA2 Electronic Authentication and Authorization Task Force focused on achieving this capability]. Currently servicers are providing many different formats for the exchange of colleges and university data with servicers. Jeff said it would not be possible to get colleges and universities to change data exchange methods before the next academic year.
+Oracle’s Joe Burkhart observed that Oracle depends upon user expression of needs to prioritize development. So far there no interest in real-time data exchanges as proposed by RS3G has been expressed, but that could change as the Bologna processes become better defined. SunGard’s Bill Hollowsky and Datatel’s Pete Nalli agreed with Burkhart's observation.
+RS3G will hold working sessions at the June EUNIS (European University Information Systems) Conference. David Moldoff will represent the PESC Board at the October Workshop in Stuttgart, Germany.
+According to Dietz, more than 200,000 European Community students attend another university during their studies. The Institute of International Education reports a similar number — 223,534 — of U.S. students studied abroad in 2005/06. This suggests a need for U.S. colleges and universities to participate in Bologna process. This may drive adoption in the U.S. of the services offered by the RS3G suppliers. These services could be used both for foreign students studying in the U.S. or U.S. students attending universities in the 46-country European Higher Education Area.
+Jim Farmer: biography ; email - jfx "AT" immagic "DOT" com .
+Posted on 15/06/2008 in Guest contributions , JimFarmer | Permalink
+|
+Comments
+The comments to this entry are closed.
+Recent Posts
+A leaving speech
+How algorithms manipulate the market
+Clayton Wright's Educational Technology and Education Conferences, January to June 2016
+Alphabet
+Paul Mason's Postcapitalism - talk and discussion
+FE Area Based Reviews should start by making an assessment of need
+Citizen Maths - powerful ideas in action
+Robotics - someone who ran DARPA's Robotics Challenge looks ahead
+On the long-term future of artificial intelligence
+A ten year old interview
+Recent Comments
+David Hughes on A leaving speech
+Liz Perry on A leaving speech
+Khaled on If ever you need a really comprehensive "title" drop-down
+Mark Sosa on If ever you need a really comprehensive "title" drop-down
+Richard Stacy on Video and Online Learning: Critical Reflections and Findings From the Field
+Mike Jones on "The Facebook" Kyle McGrath's August 2005 assessment
+G Kelly on Syria-related readings
+Kris Sittler on Second report from Keith Devlin's and Coursera’s Introduction to Mathematical Thinking MOOC
+Robert McGuire on Second report from Keith Devlin's and Coursera’s Introduction to Mathematical Thinking MOOC
+Keith Devlin on Second report from Keith Devlin's and Coursera’s Introduction to Mathematical Thinking MOOC

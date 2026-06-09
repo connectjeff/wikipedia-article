@@ -14,6 +14,8 @@ Use these project files:
 
 Do not upload or cite files in `archive/private_records/`. Those transcript PDFs are archived for internal project records only. Wikipedia should rely on the published sources already cited in `drafts/article_draft.wikitext`.
 
+Use Wikipedia's source editor for this draft, not VisualEditor, because `drafts/article_draft.wikitext` already contains citation templates, AfC markup, comments, and category comments in wikitext form.
+
 ## Wikipedia Pages You Will Use
 
 - Create account or log in: `https://en.wikipedia.org/wiki/Special:CreateAccount`
@@ -25,6 +27,17 @@ Do not upload or cite files in `archive/private_records/`. Those transcript PDFs
 - Conflict of interest guidance: `https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest`
 - Autobiography guidance: `https://en.wikipedia.org/wiki/Wikipedia:Autobiography`
 - Biographies of living persons policy: `https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons`
+
+## Current Guidance Check
+
+Checked June 9, 2026 against the Wikipedia pages listed above. No process change requires a different project workflow. The correct posture remains:
+
+- Create or edit the article in draft space as `Draft:Jeffrey Alderson`.
+- Disclose the conflict of interest clearly before or at submission.
+- Submit through Articles for Creation rather than moving the article to mainspace yourself.
+- Keep the draft neutral, concise, and limited to published sources.
+- Keep the local dossier as review support only; do not cite project files, private transcripts, or unverified source leads in Wikipedia.
+- Do a human editorial pass before submission. Articles for Creation warns that articles generated entirely by large language models may be rejected, so treat this project draft as source-organized working material that you personally review, verify, and adopt before saving it on Wikipedia.
 
 ## Step-by-Step
 
@@ -43,6 +56,7 @@ Do not upload or cite files in `archive/private_records/`. Those transcript PDFs
 3. Create the draft page.
    - Go to `https://en.wikipedia.org/wiki/Draft:Jeffrey_Alderson`.
    - If the page does not exist, choose the option to create it.
+   - Choose source editing or wikitext mode if Wikipedia offers a choice.
    - Paste the full contents of `drafts/article_draft.wikitext`.
    - Keep `{{subst:submit}}` at the top only when you are ready to submit for AfC review.
 
@@ -50,7 +64,9 @@ Do not upload or cite files in `archive/private_records/`. Those transcript PDFs
    - Use Wikipedia's preview button.
    - Check that headings render correctly.
    - Check that every citation appears in the References section.
+   - Check that the `{{subst:submit}}` template appears at the top only if you intend this save to submit the draft.
    - Confirm that no private transcript files, local project paths, or source-dossier notes appear in the article text.
+   - Read the full draft in preview and make any needed human edits before submitting; do not submit text you have not personally reviewed against the cited sources.
 
 5. Save the draft.
    - Use an edit summary such as:
@@ -81,7 +97,7 @@ Submitting through Articles for Creation. I am the subject of this draft and hav
 8. After submission.
    - Watch the draft page and draft talk page.
    - Respond to reviewer comments on the draft talk page, not by arguing for acceptance.
-   - If the draft is declined, use the reviewer feedback to revise the draft and resubmit.
+   - If the draft is declined, use the reviewer feedback to revise the draft before resubmitting. Do not resubmit without making a substantive response to the reviewer concern.
    - Do not move the draft to mainspace yourself.
 
 ## Final Checks
@@ -92,6 +108,7 @@ Before submitting, confirm:
 - The article uses only published sources already embedded as citations.
 - The COI disclosure is on your user page or the draft talk page.
 - The draft does not cite private transcripts, local PDFs, or project files.
+- The draft does not cite `FAW1` or any other source lead that is blocked or not directly verified.
 - The article remains short, neutral, and non-promotional.
 - The current source dossier remains local project support, not a Wikipedia citation source.
-
+- You have personally reviewed the pasted draft and are not submitting unreviewed AI-generated text.
