@@ -6,6 +6,8 @@ Scope: Natick Veterans Oral History Project sources reviewed for the Jeffrey Ald
 
 The Natick Veterans Oral History Project page is useful for non-contentious military-service facts. Treat it as primary-adjacent because it appears to be a local archive/oral-history entry rather than independent journalism or scholarship. It should not be used as a notability source.
 
+Internal corroboration: the password-protected ADR PDF supplied for review is a DD Form 214 and has been archived as `archive/private_records/Jeffrey Alderson DD214.pdf`. It corroborates the basic Air Force service dates, branch, and captain rank at separation. It is a private record for fact-checking only and should not be cited, uploaded, or submitted as Wikipedia/AfC source evidence.
+
 ## Review Table
 
 | ID | Date | Source | Title | Coverage assessment | Notability weight | Recommendation | Local file |
@@ -17,4 +19,3 @@ The Natick Veterans Oral History Project page is useful for non-contentious mili
 ```wikitext
 {{cite web |title=Jeff Alderson, Air Force veteran |url=https://natickveterans.com/2026/01/29/jeffrey-alderson/ |website=Natick Veterans Oral History Project |date=January 29, 2026 |access-date=June 8, 2026}}
 ```
-
