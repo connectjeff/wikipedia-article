@@ -22,6 +22,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 - `sources/town_of_natick_sources.md` - dedicated review of Town of Natick official website sources.
 - `sources/natick_veterans_sources.md` - dedicated review of Natick Veterans Oral History Project sources.
 - `sources/local_video_sources.md` - dedicated review of Natick Pegasus and Coffee with a Purpose local video sources.
+- `sources/acappella_overboard_sources.md` - dedicated review of Overboard, Harmony Sweepstakes, and related a cappella source leads.
 - `sources/pesc_sources.md` - dedicated review of PESC sources.
 - `sources/mydata_button_sources.md` - dedicated review of MyDataButton / White House initiative background sources.
 - `sources/legal_bankruptcy_sources.md` - dedicated review of legal/bankruptcy filing sources.
@@ -40,7 +41,7 @@ This project contains materials for a proposed Wikipedia Articles for Creation s
 
 ## Source Improvement Plan
 
-Use this active checklist for future improvements after the current as-is submission package. Completed source-clustering and draft-integration work has been removed from the list. All current source groups that can reasonably be clustered now have dedicated markdown files under `sources/`. The main remaining goal is still finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC, NCES, ConnectEDU, CEDS, MyData, and local-video clusters improve verification of career continuity and municipal-service activity, but most of those sources are organizational, event, context-only, hosted-video, or brief mention records. They should support narrow facts, not carry the notability argument by themselves.
+Use this active checklist for future improvements after the current as-is submission package. Completed source-clustering and draft-integration work has been removed from the list. All current source groups that can reasonably be clustered now have dedicated markdown files under `sources/`. The main remaining goal is still finding independent, secondary, non-affiliated sources with significant coverage of Alderson or his work. The expanded PESC, NCES, ConnectEDU, CEDS, MyData, local-video, and a cappella/Harmony Sweepstakes clusters improve verification of career continuity, municipal-service activity, and light biographical context, but most of those sources are organizational, event, context-only, hosted-video, or brief mention records. They should support narrow facts, not carry the notability argument by themselves.
 
 - [ ] Locate and verify the reported PESC nomination biography stating that Alderson served as ConnectEDU's primary liaison to SIFA and PESC and that ConnectEDU operationalized the PESC High School XML Transcript standard in 2006. Treat it as primary PESC evidence unless an independent republication or coverage source is found.
 - [ ] Review Startup Intros' underlying ConnectEDU source list. Prioritize independent sources such as EdSurge, Education Week, FTC, Graduation Alliance, and New Markets over the Startup Intros summary itself.
